@@ -1,44 +1,79 @@
-## Overview
+# A Context-aware Framework for Translation-mediated Conversations
 
-This repository contains the data and code to reproduce the results of our paper ["A Context-aware Framework for Translation-mediated Conversations"](https://arxiv.org/abs/2412.04205), of our [Unbabel+IT 2024 chat shared task submission](https://aclanthology.org/2024.wmt-1.100.pdf).
+[Paper (arXiv)](https://arxiv.org/abs/2412.04205) | [WMT 2024 Chat Shared Task Submission](https://aclanthology.org/2024.wmt-1.100.pdf)
 
 ## Installation
 
-Install [`tower-eval`](https://github.com/deep-spin/tower-eval) to run the generation and evaluation configs.
+Install [`tower-eval`](https://github.com/deep-spin/tower-eval) to run generation and evaluation configs.
 
+## Pipeline
 
-## Folders
+Data prep → Candidate generation (epsilon sampling) → Decoding (greedy / MBR / contrastive) → PCXMI analysis → Evaluation
 
-- **``candidates``**: candidates sampled to perform MBR on.
-  
-- **``configs``**: tower-eval config to run generations.
+## Languages & Models
 
-- **``downloaded_data``**: raw data downloaded from shared task and MAIA github repositories.
+**Language pairs** — WMT24 Chat: en↔{de, fr, pt-br, nl, ko}; BConTrasT: en↔de
 
-- **``evaluations``**: automatic metric scores for generated translations as specified by tower-eval config file.
+| Model | Role |
+|---|---|
+| `Unbabel/TowerInstruct-7B-v0.2` | Base 7B; candidate generation, PCXMI |
+| `TowerInstruct-7B-w-chat` / `TowerChat-7B` | Fine-tuned 7B on chat MT data |
+| `Tower-Llama3-70B` | Large-scale 70B baseline |
+| `gpt-4o` | Proprietary baseline (no-template) |
 
-- **``generations``**: generated output folder containing translations by tower-eval config file.
+## Evaluation Metrics
 
--  **``instructions``**:  prompts for generating translations, used by tower-eval.
+- **Translation quality**: COMET-22, ChrF, BLEU, COMET-Kiwi, MetricX-XXL, XCOMET-XXL
+- **Discourse**: MuDA (lexical cohesion, formality, verb form, pronouns)
+- **LLM-as-judge**: GEMBA-MQM via GPT-4 (context-aware, 1-shot)
+- **Context sensitivity**: PCXMI (log-prob difference between full-context and no-context prompts)
 
--  **``mbr_outputs``**: one best pick outputs using different comet and context-comet variants
+## Repository Structure
 
--  **``notebooks``**: notebooks for preparing data and analyzing results.
+### Data
 
--  **``paper_results``**: dataframes containing all translation outputs and comet scores for dev/test split as well as muda json files.
+| Folder | Description |
+|---|---|
+| `downloaded_data/` | Raw CSVs from WMT24 Chat Task, BConTrasT, and MAIA |
+| `raw_data/` | Processed JSONL per dataset and language pair |
+| `instructions/` | Pre-formatted LLM prompts (per experimental condition) used by `tower-eval` |
 
--  **``pcxmi``**: logprobs for towerinstruct and towerchat models. 
+### Configs & Generation
 
--  **``plots``**: plots included in the paper submissions.
+| Folder | Description |
+|---|---|
+| `configs/` | `tower-eval` YAML configs (~20 conditions: context windows, prompt formats, model scales, few-shot) |
+| `generations/` | Model translation outputs, one subfolder per condition |
+| `candidates/` | 100 epsilon-sampled candidates per segment (for MBR) |
 
--  **``instructions``**:  rawdata used by tower-eval for evaluations to access references.
+### Decoding & Analysis
 
--  **``submission_unbabel+it``**:  official submission to wmt24 chat translation task.
+| Folder | Description |
+|---|---|
+| `mbr_outputs/` | MBR-selected translations (dev/test/train) using COMET and context-COMET variants |
+| `contrast_decode/` | Contrastive decoding outputs (interpolating context vs. no-context logits) |
+| `pcxmi/` | Per-token log-prob scores for TowerInstruct under ~14 context settings |
+| `pcxmi_hyps/` | Cross-condition PCXMI (full-context prompts on no-context outputs, and vice versa) |
+| `alti_analysis/` | ALTI attention analysis outputs |
 
--  **``scripts``**: additional python and bash script to download data, generate multiple candidates, pcxmi and run mbr and contrastive decoding.
+### Results & Evaluation
 
+| Folder | Description |
+|---|---|
+| `evaluations/` | Automatic metric scores per condition (COMET, ChrF, BLEU, etc.) |
+| `paper_results/` | Consolidated CSVs with all outputs + scores per LP, plus MuDA JSONs |
+| `tacl_results/` | Extended result CSVs for the TACL submission (includes GEMBA, turn-level breakdowns) |
+| `plots/` | ~50 PDF figures included in the paper |
+| `submission_unbabel+it/` | Official WMT24 shared task submissions (primary + 2 contrastive per LP) |
 
-Cite our work:
+### Code
+
+| Folder | Description |
+|---|---|
+| `scripts/` | Candidate generation, MBR decoding, contrastive decoding, PCXMI computation, MuDA evaluation, GEMBA-MQM scoring, fine-tuning data prep |
+| `notebooks/` | Notebooks for data preprocessing, evaluation, analysis, plotting, and statistical significance testing |
+
+## Citation
 
 ```bibtex
 @article{pombal2024context,

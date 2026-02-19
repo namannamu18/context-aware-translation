@@ -1,0 +1,24 @@
+gen_data_dir: "/mnt/data/jpombal/wmt24-chat-translation/instructions/full_context"
+eval_data_dir: "/mnt/data/jpombal/wmt24-chat-translation/raw_data"
+gen_output_dir: "/mnt/data/jpombal/wmt24-chat-translation/generations/full_context"
+eval_output_dir: "/mnt/data/jpombal/wmt24-chat-translation/evaluations/full_context"
+tasks: 
+  - name: mt
+    subtasks:
+      bcontrast_test.en-de:
+      bcontrast_test.de-en:
+    metrics:
+      chrf:
+      bleu:
+      comet:
+      comet_kiwi:
+models:
+  - name: TowerInstruct-7B-v0.2
+    type: vllm
+    arguments:
+      model_dir: Unbabel/TowerInstruct-7B-v0.2
+      n_gpus: 1
+      max_tokens: 1024
+      run_async: True
+      batch_size: -1
+      strip: False

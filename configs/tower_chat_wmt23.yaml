@@ -1,0 +1,39 @@
+gen_data_dir: "/mnt/data/jpombal/tower-results/instruction_data/0_shot_tower_empty_system_prompt"
+eval_data_dir: "/mnt/data/jpombal/tower-results/raw_data"
+gen_output_dir: "/mnt/data/jpombal/tower-results/generations/0_shot_tower_empty_system_prompt"
+eval_output_dir: "/mnt/data/jpombal/tower-results/evaluations/0_shot_tower_empty_system_prompt"
+tasks: 
+  - name: mt
+    subtasks:
+      wmt23.en-de:
+      wmt23.en-ru:
+      wmt23.en-zh:
+        eval_args:
+          metrics:
+            chrf:
+            bleu:
+              tokenizer: zh
+            comet:
+              batch_size: 16
+            comet_kiwi:
+              batch_size: 16
+      wmt23.de-en:
+      wmt23.ru-en:
+      wmt23.zh-en:
+    metrics:
+      chrf:
+      bleu:
+      comet:
+        batch_size: 16
+      comet_kiwi:
+        batch_size: 16
+models:
+  - name: TowerInstruct-7B-w-chat
+    type: vllm
+    arguments:
+      model_dir: /mnt/data/jpombal/axolotl/TowerInstruct_7B_chat_ckpts/checkpoint-5900
+      n_gpus: 1
+      max_tokens: 1024
+      run_async: True
+      batch_size: -1
+      strip: False

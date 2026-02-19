@@ -1,0 +1,27 @@
+{
+    "output_dir": "/mnt/data/jpombal/wmt24_chat_translation/generations/no_context",
+    "data_dir": "/mnt/data/jpombal/wmt24_chat_translation/instructions/no_context",
+    "tasks": [
+        {
+            "name": "mt",
+            "subtasks": {
+                "maia.fr-en": {}
+            }
+        }
+    ],
+    "models": [
+        {
+            "name": "TowerInstruct-7B-v0.2",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "Unbabel/TowerInstruct-7B-v0.2",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24_chat_translation/generations/no_context"
+        }
+    ]
+}

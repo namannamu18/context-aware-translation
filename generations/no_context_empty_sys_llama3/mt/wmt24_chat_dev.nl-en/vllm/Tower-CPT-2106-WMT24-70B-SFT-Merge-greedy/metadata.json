@@ -1,0 +1,42 @@
+{
+    "output_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/no_context_empty_sys_llama3",
+    "data_dir": "/mnt/data/jpombal/wmt24-chat-translation/instructions/no_context_empty_sys_llama3",
+    "tasks": [
+        {
+            "name": "mt",
+            "subtasks": {
+                "wmt24_chat_dev.en-pt-br": {},
+                "wmt24_chat_dev.pt-br-en": {},
+                "wmt24_chat_dev.en-de": {},
+                "wmt24_chat_dev.de-en": {},
+                "wmt24_chat_dev.en-fr": {},
+                "wmt24_chat_dev.fr-en": {},
+                "wmt24_chat_dev.en-nl": {},
+                "wmt24_chat_dev.nl-en": {},
+                "wmt24_chat_dev.en-ko": {},
+                "wmt24_chat_dev.ko-en": {}
+            }
+        }
+    ],
+    "models": [
+        {
+            "name": "Tower-CPT-2106-WMT24-70B-SFT-Merge-greedy",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "Unbabel/Tower-Llama3-70B-WMT24-Merged-2106",
+                "n_gpus": 4,
+                "max_tokens": 1024,
+                "batch_size": -1,
+                "strip": false,
+                "stop_sequences": [
+                    "<|eot_id|>"
+                ]
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/no_context_empty_sys_llama3"
+        }
+    ],
+    "generation_time": [
+        16.530852556228638
+    ],
+    "generation_time_average (lps)": 74.52731163195793
+}

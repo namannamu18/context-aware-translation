@@ -1,0 +1,967 @@
+Hello. I am trying to buy movie tickets at AMC Houston 8 in Houston, Texas.
+I had hoped you could help me cancel this order.
+Glass.
+Yes, please.
+And two tickets. Two tickets for 7:00 PM.
+Yes, please continue.
+I think that's all.
+Thank you!
+Good. How are you?
+Could you help me find a place to eat lunch in Sacramento?
+I am in the Arden Care Mall.
+I'm not picky, but I don't want anything that's too expensive. It doesn't have to be too cheap either. Just nothing too expensive. And nothing that requires
+that we dress really nice or something like that.
+Also, I don't want it to be too far from the shopping center I'm currently at, so maybe within 16 km.
+How about seafood?
+Can you tell me the price range of both restaurants?
+Okay, great! And can you tell me what the customer rating is for both restaurants?
+Okay. I think I'm interested. Can you give me her phone number?
+Great! Thank you for your help and for finding a restaurant.
+Thank you, I am sure I will like it.
+Thank you very much.
+Hello. I am looking for cinema tickets.
+Glass.
+This afternoon.
+Whittier, California.
+No. That's okay.
+three.
+Yes, can you tell me who made the film?
+Okay.
+Go ahead and book the tickets.
+Book another performance.
+Does 550 suit you? Yes.
+Okay. Sounds good.
+Thank you very much.
+Hello, how are you?
+I am fine. I would like to order three medium-sized pizzas from Belluno, please.
+I would like to know if Belluno has good cheese?
+Okay, I'd like goat cheese, cheddar cheese, artichoke fries and bacon.
+Does Bella Luna have crabs?
+Okay, I'd like, okay, I'd like on this pizza I'd like to have additional mushrooms, cheddar cheese.
+extra bacon.
+And please barbecue sauce.
+I would like to have.
+Do you have a Mexican pizza?
+K, one moment.
+What does the vegetarian pizza have? What does the Pizza Veggie Lover's have on it?
+Okay, I will do that and I will order extra cheese and put it on all the pizzas, please, and I will add the Veggie Lovers Oreo Chocs.
+That is correct, thank you.
+Yes, please.
+That would be all. Thank you for your help.
+Hello Assistant, I would like to order a mocha at Peet's.
+I am in Fort Worth, Texas.
+I'd like a medium-sized one with 2% milk, extra sugar and whipped cream.
+Yes, you have.
+Yes, please.
+That's all for today.
+Likewise! Thank you very much.
+I would like a large pizza with Italian sausage and extra thin cheese crust.
+Bella Luna.
+Yes.
+Yes.
+Thank you!
+Yes.
+Hello,
+That's all.
+Yes, I am looking for
+Seat restaurant in San Francisco.
+I am looking for a restaurant in San Francisco.
+Either seafood, Mexican or Chinese.
+How about a Chinese restaurant?
+I'm sorry, I messed up.
+Are they open late?
+What is the price range?
+Do you accept reservations?
+Yes, the free appointment.
+two people.
+Tomorrow evening at 7:00 PM.
+Do you have any rooms available?
+Tell me about Mission Chinese. Do you serve cocktails there?
+Yes. Do you have round tables?
+Thank you!
+Okay. I need to make an appointment for my car with Intelligent Auto Imports.
+Yes, James Patton 916-555-4675.
+916-555-4675
+A m o s.
+That is correct, and I would like to take next Friday, if possible.
+Yes, a few lights are not working.
+Outside.
+Only replacement.
+It is a 2009 BMW 325.
+That is correct.
+That sounds good.
+Yes, that sounds good.
+Yes, that is all correct.
+Yes, I know the place.
+No, that would be all. Thank you very much.
+I would like to order two medium pizzas from Bella Luna, please.
+With a thick crust.
+I'd like a Meat Lover's with bacon, jalapeños and olives, please.
+For the other one.
+Is there a pizza with artichokes?
+Okay, I'll make my own pizza, please.
+Artichokes, bacon.
+Pineapple.
+extra sauce.
+Please with additional mushrooms.
+And cheese, and that would be it.
+Sounds fantastic, thank you.
+I will pick that up, please.
+Yes. Those are two medium-thick crusts, right?
+All clear, fantastic. Thank you very much.
+Fantastic. Have a nice night, you're the best.
+Thank you. I will.
+Yes, I need to order an Uber, please.
+It will be 15 Main Street in New York.
+at the AMC Theater.
+We're going to need an UberX because we're six people. Or maybe an UberXL, I mean, sorry.
+As fast as possible.
+Thank you very much.
+Hello. I need to have my car repaired at Intelligent Auto Imports.
+My name is John Smith.
+555-555-5555.
+Yes.
+It is a 2010 Subaru Outback.
+For some reason, several lights in the car are out.
+Outside lights.
+Today at 15:00
+Okay.
+Okay.
+No.
+Order pizza from Bella Luna.
+Three.
+Small.
+Meat lovers for everyone.
+Gluten-free crust.
+No.
+Yes.
+Okay.
+Okay.
+Hello, how are you?
+I am great. I need to be picked up from the Greenwood Mall.
+In Indianapolis, Indiana or Greenwood, Indiana.
+I would like to go to the Fashion Mall in Indianapolis.
+Yes, as soon as possible.
+This is for six people, please. I prefer XL Uber.
+That sounds fantastic.
+Yes.
+That's fantastic.
+Fantastic! What is the estimated duration of the trip?
+Okay, that's fantastic. Thank you very much.
+No, that's all. Happy Valentine's Day.
+Thank you very much, I wish you a nice day.
+I would like to order a pizza.
+I would like to order a pizza.
+Three pizzas.
+Three pizzas.
+medium size.
+medium size.
+Yes.
+Yes.
+A chicken barbecue.
+A chicken barbecue.
+I need 10 Crest.
+I want a thin crust.
+Okay.
+Okay.
+Okay, thank you very much. Have a nice day.
+Okay, thank you very much. Have a nice day.
+Goodbye.
+Goodbye.
+Hello. I would like to book a taxi for a trip.
+Yes.
+I would like to go to a specific shopping center.
+Yes, that is correct.
+Yes.
+OK Google.
+Yes.
+I am from Delos, the sanctuary of Delos.
+Yes. Yes. That is right.
+Can you repeat that?
+Yes, that is correct.
+Yes, sure.
+Yes.
+Okay, cool.
+What is better?
+Yes, that's okay for me.
+I would like to book a ride.
+Can you book a ride for me? Yes, thank you.
+Have a nice day.
+Hello, could you please help me order at Starbucks?
+I'd like a caramel macchiato.
+Yes.
+2%.
+Grande, please.
+It was on Old York Road in Jenkintown, Pennsylvania.
+Thank you very much.
+Correct.
+Thank you very much. I appreciate it.
+I will.
+I am looking for a restaurant.
+Yes.
+San Francisco.
+Indian food.
+Sit down.
+cheap.
+What was the first one?
+Does it have a full bar?
+Do you accept reservations?
+I will take Ritu.
+January 26 at 6:00 PM.
+Three people.
+and a table outside.
+Yes, I will take it.
+Thank you!
+What is the booking date again?
+Ok, thank you very much.
+That's it.
+I am looking for a restaurant in San Francisco.
+New restaurants in San Francisco Yes.
+I would like an Italian restaurant.
+Yes, I would like a restaurant with a selection of alcohol, preferably wine, outdoor seating and live music.
+Yes. The second one, do you have live music? And what does modern Italian food mean?
+Okay, and what is modern Italian food?
+Okay. And for the first one you mentioned pizza. Can you serve it? Is it exclusively a pizzeria or do you also serve pasta and seafood?
+Great! I think I'll make a reservation for the second one.
+How about Sunday, January 27?
+8 p.m.
+Seven.
+Yes, but can you also reserve an outdoor seat for us?
+Yes, please.
+Oh, that's it. Thank you very much.
+I would like to find a movie to watch.
+I would like to watch Robin Hood.
+I would like to watch it at the Perris Theater.
+I would like to watch a play at the theater.
+I would like to watch it in the Perris Theatre.
+Only one person.
+The middle one.
+Yes.
+Japanese. Yes. Okay, now.
+Okay. Thank you very much.
+Hello, I'm trying to eat at the Arden Mall.
+Arden Fair Mall in Sacramento.
+I am looking for American food and I am also looking for Asian food, so Japanese, Chinese or Korean.
+No, that was it. Oh yeah. Yeah. Yeah. It was supposed to be a pretty clean place. It was supposed to be open for lunch. And it was supposed to have tables in the restaurant, just like it was supposed to have indoor seating.
+Okay.
+Okay. Is McCooney family-owned?
+And for BJ's, do they have sesame beers from California?
+And could you give me a teriyaki place.
+Can you please repeat the name of the Teri Oke?
+Teriyaki Grill. And for Teriyaki Grill is there seafood there?
+Okay, yeah. I think I'm going to the Teriyaki Grill. Can I get your phone number?
+Okay.
+Hello. Could you help me book an Uber?
+I am at the University of Pennsylvania in Philadelphia, Pennsylvania.
+I need to go to the Marriott Hotel Downtown Marriott Hotel in Philadelphia, Pennsylvania.
+We are six of us.
+Okay, that sounds great. I need it by 9 PM tonight.
+Great!
+Can you tell me how long this trip will take?
+Great! Thank you for your help.
+Goodbye.
+Hello I wanted to make a reservation for later. Can you help me find something in San Francisco, California?
+I changed my mind for today, I was thinking of getting soul food. Do you have any recommendations for soul food? I want something that is easy to get to and has some appetizers for two people. And if the weather is nice today, outdoor seating would be really cool.
+Okay.
+Hmm, that sounds interesting. Frisco Fried. What are some of the most popular menu items at Frisco Fried?
+Cool. And do you guys have either Hard Knocks or Annie April's, or both, some kind of grill dishes on the menu?
+How, for example?
+Okay.
+I think I'm just going to take a wild swing and take Hard Knocks. Can you make me some reservations to eat there?
+I just need a reservation for three people for Saturday at 9 PM.
+Yes.
+Hey, thanks.
+Hello. I have to make an appointment at an auto repair shop called Intelligent Auto Imports.
+Oh! My name is Ed Triplett, T R I P L E T T!
+And my phone number is area code 937-767-1605.
+No, it's 767 1605.
+I have a 2008 Mercedes-Benz C-Class.
+Many of the lights are out. A work light doesn't work, brake lights don't work, it works intimately.
+The indicators switch on and off.
+Yes, that's good. That will cover it.
+Please, as soon as possible, because I don't want to be run over because I don't have brake lights or taillights.
+That is good.
+Yes. That's good.
+That is good.
+Yes.
+Go ahead and book the appointment.
+No. No, thank you.
+Same to you!
+I would like a Bebe Pizza.
+I need three pizzas.
+A small size.
+Chicken Barbecue
+Yes, that's right.
+Okay, Waist Lovers.
+Yes, Looking Faith is pressed.
+Yes, exactly.
+Okay, thank you very much. Have a nice day!
+Goodbye.
+Hello, good day. I would like to buy some movie tickets for later this evening.
+I had hoped to see Aquaman. I think there is a showing at 9:30 pm.
+AMC Sunset Place 24.
+Just me and someone else, so please a total of two people.
+Of course.
+Yes, that is correct.
+Great, thank you for your help.
+I call to make an appointment at Intelligent Auto Import.
+That would be under the name John Doe.
+Yes.
+1-123-555-0123.
+Yes.
+I have a 2011 Nissan Rogue.
+Well, I've turned off several lights in the car. I don't know exactly where the problem is, but apparently it's electrical in nature. The lights are out.
+Yes.
+I would like to come tomorrow because I need the car, so if tomorrow is possible, that would be good.
+Hello, are you there?
+That is correct.
+Yes.
+Okay. No, that's it.
+Hello. I need to order a Uber, please.
+I am at the M3 Live Anaheim Event Center at 2232 South Harbor Boulevard.
+There are four people in my group.
+Can I get a regular or an Uber X?
+Yes, please.
+All clear, thank you for your help. No, that would be all. Thank you.
+Goodbye.
+Hello, I am looking for a place to have lunch in Sacramento, California, near the Midtown Area L and 19th Street. Can you help me?
+French or Italian, if available.
+It must serve alcohol there, should have decent reviews and please offer parking outside or on site, sorry.
+Yes, is there a rating for “Brasserie Capitale”?
+Okay. And how are the employees?
+Okay. And, sorry to interrupt, could you repeat the first option please?
+Great! Are children allowed in "Plan B"?
+I see. And do they serve a wide selection of wines there?
+That sounds pretty good. Do you mind giving me the phone number?
+916-447-3300.
+Excellent, I really appreciate your help today.
+Yes, good afternoon. Yes, I would like you to help me order coffee from Starbucks.
+Yes, Starbucks at 1500 Broadway here in New York.
+I'll just have a cup of coffee with honey and whipped cream.
+I want it hot. Medium size.
+No, I'd like whipped cream.
+Yes. Yes.
+Good. No problem. Yes, arrange it.
+Nothing else.
+Goodbye. Thank you very much.
+Hello, I would like to make an appointment at the car workshop called Intelligent Auto Imports.
+Jack Johns.
+202-456-1111.
+Yes.
+It tends to pull to the left when you drive, especially on the highway.
+It is a 2014 Honda Acura RDX.
+Yes.
+It doesn't really matter, the earliest available.
+Yes, that is perfect. I can drop it off tomorrow morning.
+Yes.
+That is good.
+Thank you very much.
+Yeah, I wanted to leave, I wanted to see if I could get a Lyft or a Sorry. I wanted to order an Uber and see if you could help me with that.
+I am at the Marriott in San Jose.
+Yes, we need to go to the San Jose airport.
+We are six of us.
+Just a normal Uber.
+Give me an Uber XL W, I think that's easier.
+No, please book it for tonight at 9 PM.
+No, that will be it. Thank you.
+Thank you very much.
+Yes.
+I have to make an appointment to have my car repaired.
+Intelligent Auto Imports.
+John Doe.
+D O E.
+999-888-7777.
+Yes.
+2009 BMW 3 Series.
+It stops when there is a long period of waiting at a set of traffic lights.
+Yes.
+Today around 3:00 PM.
+Okay.
+Okay.
+Yes, I'm still here.
+Next Monday is good.
+Yes, I would like to make an appointment for next Monday at 3:00 PM.
+Excellent.
+Please arrange this appointment.
+That's okay. That's okay.
+Please book him.
+Okay.
+Mechanical repair is provided because of the drip.
+Thank you very much.
+How much is the inspection fee?
+Excellent. Could you please book this appointment?
+Yes, please. What is the address of the workshop?
+No, thank you.
+Hello,
+Hello. I would like to find a restaurant near Midtown near L Street and 19th Street in Sacramento, California.
+Maybe an Asian restaurant.
+Maybe Chinese or Japanese or Korean food.
+No, I am fine with everything.
+Sure, I think I'll choose the second option.
+No, that's all.
+What is the phone number of the restaurant?
+And where is it?
+Okay. That's good.
+Thank you very much, goodbye.
+Hello. I wanted to order a coffee at Starbucks.
+Okay. I'd like a venti eggnog latte.
+Yes, please.
+No.
+Whole milk, please.
+That is correct.
+Thank you very much.
+The one in the Beachwood Mall.
+Okay, thank you.
+Thank you very much.
+Hello, I'm at Arden Fair Mall in Sacramento, California, and had hoped you could help me find a restaurant for lunch.
+I had thought of a good pizzeria.
+Well, I guess they are probably or typically, but highly rated, either Yelp or Google reviews, whatever. They have a menu available online, and maybe they have gluten-free options on the menu.
+Yes.
+Is there a third or only two?
+Okay. Not yet. What are the ratings for these two?
+Or the score, whatever that means. How many ratings have they received in total?
+I would have thought it was the other way around. How far are you from the shopping center or are you in the shopping center?
+Okay. Do you know if any of them offer high chairs?
+Upholstered seats.
+Okay. You said the first one is a pub or is it family oriented? I know it's California Pizza Kitchen, but what is it?
+Would you say the first one has a family atmosphere? Hmm. That's confusing. Okay. Let's try it because they're both in the mall, and if I don't like it, I can try California Kitchen.
+Yes, please.
+What were the last numbers?
+1920. OK, thank you.
+Thank you very much.
+Hello. I would like to place a pickup order for pizza from a place called Bella Luna. Can you help me?
+I would like two large pizzas, and both must be Veggie Lovers with extra cheese.
+Big, please.
+Just make a normal crust.
+Yes. Please
+Yes. That's good. How long does it take to be ready for pickup?
+Okay, that's great. Thanks for your help.
+Hello. I am looking for an Uber, please in Dallas, Texas.
+Let's see. I'm driving from the airport to my cousin's house and I can give you the address if you want.
+See you later, Dallas - Fort Worth.
+I think his name is Dulles.
+We'll see. It's 1521 Geronimo Avenue, Dallas.
+Avenue.
+Okay.
+Great!
+Four.
+Yes.
+That sounds good.
+How about tonight at 7:00 PM?
+Sure, no problem.
+Okay.
+the United Terminal.
+Great!
+Yes, that is correct.
+No, thank you.
+Same to you.
+Hello, I need help finding a restaurant in Sacramento, California. I am in Midtown near LL Street and 19th Street.
+I'm really in the mood for something with chicken wings.
+Yes, that is correct.
+A restaurant for sitting and eating. No fast food and no buffets.
+That is correct.
+What are they called?
+What was the third one again, please? I can't remember.
+Is Frank Fat's?
+Is Frank Fat's closer to my location?
+What is the star rating for The Waterboy?
+Does Broadwick Broderick Roadhouse offer food delivery?
+Does Frank Fat's have a good atmosphere for children?
+Does The Waterboy support Android or Apple Pay?
+Do I need a reservation for the Broadway Roadhouse?
+Do I need a reservation for The Water Boy?
+Can I only pay with cash at Broderick Roadhouse?
+Perfect, I would like to choose Frank Fat's, please.
+Is there any way to get the phone number of this restaurant?
+Thank you very much for your help. I really appreciate your "no". Thank you very much anyway, so the matter should be settled now. Thank you very much.
+Thank you very much.
+Yes, I have to see if a film is running.
+Does Captain Marvel play in Quavo, Colorado?
+The next one.
+I just need a map, and can you tell me how long the movie is?
+Yes. Can you order and confirm the ticket?
+Okay. Thank you.
+Yes.
+No, that was it.
+Thank you!
+Hello, I would like to place a pizza order at Bella Luna.
+I would like to order two large pizzas. For the first pizza I would like the supreme topping. And the second pizza should be a Meat Lovers pizza, but I don't want any sausage. I would also like additional cheese for both.
+Yes.
+Yes.
+Yes, please.
+That will be it.
+I would like to order a pizza.
+Three large pizzas.
+A specialty grilled chicken pizza.
+Thick crust.
+Big discs.
+Yes.
+Yes.
+Okay.
+Where can I pick them up?
+Thank you very much.
+Okay. I am looking for a restaurant in San Francisco for tomorrow evening.
+At 5:30 PM.
+How about Mexican food?
+Yes, a place where either music is played or art is shown would be nice.
+It must also be disabled-friendly.
+Okay. What is the price range and.
+Where is he?
+Okay, that sounds good. We will be four at 5.30 p.m. tomorrow.
+That is correct.
+And you need barrier-free trains, don’t you? That is true. Very good.
+Okay. That all sounds good. Thank you.
+Hello.
+I would like to arrange an appointment at Intelligent Auto Imports for my car.
+Brian.
+Of course, B-R-I-A-N.
+423-7146.
+Yes.
+I have a 2011 Nissan Rogue.
+It moves to the left.
+Yeah, that sounds about right.
+Next Friday would be best.
+No, I haven't.
+Medium sounds great, thanks.
+Thank you for informing me.
+Yes, please.
+Could you please remind me of that?
+No, that's perfect. Thank you.
+Hello, I would like to get tickets for Isn't It Romantic.
+in Knoxville, Tennessee.
+I need four
+Yes, I would like to watch it this afternoon.
+Of course.
+Yes, 16:50 sounds great.
+Yes. And can you also tell me how long the movie is?
+Okay, that sounds good. Yes, cancel.
+Are there any other cinemas where the film is shown before 5 pm today?
+Yes, that is possible.
+Okay. That sounds good. No, that would be all. Thank you for your help.
+Hello, I would like to order a pizza.
+From Bella Luna.
+I would like to get two large pizzas. For the first one, I would like spinach and chicken. And for the second pizza, I would like it to be a meat lover's pizza. I would also like both to have a gluten-free crust.
+Yes.
+Yes, please.
+Thank you very much.
+No, that's it. Thank you.
+Well, how are you today?
+Sacramento, California Midtown.
+Are you still there?
+I don't know. I mean, is it Mediterranean? Can I get Lebanese food there? Do they have hummus? How about souvlaki?
+I don't know exactly, don't worry about it. Do you have grape leaves?
+Sure.
+Are you still there?
+Okay, do you have Autosearch?
+Okay. Could you possibly look for me for any Greek restaurants in this area?
+Okay. Do you have anything else?
+Does the OPA have outdoor seating?
+Can you reserve a table at OPA?
+Okay, what was the last restaurant you told me about?
+I mean, does Luca have seats inside? Can I sit down at Luca's?
+What was it?
+Okay, can you sit inside at Luca's?
+And can you book there? What are the opening hours?
+Okay. I think I'd rather have the OPA or Opa. What's the number for Opa?
+It is 916-451-4000.
+No, that would be all. Thank you very much.
+Hello. I wanted to book a Uber.
+Birchwood Mall in Fort Gratiot.
+Let's say Port Huron.
+Two people.
+A regular UberX.
+For tonight at 9:00 PM.
+No, that should be all.
+Thank you very much. You too.
+Hello. I would like to visit a restaurant in Sacramento, California. I need three options for restaurants in the Arden Fair Mall, where I am located.
+I am looking for an Italian restaurant that offers spaghetti and pizza as well as late night dining and wine. And I would also like to be able to have appetizers and dessert.
+How are the reviews of the first restaurant you mentioned?
+What time does the restaurant close?
+Do you serve dessert?
+Okay. I will choose the restaurant for dinner.
+Yes, please.
+Okay, thank you. That's perfect.
+Goodbye.
+Hello! I need an Uber ride for tonight.
+I would like to be picked up from Kansas City International Airport.
+I would like to be dropped off at the intersection on Barry Road in Kansas City.
+We will be four and would like an XL ride, specifically for tonight at 9 pm.
+Alright, that sounds good.
+As I said, at 9 pm.
+And do you know the estimated length of the trip?
+Okay, fine.
+Okay, perfect.
+Bye!
+Hello, I would like to reserve a table for an American restaurant in San Francisco. I would like to receive some suggestions, please.
+I had hoped to get mushrooms as a starter. I expect a more formal atmosphere. And I expect a wine list.
+Yes, please.
+And the other restaurant?
+Could you please tell me the average cost per dinner at The Spruce?
+And can you tell me if the other restaurant can accommodate a reservation for four people?
+I would like to make my reservation anyway at the restaurant "Spruce". I have a group of four.
+Is it possible to reserve for tonight?
+Thank you very much.
+Tomorrow after 8 p.m. sounds perfect to me.
+No. I'm done. Thank you for your help.
+Thank you very much.
+Hello. I am fine, and you?
+Yes, okay. My anniversary is coming up and I'm trying to find a really nice restaurant that is perfect for a date.
+Italian and hopefully somewhere where it is really romantic. Good selection of wines. Really intimate and preferably private.
+No price range. I want the best of the best!
+Okay, what do you think? Where should I go?
+Sounds perfect. Can you book it for Thursday evening? 8 PM?
+Next Thursday.
+Thank you very much.
+Thank you. I hope so too.
+Yes, hello. I need to make an appointment to have my car repaired.
+I need an appointment at Intelligent Auto Imports.
+Sure, my name is Brandy White.
+And my phone number is 432-561-9975.
+Sure, B R A N D Y.
+That is correct.
+It is a Honda Pilot from 2013.
+Or when he stands at the Lados Store.
+Exactly.
+I would like to come by tomorrow, thank you again.
+Okay.
+Yes, that's great.
+Okay.
+Okay. That's fine.
+That's right. That's great.
+Can you give me the address, just in case?
+123 Main Street, understood.
+No, that would be all for today. Thank you for your help.
+Same to you.
+I would like to order two small pizzas with thin crust.
+One is a Meat lovers pizza, one is a Supreme.
+No, that was it.
+Yes.
+Thank you very much.
+Hello. I would like to book a dinner in Francisco.
+I am looking for a vegan restaurant.
+Yes. I would like the raw food options. I want it to be locally sourced food, and I want them to offer organic products.
+Okay.
+And is all the food there organically grown?
+Great.
+Do you have any other way?
+Okay. And does it have a vegan option?
+Great. Well, I'd like to go to this restaurant. Can I reserve a table for two for Sunday afternoon?
+Yes, is it inside?
+Great, I would like to make a reservation.
+That's great. Thank you very much.
+No, thanks.
+Hello. I'm trying to order a Café Latte at Peet's Coffee at 124 North Larchmont Boulevard in Los Angeles, California.
+Medium with whole milk.
+Thank you very much.
+Sounds right.
+Okay, I will look for that.
+I think that's it.
+Thank you very much.
+Hello. I have a problem with my car. I have several lights that go out and I have to make an appointment at Intelligent Auto Imports.
+Hank Williams.
+555-9393.
+That is correct.
+Several lights are not lighting up and I don't know why. It needs to be checked!
+And it is a 2015 Lexus RX 350.
+Next Friday, February 1.
+If it is not okay with my options.
+15:00, but I can make it at 08:30. I was just wondering what options I have.
+Okay, great.
+2015 Lexus RX 350.
+You have that.
+Yes, please.
+Great. Thank you very much.
+Goodbye.
+Yes.
+Yes.
+I am in the Arden Fair Mall.
+I am in the Arden Fair Mall.
+Yes. You are right.
+Yes. You are right.
+Yes, I would like chicken BBQ.
+Yes, I would like chicken BBQ.
+Okay. I think I will get it.
+Okay. I think I will get it.
+I choose California Pizza Kitchen.
+I will choose California Pizza Kitchen.
+California Pizza Chicken Place.
+California Pizza Chicken Place.
+I meant California Pizza Kitchen. I'll take that, your second option.
+I meant California Pizza Kitchen. I'll take your second option.
+Yes. I need her phone number and that should be all.
+Yes. I need her phone number and that should be all.
+916 what? Please again.
+916 what? Please again.
+Did you say 916-568-0932?
+Have you said 916-568-0932.
+Right, that should be enough now. Thank you very much.
+Right, that should be enough now. Thank you very much.
+I need to make an appointment to have my car checked.
+Intelligent Auto Imports.
+Sure. My name is Joe Smith and my number is 555-222-1234.
+Of course, S m i t h.
+Yes.
+Quite a few lights are not working. One inside and then one of my headlights is out.
+Tomorrow.
+Yes, that is good.
+It is a 2009 BMW 300.
+Great.
+That seems fair.
+Yes.
+Yes, I have been there before.
+No, that's great.
+Thank you.
+Hello. I would like to order three large pizzas, two of them with extra cheese and a third with bacon. All three should have gluten-free crust.
+I would like to order from Bella Luna.
+Three large pizzas with gluten-free crust. Two of them with extra cheese and one with bacon.
+Yes, that is correct.
+Yes, order it! Thank you.
+That's all for today. Thank you for your help.
+Yes, I would like to order two pizzas from Bella Luna, please.
+Both are to be small pizzas.
+I would like a Pasto special pizza, please.
+No, just a small one.
+with extra cheese.
+A chicken Alfredo pizza, please.
+Okay, that's fine. No, I'll have the Greek pizza. Do you have a Greek pizza?
+Okay. I'll have that with extra cheese, please.
+Yes, that is true.
+Yes, please. Thank you.
+No, that's all. Thank you very much.
+Hello.
+Hello, I would like to order coffee at Starbucks.
+I'd like the Iced Blonde Cinnamon Cloud Macchiato.
+Can I use coconut milk and stevia?
+Grande is fine.
+Yes, that's perfect.
+I would like to pick up the order at Starbucks Telegraph Canyon in Chula Vista.
+Hello. I need to book a restaurant.
+Yes. I am looking for a bar with full service and a kind of big, happy, dancing restaurant.
+Which one has the highest ratings?
+or the best reviews?
+make a reservation?
+This time it is only for two people.
+I would like them for Saturday at 6:30 PM.
+Thank you very much.
+Hello. I would like to watch a movie, please. I need help finding a movie.
+I would like to see On the Basis of Sex.
+Well, I'm in Sarasota, Florida.
+For example, around 5 pm.
+Correct. Exactly.
+Only two.
+Thank you very much.
+Yes, 8 p.m. is fine. That will be fine.
+That is correct.
+Yes, please.
+Great. Thank you very much.
+So do you.
+I would like to arrange an appointment with intelligent auto-imports.
+Clearly, my name is Mike Jones. My phone number is 281-330-8004.
+Jones.
+Yes.
+It is a 2010 Subaru Outback.
+If I stop at a long red light, it stops.
+Yes.
+I would like to see it before 3 PM today.
+Thank you very much.
+Yes, that would work.
+Okay. Thank you very much.
+Okay.
+Yes.
+No, I don't know.
+Oh, okay.
+No, that was it. Thank you very much.
+Likewise. Thank you for your help.
+Hello, I am trying to find a restaurant in Sacramento, California in the Arden Fair Mall.
+Asian food would be good.
+A place for lunch.
+Every price class is good.
+I would like to sit down.
+Can you tell me more about the second one?
+What is the price range?
+Do you serve alcohol?
+Do you offer food for takeaway?
+Okay, then I'll go for this one.
+The phone number.
+Okay.
+That's it.
+Thank you very much.
+Hello, I would like to watch Dragon Ball Super: Broly.
+I would like to watch the movie in a city other than the one I am currently in. I would like to watch it in Downtown Chicago.
+Yes, that sounds great.
+I would like to use the next possible performance. So at 15:30.
+I only need one.
+Yes.
+Yes. And how long is the movie?
+That is good.
+Okay. Thank you very much.
+No, that would be all.
+Hello.
+Hello. I would like to book two cinema tickets for adults for Aquaman.
+Birmingham, Alabama.
+The AMC.
+The AMC Summit 16.
+Okay. Then I'll take 7:30 PM.
+Yes.
+Okay. Will you send me the tickets?
+Wonderful. Thank you!
+Hello, I am looking for
+a nice restaurant for dinner. It will be in San Fran San Francisco.
+I like burgers, I like Hispanic-Mexican food and I like pizza.
+But I will also be satisfied with Italian.
+I would like it if music would be played in the background, preferably by a house band.
+I also wanted them to be able to sell me alcohol, like a Long Island Iced Tea.
+In addition
+I would like it if there was a free appetizer, like chips and salsa or breadsticks.
+Or bread or peanuts. That would be fine for me.
+Yes, I want you to explain this to me.
+Okay, tell me about the second one.
+Okay, I would like to choose the first option with the music.
+I would like to have you around at about 6 pm.
+On February 02 or rather on March 2. And it will be for five people. Is it possible to get an outdoor table?
+Okay. Thank you very much.
+Okay. Can it please be inside?
+Okay, sounds great. Thank you!
+That would be all. Thank you very much.
+Mhm, goodbye.
+Search Sacramento, California restaurants. Kindly find restaurants in Sacramento, California.
+A restaurant that offers pizza, please.
+In Midtown, near L Street and 19th Street.
+A restaurant that serves high-quality food, has good culinary experiences and is also very simple.
+I'll take the first one, please.
+Yes, sure. Thank you.
+Yes, please.
+Can you please repeat that?
+Thank you!
+Hello, I would like to order four small pizzas.
+Bella Luna.
+I need four small pizzas, all with extra cheese. I would like a pizza Veggie Lovers, a pizza Carnivore, a pizza Hawaii, a pizza Supreme.
+Yes.
+Yes.
+No.
+Yes, good evening.
+Yes, please. I would like to drive from John Kennedy Airport to McDonald's at 160 Broadway, right here in New York.
+Okay.
+Yes. I need an extra-large vehicle because there are five of us.
+I need it around 9 PM tonight.
+Fine.
+Okay, I agree. Please cancel the order. Please book it.
+Fine.
+Okay, but how?
+Okay, thank you. Please continue with the booking.
+Well, thank you very much.
+Goodbye.
+Hello, I am looking for a nice restaurant for dinner in San Francisco, California.
+I would like a restaurant that serves German food, especially raw vegetables. And the food must be organic.
+and.
+It has to be a medium price.
+Fine.
+Can you tell me how?
+Which restaurant is closest to my location?
+Which restaurant is more expensive?
+Yes, that is correct.
+Were all the details available for the restaurant?
+Very good. That's all.
+Hello Assistant. I would like to order a Uber please.
+I would like to be picked up at Yankee Stadium and taken to my house.
+Thank you very much.
+UberX is okay.
+Five people.
+Yes.
+That's okay.
+That sounds good.
+Yes, please.
+Okay. I will look at my device.
+Not today, thanks.
+Thank you very much.
+Hello. I would like to arrange a car appointment at "Intelligent Auto Imports".
+When I turn on my car, I hear a noise, and I'm not sure what it is.
+Correct.
+Linda Smith.
+Last name Smith S M I T H and first name Linda L I N D A.
+Yes.
+Area code 405-555-1212.
+Yes.
+As fast as possible, if that is possible.
+Sure.
+Sure, that would work.
+Yes.
+Do you know what? I don't think I told you what kind of car I have.
+It is a Lexus RX 350, year 2015.
+Yes.
+Okay.
+Yes.
+Correct.
+Yes. Mhm, perfect.
+Okay.
+No. No, that's it. Thank you very much.
+I wish you the same.
+Hello. I am going to buy a few pizzas from the Bella Luna Pizzeria today.
+Okay. Four large pizzas. Let's order one with salami and pineapple.
+Let's take one of those.
+Do you still have the five cheese variant?
+Yes, then I would like to have one of those.
+Then we would like the Mexican pizza and...
+just a normal pizza with
+tomatoes and
+Olives and green peas.
+They have the taco pizza. Let me check on that for you.
+What is the difference?
+It’s sorted. So the answer is now more like “No, there are no fried corn tortillas on there”.
+Yes, we do.
+Okay.
+Yeah, and we need extra cheese on every pizza. Extra cheese on every piece of pizza.
+Yes.
+Yes, that's okay.
+Great God.
+This is for pick-up.
+Okay.
+No, that was it.
+Thank you very much.
+Yes. I would like to order a pizza from Bella Luna.
+I would like four, please.
+Small.
+On one I want barbecue chicken, on the other three I want pepperoni, mushrooms, extra cheese and bacon.
+Only three, three would be fine. Thank you.
+Thin crust, please.
+Yes.
+Great. Thank you very much.
+Goodbye.
+Okay.
+Hello. How are you?
+Good. I was wondering if you could help me find a movie in Los Angeles, California. I wanted to go see Glass.
+No. I was just wondering if you
+Could you give me a list of maybe two or three different cinemas here in Los Angeles,
+who play in the film Glass.
+Okay. My friend and I wanted to see the movie tonight. Is it playing tonight?
+Okay, could you tell me the times and perhaps also the costs?
+Can you repeat that?
+Please.
+Okay, what about the other cinema?
+Okay that's good. I guess I will buy them through my ticket provider.
+Can you tell me what other movies will be shown?
+Shelf.
+Okay, I think me and my boyfriend are going to the cinema together, we want to watch Aquaman and we want to go tonight.
+So, two for Aquaman. Yeah.
+Okay. That works.
+Alright.
+Okay.
+No, Madam.
+Thank you and goodbye.
+Okay. Thank you very much.
+I am looking for a place to have lunch in Sacramento, California.
+Specifically in Midtown near O Street and 19th Street.
+I like Ceviche, Plomo Saltado, Pollo a la Brasa.
+Yes, I want it to be open until 9 pm, have good reviews with 4 or more stars, and have reasonable prices.
+That's all.
+Yes. I would like to hear more about all three options.
+Yes. I would like to know if the first option
+has an open bar?
+Does the second option have a cloakroom where I can hang my coat?
+And is there a third option?
+Candles on the table?
+No. Then tell me about the first option. Does the first option have candles on the table or not?
+Yes. I would like her number, please.
+Okay, got it.
+No, that's all.
+Thank you very much.

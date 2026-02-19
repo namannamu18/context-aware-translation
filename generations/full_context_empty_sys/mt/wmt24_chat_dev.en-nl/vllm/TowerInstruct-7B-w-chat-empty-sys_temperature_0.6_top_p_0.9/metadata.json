@@ -1,0 +1,210 @@
+{
+    "output_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/full_context_empty_sys",
+    "data_dir": "/mnt/data/jpombal/wmt24-chat-translation/instructions/full_context_empty_sys",
+    "tasks": [
+        {
+            "name": "mt",
+            "subtasks": {
+                "wmt24_chat_dev.en-pt-br": {},
+                "wmt24_chat_dev.pt-br-en": {},
+                "wmt24_chat_dev.en-de": {},
+                "wmt24_chat_dev.de-en": {},
+                "wmt24_chat_dev.en-fr": {},
+                "wmt24_chat_dev.fr-en": {},
+                "wmt24_chat_dev.en-nl": {},
+                "wmt24_chat_dev.nl-en": {},
+                "wmt24_chat_dev.en-ko": {},
+                "wmt24_chat_dev.ko-en": {}
+            }
+        }
+    ],
+    "models": [
+        {
+            "name": "TowerInstruct-7B-w-chat-empty-sys",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "/mnt/data/jpombal/axolotl/TowerInstruct_7B_chat_ckpts_new/checkpoint-5624",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/full_context_empty_sys"
+        },
+        {
+            "name": "TowerInstruct-7B-w-chat-empty-sys_temperature_0.6_top_p_0.9",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "/mnt/data/jpombal/axolotl/TowerInstruct_7B_chat_ckpts_new/checkpoint-5624",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 0.6,
+                "vllm_sampling_params": {
+                    "top_p": 0.9
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/full_context_empty_sys"
+        },
+        {
+            "name": "TowerInstruct-7B-w-chat-empty-sys_temperature_0.6_top_p_0.95",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "/mnt/data/jpombal/axolotl/TowerInstruct_7B_chat_ckpts_new/checkpoint-5624",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 0.6,
+                "vllm_sampling_params": {
+                    "top_p": 0.95
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/full_context_empty_sys"
+        },
+        {
+            "name": "TowerInstruct-7B-w-chat-empty-sys_temperature_0.7_top_p_0.9",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "/mnt/data/jpombal/axolotl/TowerInstruct_7B_chat_ckpts_new/checkpoint-5624",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 0.7,
+                "vllm_sampling_params": {
+                    "top_p": 0.9
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/full_context_empty_sys"
+        },
+        {
+            "name": "TowerInstruct-7B-w-chat-empty-sys_temperature_0.7_top_p_0.95",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "/mnt/data/jpombal/axolotl/TowerInstruct_7B_chat_ckpts_new/checkpoint-5624",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 0.7,
+                "vllm_sampling_params": {
+                    "top_p": 0.95
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/full_context_empty_sys"
+        },
+        {
+            "name": "TowerInstruct-7B-w-chat-empty-sys_temperature_0.8_top_p_0.9",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "/mnt/data/jpombal/axolotl/TowerInstruct_7B_chat_ckpts_new/checkpoint-5624",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 0.8,
+                "vllm_sampling_params": {
+                    "top_p": 0.9
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/full_context_empty_sys"
+        },
+        {
+            "name": "TowerInstruct-7B-w-chat-empty-sys_temperature_0.8_top_p_0.95",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "/mnt/data/jpombal/axolotl/TowerInstruct_7B_chat_ckpts_new/checkpoint-5624",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 0.8,
+                "vllm_sampling_params": {
+                    "top_p": 0.95
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/full_context_empty_sys"
+        },
+        {
+            "name": "TowerInstruct-7B-w-chat-empty-sys_temperature_0.9_top_p_0.9",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "/mnt/data/jpombal/axolotl/TowerInstruct_7B_chat_ckpts_new/checkpoint-5624",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 0.9,
+                "vllm_sampling_params": {
+                    "top_p": 0.9
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/full_context_empty_sys"
+        },
+        {
+            "name": "TowerInstruct-7B-w-chat-empty-sys_temperature_0.9_top_p_0.95",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "/mnt/data/jpombal/axolotl/TowerInstruct_7B_chat_ckpts_new/checkpoint-5624",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 0.9,
+                "vllm_sampling_params": {
+                    "top_p": 0.95
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/full_context_empty_sys"
+        },
+        {
+            "name": "TowerInstruct-7B-w-chat-empty-sys_temperature_1.0_top_p_0.9",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "/mnt/data/jpombal/axolotl/TowerInstruct_7B_chat_ckpts_new/checkpoint-5624",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 1.0,
+                "vllm_sampling_params": {
+                    "top_p": 0.9
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/full_context_empty_sys"
+        },
+        {
+            "name": "TowerInstruct-7B-w-chat-empty-sys_temperature_1.0_top_p_0.95",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "/mnt/data/jpombal/axolotl/TowerInstruct_7B_chat_ckpts_new/checkpoint-5624",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 1.0,
+                "vllm_sampling_params": {
+                    "top_p": 0.95
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/full_context_empty_sys"
+        }
+    ],
+    "generation_time": [
+        44.36660432815552
+    ],
+    "generation_time_average (lps)": 29.684489492566772
+}

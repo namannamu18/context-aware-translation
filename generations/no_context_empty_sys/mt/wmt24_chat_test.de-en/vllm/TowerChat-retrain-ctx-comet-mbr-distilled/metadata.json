@@ -1,0 +1,59 @@
+{
+    "gen_data_dir": "/mnt/data/jpombal/wmt24-chat-translation/instructions/no_context_empty_sys",
+    "eval_data_dir": "/mnt/data/jpombal/wmt24-chat-translation/raw_data",
+    "gen_output_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/no_context_empty_sys",
+    "eval_output_dir": "/mnt/data/jpombal/wmt24-chat-translation/evaluations/no_context_empty_sys",
+    "tasks": [
+        {
+            "name": "mt",
+            "subtasks": {
+                "wmt24_chat_test.en-pt-br": null,
+                "wmt24_chat_test.pt-br-en": null,
+                "wmt24_chat_test.en-de": null,
+                "wmt24_chat_test.de-en": null,
+                "wmt24_chat_test.en-fr": null,
+                "wmt24_chat_test.fr-en": null,
+                "wmt24_chat_test.en-nl": null,
+                "wmt24_chat_test.nl-en": null,
+                "wmt24_chat_test.en-ko": null,
+                "wmt24_chat_test.ko-en": null,
+                "bcontrast_test.de-en": null,
+                "bcontrast_test.en-de": null
+            },
+            "metrics": {
+                "comet": null,
+                "chrf": null
+            }
+        }
+    ],
+    "models": [
+        {
+            "name": "TowerChat-1-epoch-ctx-comet-mbr-distilled",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "/mnt/data/jpombal/axolotl/TowerChat_7B_ctx_comet_mbr_distill_ckpts/checkpoint-121/",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false
+            }
+        },
+        {
+            "name": "TowerChat-retrain-ctx-comet-mbr-distilled",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "/mnt/data/jpombal/axolotl/TowerChat_7B_blocks_and_ctx_comet_mbr_distill_ckpts/checkpoint-5624",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false
+            }
+        }
+    ],
+    "generation_time": [
+        6.219843626022339
+    ],
+    "generation_time_average (lps)": 161.4188491491175
+}

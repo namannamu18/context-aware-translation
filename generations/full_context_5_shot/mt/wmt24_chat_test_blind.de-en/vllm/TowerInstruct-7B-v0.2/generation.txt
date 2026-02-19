@@ -1,0 +1,1004 @@
+NAME-M_TEXT:Hold on, I will now transfer you to one of our support staff who will take care of your concern.
+Hello, my name is NAME-M.
+One moment please, I will check
+I will now listen to your conversation with NAME-M.
+NAME-M_TEXT:I am sorry, it seems like there is a problem.
+Hall
+Hello NAME-M, we have found out that our account is still not verified...
+That should have been done yesterday
+We are losing a lot of business today if this is not done soon
+But that should have been done a long time ago
+We have customers who have left because they couldn't pay.
+There is also no EC machine nearby where we can send the customers to get cash.
+Is anyone working in the department today?
+We have a sample sale once a year.
+He was yesterday and today.
+Next week the verification won’t bring us anything anymore...
+Yes, I am still here.
+How long does it take to process that?
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-M.
+Do you want to tell me your first name?
+Hi NAME-M, my name is NAME-M.
+I am doing well, thank you for asking.
+I hope you are doing well too.
+So I have the following problem: My PRS-ORG account that was under the email EMAIL was hacked and the email there was changed.
+I no longer have access to my account.
+Now it would be great if the problem could be fixed again.
+Yes, that was the email under which the PRS-ORG account was running.
+This email was changed by the hacker.
+The attachment contained a picture.
+The username is ALPHANUMERICID.
+The email of the account was changed to: EMAIL
+My account was hacked and the email was changed, just so that it is clear.
+Hello, welcome to PRS-ORG.
+My name is NAME-M, how can I help you?
+Hello, I can't get into my Sum up pos  what's up no App
+When I go to the app, this device add appears.
+The app is the PRS-ORG pos app
+I did not understand the question
+When I go to the app, it says "this device is not registered" then I can go to connect.
+Then there is QR code login or manual input.
+I have no idea what to enter here.
+Yes
+Cash register system app
+Hello, welcome to PRS-ORG.
+My name is NAME-M, how can I help you?
+I am at the first operation of the PRS-ORG device 3G card terminal.
+The device is charged and the power button is pressed.
+The screen remains blank, I am stuck at point 3 for the setup.
+I have a new device and I want to set it up.
+However, the screen remains NAME-M.
+I can't select a language or select the connection.
+I pressed the power button and the screen turned black immediately.
+I did not have to call up or select a standby mode
+I pressed the power button, the display turned on and it remains NAME-M.
+The device is connected to the power supply.
+The cable is orange at the bottom.
+Does this mean that the battery is not fully charged and therefore might not work?
+Ok, then I will try this.
+Otherwise I will contact you again.
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-M.
+Do you want to tell me your first name?
+NAME-M
+I accidentally interrupted the download of the mentioned game, now I can't download the game again.
+Please offer the download again
+I just bought the game via Paypal.
+Yes, I just bought the game Freeding Francy 2.
+Unfortunately, I did not start the download.
+How can I start the download of the game again?
+I can't see the download button on the PRS-ORG-App page.
+Yes
+buy it again
+I will try it with UP and Down the PC
+NAME-M_TEXT:How can I help you today?
+how can I change the VAT?
+Hello NAME-F, I am NAME-M, your virtual assistant 🤖
+I can help you best if you formulate your questions briefly and clearly, for example, “How can I change my email address?”.
+NAME-M_TEXT:Also, please only ask one question at a time so that I don't get confused.
+NAME-M_TEXT:I am sorry, it seems like there was an error.
+NAME-M_TEXT:One moment, I will transfer you to one of our support staff who will take care of your concern.
+Hello, my name is .
+One moment please, I will check
+I am now listening to your conversation with NAME-M.
+How can I change the VAT?
+I need 19% VAT on the invoices
+I don’t have the tax button in the list...
+that doesn’t help me.
+Can I speak to someone on the phone?
+Hello, my name is NAME-F.
+One moment please, I will check
+I am now listening to your conversation with NAME-M.
+we urgently need a callback regarding payment links, they have not been working for almost a week!!!
+Please give me a phone number so I can reach someone.
+What is the limit of the payment links?
+but they are generating them already but not in the sum
+there are missing details, so it cannot be paid.
+Our customer has nearly 50000 EUR open with us.
+It has already been forwarded but we are not getting a proper answer
+Hello, welcome to PRS-ORG.
+My name is NAME-M, how can I help you?
+Hi NAME-M, I don’t understand exactly what an online shop means.
+I have an online shop but that is not what I mean, or?
+Is there a PRS-ORG online shop?
+My question is, do I have to select the online shop when entering the item?
+Where will the items be displayed?
+but only I can see it, right?
+I want to use the PRS-ORG device for popup stores and festivals, not for online sales
+but how do people find out about an online shop?
+is there a link or a phone number that I can call?
+I was already there, and it didn’t help me.
+Is there a hotline?
+Okay, thanks.
+I will try later, I have to go now.
+Thank you
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-M.
+Do you want to tell me your first name?
+My problem is that I can no longer log in to the PRS-ORG server.
+Then it says that it has already been linked to another account.
+(NAME-F) or
+There it says I already have a PRS-ORG account...
+But I don't have access to that or any data from it.
+Yes, it is not possible to play online.
+Now I have another error message when logging in
+The login details are incorrect or expired.
+Please try again or reset your password.
+I have already tried this several times...
+It also doesn’t work
+Can you just delete all my PRS-ORG connections.
+Or clubs.
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-F.
+Do you want to tell me your first name?
+Hello,
+I have a problem with the Mobile Game PRS-ORG on my PRS-ORG phone.
+I would like to link this PRS-ORG account with the game.
+Unfortunately, I always get the error message that the game is already linked to another account.
+Can you change that and link it to this account
+Yes, that’s right
+Can you delete this link so that I can link this PRS-ORG account?
+No, it is not.
+I would like to link it but it is not working.
+It gives an error message that the game is already linked to another account.
+okay, I can do that.
+Then please don't close the case, I would continue here later.
+Perfect, then we will do it this way and you can continue here later
+thank you for your help
+I bought the PRS-ORG set and connected it to PRS-ORG mobile.
+Unfortunately, I am unable to open the link bonus.
+The player NAME-M is in there.
+I need it because some of the ones from PRS-ORG are linked with the app.
+The link worked as well
+It shows me my training results and I can do the challenges accordingly
+Can you unlock the linking bonus for me
+PRS-ORG says successfully connected with the PRS-ORG app
+And the training results I can synchronize
+And I can synchronize the training results
+The first time
+I bought the inserts last week from PRS-ORG.
+Okay so I should just wait?
+Hello, welcome to PRS-ORG.
+My name is NAME-F, how can I help you?
+Hi NAME-F :)
+you, we have ordered a Sum Up terminal from the company PRS-ORG.
+We use a POS software called PRS-ORG.
+The connection works, but we get the error message "Server Error" when we complete the checkout.
+Is there a general problem right now?
+but surely yes
+PRS-ORG is the partner
+I am in my PRS-ORG system.
+I have just connected the PRS-ORG terminal there.
+With the test account EMAIL
+Unfortunately, when we try to test a card payment, the error message "Server Error" is displayed.
+please use the following email: EMAIL
+The email stored is only a local test account
+the link sent does not work
+never
+a second one is not being sent to me
+problem: I can’t reset the password.
+Good morning
+When I try to create a new account with the email, it says that there is already an account.
+I can't use the email address.
+I don’t quite understand why
+I don’t know if I have an account or not.
+Can I sync the ebooks from PRS-ORG?
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-M.
+Do you want to tell me your first name?
+Good day, I am NAME-M
+So yesterday season 1 appeared in batttlefield
+And in PRS-ORG I don’t get any rewards that are below level 5.
+That means: no premium content, not the new specialist and the other stuff
+Although I am level 14 in PRS-ORG
+What does that mean for me, so I don't have to do anything else?
+And will that be fixed?
+Okay, thank you.
+Does that mean the chat is over?
+Okay.
+I wish them a nice day
+Hello, welcome to PRS-ORG.
+My name is NAME-M, how can I help you?
+I would like a virtual payment
+Greetings NAME-F
+Yes
+I would like to unlock my new PRS-ORG device for virtual payment.
+you received my trade registration number when placing the order.
+Greetings NAME-F
+Registration documents issued by official authorities.
+How do I get this?
+what do I have to send them?
+How do I get into the function to activate it?
+Can you send me the link.
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-M.
+Do you want to tell me your first name?
+Hello NAME-M, my name is NAME-M.
+I like to buy the games directly on PRS-ORG.
+Unfortunately, they only offer me a single purchase for the game (1.99€) and a single purchase for the DLC bundle (9.99€), so a total of 11.98€.
+On PRS-ORG there is a Complete version for 4.56€.
+How can I buy this at PRS-ORG for this price?
+Thank you!
+Does that mean PRS-ORG would rather I buy the games from PRS-ORG than from PRS-ORG?
+I find that surprising.
+okay, thanks for the info!
+No, that was everything.
+Have a nice day!
+Hello everyone
+A quick question
+I am taking over a new business and I would like to continue working with PRS-ORG.
+Can I select both companies and make payments via the app on my mobile as needed?
+Thank you for your feedback and support.
+Greetings NAME-M
+Hello, my name is NAME-F.
+One moment please, I am now looking at your conversation with NAME-M.
+Yes, I am aware of that.
+All information about profile opening included.
+I will send you the company entry and bank details after the takeover is complete to open a new profile with you.
+But can I then use the PRS-ORG app to make payments between the two companies, depending on which of the two stores I am in?
+okay I thought so.
+It's okay for me.
+I will send you the necessary documents for the new profile opening immediately after the takeover is completed.
+Where can I send the application with the details for the new profile opening?
+Perfect
+Thank you for your support and the extensive information.
+Best regards
+NAME-M
+Everything else is okay.
+Thank you
+The books of the Inheritance Trilogy by N.K.
+The English editions of N.K. Jemisin’s Inheritance trilogy are not correctly assigned to the series.
+Book 1 (The Hundred Thousand Kingdoms) is marked as #4 in the series, Book 2 (The Broken Kingdoms) as #6 and Book 3 (The Kingdom of Gods) as #5.
+There are no books with the numbering #1-3.
+EMAIL
+The three books mentioned on March 20.
+No, the covers are correct.
+The classification in a series, specifically the numbering, is wrong
+No problem, and it will not cause any inconvenience.
+I know the correct order.
+Thank you!
+And have a nice evening 🙂
+No, that was everything
+NAME-M_TEXT:I will now transfer you to one of our support staff who will take care of the return of your device.
+Hello, my name is NAME-M.
+One moment please, I will check
+I will now listen to your conversation with NAME-M.
+hello
+I would like to return the items
+card terminal and lite system
+too expensive and
+I want the receipt to come out immediately after I type in the order
+but this does not work with your system
+Hello?
+password reset
+NAME-M: The God Emperor of the Desert Planet
+I have unfortunately entered the wrong password several times, and half of my account is blocked.
+When I choose the function for a password reset, I don't receive an email from PRS-ORG.
+From the PRS-ORG app on my computer, directly from PRS-ORG
+Yes, I also didn't find anything there.
+Thank you, that worked.
+I will now try to log in my new e-reader PRS-ORG again.
+The registration with my new E-reader has now also worked.
+I wish you a nice day.
+Hello, welcome to PRS-ORG.
+My name is NAME-F, how can I help you?
+Hello, my PRS-ORG mostly can't find a network and takes forever to connect if it does at all.
+He equipped me with the card that was there before.
+What can I do?
+As it works at the moment, it is hardly usable.
+80% of the card payment doesn’t even go through, even if the device has a connection.
+Since the beginning (approx.
+2 years), we actually don't use it anymore because it works so poorly.
+I only dug it out again now because Christmas markets are coming up and I need more devices.
+But every time I hold this thing in my hand, I get angry about it.
+Our email address is EMAIL
+so far I have not received any email
+Support staff
+NAME-M_TEXT:Hi NAME-M, nice to see you again 🤖 How can I help you?
+NAME-M_TEXT:One moment, I will now transfer you to one of our support staff who will take care of your concern.
+Hello, my name is NAME-M.
+One moment please, I will check
+I am now listening to your conversation with NAME-M.
+hi
+I have a second PRS-ORG device for my new branch.
+Now there is a problem with the address.
+I have entered a different address.
+But now I can't use the PRS-ORG device anymore.
+Limit 5000€
+What do I need to do to have my account verified?
+Yes
+I have already uploaded a document.
+Is that not enough?
+Staff, please
+NAME-M_TEXT:How can I help you today?
+NAME-M_TEXT:Also, please only ask one question at a time so that I don't get confused.
+NAME-M_TEXT:One moment, I will transfer you to one of our support staff who will take care of your concern.
+NAME-M_TEXT:Hello NAME-F, I am NAME-M, your virtual assistant 🤖
+I can help you best if you formulate your questions briefly and clearly, for example, “How can I change my email address?”.
+Hello, my name is NAME-M.
+One moment please, I will check
+I am now listening to your conversation with NAME-M.
+Hello, I have a question ...
+I applied for a new credit card, the card was sent by post, but unfortunately I did not receive a PIN or the activation code for the new card ...
+Can you tell me something about where it stays, maybe...
+ok
+Yes, I understand.
+but not received anything yet
+Yes ...
+I thought that a letter with an activation code would come ... now I know, thank you very much for the help
+that’s all for now... PRS-ORG
+Hello, my name is NAME-M.
+One moment please, I will check
+I am now listening to your conversation with NAME-M.
+I bought a PRS-ORG payment device, but I suspect that the battery is not in good condition.
+It never charges up to 100% and then shows either 35% or 27%
+I have already tried that.
+Do I have to connect the cable to the card reader and the printer separately to charge them or do they charge together?
+Okay, but then something is definitely wrong with the battery.
+What should I do?
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-F.
+Do you want to tell me your first name?
+Good day
+I have a problem with my PRS-ORG
+It always goes into offline mode because it doesn't finish the update
+even a new login did not help, nor did a restart of PRS-ORG
+There is always a message that an update is available
+but it doesn't do the update.
+how can I manually update it?
+start
+Please excuse the inconvenience, but we had to disconnect your connection because a required update has come into effect.
+Please exit your game and restart PRS-ORG to receive the latest update and go online again.
+But it doesn't work
+Yes, how do I get the latest version of PRS-ORG?
+if I reinstall PRS-ORG, do I have to reinstall all the games too :(
+do I have to uninstall it first?
+I think it worked :)
+No, thank you. That was everything. :)
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-N.
+Do you want to tell me your first name?
+Hi NAME-N, my name is NAME-M.
+Good morning.
+My PRS-ORG account was hacked on Saturday evening.
+My players and coins are all gone.
+The email address that was linked to the account was: EMAIL
+I think the hacker changed the address
+790940
+How can that be?
+This is obviously a hacker email?
+When was it changed?
+please change to EMAIL
+I never wanted to change my email!!!
+I did not change the password
+Hello, I bought a book on Monday evening and it still hasn't arrived.
+I have restarted, repaired and synchronized the #PRS_ORG#.
+The book is not there.
+EMAIL
+On 25.01.2021, I already bought books "The Mirror Saga" and "Essence of the Gods"
+The new book is called "Magic of the Elements", and it is not there yet.
+All parts in one book
+What status, I only have the preview, the book is missing.
+I use the PRS-ORG app on my tablet.
+Before that I had a PRS-ORG ereader,  but it is broken.
+PRS-ORG, a Samsung tab
+I do
+Hello, welcome to PRS-ORG.
+My name is NAME-F, how can I help you?
+Hello, welcome to PRS-ORG.
+My name is NAME-F, how can I help you?
+I tried to connect my account with PRS-ORG a few days ago, but they didn't transfer 0.01€ to my account and when someone gave me a small tip online, it was also not credited to my account, but was refunded after a week or so, it was only two euros, but both times it was a bit unfortunate?
+I tried to connect my account with PRS-ORG a few days ago, but the accounts didn't transfer 0.01€ to my account and after someone I helped online gave me a small tip, it was credited back to my account after a week or so, it was only two euros, but both times it was a bit unlucky?
+Iban was correctly entered both times
+There were online transfers that were executed without a card terminal from another bank and PRS-ORG.
+Is there a minimum amount for a business account that must be transferred?
+Okay, then I have to look up my login data
+ebook
+Good day, I have bought my first ebook/comic from you.
+Now I wanted to transfer it to my ebook reader.
+I am new to the PRS-ORG stuff.
+Unfortunately, I added the book without a PRS-ORG account.
+After I have logged in correctly, I now get the message: e_lic_already_fulfilled_by_another_user
+it is not a PRS-ORG device.
+It is a Pocketbook
+that would be great, thank you very much
+will be done, thank you.
+I will do it right now
+Yes it worked, thank you.
+Good day
+Device is not working
+NAME-M_TEXT:How can I help you today?
+NAME-M_TEXT:Also, please only ask one question at a time so that I don't get confused.
+NAME-M_TEXT:Hello NAME-M, I am NAME-M, your virtual assistant 🤖
+I can help you best if you formulate your questions briefly and clearly, for example, “How can I change my email address?”.
+NAME-M_TEXT:As I understand it, there are problems with your card terminal.
+NAME-M_TEXT:Just to make sure, can you describe this in more detail, NAME-M?
+NAME-M_TEXT:In this case, one of our support staff can help you better to solve the problem.
+NAME-M_TEXT:One moment, I will transfer you.
+Hello, my name is NAME-F.
+One moment please, I will check
+I am now listening to your conversation with NAME-M.
+Since yesterday, the card reader is not working anymore.
+It says "payment declined".
+The customer service wanted our trade register number (51151).
+I have already passed this on.
+How do I verify my account?
+I am currently at a trade fair and therefore urgently need the device.
+My customers cannot pay otherwise
+Do I need to add any explanation or does the team know?
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-N.
+Do you want to tell me your first name?
+Hello my name is NAME-N
+My account received a warning yesterday and my coins were deleted because I pushed coins.
+I have realized this mistake and the punishment is fair.
+However, the message said that if I continue, I will face further consequences.
+But I didn't do anything and this morning there was a market ban on my account and I don't understand why.
+My email address is: EMAIL
+And my id is NAME-N
+Thank you
+So as I said.
+I have pushed coins and already received a penalty for it.
+But I didn't do it again and still got the punishment\n\nContext: Hallo,\nIch habe eine Frage zu meinem #PRS_ORG# Konto.\nIch habe eine Bestellung aufgegeben und bezahlt, aber ich habe noch keine Bestätigung erhalten.\nWie kann ich meine Bestellung überprüfen?\n#PRS_ORG#\nThank you for contacting #PRS_ORG#, you are through to #NAME#\nSo that I can assist you can you please provide your account details (Full Name, E-mail address, Postal Address and Order Number)\n#EMAIL#\n#ADDRESS#\n#PHONENUMBER#\n\nTranslate the German source text to English, given the context.\nGerman: Ich habe eine Frage zu meinem #PRS_ORG# Konto.\nEnglish: I have a question about my #PRS_ORG# account.
+That is what surprises me
+The first penalty was totally fair.
+Maybe my can change the permanent ban to a time-limited ban
+Ok
+Ok thanks for your help
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-M.
+Do you want to tell me your first name?
+NAME-M
+Hello NAME-M.
+My problem is this: after I installed the last Christmas update, the game no longer worked.
+I would like to say that I deleted the game after two days of unsuccessful attempts to start it and reinstalled it again (the reinstallation had a size of almost 3GB).
+This procedure has worked several times before.
+After the last reinstallation, the game started at the very beginning.
+I have always played anonymously.
+Maybe it will help them further if they know that I installed the game yesterday around.
+4 PM I deleted it and immediately downloaded it again (2.9 GB) and installed it.
+Since I have been playing for more than 8 years, it would be nice if I could continue playing with my old game saves.
+Thank you for your efforts.
+What happens next?
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-M.
+Do you want to tell me your first name?
+NAME-F
+Yes, unfortunately not.
+The instructions via email were unfortunately not able to help us any further.
+because the anti-cheat window is not the problem with us.
+But the secure start-up on the computer is not possible.
+Another error message opens.
+Therefore, the instructions by email have not been able to help us.
+There are some settings that are not specified,
+The game was downloaded from PRS-ORG.
+The game could be played via PRS-ORG or PRS-ORG App, if it would work.
+No, not yet.
+Should we delete the PRS-ORG app and then reinstall it?
+No, unfortunately not.
+We have reinstalled the app.
+and again the error message "Security Violation - Secure Startup is not activated on this computer." appears.
+After that, further pop-up windows with the corresponding messages follow.
+Where under Properties in the app or the PC
+Found.
+Then we will test it now.
+Thank you!
+Please check previous requests.
+I have opened ports, set up LAN, updated the console and done everything else I can.
+My players are slower and less reactive than the opponent’s.
+I have the fastest players and the highest rating.
+How can that be?
+We are talking about PRS-ORG, just in case this silly question comes up
+What a stupid thing to say?!?!
+Of course my account is fine.
+The ports that are provided.
+I am not stupid.
+I expect an explanation
+Are you okay?
+I expect an explanation
+I now even have a 100 Mbps internet connection
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-M.
+Do you want to tell me your first name?
+My problem is that I have an old PRS-ORG account, to which I no longer have access because the email address no longer exists.
+The email address back then was EMAIL and it contained PRS-ORG.
+Now I wanted to log in, but I don't remember the password anymore
+I have tried it several times, but unfortunately I don't know it
+my current account is on EMAIL and I bought PRS-ORG via PRS-ORG today.
+EMAIL BUT I no longer have access to this mail
+because it was deleted years ago
+Therefore, it would be great if the old account could be migrated to the new one.
+P-address (the network where you play on): - 127.0.0.0
+Date of birth (provided during account creation): 18.06.1985 [Geburtsdatum]
+One purchase on account and purchase date (month/year): - PRS-ORG - I don't know the exact purchase date
+The last 4 digits of the credit card: it was bought via Paypal at that time and has already been changed several times\n\nContext: Hi,\nI have a problem with my #PRS_ORG# account.\nI have forgotten my password and I am unable to log in.\nI have tried to reset my password but I am unable to receive the verification code.\nI have tried to reset my password several times but I am unable to receive the verification code.\nI have tried to reset my password using the email address associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the phone number associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the P-address associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the last 4 digits of my credit card associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the billing address associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the phone number associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the P-address associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the last 4 digits of my credit card associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the billing address associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the phone number associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the P-address associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the last 4 digits of my credit card associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the billing address associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the phone number associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the P-address associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the last 4 digits of my credit card associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the billing address associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the phone number associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the P-address associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the last 4 digits of my credit card associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the billing address associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the phone number associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the P-address associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the last 4 digits of my credit card associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the billing address associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the phone number associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the P-address associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the last 4 digits of my credit card associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the billing address associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the phone number associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the P-address associated with my account but I am unable to receive the verification code.\nI have tried to reset my password using the last 4 digits of my credit card associated with my account but I am unable to receive
+Billing address: - At that time (Felsäckerweg 15, Billigheim, now Am Neck 20 Gemmrigheim)
+Telephone number - PHONENUMBER
+I am sorry that I am unable to help you with your old account.
+can you at least transfer the old account to a new email address so that I can reset the password?
+Hello NAME-M, I am NAME-M, your virtual assistant 🤖 One moment, I will now transfer you to a support employee.
+Hello, my name is NAME-F.
+One moment please, I am now looking at your conversation with NAME-M.
+Technician required
+Unfortunately, we are unable to connect the printing to the PRS-ORG cash register system.
+And we need a technician for that.
+I have already tried everything possible
+Where can I see it?
+Ixh doesn’t know what that is.
+Can someone call me?
+PHONENUMBER
+The Brother
+Another problem
+Good day, our PRS-ORG system is rejecting all transactions.
+NAME-M_TEXT:How can I help you today?
+NAME-M_TEXT:Hello NAME-F, I am NAME-M, your virtual assistant 🤖
+I can help you best if you formulate your questions briefly and clearly, for example, “How can I change my email address?”
+{Alex:Card accidentally charged twice,Card charged despite failed payment,I can’t see the transaction,PRS-ORG Pay/PRS-ORG,Other problem}
+NAME-M_TEXT:Also, please only ask one question at a time so that I don't get confused.
+NAME-M_TEXT:In this case, one of our support staff can help you better solve the problem.
+NAME-M_TEXT:One moment, I will transfer you.
+NAME-M_TEXT:I am sorry to hear that, NAME-F.
+What kind of problem are you having with accepting a payment?
+Hello, my name is NAME-M.
+One moment please, I will check.
+I am now listening to your conversation with NAME-M.
+Good day, our device is no longer accepting payments.
+NAME-M that is not a problem.
+Oh, that’s why we didn’t receive any payment report by email from yesterday?
+How long does the verification process take?
+The last problem has already been solved, we already know that
+Okay, in what way are we not completely verified?
+It says in the status that I am verified.
+Dear Ladies and Gentlemen,
+I downloaded a book from the public library this morning and loaded it onto the eReader.
+When I opened the book, I received the following message:
+Your eReader is not authorized to open this book
+This book is protected by the PRS-ORG (DRM).
+you need to reactivate your eReader with your PRS-ORG ID via PRS-ORG Digital Editions (PRS-ORG).
+Please visit URL for more information.
+I couldn't find anything on your website.
+Can you please help me further.
+So far I haven't had any problems.
+Best regards
+NAME-M
+EMAIL
+Dear Mr. NAME-M
+my email on the PRS-ORG is
+The title of the eBook is: One Dead.
+I downloaded it from the public library this morning.
+Thank you and have a nice day
+I am sorry for not always answering immediately.
+I am at work and can not answer immediately.
+I will try it this evening when I get home.
+If it still doesn't work, I will contact you again.
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-M.
+Do you want to tell me your first name?
+Hello, my name is NAME-M
+Yes that is correct.
+I can't log into the game properly.
+I am being shown error code 3.0.
+If it helps, I have already restarted the phone and tried to log in via W-LAN and mobile data.
+Unfortunately without success.
+Great, then everything should work again tomorrow.
+Thank you and have a nice evening.
+Yes, please escalate the issue to our team to sort it all for you.
+Thank you, then I will wait for the email and hope that the problem will be fixed soon.
+Otherwise, I don't have anything else.
+Thank you.
+Hello, welcome to PRS-ORG.
+My name is NAME-F, how can I help you?
+Hello NAME-F,
+I used my private email address for the sake of simplicity when registering.
+I would like to change this to EMAIL
+Can you please change that for me?
+Yes
+To which email address should I send the request for the change?
+thank you
+And under which number can I call then?
+I just sent the email.
+Also, please only ask one question at a time so that I don’t get confused.
+I would like to change my account for the payout
+How can I help you today?
+One moment, I will now transfer you to one of our support staff who will take care of your concern.
+Hello, my name is NAME-F.
+One moment please, I am now looking at your conversation with NAME-M.
+I am sorry, it seems like there was an error.
+Hello?
+I would like to change my bank account details, which should be used for the payment.
+How can I do that?
+ok, thank you, I will try it.
+Thank you, if it doesn't work out I will contact you again.
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-N.
+Do you want to tell me your first name?
+Hello, exactly.
+I just wanted to connect my PRS-ORG account with PRS-ORG.
+As you can see on the screenshot, this has probably already been done with another account in the past.
+I was hacked a few months ago - so I assume that the account was connected to PRS-ORG at that time.
+After I realized the hack, I immediately activated the authenticator.
+my PRS-ORG Account is actually "NAME-N"
+That's exactly what I want, but not "poonisch" but "spoonisch" :)
+wonderful
+Perfect, it worked.
+PRS-ORG is now linked.
+Thank you!
+Otherwise, I don't have any other concerns.
+Have a nice weekend!
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-M.
+Do you want to tell me your first name?
+hello.
+I have a problem.
+I pre-ordered the game and bought PRS-ORG and I can’t play the game because I only have the preload.
+Yes, we are still connected.
+But I am so disappointed.
+I buy the game and additionally PRS-ORG and I can't play the game because I only have the preload.
+People who only get PRS-ORG can play the game.
+Is there a compensation for expenses that you can offer?
+I am really disappointed about it.
+NAME-M_TEXT:Alex, Riley’s name, Blair’s virtual assistant 🤖
+Hello, my name is NAME-F.
+One moment please, I will check
+I am now listening to your conversation with NAME-M.
+Good day
+I want to verify the account, but I can't upload the documents (PDF doesn't work).
+It says the documents cannot be uploaded.
+Okay, it's done.
+Thank you for the prompt processing and verification of the account, so that transactions can take place without restrictions.
+Wonderful, thank you.
+That's all for now, thank you!
+Have a nice day and a good weekend.
+NAME-M
+Thank you for contacting the PRS-ORG help.
+My name is NAME-F.
+Do you want to tell me your first name?
+My language in the game does not match the language set in the settings and I can't change it
+Before it was in German, now it is in English
+Yes
+PRS-ORG App
+Originally from PRS-ORG
+But it is currently installed there
+You can't change the language.
+You can only change the audio language.
+But I would like to change the text language
+Hello, my name is NAME-M.
+One moment please, I will check
+I am now listening to your conversation with NAME-M.
+Hello NAME-M
+I couldn't write anything yet.
+How can I specify the account in my account?
+still here?
+Can you delete my account.
+Hello???
+Please delete the main profile and delete the employee profile.
+Then I will create a new account.
+NAME-M, thank you.
+Okay.
+Good day.
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-F.
+Do you want to tell me your first name?
+My name is NAME-M
+I pre-ordered the Ultimate Edition via PRS-ORG and now I have signed up for a PRS-ORG subscription for 15 euros.
+Unfortunately, I am not able to play that game.
+What is the problem?
+It should be playable today.
+Do I get my 15 euros back now?
+You already made this mistake last year and you had a year to prepare for it.
+I don’t understand that!
+How long will it take?
+Where could one claim the money back?
+The 27.09.2021 is already Monday...
+Okay.
+That is not a good job PRS-ORG, really not.
+Thanks for the information.
+Good evening.
+Payments are being declined at the terminal
+Also, please only ask one question at a time so that I don’t get confused.
+How can I help you today?
+Another problem
+I am sorry to hear that, NAME-M.
+What kind of problem do you have with accepting a payment?
+Hello NAME-M, I am NAME-M, your virtual assistant 🤖
+I can help you best if you formulate your questions briefly and clearly, for example "How can I change my email address?
+“.
+In this case, one of our support staff can better help you solve the problem.
+{Alex:Card accidentally charged twice,Card charged despite failed payment,I can't see the transaction,PRS-ORG Pay/PRS-ORG,Other problem}
+One moment, I will transfer you.
+Hello, my name is NAME-M.
+One moment please, I am now looking at your conversation with NAME-M.
+What is still missing for verification?
+I have currently uploaded my ID
+I am at a trade fair right now and need the device
+I am answering right now, I have already uploaded the ID in the app.
+That's all, thank you very much.
+Hello, welcome to PRS-ORG.
+My name is NAME-F, how can I help you?
+Hello NAME-F, yesterday our new 3G terminal arrived.
+Unfortunately it is not working
+After setting up, a test amount of 1,--€ was entered and an "internal error" appeared.
+What can I do?
+PHONENUMBER
+ok
+Yes, I am still here.
+but I have to do what they write first
+everything is done.
+The device seems to be working again.
+Thank you for your effort
+Have a nice day.
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-N.
+Do you want to tell me your first name?
+Hi my name is NAME-M.
+I am unable to log in to the web app.
+I had attached the image.
+I connected my PRS-ORG account with a new PRS-ORG account yesterday.
+I also pre-ordered PRS-ORG via the PRS-ORG account but I can't log in to the web app.
+I don't understand why
+EMAIL
+Old email from the old PRS-ORG account was EMAIL
+But I no longer had access to the email there because it was deleted by t-online due to its age
+Yes, but I pre-ordered PRS-ORG.
+I would also be happy to show them to you
+Why do I not have access?
+I did pre-order it, didn’t I?
+I already know but why is my account not eligible?
+Hello, welcome to PRS-ORG.
+My name is NAME-M, how can I help you?
+I made a change to my account and have questions about it
+When I opened the account, I had entered my personal data as the president of the association.
+Now I want to prevent people from thinking that the account belongs to me.
+Therefore, I have sent them a current account statement and I would like the account to be in the name of PRS-ORG.
+is registered
+The account holder is NAME-M, here I would like to request the Islamic Association Al Farouq e.V.
+as the account holder
+There is no managing director and no business registration!
+How is a non-profit organization
+What do you mean by "valid documents"?
+Please specify exactly.
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-F.
+Do you want to tell me your first name?
+My name is NAME-M
+My PRS-ORG was hacked and I can no longer log in.
+I received a Polish PRS-ORG Customer service Email.
+Then I clicked on the link and then the email address of my account changed.
+When?
+Already before?
+My account was hacked today
+EMAIL
+But it now says that the acc does not exist
+That was the email
+Alex did not change it
+My account has disappeared:(
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-F.
+Do you want to tell me your first name?
+NAME-M would be my first name
+I pre-ordered PRS-ORG on PRS-ORG.
+However, I have now downloaded the Open Beta of PRS-ORG.
+My question now would be, if I can still play the Beta today (Early Access) even though I start it from PRS-ORG?
+However, I bought the game on PRS-ORG.
+Today only pre-order customers can play.
+Are they linked?
+Does that still work?
+That's all for now
+I wish you a nice day
+How do I get to the Rhein Energie Stadium?
+Or the Dynamo Dresden crest?
+It is not to be found on the transfer market like other stadiums!
+There is still a lot missing!
+There are gold, silver and bronze stadiums!
+There is only Gold on the transfer market!
+There are only a maximum of 15 different stadiums on it!
+The rest is missing!
+Silver and Bronze are complete!
+If you make it so big in the game, it should also be available!
+There are almost 100 stadiums and you only have 15 to choose from?
+If nobody can pull them out of the packs, nobody can offer them!
+Maybe they should just release them for free!
+No, thank you!
+Good evening
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-M.
+Do you want to tell me your first name?
+NAME-M
+I am new here and I can't start ALPHANUMERICID.
+A colleague recommended that I empty the cache today.
+I did that and then restarted.
+Then the game still didn't work.
+Then I pressed the repair button (her colleague had also recommended this, but it wasn't possible this morning).
+After the repair, restart the game again.
+The game still won't start (the problem is the same as this morning)
+No, there is no error message.
+I can click on game settings and then a window opens.
+But when I click on "Play", nothing happens
+ok, I did that
+no change.
+It doesn’t work.
+Yes.
+I will look into it.
+Thank you for your support
+Hello, welcome to PRS-ORG.
+My name is NAME-M, how can I help you?
+Good day, I would like to take advantage of the 30 day money back guarantee in PRS-ORG.
+My order number is PHONENUMBER
+The device was supposed to be delivered yesterday, but I couldn't pick it up in person.
+That is why PRS-ORG sent it back to you.
+This is the invoice number PHONENUMBER
+How can I confirm that to you?
+I can give you the tracking number PHONENUMBER
+Thank you for the help
+Thank you if the colleagues should contact me, everything should fit.
+Money January has not been paid out
+I am sorry, it seems like there was an error.
+Also, please only ask one question at a time so that I don’t get confused.
+One moment, I will now transfer you to one of our support staff who will take care of your concern.
+Hello, my name is NAME-F.
+One moment please, I am now looking at your conversation with NAME-M.
+Payments changed from Tuesday to daily January Payments are not available
+ok then wait, I am waiting for the payout, thank you for the first time
+No, thank you
+Changing the account profile via the website does not work.
+It loads and loads and loads and nothing happens
+Hello, my name is NAME-M.
+One moment please, I am now looking at your conversation with NAME-M.
+But we have done it and it has stayed the same
+I have tried with PRS-ORG, PRS-ORG and with PRS-ORG.
+Unfortunately, it is always the same.
+It just keeps loading, a circle that spins and I left it to load for 4 hours and it is still spinning.
+And even if I want to complete my account, it doesn’t work.
+Ok I will try it
+How can I create a new account?
+Okay I will try and let you know if anything goes wrong.
+Thank you for your time and effort.
+No, so far that’s all.
+Thank you
+NAME-M_TEXT:I am sorry, it seems like there was an error.
+NAME-M_TEXT:One moment, I will transfer you to one of our support staff who will take care of your concern.
+Hello, my name is NAME-M.
+One moment please, I will check
+I will now listen to your conversation with NAME-M.
+Hello, we ordered the PRS-ORG PRS-ORG plus printer and we are not sure if the screen part can be removed separately?
+The description looks like this and there is a protective film on the display that says "Slide out".
+Yes
+There is no number there
+It says PHONENUMBER on the packaging.
+We don't have a charging station, it is charged via the cable
+It is the PRS-ORG + Printer
+Can the display be removed?
+How can I help you today?
+Also, please only ask one question at a time so that I don’t get confused.
+I have a question, how can I change my account?
+Can you call me please, my phone number is PHONENUMBER
+Hi NAME-M, I am NAME-M, your virtual assistant 🤖
+I can help you best if you formulate your questions briefly and clearly, for example "How can I change my email address?
+“.
+Okay.
+Our support staff can change your phone number for you.
+One moment, I will transfer you.
+Hello, my name is NAME-M.
+One moment please, I am now looking at your conversation with NAME-M.
+Yes, I have changed my account.
+How can I set it up
+My new bank account
+Yes I thought so
+After that, what can I do next?
+Yes, I am here.
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-N.
+Do you want to tell me your first name?
+Hello, my name is NAME-M
+I am not at home right now and cannot get to the console.
+But I can't get into the Companion App/WebApp.. it looks like the club has been reset
+I am not at home and cannot access the console.
+But I can't get into the Companion App/WebApp.. it looks like the club has been reset
+Can you see if anything has been changed to my account in the last 24 hours?
+No, I am not at home and therefore cannot try the console right now.
+But the web app is not working and the club name there looks different, I think.
+Can you tell me if anything has been changed in the club in the last 24 hours?
+EMAIL
+Okay.. I already changed the PRS-ORG account earlier.
+Do you mean it's because of the maintenance work?
+And the PRS-ORG club was not reset either, was it?
+Okay, thank you.
+Then I will contact you again when I am at the console on Friday and see something different
+I would like to speak to an employee
+I would like to speak to an employee in person.
+NAME-M_TEXT:Hello NAME-M, nice to see you again 🤖 How can I help you?
+NAME-M_TEXT:One moment, I will now transfer you to one of our support staff who will take care of your concern.
+NAME-M_TEXT:I am sorry, I did not understand that.
+Could you please rephrase your question, NAME-M?
+Hello, my name is NAME-M.
+One moment please, I will check
+I am now listening to your conversation with NAME-M.
+Yes, I have been waiting for a week for my account to be verified.
+We can't use the device and I wanted to ask when we can start working with it again.
+we need it urgently
+but why does it take so long.
+they have received all necessary documents
+we have already responded to this email
+I don’t understand that.
+We have submitted everything, right?
+did you receive the documents?
+ok, I'll try it.
+I have contacted you so many times.
+I haven’t received this information yet.
+Yes, it has arrived.
+thanks, no other way you can help me
+we have not had access to the PRS-ORG cash register system for two weeks.
+Why are we not getting any response to our emails?
+NAME-M_TEXT:Hello NAME-F, I am NAME-M, your virtual assistant 🤖
+I can help you best if you formulate your questions briefly and clearly, for example, “How can I change my email address?”.
+NAME-M_TEXT:How can I help you today?
+NAME-M_TEXT:Also, please only ask one question at a time so that I don't get confused.
+NAME-M_TEXT:I am sorry, it seems like there is a problem.
+Hello, my name is NAME-M.
+One moment please, I'll check
+I am now listening to your conversation with NAME-M.
+NAME-M_TEXT:Hold on, I will now transfer you to one of our support staff who will take care of your concern.
+We have not received any response for two weeks and cannot use the system.
+Yes, I am still here.
+I am so unhappy with PRS-ORG.
+We are not getting any support.
+The card payment device has not been replaced to this day
+When will we get it?
+Thank you
+hello please change my email address to EMAIL
+NAME-M_TEXT:I am sorry, it seems like there was an error.
+NAME-M_TEXT:Also, please only ask one question at a time so that I don't get confused.
+Hello NAME-F, I am NAME-M, your virtual assistant 🤖
+I can help you best if you formulate your questions briefly and clearly, for example, “How can I change my email address?”.
+NAME-M_TEXT:How can I help you today?
+NAME-M_TEXT:One moment, I will transfer you to one of our support staff who will take care of your concern.
+Hello, my name is NAME-M.
+One moment please, I will check
+I am now listening to your conversation with NAME-M.
+I no longer have access there because I sold the company.
+old mail address is EMAIL
+I would like to change my business data
+I did that.
+EMAIL
+is my new mail address
+I just sent an email.
+I'd better call you?
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-N.
+Do you want to tell me your first name?
+Hello, my name is NAME-M
+I have a problem, just now I wanted to buy an extension for my PRS-ORG4 and there was a brief interruption.
+Now Paypal has charged me twice for the same expansion.
+So I must have bought this expansion twice.
+can I cancel a purchase?
+thank you
+EMAIL
+EMAIL
+Sorry, the first one was the wrong one.
+oh, then it was the other email, please forgive the confusion.
+Yes, I also noticed that Paypal sent me two invoices with the same value.
+ok
+Thank you for your contact with the PRS-ORG Help.
+My name is NAME-M.
+Do you want to tell me your first name?
+Good day, my name is NAME-M.
+I have a problem with the password recovery of my old account.
+I used the password forget function but the email is not coming.
+The email for the account would be EMAIL
+Great, it worked.
+Thank you for the quick help.
+No, that was everything, thank you.
+I wish you a nice day.
+Hello, welcome to PRS-ORG.
+My name is NAME-M, how can I help you?
+NAME-M - we accidentally closed the cash register for today.
+Now it appears that I can only open one checkout per day.
+How can I overwrite it - we have business tonight.
+PRS-ORG with the app
+PRS-ORG lite
+or it must be PRS-ORG - how can I find out?
+ok, can they still process it today?
+Yes, I just wrote the email.
+If we can open the cash register again, that would be everything for now.
+Thank you

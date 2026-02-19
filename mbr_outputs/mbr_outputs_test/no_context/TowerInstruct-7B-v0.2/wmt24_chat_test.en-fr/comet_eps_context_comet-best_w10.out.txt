@@ -1,0 +1,2091 @@
+Thank you for contacting PRS-ORG Support.
+I’m NAME-M, may I have your first name please to start?
+My first name is NAME-M
+Bonjour, NOM-M.
+J'espère que vous allez bien.
+Comment puis-je vous aider aujourd'hui ?
+Hello!
+I just spoke with one of your colleagues but it didn’t help.
+Pouvez-vous me dire quel problème vous rencontrez ?
+2 days ago I tried to subscribe to PRS-ORG pro several times and it told me it didn't work.
+So I decided to give up.
+I noticed later that you charged me 5 payments of $1.
+I do not want to subscribe
+Je comprends que vous ne soyez pas en mesure de vous abonner à PRS-ORG, mais cela ne fonctionne pas, alors que vous avez été facturé cinq fois 1 $
+Laissez-moi voir ce que je peux faire de mieux pour vous.
+Puis-je connaître l’adresse e-mail enregistrée sur votre compte PRS-ORG ?
+Can you confirm that I am not subscribed?
+My email is EMAIL
+Merci de partager cet email.
+Laissez-moi vérifier les détails et confirmer si vous êtes abonné à PRS-ORG ou non.
+Comme je l’ai vérifié, vous n’êtes pas abonné à PRS-ORG et aucun montant n’a été débité de notre côté pour une quelconque commande.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Thank you for contacting PRS-ORG Support.
+I’m D, can I have your first name please to start?
+NAME-M
+Bonjour NOM-M, j'espère que vous allez bien.
+Comment puis-je vous aider aujourd'hui ?
+Everything is fine.
+However, I am here for a refund
+PRS-ORG credits
+I made a credit purchase of 59.99€
+However, I only got crap content in the packs!
+Bon, voyons comment nous pouvons vous aider concernant votre demande de remboursement.
+Puis-je vous poser quelques questions afin que nous puissions vous aider davantage ?
+I didn't even get a single piece of heritage after opening 60 packs!
+I listen to your questions
+Est-ce que nous parlons d’un remboursement de transactions effectuées dans le jeu ?
+That's right
+Il est regrettable que vous n'ayez pas obtenu ce que vous attendiez des paquets que vous avez ouverts. Cependant, nous tenons à vous préciser que les transactions en jeu ne sont pas remboursables.
+Nous ne sommes pas en mesure de procéder à un remboursement des transactions effectuées en jeu.
+Faites-moi savoir si vous avez d’autres questions pour le moment.
+Sommes-nous toujours connectés ?
+I really didn't get anything good, I am disgusted with my purchase
+really
+Is it not even possible to get new packs?
+It's not normal to spend 60€ and get nothing good, out of 60 packs I didn't even get one single fragment of inheritance
+C’est vraiment triste de savoir que vous n’avez pas obtenu ce que vous attendiez.
+Malheureusement, nous ne pouvons pas répondre à vos demandes aujourd’hui, même si nous souhaitons vous faciliter la tâche.
+Nous vous remercions pour votre compréhension.
+Veuillez me faire savoir si je peux vous aider avec quelque chose d’autre aujourd’hui.
+Je suppose que non.
+Si vous avez besoin d’une assistance supplémentaire, n’hésitez pas à nous contacter à nouveau à l’URL suivante.
+Merci d’avoir pris le temps de nous contacter aujourd’hui.
+Prenez soin de vous !
+Hello, I made an e-book order and I would like to return it and get a refund.
+Do I need to send you my receipt?
+To which email address?
+Thank you for your response.
+EMAIL
+Attack on Titan Colossal Edition
+On 08/04/2021
+Merci pour les informations.
+Je serai plus qu'heureux de vous aider.
+Laissez-moi vérifier le compte et la transaction
+Si vous êtes d’accord, je vais vous mettre en attente pour vérifier votre compte.
+Cela ne devrait pas prendre plus de 2 à 3 minutes.
+Okay
+Merci d'avoir attendu
+La demande de remboursement a été envoyée avec le numéro de référence PHONENUMBER
+Vous recevrez un email lorsque la transaction sera effectuée
+Y a-t-il quelque chose d'autre que je peux faire pour vous aider ?
+No thanks very much for your help:)
+Merci d’avoir contacté PRS-ORG, il a été un plaisir de vous aider aujourd’hui.
+J'espère que vous passerez une excellente journée.
+Sorry to re-contact you but there are 2 volumes missing from the refund email, I would like to be reimbursed for the entirety of my order.
+Ah, nobody's fault, sorry
+Thank you very much for your patience my problem is solved
+Have a good day
+Merci d’avoir contacté PRS-ORG, il a été un plaisir de vous aider aujourd’hui.
+J’espère que vous passerez une excellente journée.
+Hello, my name is NAME-M.
+How can I help you?
+Hello
+I received my PRS-ORG
+but I can't get it configured
+Je suis très désolé d'apprendre cela et je serai heureux de vous aider à régler ce problème.
+I added the wifi network
+and then the PRS-ORG asks me to log in
+Je vais vous guider à travers les étapes.
+Veuillez suivre les étapes ci-dessous.
+Commencez par allumer votre PRS-ORG en utilisant l’interrupteur marche/arrêt situé sur le côté droit.
+Il s’agit du bouton qui ressemble au logo PRS-ORG.
+Cliquez sur le menu déroulant pour sélectionner votre langue préférée, puis appuyez sur « Commencer ».
+Connectez-vous à votre profil PRS-ORG.
+Vous serez redirigé vers les paramètres Wi-Fi afin que vous puissiez connecter votre PRS-ORG à un réseau Wi-Fi.
+Remarque : Votre PRS-ORG ne peut se connecter qu’à des réseaux sécurisés.
+Vous serez invité à mettre à jour votre PRS-ORG.
+Appuyez simplement sur « Télécharger et installer » pour commencer.
+Cela ne prendra que quelques minutes.
+Êtes-vous toujours là ?
+Yes
+there the PRS-ORG went out
+I put him back in charge.
+he may have ran out of battery.
+it turns back on I'll try again
+is it normal that I have to enter my credentials on the PRS-ORG?
+ah yes I see
+Veuillez essayer les étapes suivantes : cela devrait résoudre le problème.
+I thought I could connect it to my phone to retrieve the config
+ok thanks
+Vous êtes bienvenue.
+Y a-t-il quelque chose d’autre que je puisse faire pour vous aider ?
+I have a Error message: PRS-ORG
+but I feel like it's still okay
+I will try a payment
+thank you
+Oui, veuillez essayer de lancer une transaction d’essai.
+Pourriez-vous confirmer si vous avez effectué une transaction de test ?
+Êtes-vous toujours là ?
+Étant donné que je n’ai pas eu de nouvelles de vous depuis un moment, je vais devoir fermer cette conversation. Si vous avez d’autres questions, n’hésitez pas à nous contacter à nouveau et à consulter notre Centre d’assistance en ligne.
+Hello, my name is NAME-M.
+How can I help you?
+Hello NAME-M, nice to meet you.
+I would like to be able to make remote payment requests please
+The app doesn't offer it to me
+Merci de préciser votre souhait.
+Je vais immédiatement créer un dossier expliquant votre souhait d'accepter les paiements à distance et notre équipe compétente activera cette fonctionnalité dans votre profil PRS-ORG et vous en informera sur votre adresse e-mail enregistrée sur PRS-ORG.
+Thank you, understood.
+So, nothing to do on my part?
+Just wait for this to be put in place by your services?
+EMAIL
+Oui, c'est exact.
+Une fois notre équipe compétente l’ayant activé, un e-mail de confirmation vous sera envoyé à l’adresse EMAIL
+Pouvez-vous me dire si je peux vous aider avec quelque chose d’autre aujourd’hui ?
+Hello,
+I just checked with your colleague NAME-M to activate remote payment
+Je serai heureux de vous aider à ce sujet.
+Ne vous inquiétez pas, je vais créer une demande pour activer la fonctionnalité de liens de paiement.
+Do you think the activation can be done within the day?
+Thank you so much, NAME-F!
+I wish you a great day
+Malheureusement, je ne peux pas définir de délai pour le moment, mais cela sera fait dès que possible.
+Merci beaucoup.
+Y a-t-il autre chose que je puisse faire pour vous aujourd’hui ?
+No everything is ok, thank you a million times
+Merci pour notre conversation.
+Si vous avez d’autres questions ou préoccupations, n’hésitez pas à nous contacter via le chat, par e-mail ou par téléphone et visitez notre Centre d’assistance.
+Passez une très bonne journée et prenez soin de vous !
+De plus, une fois la discussion terminée, vous serez invité à remplir un court sondage pour évaluer mon travail et ma prestation durant cette discussion.
+Je serais très reconnaissant si vous preniez une minute pour remplir le sondage.
+Thank you for contacting PRS-ORG Support.
+I am NAME-F, may I have your first name please to start with?
+Hello, my name is NAME-M
+Bonjour, j'espère que vous allez bien, comment puis-je vous aider ?
+There were rewards on PRS-ORG for starting PRS-ORG.
+I would like to know if we have already received them or not, because I don't feel like I have received them.
+And if we haven't received them yet, when will we receive them?
+Je vois que vous nous avez contactés car vous voulez savoir quand vous recevrez votre commande.
+les récompenses ALPHANUMERICID gagnées dans ALPHANUMERICID.
+Est-ce exact ?
+Yes, exactly
+Je tiens à vous informer que toutes les récompenses de la pré-saison sont non-échangeables.
+Les récompenses PRS-ORG gagnées durant la période de pré-saison seront attribuées avant le 13 octobre 2022.
+Les récompenses PRS-ORG doivent être échangées en se connectant à PRS-ORG avant le 14 novembre 2022.
+Les récompenses de la pré-saison PRS-ORG ne sont transférables qu’au sein de la même famille de plateforme.
+Par exemple, si vous gagnez des récompenses sur PRS-ORG, vos récompenses ne seront transférées que vers PRS-ORG (PRS-ORG 4 ou PRS-ORG), et non sur d’autres plateformes.
+Okay, thanks very much!
+So it's perfectly normal that I haven't received them yet, isn't it?
+I haven't changed platforms so there is no problem.
+Oui, vous le recevrez après le 13 octobre 2022
+A part cela, est-ce que je peux vous aider avec quelque chose d’autre ?
+Ok perfect!
+Thank you very much in any case!
+It's all good for me
+Have a great day!
+C'était agréable de vous parler.
+Merci d’avoir contacté l’assistance de PRS-ORG.
+Veuillez nous contacter pour toute question relative au jeu et visitez l’URL pour des conseils et astuces.
+Prenez soin de vous, restez en sécurité.
+Hello, my name is NAME-F, please wait while I review your conversation with NAME-M
+Via the chat
+{ChatWindowButton:Through chat,By phone}
+NAME-M_TEXT:Please wait a few moments while I transfer you to an agent who can assist you with your situation...
+NAME-M_TEXT:How would you like to be contacted by one of our agents?
+Hello
+I need help
+Comment puis-je vous aider aujourd'hui ?
+I have questions about the PRS-ORG terminal
+We are unable to process payments in PRS-ORG and PRS-ORG
+Only Maestro payments work.
+Je suis désolé d'apprendre cela.
+Je ferai de mon mieux pour vous aider à ce sujet.
+Pouvez-vous confirmer l'erreur que vous rencontrez svp ?
+"I want a real interlocutor
+to help me
+Je vais certainement vous aider, NOM-M.
+Pouvez-vous confirmer l'erreur que vous rencontrez lorsque vous effectuez des paiements par carte Visa ou Mastercard ?
+I cannot accept PRS-ORG and PRS-ORG cards
+Dans ce cas, je transmettrai votre demande à notre service compétent qui vous répondra dès que possible.
+Vous serez contacté(e) par courrier électronique.
+Le courriel sera envoyé à votre adresse e-mail enregistrée.
+Dans ce cas, je transmettrai votre demande à notre service compétent et celui-ci vous répondra dès que possible.
+Vous serez contacté(e) par courrier électronique.
+Le courriel sera envoyé à votre adresse e-mail enregistrée.
+NAME-M_TEXT:What can I do for you NAME-F?
+NAME-M_TEXT:For the more complicated ones, I put you in touch with a human.
+NAME-M_TEXT:Hello, I am NAME-M, the virtual assistant of PRS-ORG.
+🤖 I am here to help you with questions about your payment terminal, your deposits and more.
+Hello, my name is NAME-F, thank you for waiting while I review your conversation with NAME-M.
+human
+NAME-M_TEXT:Please wait a few moments while I transfer you to an agent who can help with your situation...
+Bienvenue sur PRS-ORG !
+Je m’appelle NAME-F. Comment puis-je vous aider ?
+Hello, I am leaving to work in Belgium.
+Does my terminal accept international clients?
+Je ferai de mon mieux pour vous aider.
+En plus de vous permettre d’exploiter votre entreprise dans votre pays d’origine, nous souhaitons également vous aider à la développer lorsque vous voyagez à l’étranger.
+Il n’est pas possible de modifier la devise de votre lecteur de carte.
+Vous pouvez accepter des paiements pendant une période limitée en utilisant votre profil PRS-ORG en Belgique.
+I don't understand, will I be able to accept foreign clients?
+Oui, vous pouvez effectuer des transactions en Belgique
+oh well that's all good then?!!!
+it was my last minute worry
+I had someone on the phone the other day, but I can't find the number anymore, can you please tell me it?
+Pourriez-vous me dire si vous souhaitez avoir notre numéro de contact ?
+Nous avons une équipe dédiée aux appels.
+Je vous aiderai certainement avec notre numéro de contact du service client.
+N'hésitez pas à nous appeler au numéro de téléphone indiqué et notre équipe sera heureuse de vous aider.
+Yes
+thank you, have a nice day, goodbye
+Je vous remercie.
+J’espère avoir répondu à toutes vos questions.
+Y a-t-il quelque chose que je puisse faire pour vous aider ?
+Êtes-vous toujours avec moi ?
+NAME-NTEXT:For the more complicated ones, I will put you in touch with a human.
+speak to a human
+NAME-NTEXT:What can I do for you NAME-F?
+NAME-M_TEXT:Please wait a few moments while I transfer you to an agent who can help with your situation...
+Hello, my name is NAME-M, please wait while I review your conversation with NAME-M
+good morning, transactions from monday were not credited to the correct bank account, even though we made the request on thursday 4th may, can you explain this to us?
+3 emails since Thursday 4th May
+Je m’excuse sincèrement pour le désagrément que cela vous a causé.
+Je serai heureux de vous aider aujourd'hui.
+En vérifiant les détails, je peux voir que vos fonds n’ont pas encore été payés sur le compte bancaire.
+Nous constatons que votre compte a été rejeté par votre banque suite à un contrôle de vérification, et aucune donnée n’est désormais rattachée au profil.
+Vous devrez ajouter vos coordonnées bancaires afin que nous puissions traiter vos paiements.
+Did you receive our NAME-M several days ago?
+Désolé, mais nous n’avons pas reçu de paiement.
+Désolé, mais nous n'avons pas reçu de coordonnées bancaires.
+Pourriez-vous me l’envoyer encore une fois, svp ?
+the addition of our bank details did not work, that is why we sent you our NAME-M
+it has been sent twice already...
+Pourriez-vous me dire à partir de quelle adresse e-mail vous envoyez le courriel ?
+does it always send the same email address?
+EMAIL
+Oui, pourriez-vous confirmer votre adresse e-mail à partir de laquelle vous envoyez le courriel ?
+I just sent the rib to l i,NAME-N
+EMAIL
+Merci.
+J’ai reçu l’e-mail, mais il n’y a pas de relevé bancaire dans le courriel.
+Pourriez-vous envoyer un courriel avec une copie récente de votre relevé bancaire ?
+Êtes-vous toujours là ?
+talking to a human
+NAME-M_TEXT:What can I do for you today?
+NAME-M_TEXT:Please wait a few moments while I transfer you to an agent who can help you with your situation...
+NAME-M_TEXT:Glad to see you again, Galileo!
+Hello, my name is NAME-F, thank you for waiting while I review your conversation with NAME-M
+Je serai heureux de vous aider aujourd'hui.
+Pourriez-vous détailler votre préoccupation afin que je puisse mieux vous aider ?
+I have just sent you the documents necessary for the validation of my account
+and i am blocked there it says i must contact you
+I am stuck at step 1/4
+Je suis désolé du problème que vous rencontrez.
+Je ferai de mon mieux pour vous aider à ce sujet.
+Pouvez-vous confirmer ce qui s’affiche à l’étape 4 ?
+Yes
+I had a damaged identity card and it had not been received by your service, so I received the new one that I sent you.
+Merci d’avoir envoyé les documents.
+Soyez assurés que notre équipe dédiée étudiera ce problème et vous recontactera sous peu.
+I hope it will be done quickly because I've been waiting for a while ^^
+Je comprends parfaitement votre inquiétude.
+Je vais également envoyer une note à l'équipe dédiée afin que cela puisse être réglé pour vous dès que possible.
+L’équipe dédiée vous contactera rapidement par e-mail pour vous donner de nouvelles à ce sujet.
+Y a-t-il quelque chose d’autre que je puisse faire pour vous aider ?
+no thank you have a good day
+Je vous remercie !
+Si vous avez des questions, n’hésitez pas à nous contacter via le chat en direct et à consulter notre centre d’assistance en ligne.
+Bonne journée !
+NAME-M_TEXT:To avoid confusion, please also make sure to ask me only one question at a time.
+NAME-M_TEXT:So, what can I do for you today?
+I would like to change the phone number
+NAME-M_TEXT:You can change your phone number at any time.
+Note: you can only save one phone number on your account, but the PRS-ORG application (for the Air terminal) can be installed on different smartphones.
+NAME-M_TEXT:Since modifying a phone number is beyond my virtual assistant skills, I will transfer you to an agent.
+Just a moment please...
+Hello, my name is NAME-F, please wait while I review your conversation with NAME-M
+Si je vous ai bien compris, vous souhaitez changer votre numéro de téléphone portable.
+Est-ce correct ?
+Yes, that's right
+my old number is the PHONENUMBER
+the new PHONENUMBER
+if you need to add the area code, it is PHONENUMBER
+Merci beaucoup.
+Cependant, puis-je vous demander si vous souhaitez changer votre numéro de téléphone portable professionnel ou personnel ?
+Only my personal phone number
+Merci beaucoup.
+Ne pourriez-vous pas mettre la discussion en suspens pendant que je procède aux modifications ?
+Cela ne prendra que quelques minutes au maximum.
+No problem, I have to get back to work.
+I may not be able to respond immediately
+Merci beaucoup pour votre patience.
+Conformément à votre demande, je souhaiterais vous informer que votre numéro de téléphone portable a été modifié avec succès vers PHONENUMBER.
+perfect
+thank you very much
+Je vous souhaite la bienvenue.
+Pouvez-vous me dire si je peux vous aider à quelque chose d’autre aujourd’hui ?
+En outre, une fois la discussion terminée, vous serez invité à remplir un court questionnaire pour évaluer mon travail et ma performance lors de cette discussion.
+Je serais très reconnaissant si vous preniez une minute pour remplir le sondage.
+Je souhaiterais vous informer que j’ai transmis la confirmation de changement de votre numéro de téléphone mobile.
+I have not received the SMS yet
+is the fact that it is a guadeloupe number a problem?
+J’aimerais vous informer que j’ai envoyé un courriel à votre adresse e-mail enregistrée, que vous recevrez sous peu
+Êtes-vous toujours là ?
+Puisque je n’ai pas eu de nouvelles de vous depuis un certain temps, je vais devoir fermer ce chat.
+Bien sûr, si vous avez des questions supplémentaires, n’hésitez pas à consulter notre Centre d’aide URL et à nous contacter auprès de l’assistance PRS-ORG par chat, courrier électronique ou téléphone.
+Merci de votre visite et bonne journée !
+Thank you for contacting PRS-ORG Support.
+I am NAME-M, may I have your first name please to start?
+Hello,
+My name is NAME-M and I have a problem with my PRS-ORG account
+Bonjour, NOM-M
+, c’est sympa de vous rencontrer.
+J'espère que vous allez bien.
+Comment puis-je vous aider aujourd'hui ?
+The pleasure is shared.
+So my problem comes from my PRS-ORG account.
+The email address for this account has been removed by PRS-ORG.
+I no longer have access to my mailbox.
+I would like to put in a new email address, but at the time of changing the address, it asks me to retrieve a code for authentication, a code which will go to the email box that no longer exists...
+Je vais certainement voir ce qu'il est possible de faire pour mettre à jour une nouvelle adresse e-mail sur votre compte PRS-ORG et je ferai de mon mieux pour vous aider à ce sujet.
+Pouvez-vous me donner l’adresse e-mail associée à votre compte PRS-ORG auquel vous n’avez plus accès ?
+So the email address linked to my account is: EMAIL
+Et quelle est la nouvelle adresse e-mail que vous voulez
+sur le compte ?
+This would be the following: EMAIL
+Très bien.
+J’ai mis à jour l’adresse e-mail demandée sur le compte et je vous envoie maintenant un lien de réinitialisation du mot de passe.
+Veuillez modifier le mot de passe et confirmer une fois que vous êtes connecté.
+Well thank you very much for your help.
+I changed the password and I was able to reconnect with the new address and password!
+Thank you so much!
+Je suis heureux d'avoir pu vous aider.
+C’était agréable d’interagir avec vous.
+Vous avez été incroyablement patients et coopératifs.
+Si vous avez besoin d’aide supplémentaire, n’hésitez pas à nous contacter à nouveau.
+Merci d'avoir contacté l'assistance de PRS-ORG.
+Bonne journée !
+Thank you especially for the patience and time you have given me!
+Great end to the day too.
+Thank you for contacting PRS-ORG Support.
+I am NAME-M, may I have your first name please to start?
+Hello, my name is NAME-M
+Salut, NAME-M !
+C’est agréable de vous voir. Comment puis-je vous aider aujourd’hui ?
+So a few days ago I wanted to log into PRS-ORG on PRS-ORG but unfortunately they ask me to reset my password but I can't find my username.
+None of my current email addresses are associated with an account apparently
+I can provide you with my PRS-ORG credentials if needed
+Rassurez-vous, je vais certainement essayer de vous aider à vous connecter.
+Veuillez partager le nom d’utilisateur PS.
+Awesome!
+My PSN is White_PRS-ORG
+Merci.
+Laissez-moi vérifier.
+Thank you so much
+I just hope the associated email address is not that of my ex-girlfriend because I no longer have a way of contacting her.
+Fingers crossed it works 🤞
+J’ai juste vérifié et votre PSN ID est associé à un autre compte PRS-ORG qui a déjà été supprimé et nous ne pouvons pas accéder aux détails du compte supprimé.
+Je voudrais partager avec vous qu'il n'y a rien à craindre.
+Je vous suggère de prendre un peu de temps et de vous remémorer l’adresse e-mail que vous pensez avoir utilisée. Vous pouvez ensuite simplement réinitialiser votre mot de passe pour vous connecter de nouveau à votre compte si vous n’avez pas créé de nouveau compte PRS-ORG associé à ce compte.
+Vous pouvez suivre ce lien une fois pour connaître les étapes permettant de récupérer votre compte.
+URL
+Mmmmh that's strange, I don't think I deleted my account..
+I hope I will one day be able to get it back...
+Essayez de rétablir votre mot de passe en le réinitialisant. Dans le cas contraire, nous devrons le désactiver et cela entraînera la perte de vos progrès.
+Êtes-vous là ?
+Don't worry.
+A human can inform you about the status of your account.
+Hello, my name is NAME-M, please wait while I review your conversation with NAME-M.
+I didn't receive the payment from last week
+Je m’excuse sincèrement pour le désagrément causé.
+that it has a problem I use no longer your application
+Je serai certainement heureux de vous aider à cet égard.
+Pourriez-vous me fournir l’ID de transaction, svp ?
+I have already sent all the documents of my company.
+is my profile I see it was not complete
+What?
+I don't know how to do it
+Je m’excuse pour ce désagrément.
+Notre équipe dédiée travaille sur la même chose.
+Une fois que cela est fait, vous recevrez un e-mail de notre équipe dédiée.
+Je vois que tous vos paiements récents ont été versés sur votre compte PRS-ORG.
+Pourriez-vous me dire si vous avez commandé la carte PRS-ORG ?
+Pouvez-vous me dire si vous avez reçu une carte MasterCard bleue ?
+Le PRS-ORG est offert à nos précieux marchands.
+Vous avez reçu une carte PRS-ORG afin que vous puissiez bénéficier de paiements plus rapides.
+but I want  who is going to send me the payment to my company account
+I already have the receipt but how do I use it
+J’ai vérifié vos coordonnées et vous n’avez pas mis à jour vos coordonnées bancaires.
+Je vais vous guider à travers le processus de mise à jour de vos informations bancaires.
+hello, data exchange impossible?
+when connecting, it is indicated on the device that data exchange is impossible
+exchange of data impossible
+NAME-M_TEXT:Hello, I am NAME-M, the virtual assistant of PRS-ORG.
+🤖 I am here to help you with questions about your payment terminal, your deposits and more.
+NAME-M_TEXT:For the more complicated ones, I put you in contact with a human.
+NAME-M_TEXT:What can I do for you, Jacques-Fabien?
+NAME-M_TEXT:I am sorry NAME-M, I didn't quite understand.
+Could you rephrase your request?
+NAME-M_TEXT:I am sorry NAME-M, I didn’t understand.
+Could you please rephrase your request?
+NAME-M_TEXT:Please wait a few moments while I transfer you to an agent who can assist you with your situation...
+Hello, my name is NAME-F, please wait while I review your conversation with NAME-M
+Je suis vraiment désolé d’apprendre que vous avez rencontré ce problème.
+Je serai heureux de vous aider, laissez-moi voir ce que je peux faire pour vous.
+Dans ce cas, veuillez essayer de redémarrer le lecteur de carte.
+It's already been done
+we also changed the wifi connection
+Merci pour la confirmation.
+Pourriez-vous me fournir le numéro de série de votre appareil, SVP ?
+Vous pouvez le trouver à l'arrière du lecteur.
+PHONENUMBER
+Merci pour la confirmation.
+Pour mieux vous aider, pourriez-vous décrire le problème exact que vous rencontrez ?
+the reader indicates data exchange impossible
+Merci pour la confirmation.
+Puis-je savoir si ce lecteur de carte a été commandé sur notre site Internet ou par un détaillant ?
+buy from a reseller
+we are at a show, we bought it as an emergency, could you help us quickly sp
+Merci pour la confirmation.
+Je suis désolé que vous ayez dû faire face à cette situation.
+Faisons en sorte de régler cela immédiatement !
+Dans ce cas, je transmettrai ce problème à notre équipe compétente qui vous recontactera dès que possible à votre adresse e-mail enregistrée.
+or by phone please to be faster thank you to the PHONENUMBER
+Je suis désolé, notre équipe ne vous répondra que par courrier électronique.
+Je comprends votre situation.
+En attendant, vous pouvez également utiliser les liens de paiement et le code QR.
+Pour chaque transaction réalisée via les liens de paiement, nous appliquons des frais fixes de 2,5 %.
+Il n’y a aucun frais supplémentaires pour utiliser ce service.
+Thank you for contacting PRS-ORG Support.
+I am NAME-F, may I have your first name please to start with?
+NAME-M
+I already had one of your colleagues before
+She asked me to log in with my psn account
+But the account linked with PRS-ORG is the right one but the one with PRS-ORG is the old one that I no longer have access to
+Salut, NOM-M, quel plaisir de te rencontrer.
+Ne vous inquiétez pas, je vais vérifier cela pour vous et vous aider à modifier l’adresse e-mail inaccessible et à vous connecter.
+Pourriez-vous m'aider avec votre adresse e-mail ou votre identifiant PSN ?
+lié au compte PRS-ORG ?
+The PRS-ORG account linked with the PSN is ALPHANUMERICID
+However, the PRS-ORG account linked with PRS-ORG
+At the following email address: EMAIL
+And I no longer have access to that address
+Veuillez essayer de vous connecter au compte PRS-ORG en utilisant les identifiants de la première partie (PSN) via le lien ci-dessous et veuillez me le faire savoir une fois que vous êtes connecté.
+URL
+I click on impossible to connect?
+Dans la fenêtre contextuelle qui s’affiche, choisissez de vous connecter avec votre compte PRS-ORG, compte PRS-ORG, compte PRS-ORG ou compte PRS-ORG.
+Une fois que vous aurez choisi, une autre fenêtre contextuelle apparaîtra pour la plate-forme que vous avez choisie.
+Connectez-vous en utilisant les informations de connexion de ce compte.
+Êtes-vous connecté maintenant ?
+platforms
+the only daughter of NAME-M.
+but I was already in discussion with dunia
+hello again NAME-F.
+Sorry, I made a false move
+Bonjour encore une fois !
+Aucun problème
+Je vous disais que nous pouvions réinitialiser votre appareil pour résoudre le problème, mais vous aurez besoin de votre mot de passe Wi-Fi pour le configurer à nouveau.
+Est-il possible pour vous de l’obtenir ?
+No, but with my PRS-ORG account, is that not enough?
+Non, vous devez tout d’abord le reconnecter au réseau Wi-Fi.
+Avez-vous par hasard l'application PRS-ORG installée sur votre ordinateur ?
+no
+but what does this problem mean?
+Can it prevent the e-reader from working?
+Il est étrange qu'elle s'endorme soudainement.
+Cela peut être dû à un problème logiciel.
+Nous pouvons essayer de la réinitialiser pour résoudre le problème, et ensuite, une fois que nous l’aurons configurée, le logiciel sera mis à jour.
+Si rien ne fonctionne, nous pouvons remplacer votre appareil sous garantie avec plaisir.
+Si vous ne disposez pas du mot de passe wifi, nous pouvons le configurer via votre ordinateur, avec l'application PRS-ORG.
+Pouvez-vous essayer de l'installer depuis ce lien ?
+but what is the risk of losing books?
+because I have almost 600!!!
+I could do it, but not until tomorrow.
+so I download the app and I will contact you back?
+Bien sûr :) Vous pouvez nous contacter à nouveau à tout moment, ou nous pouvons également prendre contact par e-mail
+I'm sorry, I have to leave you for tonight.
+thank you for your help.
+I think I will receive a report of our discussion on EMAIL
+Bien sûr, merci beaucoup pour votre temps.
+Bonne nuit !
+I prefer following up by email if possible.
+Thank you very much and good evening.
+Bien sûr !
+Merci.
+Je vous enverrai le lien et les instructions pour réinitialiser votre eReader et installer l'application.
+Bonne journée !
+give me your email address so I can stay in touch with you!
+So what can I do for you NAME-M?
+Hello, I am NAME-M, the virtual assistant of PRS-ORG.
+🤖 I am here to help you with questions about your payment terminal, your deposits and much more.
+For the more complicated ones, I put you in touch with a human.
+I want to talk to a human
+Don't worry.
+A human can advise you about the status of your account.
+Hello, my name is NAME-F, thank you for waiting while I review your conversation with NAME-M.
+hello I have a serious problem with your service
+Comment puis-je vous aider aujourd'hui ?
+is it possible to delete my old trusted phone
+I no longer have access to my old phone
+Je suis désolé d’apprendre que vous avez rencontré ce problème.
+Je serai heureux de vous aider, laissez-moi voir ce que je peux faire pour vous.
+the person before you didn't understand anything
+Pourriez-vous confirmer que vous ne pouvez pas transférer de l'argent ?
+I can't do anything
+I am blocked
+please delete my old trusted phone
+Merci pour la confirmation !
+Pourriez-vous confirmer si vous avez accès à votre numéro de téléphone portable enregistré ?
+Yes
+Merci pour la confirmation !
+Je suis désolé que vous ayez dû affronter cette situation.
+Faisons en sorte que cela soit réglé immédiatement !
+Soyez assuré que je transmettrai votre demande à notre équipe dédiée, qui vous contactera dès que possible à l'adresse e-mail enregistrée pour vous donner des nouvelles.
+Êtes-vous toujours là ?
+Si aucune réponse n’est reçue, je serai obligé de clore la conversation.
+Puisque je n’ai pas de nouvelles de vous depuis un certain temps, je vais devoir fermer cette discussion.
+Bien sûr, si vous avez d'autres questions, n'hésitez pas à consulter notre Centre d'assistance.
+Merci de votre passage et bonne journée !
+Please hold for a moment while I transfer you to an agent who can help with your situation...
+Hello, my name is NAME-M, please wait while I review your conversation with NAME-M.
+hello 👋
+my PRS-ORG is not working
+could someone help me please PHONENUMBER
+I am in Geneva
+my tablet is connected to the internet
+Désolé ; nous avons une équipe dédiée qui traite les appels.
+Si vous souhaitez parler à quelqu'un par téléphone, veuillez nous appeler au  PHONENUMBER.
+Pourriez-vous confirmer le problème exact que vous rencontrez ?
+it is marked on the screen
+Unable to connect
+PRS-ORG cannot work without an internet connection
+please check that you are connected and try again
+when I am connected to the internet
+Merci de l’avoir signalé.
+Je suis désolé d'apprendre cela, laissez-moi voir ce que je peux faire pour vous.
+Pourriez-vous me fournir le numéro de série de votre appareil, SVP ?
+Vous pouvez le trouver au dos du lecteur.
+The number you gave me doesn't work
+Juste pour confirmer, vous parlez du système de point de vente ?
+PHONENUMBER
+Merci de nous avoir fourni le numéro de série de votre appareil.
+Essayons quelques étapes pour vérifier si l’appareil fonctionne correctement.
+Pourriez-vous confirmer le niveau de la batterie de l’appareil, s’il vous plaît ?
+100 percent
+it's still on charge
+Merci pour ces informations.
+Comme je l’ai constaté, vous nous avez contactés depuis l’appli PRS-ORG et la première étape de dépannage consiste à fermer votre appli PRS-ORG. Vous perdrez ainsi cette conversation.
+Dans ce cas, je vous enverrai les étapes à votre adresse e-mail enregistrée.
+Veuillez suivre les étapes.
+Nous devons répéter cette opération trois fois pour être sûrs d’avoir tout fait ; cela aide généralement.
+Si vous rencontrez le même problème après avoir suivi les étapes de dépannage, veuillez nous contacter à nouveau et nous serons heureux de vous aider.
+Êtes-vous toujours là ?
+Étant donné que je n’ai pas eu de nouvelles de votre part depuis un certain temps, je vais devoir fermer cette conversation. Si vous avez d’autres questions, n’hésitez pas à nous contacter à nouveau et à consulter notre Centre d’aide en ligne.
+Thank you for contacting PRS-ORG Support.
+I am NAME-M, may I have your first name please to start?
+Un plaisir de vous rencontrer, NAME-M.
+J'espère que vous allez bien.
+Comment puis-je vous aider aujourd'hui ?
+Hello, I am fine, thank you.
+I purchased the PRS-ORG ultimate game on PRS-ORG and was unable to download it (beta version) during the open beta weekend.
+In fact I don't even see it in my PRS-ORG library.
+I contacted PRS-ORG support but they couldn't do anything and told me to contact you.
+It is noted as compatible only with the PRS-ORG in my library.
+While the product title and description clearly state that it is cross gen (PRS-ORG + PRS-ORG)
+Ah d’accord.
+Je vais certainement clarifier vos doutes concernant la version PRS-ORG.
+En fait, le jeu est disponible en deux éditions.
+L'une est destinée aux joueurs qui l'ont acheté pour leur console spécifique.
+L’autre version prend en charge les versions PRS-ORG et PRS-ORG.
+I'm not sure I understand.
+Is there 2 versions of the ultimate edition??
+I didn't see that on the store...
+Cependant, le jeu n'a pas encore été publié.
+Vous ne pourrez donc pas télécharger le jeu complet avant le 19 novembre 2021.
+Aucune édition finale ne comporte qu'une seule version qui inclut à la fois la version PRS-ORG et PRS-ORG.
+I just wanted the version that was compatible with my PRS-ORG pro and the day I bought a PRS-ORG I always wanted to be able to play it without having to buy a second one again
+Ok so if I understand correctly I bought the right version (ultimate)
+But I don't see it in my library
+Is it because it hasn't been officially released yet?
+And that I missed the beta??
+Le jeu n'a pas encore été lancé.
+Il sortira le 19 novembre.
+Si votre transaction a été réussie, vous pourrez télécharger le jeu lors du lancement mondial.
+Veuillez ne pas vous inquiéter à ce sujet.
+Okay, it works.
+However, the ultimate version said that there would be an early access
+Is this still planned??
+Je suis désolé, NOME-M, mais la période d’accès anticipé a déjà pris fin le 10 octobre.
+Vous pouvez trouver plus de détails ici : URL
+Faites-moi savoir si vous avez d'autres questions à me poser ?
+I am going to read this article
+Thank you
+Le plaisir est à moi, NAME-M.
+Si vous avez besoin d’une autre aide, vous pouvez toujours nous contacter et nous serons heureux de vous aider.
+Merci d'avoir contacté l'assistance de PRS-ORG.
+Passez une belle journée.
+A bientôt et prenez soin de vous !
+Hello
+Thank you for contacting PRS-ORG Support.
+I’m NAME-F, may I have your first name please to start with?
+Bonjour, j'espère que vous allez bien.
+Comment puis-je vous aider aujourd'hui ?
+My game is being hacked by your script and I would like to know how to stop it
+Pourriez-vous confirmer le jeu auquel vous faites référence ?
+PRS-ORG
+Merci de confirmer.
+Veuillez me laisser un instant pour vérifier cela avec mon équipe.
+Pourriez-vous m'aider en me fournissant votre adresse e-mail enregistrée afin de récupérer votre compte ?
+No, I don’t prefer it, my game is already screwed up enough.
+I just want to make sure that my parts are not polluted by your script in-game.
+That when a player is advertised as fast in his stats, he is indeed fast, that your game takes into account orders and does not force my players to go the opposite direction, pass the ball to the opponent or let him pass without reacting
+I want to be able to play this game, at the moment it is impossible.
+Je comprends votre inquiétude.
+Je voudrais vous informer qu'il pourrait s'agir d'un bug.
+Bien que je souhaite vraiment vous aider ici.
+Cependant, je vous demande de bien vouloir signaler cela sur le forum de PRS-ORG afin que les responsables aient des informations sur ce problème et puissent agir en conséquence.
+y peut prendre les mesures appropriées.
+En outre, je vais également mettre en ligne un commentaire sur ce point conformément à vos instructions.
+Except that I don't have access to your forums
+Since your moderators don't like it when people say there is a script in play
+Je vais vérifier ça pour vous.
+Pourriez-vous m’aider en me fournissant votre adresse e-mail enregistrée afin de récupérer votre compte ?
+Well, it's no big deal
+I will just resell your game and play something else, have a good day
+Thank you for contacting PRS-ORG Support.
+I am NAME-M, may I have your first name please to begin with?
+Good evening
+I just subscribed to PRS-ORG but I chose the wrong platform.
+I would like to use my right of withdrawal.
+Thank you
+My name is NAME-M
+Bonjour NOM-M, j'espère que vous allez bien.
+Comme je l'ai compris, vous avez acheté le PRS-ORG sur un compte PRS-ORG erroné.
+Est-ce juste ?
+Thank you
+This is the correct PRS-ORG account but I have selected the PRS-ORG APP platform.
+I then took out a subscription, but on the PRS-ORG platform.
+Ducoup I have two subscriptions.
+I would like to use my withdrawal for the PRS-ORG APP
+Selected*
+Ne vous inquiétez pas !
+Je ferai certainement de mon mieux pour vous aider à résoudre le problème.
+Pouvez-vous me donner l’adresse e-mail associée à votre compte PRS-ORG, s’il vous plaît ?
+EMAIL
+Merci !
+Oui, je peux voir que vous avez acheté le PRS-ORG - Récurrent 1 mois sur ALPHANUMERICID
+Voulez-vous un remboursement pour cela ?
+Yes, I wish to withdraw, thank you
+ure
+Bien sûr
+J’ai effectué le remboursement et vous recevrez sous peu un courriel à ce sujet.
+Il peut prendre 7 à 10 jours ouvrés pour que le montant soit crédité sur votre mode de paiement.
+À part cela, est-ce que je peux vous aider avec quelque chose d’autre ?
+Thank you so much
+Everything is good!
+Goodbye, thank you
+Je vous remercie !
+Je suis heureux de pouvoir vous aider aujourd'hui.
+C'était une expérience formidable de vous servir, j'espère que vous avez eu le même sentiment.
+Merci d'avoir contacté PRS-ORG.
+Bonne journée, restez en sécurité et prenez soin de vos proches.
+Pour toute information future, vous pouvez nous contacter en visitant l’URL.
+Bonne journée à tous et restez en sécurité.
+Please hold for a moment while I transfer you to an agent who can help you with your situation...
+Hello, my name is NAME-M, please wait while I review your conversation with NAME-M.
+Printing doesn't work
+However, it is connected via Bluetooth
+Je vois que cela vous préoccupe.
+Laissez-moi vous aider tout de suite.
+Je suis désolé d'apprendre cela.
+Laissez-moi voir ce que je peux faire pour vous.
+Je suis désolé de vous dire que je ne peux voir les détails que vous nous avez transmis dans le profil de l’employé.
+J’aimerais vous demander de vous connecter au profil du compte principal afin que nous puissions voir les détails et que nous puissions vous aider au mieux.
+Je m’excuse sincèrement pour le désagrément causé.
+Je vous remercie grandement de votre compréhension et de votre patience.
+I don't understand what you are saying
+My printer is not working though the light on the printer is on and in Bluetooth mode
+My iPad settings are set to Bluetooth.
+Dans ce cas, je vous enverrai les étapes par courrier électronique afin que vous puissiez effectuer ces étapes de dépannage.
+Pourriez-vous confirmer votre adresse e-mail, svp ?
+EMAIL
+When I log out of the app and want to log back in
+He told me that my password is false
+Why,
+Dans ce cas, je vous demanderais de réinitialiser votre mot de passe une seule fois et je serai heureux de vous aider.
+Veuillez vous connecter au tableau de bord en recherchant l’URL sur PRS-ORG et en vous connectant avec votre adresse e-mail et votre mot de passe.
+Êtes-vous toujours là ?
+Comme je n’ai pas eu de nouvelles de votre part depuis un certain temps, je vais devoir fermer ce chat.
+Bien sûr, si vous avez d'autres questions, n'hésitez pas à nous contacter à nouveau et à consulter notre centre d'assistance en ligne.
+He told me that the password cannot be changed
+There are too many mati problems
+Can you give me a phone number to contact the help center?
+I have too much time.
+I am losing too much time
+Bien sûr, je serai heureux de partager le numéro de téléphone de notre équipe de support.
+Veuillez appeler au  PHONENUMBER et notre équipe sera heureuse de vous aider.
+Je m'excuse de ne pas avoir été en mesure de résoudre votre problème.
+The number is not correct
+Too many figures
+Veuillez appeler au numéro de téléphone PHONENUMBER et notre équipe sera ravie de vous aider.
+Pourriez-vous essayer avec ce numéro svp ?
+Hello, I have two PRS-ORG terminals (3G + wifi) that no longer work
+The first message on the screen: device blocked please contact support
+The second one does not detect Wi-Fi networks
+So, what can I do for you today?
+To avoid confusion, please also be sure to ask only one question at a time.
+Hello NAME-M, I am NAME-M, the virtual assistant of PRS-ORG at your service.
+It will be easier for me to help you if your questions are short and precise, for example "How can I change my email address?
+".
+When this message appears on the device screen, it unfortunately means that it is faulty.
+Its safety system has activated and the block is irreversible.
+As I am not able to process this type of request, I will put you in contact with an agent who can carry out the necessary checks and find a solution to your problem.
+Just a moment please...
+Hello, my name is NAME-M, please wait while I review your conversation with NAME-M.
+Merci de votre patience.
+Si je vous ai bien compris, vous avez deux lecteurs de cartes, dont un est bloqué et l’autre rencontrait des problèmes de connectivité.
+Est-ce correct ?
+Exactly
+Blocked reader serial number PHONENUMBER
+Serial number of readers with connectivity issues PHONENUMBER
+Merci de confirmer.
+Tout d’abord, puis-je demander si l’affichage du lecteur de carte bloqué change après avoir appuyé sur le bouton X rouge ?
+Yes I have the communication mode message, press C to exit
+Merci.
+Cela confirme que le lecteur est certainement bloqué.
+Malheureusement, un appareil une fois bloqué ne peut plus être utilisé.
+Cela arrive souvent lorsque l’appareil a été laissé tomber ou lorsqu’il est défectueux pour diverses raisons, comme un changement soudain de température ou si une carte a été insérée de manière incorrecte pour une transaction.
+Pouvez-vous me dire si le lecteur a été confronté à l'un de ces phénomènes ?
+Not to my knowledge
+On arriving in the morning, we discovered that the device was not working,
+Je comprends.
+Cependant, la bonne nouvelle est que si l'appareil est encore sous garantie, nous le remplacerons par un nouvel appareil, gratuitement.
+Je comprends.
+Malheureusement, un appareil une fois bloqué ne peut plus être utilisé.
+Toutefois, la bonne nouvelle est que si l'appareil est encore sous garantie, nous le remplacerons par un nouvel appareil, gratuitement.
+Selon les informations que vous avez fournies, le lecteur de carte est toujours sous la période de garantie d'un an.
+Cela signifie que je serais heureux de le remplacer pour vous.
+Cela signifie que je serais heureux de le remplacer pour vous.
+Hello, I just bought a PRS-ORG Libra 2 e-reader and I anticipated it by putting all my books on the PRS-ORG app, yesterday.
+I also sorted them by collection.
+How do I synchronize my PRS-ORG application with the reader?
+or with my URL account, where the files do not appear?
+thank you for your help;
+Salut !
+Merci d’avoir visité PRS-ORG.
+Nous sommes là pour vous aider.
+Juste pour vérifier, puis-je avoir votre adresse e-mail associée à PRS-ORG, ainsi que le titre des livres que vous avez achetés récemment ?
+EMAIL
+registered yesterday
+Merci.
+Si je peux vous demander, les livres que vous essayez de synchroniser sont-ils achetés auprès de PRS-ORG ou des livres téléchargés ?
+downloaded elsewhere
+Merci.
+Pour synchroniser les livres de votre compte sur votre liseuse.
+Il vous suffit de vous connecter à votre compte PRS-ORG sur la liseuse.
+You never answered my last message; in your opinion have you been thorough with your assistance and were you helpful?
+I will let you answer your own question.
+Have a good day
+Nous nous excusons sincèrement mais il semblerait que vous n’ayez pas reçu notre dernier message.
+Cependant, pour synchroniser les livres de votre compte sur votre liseuse.
+Il vous suffit de vous connecter à votre compte PRS-ORG sur votre liseuse.
+NAME-M_TEXT:Please wait a few moments while I transfer you to an agent who can help you with your situation...
+Hello, my name is NAME-M, please wait while I review your conversation with NAME-M
+my terminal does not accept payments
+it refuses transactions
+Je m'excuse sincèrement pour le désagrément que cela vous a causé.
+Je serai heureux de vous aider aujourd'hui.
+J’ai vérifié les détails et je vois que votre profil a atteint la limite de pré-validation de 5000 £.
+Une vérification est requise pour maintenir la sécurité de votre compte.
+Une fois cela fait, nous serons heureux de vous aider à profiter des avantages des transactions illimitées.
+if we have achieved
+If we have reached the limit how can I access unlimited transactions
+Pour valider votre profil, veuillez répondre à l’e-mail qui vous a été envoyé aujourd’hui avec les documents demandés.
+We scanned the QR code and submitted the ID
+this morning
+what should we do to remedy the situation
+Pourriez-vous également répondre à l'e-mail afin que l'équipe puisse accélérer le processus ?
+I don't have any other mails
+and when I go to the site they ask for no other documents than my identity card
+L'e-mail vous a été envoyé aujourd'hui à 06:54.
+Je vous suggère de vérifier votre messagerie électronique ou votre dossier de courrier indésirable, vous pourriez avoir reçu des e-mails de notre part.
+NAME-M I see
+I just saw it
+Oui, veuillez répondre à l’e-mail, car des documents supplémentaires sont demandés.
+Êtes-vous toujours là ?
+Puisque je n’ai pas de nouvelles de vous depuis un certain temps, je vais devoir fermer cette discussion.
+Si vous avez d'autres questions, n'hésitez pas à nous contacter de nouveau et à consulter notre centre d'assistance en ligne.
+unknown_issue
+Today is October 30, 2021 and the ebook is Heat Wave in the City by NAME-M
+I bought an eBook this morning.
+My receipt number is PHONENUMBER.
+I searched a lot to find out how to download my purchase.
+When I download it, I have a PRS-ORG.
+How do I get my eBook (pdf or epub)?
+bonjour, merci
+Le livre est protégé par une licence et c’est pourquoi il n’est possible de télécharger que le fichier .acsm
+I don't understand.
+A license, OK, but I bought the book.
+How can I read this book then?
+À partir de quel appareil souhaitez-vous lire ?
+On my PRS-ORG Tab tablet.
+But I also want to keep it on my computer so I can reread it later.
+Vous devez d’abord télécharger l’application PRS-ORG pour PRS-ORG, vous connecter et le livre apparaîtra. Et pour l’ordinateur, l’application de bureau PRS-ORG
+I don't like that at all.
+I don't want to have any other apps on my tablet.
+I really don't see where the problem is.
+I read with the PRS-ORG app I bought and I don't want any other.
+Qu'est-ce que la gestion des droits numériques (DRM) ?
+Le DRM empêche la copie ou la redistribution non autorisée des livres électroniques afin de protéger les droits des auteurs et des éditeurs.
+Si vous avez téléchargé un livre protégé par PRS-ORG, vous recevrez une licence sous la forme d’un fichier .acsm avec votre livre.
+Vous utiliserez ensuite PRS-ORG (PRS-ORG) pour ajouter le contenu protégé par DRM à votre eReader.
+si vous souhaitez le lire sur votre tablette Samsung, la seule façon de le faire est d'utiliser l'application PRS-ORG. Si vous n'êtes pas satisfait, je peux vous offrir un remboursement
+Okay, thank you for the explanation.
+But how to do this in practice?
+I have an account with PRS-ORG
+Cliquez sur le bouton « Fichier » en haut de l’écran.
+Cliquez sur Ajouter à la bibliothèque.
+Une fenêtre de navigation s’affichera.
+Recherchez le fichier .acsm :
+Sur un PC : Cliquez sur le menu déroulant « E-Books » et sélectionnez « Message du serveur de contenu Adobe ».
+Sur un PRS-ORG : Cliquez sur Options, puis sur Fichiers ACSM.
+Sélectionnez le fichier .acsm, puis cliquez sur Ajouter.
+Le livre s'ouvrira.
+Cliquez sur « Bibliothèque » dans le coin supérieur gauche de l’écran pour retourner à l’écran d’accueil d’ADE.
+Thank you for the explanations.
+I'm watching all of this and will get back to you later.
+Je suis à votre service.
+Merci d'avoir contacté PRS-ORG, c'était un plaisir de vous aider aujourd'hui.
+J’espère que vous passerez une excellente journée.
+account opening verification
+NAME-M_TEXT:Oh, an error occurred.
+Let me find a human who can handle that for you.
+NAME-M_TEXT:What can I do for you NAME-M?
+NAME-M_TEXT:For the more complicated ones, I put you in contact with a human.
+NAME-M_TEXT:Hello, I am NAME-M, the virtual assistant of PRS-ORG.
+🤖 I am here to help you with questions about your payment terminal, your deposits, and more!
+Hello, my name is NAME-M, please wait while I review your conversation with NAME-M
+Je serai heureux de vous aider aujourd'hui.
+Laissez-moi voir ce que je peux faire pour vous.
+Hello
+A professional account was opened, I was not aware of it.
+My last 2 bills were paid into this account.
+It is still under verification, how can I check it?
+Je serai heureux de vous aider aujourd'hui.
+Laissez-moi voir ce que je peux faire pour vous.
+I do not want the pro account but want to transfer the money on it to my current pro account.
+Is it possible?
+Vous devrez d’abord activer votre profil pour accéder au compte PRS-ORG.
+Pour l’activer, connectez-vous à l’application PRS-ORG.
+Si vous n’avez pas encore activé votre profil, vous serez invité à le faire.
+Saisissez votre numéro de téléphone portable dans le champ correspondant et appuyez sur « Demander le code ».
+Vous recevrez votre code d’activation par SMS dans quelques secondes.
+Entrez-le dans la case correspondante et cliquez sur « Confirmer le code ».
+only on the app?
+Vous pouvez également l'activer depuis votre tableau de bord.
+Lorsque vous vous connectez à votre profil PRS-ORG, une boîte en haut de l’écran vous invite à activer votre profil.
+Cliquez sur « Activer ».
+Entrez votre numéro de téléphone mobile dans le champ correspondant et cliquez sur « Demander le code ».
+Vous recevrez dans quelques secondes votre code d’activation de 4 chiffres par SMS.
+Entrez-le et cliquez sur « Confirmer le code ».
+I don't see "Click to Activate."
+Je suis vraiment désolé d’apprendre cela. Pourriez-vous vérifier une fois depuis l’application PRS-ORG et me faire savoir si l’option y est visible ou non ?
+Thank you for contacting PRS-ORG Support.
+I am NAME-M, may I have your first name please to start?
+Hello, this is NAME-M.
+Are you a bot or a real person?
+Bonjour NOM-M, j’espère que vous allez bien.
+Je vois que vous nous avez contactés concernant un problème de connexion avec le compte E play de PRS-ORG.
+, pourriez-vous développer un peu ça ici ?
+Yes, but that is not my concern regarding PRS-ORG.
+My problem is that I have a PRS-ORG subscription on my email address that I linked to my PSN account, however I can not download PRS-ORG games on the PRS-ORG, they ask me to subscribe to PRS-ORG
+when I already have a PRS-ORG subscription
+Veuillez ne pas vous inquiéter, j’ai compris votre préoccupation et je vais vous aider dans ce cas.
+Est-ce le compte EMAIL de PRS-ORG, monsieur ?
+Yes, that is the one.
+Merci pour les précisions monsieur.
+Pouvez-vous me dire si vous essayez de télécharger les jeux sur PC ou sur console ?
+I'm trying to download PRS-ORG games on PRS-ORG but it doesn't work, they suggest me to take another PRS-ORG subscription
+on the PRS-ORG store*
+while I have already linked my PRS-ORG account to my PRS-ORG account
+on my PRS-ORG
+Très bien, monsieur.
+Laissez-moi vous expliquer pourquoi cela ne fonctionne pas.
+Monsieur, l’abonnement PRS-ORG qui figure sur votre compte est valable uniquement pour
+Monsieur, l’abonnement PRS-ORG figurant sur votre compte ne concerne que les jeux PC.
+Pour souscrire à l'abonnement PRS-ORG sur la console, vous devrez acheter l'abonnement depuis la console elle-même via le magasin PRS-ORG.
+Votre abonnement PC prendra fin dans les prochains jours et, après avoir joué aux jeux sur PC, vous pourrez acheter le PRS-ORG depuis la console.
+Pour chaque plate-forme, l'abonnement PRS-ORG est différent, monsieur.
+J'espère que ces informations vous seront utiles, monsieur.
+Can't I have the PRS-ORG subscription on my PRS-ORG and my PC at the same time?
+Non, vous devrez l'acheter séparément pour le PC et la console.
+How do I switch my PRS-ORG subscription from PC to PRS-ORG?
+can you do it for me?
+Pour cela, vous devrez acheter un abonnement PRS-ORG auprès de PRS-ORG.
+Via the chat
+Hello, my name is NAME-M, please wait while I review your conversation with NAME-M
+NAME-M_TEXT:Please wait a few moments while I transfer you to an agent who can help with your situation...
+{ChatWindowButton:Through chat,By phone}
+NAME-M_TEXT:How would you like to be contacted by one of our agents?
+Hello
+Bonjour NOM-F, comment puis-je vous aider aujourd'hui ?
+I spoke with one of your advisors yesterday regarding payments made on April 15th
+He told me he would be on my account by the end of the day yesterday
+But I still have nothing
+This involves 3 payments of CHF 2000
+Je suis très désolé d'apprendre cela.
+Pouvez-vous me laisser deux minutes pour vérifier rapidement certains détails ?
+Yes, thank you
+Merci de votre patience.
+Comme je l’ai vérifié, le dernier paiement que vous avez reçu était aujourd’hui.
+Si le montant n’apparaît pas sur votre compte bancaire, soyez assuré qu’il vous sera transféré avant la fin de la journée.
+Thank you very much
+Merci de votre compréhension et de votre patience.
+Y a-t-il autre chose que je puisse faire pour vous aujourd’hui ?
+No it's perfect thank you
+Je vous remercie.
+Merci d’avoir contacté PRS-ORG.
+Bonne journée.
+Pour toute question supplémentaire, veuillez consulter notre Centre d’aide ou nous contacter par chat, e-mail ou téléphone.
+Nous prenons en compte tous les commentaires de nos commerçants et nous travaillons constamment à l’amélioration des services, en fonction des suggestions que nous recevons.
+Pour cette raison, une fois la conversation terminée, vous serez invité à remplir un bref sondage pour évaluer mon travail.
+Je serais très reconnaissant si vous pouviez prendre une minute pour partager votre expérience.
+Thank you for contacting PRS-ORG Support.
+I am NAME-M, may I have your first name please to start with?
+Hello, my name is NAME-N, a player on PRS-ORG
+Salut NOM-M, j'espère que vous allez bien aujourd'hui.
+Quel plaisir de vous rencontrer.
+Comment puis-je vous aider aujourd'hui ?
+I had some questions since the last patch note this week.
+I no longer receive any bonus points in Predator Lobby.
+Compared to other friends who are higher ranked (top 10), and who receive bonus points, I would like to ask if other players experience the same difficulties and if you have a solution to remedy this (it is very difficult to gain points with only ranking points)
+Merci beaucoup de partager votre préoccupation avec moi.
+Je comprends votre préoccupation concernant le fait que vous n’ayez pas reçu de points bonus dans le lobby du prédateur.
+Est-ce exact ?
+Yes, and this has been the case since the last update.
+The point calculation seems to be incorrect.
+Let's say a game won with 8 kills while fighting current predators does not give any kill points, which was not the case before the last patch.
+Several players in my circle report the same malfunctions.
+Merci pour la confirmation.
+Soyez assuré que je ferai de mon mieux pour vous aider dans votre préoccupation.
+Pourriez-vous me fournir votre adresse e-mail associée à votre compte PRS-ORG ?
+EMAIL
+Merci beaucoup de partager l'adresse e-mail.
+Pourriez-vous me laisser quelques minutes pour vérifier votre problème avec mon équipe ?
+Of course, I stay online.
+Merci beaucoup d’être resté connecté et d’avoir été si patient avec moi tout au long de la discussion.
+Je vous en suis vraiment reconnaissante.
+Le problème que vous rencontrez ressemble à un bug.
+J'aimerais pouvoir vous aider à résoudre ce problème ici même, cependant je suis désolé de devoir vous dire que nous ne pouvons pas apporter de modifications à votre contenu dans le jeu (pour garantir la sécurité).
+Je vous demande de bien vouloir mentionner ce problème sur le forum PRS-ORG afin que les gestionnaires de la communauté puissent s’en apercevoir et vous donner des nouvelles à ce sujet.
+Je vais également signaler ce problème de mon côté comme vous l’avez dit afin que cela puisse être pris en charge.
+I found it strange.
+I had to report it because it hinders my progression in maintaining my ranking in the classified list.
+I will make a post on the forum as you advise.
+Thank you for your response and I wish you a good day.
+hello, I can't connect my phone to the terminal with bluetooth
+Yes, always
+Hello, I am NAME-M, the virtual assistant of PRS-ORG.
+🤖 I am here to help you with questions about your payment terminal, your deposits, and more!
+For the more complicated ones, I put you in touch with a human being.
+So what can I do for you NAME-M?
+For troubleshooting instructions for your device, that is here: URL.
+Are you still having problems with your Air terminal?
+{ChatWindowButton:Yes, always,No, thanks}
+Hello, my name is , please wait while I review your conversation with NAME-M.
+I'm sorry about that.
+Please hold a moment while I transfer you to an agent who can assist you...
+Nous sommes désolés d’apprendre que vous rencontrez des problèmes de connectivité.
+Pourriez-vous me fournir le numéro de série de votre appareil SVP ?
+Vous pouvez le trouver à l'arrière de l'appareil.
+Êtes-vous toujours là avec moi ?
+PHONENUMBER
+Yes
+Merci pour votre confirmation.
+Juste pour confirmer, vous utilisez le lecteur de cartes PRS-ORG.
+Yes
+PRS-ORG + printer
+Merci de confirmer cela.
+Le PRS-ORG a été conçu pour être facile à utiliser et mobile.
+Son écran tactile et sa conception autonome vous permettent d'accepter les paiements par carte où que vous soyez.
+Vous pouvez commencer à accepter des paiements sans vous connecter au Bluetooth.
+yes, I know, but I would like to connect my phone to the terminal
+Aucun problème, vous pouvez vous connecter au réseau Wi-Fi PRS-ORG avec votre appareil.
+Voulez-vous que je vous aide à savoir comment connecter le lecteur à votre appareil mobile via Wi-Fi ?
+Êtes-vous toujours là ?
+no I want it in Bluetooth
+Je comprends votre inquiétude, mais le PRS-ORG ne dispose pas de fonction Bluetooth.
+Ne vous inquiétez pas, si vous me communiquez la raison du problème de connexion Bluetooth, je peux ouvrir une demande auprès de l'équipe compétente pour activer la connexion Bluetooth.
+Êtes-vous toujours là avec moi ?
+Puisque je n’ai pas de nouvelles de votre part depuis un certain temps, je vais devoir fermer cette conversation.
+Si vous avez d'autres questions, n'hésitez pas à nous contacter à nouveau et à consulter notre centre d'assistance en ligne.
+talk to someone
+NAME-M_TEXT:I'm sorry NAME-F, I did not understand.
+Could you please rephrase your request?
+talk to someone?
+talk to someone
+NAME-M_TEXT:Nice to see you again, NAME-F!
+NAME-M_TEXT:What can I do for you today?
+NAME-M_TEXT:I am sorry NAME-F, I didn't quite understand.
+Could you rephrase your request?
+NAME-M_TEXT:Please wait a few moments while I transfer you to an agent who can help with your situation...
+Hello, my name is NAME-F, thank you for waiting while I review your conversation with NAME-M
+Je serai heureux de vous aider aujourd'hui.
+Pourriez-vous préciser votre préoccupation afin que je puisse mieux vous aider ?
+I made a request by email last week (PHONENUMBER).
+I am still without an answer to this day
+you say you normally respond in 1 working day, we are far from that
+Je suis désolé du problème que vous rencontrez.
+Je ferai de mon mieux pour vous aider à ce sujet.
+Pouvez-vous me laisser deux minutes pour vérifier les détails dans notre système ?
+Merci beaucoup pour votre patience.
+J’ai vérifié les détails pour vous, et je peux voir que l’affaire a déjà été transférée à l’équipe concernée, et qu’ils sont déjà en train de s’occuper de votre cas.
+L’équipe vous contactera sous peu par courrier électronique pour vous donner des nouvelles.
+Je comprends que cela soit important pour vous.
+J’ajoute également une note pour vous indiquer que vous nous avez de nouveau contactés pour obtenir une mise à jour.
+Y a-t-il quelque chose d’autre que je puisse faire pour vous aider ?
+It would have to be done before Friday evening.
+Je comprends votre préoccupation et j’ai déjà ajouté tous les commentaires nécessaires à l’équipe dédiée afin que le processus puisse être accéléré pour vous.
+Soyez assuré que l’équipe traitera ce cas aussi rapidement que possible.
+Êtes-vous toujours là ?
+Vu que je n’ai pas eu de votre part de nouvelles depuis un certain temps, je vais devoir fermer ce chat.
+Si vous avez d'autres questions, n'hésitez pas à nous contacter à nouveau et à visiter notre centre d'assistance en ligne.
+Talk to an agent
+NAME-M_TEXT:Hello, I am NAME-M, the virtual assistant of PRS-ORG.
+🤖 I am here to help you with questions about your payment terminal, your deposits, and more.
+NAME-M_TEXT:For the more complicated ones, I put you in touch with a human being.
+NAME-M_TEXT:Please wait for a moment while I transfer you to an agent who can assist you with your situation...
+Hello, my name is NAME-F, thanks for waiting while I review your conversation with NAME-M
+NAME-M_TEXT:So what can I do for you JEAN-CHRISTOPHE?
+Je serai heureux de vous aider.
+Pourriez-vous préciser votre demande ?
+My printer is broken.
+Is it guaranteed
+Je suis désolé d’apprendre que vous rencontrez un problème avec votre appareil.
+Je ferai de mon mieux pour vous aider.
+Pourriez-vous me fournir le numéro de série de votre appareil s'il vous plaît ?
+Vous pouvez le trouver au dos du lecteur.
+I am not in front of the device
+Je comprends.
+Toutefois, pour remplacer ou effectuer des opérations, nous aurons besoin que l'appareil soit physiquement présent.
+I will be in front of it tonight.
+Oui, bien sûr.
+Une fois que vous avez le dispositif avec vous.
+N’hésitez pas à nous contacter à nouveau.
+Until what time in the evening?
+Nous sommes à votre disposition du lundi au vendredi (09:00 - 20:00) et le week-end (09:00 - 18:00).
+Je vous remercie pour votre temps et votre effort.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+NAME-M_TEXT:For the more complicated ones, I will put you in touch with a human.
+Hello, I can not connect my Sum Up device to my phone
+NAME-M_TEXT:What can I do for you NAME-M?
+NAME-M_TEXT:Hello, I am NAME-M, the virtual assistant of PRS-ORG.
+🤖 I am here to help you with questions about your payment terminal, your deposits, and more.
+Yes, always
+NAME-M_TEXT:You will find the troubleshooting instructions for your device in our Help Centre.
+NAME-M_TEXT:Are you still having problems with your Air terminal?
+{ChatWindowButton:Yes, always,No, thanks}
+NAME-M_TEXT:I'm sorry about that.
+NAME-M_TEXT:Please wait for a moment while I transfer you to an agent who can help with your situation...
+Hello, my name is NAME-F, thanks for waiting while I review your conversation with NAME-M
+Je suis désolé d'apprendre que vous rencontrez un problème avec votre appareil, je ferai de mon mieux pour vous aider.
+Pourriez-vous me fournir le numéro de série de votre appareil s’il vous plaît ?
+Vous pouvez le trouver à l'arrière du lecteur.
+PHONENUMBER
+Merci de nous avoir fourni ces informations.
+Essayons quelques étapes pour vérifier si l’appareil fonctionne correctement.
+Juste pour confirmer, rencontrez-vous des problèmes de connectivité ?
+not a connectivity problem, but I am connecting to a different number than the one I gave when I opened the account
+my current number is PHONENUMBER
+could this be the problem
+can I call you?
+Merci pour ces informations.
+Je suis désolé pour le retard de réponse.
+Merci pour les informations.
+Je suis désolé du retard de réponse.
+Le numéro n’est pas un problème : vous pouvez vous connecter à n’importe quel téléphone si le PRS-ORG ou le smartphone est compatible.
+Can you call me or give me a number to reach you?
+Oui, bien sûr.
+Si vous souhaitez contacter notre équipe de support par téléphone, veuillez nous appeler au NOM_DU_TELEPHONE.
+Nous sommes à votre disposition du lundi au vendredi (9h00 - 20h00) et le week-end (9h00 - 18h00).
+Je vous remercie de votre temps et de votre effort.
+Y a-t-il quelque chose d’autre que je puisse faire pour vous aider ?
+Puisque je n’ai pas eu de nouvelles de vous depuis un certain temps, je vais devoir fermer cette discussion.
+Bien sûr, si vous avez d'autres questions, n'hésitez pas à nous contacter par chat ou par courrier électronique et à consulter notre Centre d'assistance.
+Hello, my name is NAME-F, thank you for waiting while I review your conversation with NAME-M.
+hello, I have deposits that are not arriving in my account.
+they remain in the available funds.
+What should I do?
+Je suis désolé, je n'ai pas compris votre préoccupation, pourriez-vous détailler ?
+Parlez-vous des paiements ?
+the amount of my cash deposits does not reach my bank account.
+I find them in my account in the available balance section
+in my PRS-ORG account
+Vos paiements sont transférés avec succès sur votre carte PRS-ORG.
+Vos paiements sont transférés avec succès vers votre carte PRS-ORG.
+À l’avenir, si vous souhaitez recevoir vos paiements sur votre compte bancaire, je vous demande de modifier votre fréquence de paiement.
+Si vous le souhaitez, je peux aussi le changer pour vous.
+where can I find the PRS-ORG card?
+Nous vous avons délivré un PRS-ORG, vous devriez le recevoir sous peu.
+ok so I won't have the money in my bank account until I have activated the card?
+Oui, vous ne pouvez transférer des fonds de votre carte vers votre compte bancaire que lorsque vous avez activé votre carte.
+ok how long to receive it?
+Vous recevrez votre carte PRS-ORG dans un délai d’une semaine.
+Don't worry.
+A human being can inform you about the status of your account.
+Hello, my name is NAME-F, thank you for waiting while I review your conversation with NAME-M.
+Hello,
+All documents for the verification of my account have been sent.
+Can you tell me when this will be resolved?
+Because I absolutely need my terminal in the morning.
+Thank you!
+Je serai heureux de vous aider aujourd'hui.
+Pouvez-vous me laisser deux minutes pour vérifier les détails dans notre système ?
+Yes, thank you
+Merci beaucoup pour votre patience.
+J’ai vérifié les détails pour vous et j’ai pu voir que vous nous avez envoyé les documents et qu’ils ont déjà été transférés à l’équipe dédiée pour vérification.
+Soyez assuré que l'équipe vous répondra via votre adresse e-mail enregistrée dès que possible.
+Great, when do you think it will be active?
+Because I really need it today, as soon as possible
+Je comprends parfaitement votre situation.
+Je ne peux pas vous donner de délai précis, mais soyez assurés que nous travaillons dessus aussi rapidement que possible.
+Je comprends que cela soit important pour vous.
+J’ajoute également une note indiquant que vous nous avez de nouveau contactés pour obtenir une mise à jour.
+Y a-t-il quelque chose d'autre que je puisse faire pour vous aider ?
+No, that's nice.
+Let's hope it goes quickly.
+Thank you and have a great day
+Je vous remercie !
+Si vous avez des questions, n’hésitez pas à nous contacter via le chat en direct et à consulter notre centre de support en ligne.
+De plus, une fois la conversation terminée, vous serez invité à remplir un bref sondage pour évaluer mon travail et ma prestation lors de cette conversation.
+Je serais très reconnaissant si vous preniez une minute pour remplir le sondage.
+Bonne journée !
+NAME-M_TEXT:Nice to see you again, NAME-F!
+I would like to speak to an advisor
+NAME-M_TEXT:Please wait a few moments while I transfer you to an agent who can help you with your situation...
+Comment puis-je vous aider aujourd'hui ?
+Hello, how are you?
+My situation is that I want to delete this account
+Je vais bien, merci de vous préoccuper.
+Nous avons une équipe compétente pour cela.
+Je transmettrai votre demande à l’équipe concernée afin qu’elle supprime le compte pour vous.
+And how will I know it has been deleted?
+From which day?
+L’équipe concernée vous enverra un e-mail de confirmation à votre adresse e-mail enregistrée.
+L’équipe concernée vous enverra un e-mail de confirmation à l’adresse e-mail enregistrée une fois que le profil aura été supprimé.
+Pouvez-vous me dire si je peux vous aider avec quelque chose d’autre aujourd’hui ?
+Perfect.
+Because I received an email saying they were going to send me a card and I don't want that.
+Le PRS-ORG vous est envoyé en guise de remerciement, car vous êtes un commerçant apprécié.
+Cependant, une fois le compte supprimé, vous pouvez jeter la carte PRS-ORG.
+I understand, but how are they going to delete my account, I don't understand why they would send me the card.
+Oh, okay
+Pouvez-vous me dire si je peux vous aider avec quelque chose d’autre aujourd’hui ?
+Then I will wait for the account deletion email.
+Thank you so much for helping me
+No, thank you.
+Je vous souhaite la bienvenue !
+J’espère avoir répondu à vos questions.
+Y a-t-il quelque chose d'autre que je puisse faire pour vous aider ?
+{ChatWindowButton:Through chat,By phone}
+{ChatWindowButton:Through the chat,By phone}
+Good morning, sir, madam
+Via the chat
+NAME-M_TEXT:Unfortunately, I did not understand your request.
+Please select one of the following options.
+NAME-M_TEXT:How would you like to be contacted by one of our agents?
+NAME-M_TEXT:Please wait a few moments while I transfer you to an agent who can help with your situation...
+Hello, my name is NAME-M, please wait while I review your conversation with NAME-M
+Hello, I would like to know if it is possible to have a USB cable to recharge my payment terminal in the vehicle!
+Today, the only cable I received, allows me to charge only at home.
+Then, I have two drivers on the vehicle, how can I create multiple profiles so that each driver's transactions are separate?
+Je vais certainement vous aider avec cela.
+Tout d’abord, pourriez-vous me dire si vous utilisez le lecteur de carte ?
+Je vais certainement vous aider avec cela.
+Tout d’abord, pouvez-vous me dire si vous utilisez un lecteur de carte Air Card ?
+I use the big one, which I bought for 100 euros I think
+PRS-ORG 3G payment terminal and printer
+Merci pour la précision.
+Pour utiliser plusieurs lecteurs de cartes, vous pouvez créer des profils d’employés.
+Les profils d'employés vous permettent de créer un profil distinct pour chaque employé afin que vous puissiez comparer les historiques de ventes de chacun et gérer l'accès à certaines fonctionnalités.
+Les profils des employés disposent de connexions uniques avec leur propre adresse e-mail et mot de passe.
+Cependant, toutes les ventes seront payées sur le compte bancaire enregistré sur votre profil principal.
+Les employés ne peuvent pas modifier ou consulter les informations du profil, ni ajouter de compte bancaire distinct.
+Vous trouverez cet article utile: URL
+Thank you.
+They have to log in every time they start the service to introduce their profiles?
+C’est exact.
+Vos employés devront créer leur nouveau profil et se connecter à l’aide de leurs identifiants, et ils pourront alors commencer à accepter les paiements.
+Great, and what about the charging cable for the payment terminal?
+Si je peux vous le demander, utilisez-vous un câble USB C ?
+I have a universal head on one side and an electrical socket on the other
+I don't have a usb cable to charge in the car
+Je vous demanderai de bien vouloir acheter un câble USB-C auprès d’un tiers.
+Ils sont utilisés pour de nombreux téléphones PRS-ORG plus récents.
+Vous pouvez l'utiliser pour charger le lecteur de carte dans votre voiture.
+Je vous demande de bien vouloir acheter un câble USB-C auprès d’un tiers.
+Ils sont utilisés pour de nombreux téléphones PRS-ORG plus récents.
+Vous pouvez l'utiliser pour charger le lecteur de carte dans votre voiture.
+ok
+Merci de votre compréhension et de votre patience.
+Y a-t-il autre chose que je puisse faire pour vous aujourd’hui ?
+Why are my payments still pending?
+What can I do for you today?
+Happy to see you again, NAME-F!
+Your account is currently suspended, which means that the funds are temporarily withheld by our security services.
+This area is beyond my skills as a virtual assistant.
+I will therefore put you in touch with an agent so that you can discuss the unlocking procedure.
+One moment please...
+Hello, my name is NAME-F, thank you for waiting while I review your conversation with NAME-M.
+Je suis désolé d'apprendre cela.
+Je vois que cela vous préoccupe, laissez-moi vérifier cela tout de suite.
+Please unblock my payments, it is quite urgent, can you do that for me
+I am in financial difficulty and I had to sell one of my properties which I wanted to cash out through PRS-ORG
+But I didn't know that you were going to cause me trouble too.
+Je comprends votre inquiétude et je peux imaginer votre situation.
+Please help me by unlocking the payment I am waiting for
+Je m'excuse sincèrement pour le désagrément occasionné.
+Étant donné que vous ne recevez pas vos paiements, dans cette situation, je devrai créer et soulever un dossier pour vous et le transmettre à notre service compétent, qui examinera le problème et vous recontactera dès que possible à l’adresse e-mail enregistrée.
+Soyez assurés que, étant donné qu’il s’agit d’un dossier prioritaire, ils devraient le traiter aussi rapidement que possible.
+Je vous remercie de votre temps et de votre effort.
+Y a-t-il quelque chose d'autre que je puisse faire pour vous aider ?
+Why can’t I reach you by phone?
+I made more than 10 calls throughout the day with no response from your services
+Je suis désolé pour cela.
+Nous sommes à votre disposition du lundi au vendredi (09:00 - 20:00) et le week-end (09:00 - 18:00).
+Please help me by unblocking the suspension of the payment
+Please NAME-F help me out by unblocking this situation
+Oui, je ferai de mon mieux pour résoudre votre problème.
+J’ai déjà parlé de cela à mon équipe.
+My morale has been cut since this morning following this news I don't know what to do anymore
+Ils vous répondront dans les meilleurs délais.
+I thought I was doing the right thing, but ultimately it is not a good idea to accept payment via PRS-ORG
+Je comprends à quel point cela est important pour vous.
+L’équipe dédiée étudiera cela et veillera à ce que cela soit résolu, soyez-en assuré.
+Comme je n’ai pas eu de nouvelles de votre part depuis un certain temps, je vais devoir fermer cette conversation.
+Bien sûr, si vous avez d'autres questions, n'hésitez pas à nous contacter via le chat ou par e-mail et à consulter notre Centre d'assistance.
+Merci de votre passage et bonne journée !
+Hello, I am NAME-M, the virtual assistant of PRS-ORG.
+🤖 I am here to help you with questions about your payment terminal, your deposits and more.
+Hello
+My terminal is blocked, it says device blocked.
+I would like to have the number to see the steps to follow
+So what can I do for you NAME-M?
+For the more complicated ones, I put you in touch with a human being.
+When this message appears on the device screen, it unfortunately means that it is faulty.
+Its safety system has been activated and the block is irreversible.
+As I am not able to process this type of request, I will put you in contact with an agent who can perform the necessary checks and find a solution to your problem.
+Just a moment please...
+Hello, my name is NAME-M, please wait while I review your conversation with NAME-M.
+Je suis désolé d’apprendre ce problème.
+Je serai heureux de vous aider de la meilleure façon possible.
+Pouvez-vous SVP me fournir le numéro de série de votre appareil ?
+Vous pouvez le trouver à l'arrière du lecteur.
+PHONENUMBER
+Merci de nous avoir fourni ces informations.
+Pouvez-vous appuyer sur la touche « X » du lecteur de carte et me dire si le message d'erreur change ?
+Yes
+He wrote communication mode
+Press to exit
+Merci de nous avoir fourni ces informations.
+Pouvez-vous confirmer si quelque chose de inhabituel s'est produit avec le lecteur de carte récemment ?
+No, nothing, I have not used my player for 2 weeks
+Merci de nous avoir clarifié cela.
+Lorsque votre lecteur de carte affiche le message « Appareil bloqué », cela signifie que l'appareil a été endommagé.
+Cela arrive souvent lorsque l'appareil est tombé, mal manipulé, surchauffé pendant la charge ou exposé à des conditions météorologiques extrêmes telles que des températures très élevées ou très basses.
+Nous pouvons certainement vous fournir un remplacement, car l’appareil est sous garantie.
+Pourriez-vous me fournir l'adresse de livraison complète à laquelle le lecteur de carte doit être livré ?
+My player is stored in a bag and I don't use it every day.
+My address is the ADDRESS.
+Thank you
+Mr NAME-M
+Assurez-vous de l'utiliser dans quelques jours afin d'éviter qu'il reste inactif pendant une période plus longue.
+Parfois, en restant dans un état inactif pendant une longue période, le lecteur de carte est bloqué.
+Je comprends votre inquiétude.
+Merci.
+Je vous enverrai l'étiquette de retour pour le périphérique bloqué à votre adresse e-mail enregistrée afin que vous puissiez nous renvoyer le périphérique.
+Le nouvel appareil vous sera livré sous 1 à 2 jours.
+En attendant, vous pouvez également utiliser les liens de paiement.
+Pour chaque transaction effectuée via des liens de paiement, nous appliquons des frais fixes de 2,5 %.
+Il n’y a pas de frais supplémentaires pour utiliser ce service.
+Thank you for contacting PRS-ORG Support.
+I am NAME-M, may I have your first name please to start?
+Hello, my name is NAME-F
+Bonjour NOM-F.
+Je suis heureux de vous rencontrer.
+J'espère que vous allez bien aujourd'hui.
+Comment puis-je vous aider aujourd'hui ?
+I paid for a monthly subscription about an hour ago and I am unable to start PRS-ORG.
+The message is: This title may have been downloaded by another user who owns the game.
+Sign in to another account or restart the game
+I changed my email address.
+I don't know if that was the problem.
+Nobody?
+Rassurez-vous, je vais essayer de vous aider à accéder à votre PRS-ORG pour lequel vous avez payé.
+Veuillez indiquer votre adresse e-mail associée au compte PRS-ORG
+afin que je puisse localiser votre compte.
+Thank you
+EMAIL
+Nous vous souhaitons la bienvenue !
+J’ai envoyé un e-mail de vérification, veuillez vérifier.
+Cet e-mail porte comme objet « Vérifier la propriété de votre compte PRS-ORG », et vous l’avez peut-être reçu dans votre boîte de réception ou dans votre boîte de spam.
+Here is the code 509875
+Merci !
+Je vois que PRS-ORG est activé sur votre compte.
+Vous vous connectez au compte à l'aide du client PRS-ORG ou vous essayez d'accéder directement au jeu ?
+Je ne veux pas vous presser, mais sommes-nous toujours connectés ?
+How do I change the Library in my folder?
+Hello
+EMAIL
+I just opened my account 10 minutes ago
+Merci pour les informations.
+Je serai plus que heureux de vous aider.
+Je suis heureux de faire votre connaissance, NOME-F.
+J'espère que vous passez une bonne journée !
+Veuillez me laisser quelques minutes pour trouver votre compte.
+I entered the wrong library.
+I should have entered PRS-ORG, North Quebec, Rouyn-Noranda
+can you make the change please
+Merci beaucoup pour votre patience.
+Juste pour connaître la situation, qu’est-ce que vous voulez dire en parlant de changer votre bibliothèque ?
+Faites-vous référence à la bibliothèque sélectionnée dans PRS-ORG ou à quelque chose de similaire ?
+Yes,
+what I selected when I opened my PRS-ORG account
+I am not capable of changing myself
+Merci beaucoup, NAME-F.
+Si vous utilisez PRS-ORG sur votre liseuse et que vous avez sélectionné la mauvaise bibliothèque, vous devez vous déconnecter de votre compte PRS-ORG sur la liseuse, puis vous reconnecter à nouveau.
+Après avoir fait cela, vous serez en mesure de sélectionner la bibliothèque correcte cette fois-ci.
+I tried
+They say my email address is already there
+Merci beaucoup.
+Quelles sont les étapes que vous avez suivies pour vous déconnecter de votre compte PRS-ORG sur votre lecteur électronique ?
+deconnection
+Merci beaucoup.
+Comme si vous aviez cliqué sur « Plus > Paramètres > Comptes », et c’est là que vous avez vu cette option ?
+Yes
+I'll try again
+Thank you
+Thank you for contacting PRS-ORG Support.
+I am NAME-M, may I have your first name please to begin with?
+Un plaisir de vous rencontrer, NAME-M.
+J'espère que vous allez bien.
+Comment puis-je vous aider aujourd'hui ?
+So it's more of a request...
+I find the game does not meet my expectations
+I pack a lot...
+I put money in
+And I'm not satisfied with the return
+A gesture from you could be useful
+Je suis désolé d’apprendre que vous êtes mécontent de votre paquet.
+Je prendrai certainement votre avis en compte à ce sujet.
+Many of us think the same thing.
+I find it disturbing
+I wanted to tell you anyway even if it doesn't change much
+Le packluck est automatiquement généré de manière aléatoire par les serveurs et il est absolument impossible de le manipuler de notre côté.
+Vous pouvez obtenir n'importe quoi à partir des paquets.
+C’est la raison pour laquelle nos équipes ont également introduit des packs de prévisualisation pour permettre à nos équipes de savoir ce que vous obtiendrez à l’intérieur de ce pack.
+Mais je vais prendre note de vos commentaires à ce sujet et je vous assure que tous les commentaires fournis par nos joueurs sont précieux et que nous faisons tout notre possible pour s’assurer qu’ils soient entendus.
+Toute notre conversation est documentée et examinée.
+Donc, soyez assurés que vos commentaires parviendront aux bons interlocuteurs
+It's all a matter of luck, I see...
+Thank you very much for your attention anyway
+Merci beaucoup pour votre patience et votre coopération.
+Si vous avez besoin d’une autre aide, vous pouvez toujours nous contacter et nous serons heureux de vous aider.
+Merci d'avoir contacté l'assistance de PRS-ORG.
+Passez une belle journée.
+A bientôt et prenez soin de vous !
+change my email address
+NAME-M_TEXT:Hello NAME-N, I am NAME-M, the virtual assistant of PRS-ORG at your service.
+It will be easier for me to help you if your questions are short and precise, for example “How can I change my email address?”
+".
+NAME-M_TEXT:To avoid confusion, please also make sure to ask me only one question at a time.
+NAME-M_TEXT:So, what can I do for you today?
+NAME-M_TEXT:You can change your email address at any time.
+Note: you can have only one email address per account, which is used as both your login identifier and the address for receiving PRS-ORG reports.
+NAME-M_TEXT:As this is beyond my virtual assistant skills, I will put you in contact with an agent.
+Just a moment please...
+Hello, my name is NAME-M, please wait while I review your conversation with NAME-M
+Si je comprends bien, vous souhaitez changer votre adresse e-mail ?
+Hello, yes
+In fact, when I registered I made a mistake in my email address
+So when I get contacted I don't see anything
+Je suis désolé d'apprendre cela, je vais vérifier ça pour vous.
+the EMAIL address does not exist for info
+You will need to put EMAIL
+Je comprends votre inquiétude.
+J’aimerais changer votre adresse e-mail.
+Malheureusement, pour des raisons de sécurité, nous ne pouvons pas modifier ces détails via le chat.
+Veuillez nous envoyer un courriel depuis votre adresse e-mail enregistrée avec votre ancienne et votre nouvelle adresse e-mail, puis appelez-nous.
+L’équipe dédiée s’occupera de modifier cela pour vous.
+L’adresse email est EMAIL, puis appelez-nous au numéro de téléphone PHONENUMBER.
+Notre équipe compétente examinera cela pour vous et modifiera les détails pour vous.
+Ok but the email address provided does not work
+D’accord, dans ce cas, je vous demande de bien vouloir nous envoyer un courriel à l’adresse EMAIL
+L’équipe vous aidera ensuite.
+Je comprends que cela puisse prendre du temps, mais nous devons suivre ces étapes pour nous assurer que votre profil est aussi sécurisé que possible.
+no worries
+Merci de votre compréhension.
+Y a-t-il autre chose que je puisse faire pour vous aujourd’hui ?
+No, that will be fine thank you, have a good day
+Merci beaucoup, je vous souhaite la même chose !
+Si c’est tout pour aujourd’hui, je tiens à vous informer de cela.
+Si vous avez d'autres questions, n'hésitez pas à consulter notre Centre d'assistance ou à nous contacter par chat ou par courrier électronique.
+Merci d’avoir contacté PRS-ORG.
+Bonne journée !
+Hello, my name is NAME-F.
+How can I help you?
+Hello, transactions are being declined on the payment terminal.
+The customer is highly solvent…why isn’t this going through?
+Je suis très désolé d'apprendre cela, laissez-moi voir ce que je peux faire pour vous.
+J'ai vérifié votre compte, et je peux constater qu'il n'est malheureusement pas entièrement vérifié, et que vous avez atteint la limite de pré-vérification de 5000 livres, ce qui explique le refus des transactions.
+Je vous suggère de vérifier votre messagerie électronique ou le dossier de SPAM.
+Vous avez peut-être reçu des emails de notre part.
+But that dates back to our August 2022 demonstration!!
+We are in March 2023 and our demonstration is tonight!!
+I don't understand!
+I am very disappointed with your services!
+Je suis désolé, mais nous ne pouvons effectuer de transactions qu’une fois la vérification terminée.
+Je comprends votre inquiétude.
+Cependant, une vérification est nécessaire pour maintenir la sécurité de votre compte.
+what verification??
+Une vérification est requise pour maintenir la sécurité de votre compte.
+Une fois cela fait, nous serons heureux de vous aider à profiter des avantages des transactions illimitées.
+We are an association with only a few events per year.
+We have put in place your services because we no longer have any argen distributors
+money in our commune and we cannot make any transactions, this is a big loss for our association...
+Les documents requis sont au nom de la personne pour laquelle le profil a été créé.
+yes it's me!!
+NAME-F born on 25/11/1980!
+J'ai envoyé un courriel à votre adresse e-mail enregistrée. Veuillez vous référer au message et répondre au courriel avec les informations demandées.
+Veuillez nous envoyer les documents par courrier électronique car cela est géré par une autre équipe.
+Y a-t-il quelque chose d’autre que je puisse faire pour vous aider ?
+Comme je n’ai pas eu de nouvelles de votre part depuis quelque temps, je vais devoir fermer cette discussion. Si vous avez d’autres questions, n’hésitez pas à nous contacter à nouveau et à consulter notre centre d’assistance en ligne.
+Hello, I just opened an account and I made a mistake with the email address.. .ch instead of PRS-ORG
+NAME-M_TEXT:How would you like to be contacted by one of our agents?
+{ChatWindowButton:Through chat,By phone}
+NAME-M_TEXT:You can change the
+email address at any time.
+Note: you can only have one of
+only one email address per account, which serves as both your
+login identifier and
+address for receiving PRS-ORG reports.
+NAME-M_TEXT:Since this is beyond my skills as a virtual assistant, I will put you in contact with an agent.
+Just a moment please...
+Hello, my name is NAME-M, please wait while I review your conversation with NAME-M
+Thank you
+Merci de votre patience.
+Je serai heureux de modifier votre adresse e-mail.
+Pourriez-vous me fournir votre nouvelle adresse e-mail, svp ?
+EMAIL
+Merci pour les informations.
+Pourriez-vous me laisser deux minutes pour effectuer les modifications ?
+Should I leave the account?
+Veuillez patienter, je ferai les modifications pour vous.
+Merci de votre patience.
+Comme vous l'avez demandé, j'ai modifié votre adresse e-mail et je vous ai envoyé une confirmation.
+thank you, I received it, great!
+Nous vous souhaitons la bienvenue !
+J’espère avoir répondu à vos questions.
+Y a-t-il quelque chose d’autre que je peux faire pour vous aider ?
+everything is going well, thank you and I greet you cordially
+Vous êtes bienvenue.
+Si vous avez des questions, n’hésitez pas à nous contacter à nouveau et à consulter notre centre d’assistance en ligne.
+Merci d’avoir contacté PRS-ORG et bonne journée !
+Hello,
+I want to log in to my account using my email address.
+However, when I enter my address and password, I am asked to log in with PRS-ORG to merge the accounts.
+The problem is that I unsubscribed from PRS-ORG and my account was deleted.
+I find myself in a dead end.
+Thank you,
+NAME-F
+EMAIL
+Last night
+Merci pour ces informations.
+Je serai plus que heureux de vous aider.
+Veuillez me laisser quelques instants pour vérifier votre compte.
+Thank you
+Merci d'avoir attendu
+Je suis désolé que vous rencontriez ce problème, je ferai de mon mieux pour vous aider.
+J’ai vérifié votre compte
+en effet, il est fourni par PRS-ORG
+mais il n'y a pas de livres ni d'achats sur ce compte
+That's strange because I bought another one yesterday evening
+Dans ce cas, vous pouvez créer un nouveau compte PRS-ORG en utilisant une adresse e-mail différente afin que nous puissions fusionner les comptes.
+Votre livre a-t-il été acheté sur le site URL ?
+In the PRS-ORG shop on my e-reader
+My e-reader was reset accidentally.
+What interests me is getting my books back
+Puis-je avoir votre numéro de reçu, s'il vous plaît ?
+I found the problem.
+I was using my PRS-ORG account
+Thank you for your help and have a good day
+J'espère que vous appréciez vos livres, je suis heureuse que vous ayez résolu le problème
+Pour votre information, je vous enverrai une transcription de notre conversation.
+Si vous avez d’autres questions ou préoccupations, vous pouvez toujours répondre à cet e-mail et nous serons en mesure de vous aider davantage.
+Y a-t-il quelque chose d'autre que je puisse faire pour vous aider ?
+Hello, my name is NAME-F.
+How can I help you?
+hello, I would like to download the PRS-ORG app on my pc, how do I do this?
+Je serai heureux de vous aider aujourd'hui, laissez-moi voir ce que je peux faire pour vous.
+Je suis très désolé de vous informer que l’application ne peut être téléchargée que sur un téléphone ou une tablette.
+how can I cash out via a pc
+by adding the articles etc
+to invoice items via a PC
+Essayez-vous de connecter le lecteur de cartes à puce à l'application pour effectuer des paiements ?
+Êtes-vous toujours là ?
+Yes
+I want to bill items
+click on different articles
+to bill for my multiple articles
+I am on a PRS-ORG terminal with a printer
+but I want to connect it to my pc via bluetooth to invoice different items
+Merci pour l’explication.
+Pourriez-vous me laisser deux minutes pour vérifier les détails pour vous ?
+Yes
+Merci de votre patience.
+J’ai vérifié, et si vous souhaitez effectuer des paiements à partir de factures, vous n’avez pas besoin de l’appareil : cela peut se faire via l’application ou le tableau de bord.
+Pourriez-vous nous éclairer davantage sur le problème que vous rencontrez ?
+I can't invoice a payment on the website
+Parlez-vous du système PRS-ORG ou du système POS ?
+no I want to have the cash register tab like the app but on the pc
+Je suis très désolé.
+Malheureusement, cela n’est pas possible.
+Êtes-vous toujours là ?
+Comme je n’ai pas eu de nouvelles de votre part depuis un certain temps, je vais devoir fermer la discussion. Si vous avez d’autres questions, n’hésitez pas à nous contacter à nouveau et à consulter notre centre d’assistance en ligne.
+Via chat
+{ChatWindowButton:Through chat,By phone}
+How would you like to be contacted by one of our agents?
+Please hold for a moment while I transfer you to an agent who can assist you with your situation...
+Hello, my name is NAME-N, thank you for waiting while I review your conversation with NAME-M.
+Je suis désolé pour le retard de réponse.
+Merci de votre patience.
+Soyez assurés que je ferai de mon mieux pour vous aider.
+Bonjour, êtes-vous toujours là ?
+hello yes sorry I'm in the middle of an event
+all our transactions are declined
+on all our PRS-ORG modules
+impossible to know why
+Merci pour la confirmation.
+Je suis désolé du problème que vous rencontrez.
+we have network and activity location
+we also reset all PRS-ORGs without changing anything
+I tried calling customer service but I was on hold for more than an hour with music playing
+Je ferai de mon mieux pour vous aider.
+Je suis désolé, cependant, puisque vous nous contactez via un profil de salarié, je ne peux pas vérifier ces détails sans vérifier votre identité.
+how can I check it?
+I am logged in with the EMAIL account
+Je comprends votre inquiétude.
+Merci de confirmer votre adresse email.
+Cependant, pourriez-vous confirmer l’adresse e-mail du profil d’employé par lequel vous nous contactez ?
+Pourriez-vous également confirmer l’ID de commerçant du titulaire principal du compte et l’ID de la dernière transaction, ainsi que le montant prélevé sur votre compte ?
+with this same email
+the other one we use is EMAIL
+Merci pour la confirmation.
+Je suis désolé pour le désagrément causé.
+Cependant, sachez que vous nous contactez via un profil d'employé créé à partir de l'adresse courriel suivante : EMAIL.
+Do you want me to connect with the other one?
+Oui, si c'est possible.
+Veuillez nous contacter via le profil principal afin que notre équipe puisse vous aider de la meilleure façon possible.
+Cependant, si vous souhaitez obtenir de l’aide via le profil de l’employé par lequel vous nous contactez, veuillez me fournir les détails pertinents tels que mentionnés ci-dessus.
+ok I'll log in with the other one
+Thank you for contacting PRS-ORG Support.
+I am NAME-M, may I have your first name please to begin with?
+Hello
+NAME-M
+Could I have 100% of your attention please because you are the 10th advisor I've spoken to and I don't really feel like I'm being taken seriously
+It's very frustrating
+Salut, NOM-M, quel plaisir de vous rencontrer, comment puis-je vous aider ?
+Bien sûr que je le ferai, ne vous inquiétez pas, quel est le problème ?
+It's on PRS-ORG
+I just got the play pass, and I still haven't received my rewards
+Enclosed are the two proofs of payment
+Quand avez-vous acheté le jeu ?
+It's noted on the bill, sir, but I'll tell you right away.
+Bought on 12 June at 00:01
+Très bien.
+Je vois que vous avez acheté le jeu par l’intermédiaire de PRS-ORG.
+Je vous recommande de prendre contact avec eux car il s'agit d'un revendeur tiers.
+They sent me to you.
+How do I do that?
+I've been told to go to someone else for 3 hours now.
+I would just like to receive my 1000 pieces and go play
+On ne peut rien y faire, le pass est acheté auprès d'eux.
+Nous ne pouvons en fait pas voir les transactions des autres revendeurs.
+We are sorry to hear that you are experiencing a problem with this game.
+You’ll likely find a solution thanks to the information available in the store and the community.
+Support for this product is provided by:
+Official assistance
+Customer Support Service
+Product site
+Product forums
+Editorial team
+Electronic Arts
+They are referring me to you, how do I proceed?
+Non, s'il vous plaît, je tente juste de vous aider.
+Je ne sais pas pourquoi ils vous ont envoyés chez nous, le jeu est à nous, oui.
+mais le Battlepass est acheté auprès d'eux.
+Je comprends que cela puisse être frustrant, mais nous n’avons pas accès aux serveurs de vente et de transaction de PRS-ORG.
+And would you have a link where I could contact a PRS-ORG agent?
+because I am unable to find the support
+Je suis désolé, mais nous n’avons pas de liens de ce type.
+Laissez-moi faire une recherche sur Internet, peut-être que je serai capable de vous aider.
+URL
+J’ai trouvé ça sur leur site web.
+Puis-je vous aider avec quelque chose d'autre ?
+Êtes-vous là ?
+Comme je n'ai pas eu de réponse de votre part, je devais mettre fin à notre conversation.
+Merci beaucoup pour votre temps.
+Via the chat
+How would you like to be contacted by one of our agents?
+{ChatWindowButton:Through chat,By phone}
+Please hold for a moment while I transfer you to an agent who can help you with your situation...
+Hello, my name is NAME-M, please wait while I review your conversation with NAME-M.
+Hello, when I registered I was unable to choose my method of receiving revenues and a PRS-ORG card was sent to me.
+since then, I have chosen the option "send directly to my bank account" instead of "send to PRS-ORG professional card" but it doesn't seem to work.
+I still haven't received the money paid by my clients...
+I see the available balance paid via PRS-ORG but I cannot retrieve it.
+can you tell me how to do this?
+thank you very much
+Je vais certainement régler ça pour vous.
+Pourriez-vous me laisser deux minutes pour vérifier les détails pour vous ?
+Merci de votre patience.
+Je peux vérifier que tout est en ordre avec votre compte.
+Pourriez-vous me dire si vous voyez un message d’erreur sur le lecteur de carte ?
+not everything is fine with the player
+I just don't know how to transfer the money to my bank account
+I did select the correct transfer option but no transfer is taking place
+Si vous souhaitez recevoir les fonds sur votre compte bancaire, veuillez suivre les étapes ci-dessous pour transférer les fonds de la carte vers le compte bancaire.
+Dans l’application PRS-ORG, appuyez sur « Compte » sur l’écran d’accueil.
+Sélectionnez « Transférer des fonds ».
+Choisissez d’envoyer des fonds à vous-même ou à une autre personne/entreprise.
+Si vous envoyez l'argent à une autre personne, saisissez ses coordonnées de paiement et cliquez sur « Continuer ».
+Entrez le montant à envoyer et sélectionnez « Continuer ».
+Cliquez sur « Transférer » pour confirmer.
+Is it not possible for this transfer to happen automatically?
+Malheureusement, nous ne pouvons pas effectuer un virement en votre nom. Cependant, vous pouvez transférer de l’argent depuis votre carte PRS-ORG vers votre compte enregistré en suivant les étapes ci-dessus.
+Êtes-vous toujours là ?
+Puisque je n’ai pas de nouvelles de vous depuis un certain temps, je vais devoir fermer ce chat.
+Bien sûr, si vous avez d'autres questions, n'hésitez pas à consulter notre Centre d'assistance et à nous contacter via le chat, par e-mail ou par téléphone.
+Merci de votre visite et bonne journée !
+Order a card
+So what can I do for you NAME-M?
+For the more complicated ones, I put you in touch with a human.
+If you haven't received it yet, it is on its way.
+The estimated delivery date is {!cardExpectedArrivalDate}.
+I see that you have already ordered a PRS-ORG, but you can only have one per business.
+The estimated date has been exceeded
+I ordered it more than 3 weeks ago
+Hello, I am NAME-M, the virtual assistant of PRS-ORG.
+🤖 I am here to help you if you have questions about your payment terminal, your deposits, and more!
+{ChatWindowButton:OK, thanks,The estimated date has passed}
+In case of unsuccessful delivery within the indicated period, our services can deliver a new shipment if 3 weeks in total (from the date of the order) have elapsed.
+If delivery fails within the stated period, our services can send a new shipment if 3 weeks in total (from the date of the order) have elapsed.
+{ChatWindowButton:It's not been 3 weeks yet,J’
+I ordered it more than 3 weeks ago}
+I'm sorry that you had to wait so long.
+Please hold for a moment while I transfer you to an agent who can help with your situation...
+Hello, my name is NAME-M, thank you for waiting while I review your conversation with NAME-M.
+Bonjour !
+Comment puis-je vous aider aujourd'hui ?
+I have not received a card
+Je m’excuse sincèrement pour le désagrément que cela vous a causé.
+Je comprends parfaitement votre inquiétude.
+Je suis désolé du problème que vous rencontrez.
+Laissez-moi vérifier cela pour vous afin que je puisse vous aider mieux.
+J’ai vérifié et j’ai constaté que votre carte PRS-ORG vous a été délivrée le 16 avril 20222.
+Cependant, le délai de livraison standard est de 6 à 10 jours ouvrés.
+I never received it even when it was activated
+Je suis désolé d'apprendre cela, laissez-moi voir ce que je peux faire pour vous.
+Dans ce cas, je vous renverrai la carte PRS-ORG et veillerai à ce que vous la receviez dans le délai prévu.
+Veuillez me fournir l'adresse complète de livraison à laquelle la carte doit être expédiée.
+ALPHANUMERICID Thiers terraces in the valley bt c 13320 bouc bel air
+Merci de confirmer.
+Soyez assuré que le délai de livraison des cartes PRS-ORG est de 6 à 10 jours ouvrés.
+Y a-t-il quelque chose d’autre que je puisse faire pour vous aider ?
+No thanks, good luck and have a good day
+Vous êtes les bienvenus !
+Si vous avez d’autres questions, veuillez nous contacter via le chat ou par courrier électronique, et visitez notre centre d’assistance en ligne.
+De plus, une fois la conversation terminée, vous serez invité à remplir un bref sondage pour évaluer mon travail et ma prestation au cours de cette conversation.
+Je serais reconnaissant si vous preniez une minute pour remplir le sondage.
+Bonne journée !
+Ce fut un plaisir de discuter avec vous.
+Prenez soin de vous et passez une belle journée !
+Au revoir.
+Hello, my name is , please wait while I review your conversation with NAME-M
+Hello, I would like to change the admin email address on my account
+What is the procedure to do this?
+Indeed, I no longer have access to my email address
+Thank you in advance
+Je suis désolé pour la réponse tardive.
+Si vous souhaitez modifier votre adresse e-mail, veuillez nous envoyer un e-mail depuis votre adresse e-mail enregistrée pour demander le changement de votre adresse e-mail.
+Veuillez indiquer les anciennes et nouvelles adresses e-mail dans votre message.
+Après l’envoi de l’e-mail, veuillez nous appeler au NOM_TELEPHONE pour vérifier que la modification a bien été demandée par vous.
+Okay, to which email address?
+Veuillez nous envoyer un courriel à l’adresse EMAIL depuis votre adresse e-mail enregistrée pour que nous puissions vous aider au mieux.
+Y a-t-il quelque chose d'autre que je puisse faire pour vous aider ?
+Thank you and I also want to set up the PRS-ORG plugin, where do I go on the site to create the credentials
+Je serai heureux de vous aider à ce sujet.
+Juste pour confirmer, avez-vous installé l’application ?
+Êtes-vous toujours là ?
+it's ok thank you, I just generated the client codes.
+However, my account does not seem to be activated for online payments.
+What email address should I write to validate my account?
+Veuillez nous envoyer un courriel à EMAIL depuis votre adresse e-mail enregistrée afin que nous puissions vous aider au mieux.
+Y a-t-il autre chose que je peux faire pour vous ?
+Bonjour, êtes-vous toujours là ?
+Everything is okay, thank you and have a nice day
+NAME-M_TEXT:What can I do for you today?
+File tracking for debitoor invoices
+NAME-M_TEXT:Nice to see you again, NAME-F!
+NAME-M_TEXT:Please wait a moment while I transfer you to an agent who can assist you with your situation...
+NAME-M_TEXT:I would like to help you with your verification documents but this goes beyond the scope of my virtual assistant skills.
+Hello, my name is NAME-N, please wait while I review your conversation with NAME-M.
+Compte tenu de votre précédente conversation avec NAME-M, je peux conclure que vous rencontrez des problèmes avec votre date liée à PRS-ORG, n'est-ce pas ?
+Soyez assuré que je ferai de mon mieux pour vous aider.
+Hello NAME-N
+I had PRS-ORG this morning.
+And unsuccessful emails:
+In my settings I can see the PRS-ORG pro package that I have chosen.
+I was charged in November
+However, on December 3rd I was charged an additional 172.8 euros for 1 year subscription to debitoor.
+Merci pour la confirmation.
+Je suis désolé du problème que vous rencontrez.
+Je comprends que cela puisse être préoccupant.
+Je vous recommande vivement de vérifier votre abonnement en suivant les étapes ci-dessous :
+1
+Connectez-vous à votre profil PRS-ORG via un navigateur Web et cliquez sur le symbole de profil en haut à droite.
+Not only can I not see debitoor in my settings, but PRS-ORG had migrated me in the spring.
+And now the invoice service tells me it is my fault that I should have unsubscribed.
+But I did not subscribe to debitoor, which does not appear anywhere in my settings.
+2
+Sélectionnez « Détails du profil » puis « Abonnements et factures ».
+But I have done it several times already
+3
+Cliquez sur « Historique de facturation » pour voir la date de facturation, la période de facturation et le montant total de votre paiement.
+Vous pouvez également exporter une facture avec tous les détails de paiement pour les factures en utilisant le bouton « Télécharger ».
+Look for yourself, I do NOT owe anything
+Veuillez noter que vous êtes migré de PRS-ORG vers PRS-ORG Factures.
+Je comprends votre inquiétude et elle est légitime.
+Je transmettrai votre demande à notre équipe compétente en priorité et ils vous contacteront dès que possible.
+Soyez assuré que notre équipe examinera le problème et vous contactera à ce sujet à l’adresse e-mail enregistrée dès que possible.
+could I speak to a human? thank you
+NAME-M_TEXT:What can I do for you today?
+NAME-M_TEXT:Nice to see you again, NAME-F!
+talk to a human
+NAME-M_TEXT:Please wait a few moments while I transfer you to an agent who can help with your situation...
+Hello, my name is NAME-M, please wait while I review your conversation with NAME-M
+NAME-M_TEXT:I am sorry NAME-F, I didn't understand.
+Could you rephrase your request?
+Comment puis-je vous aider aujourd'hui ?
+hello.
+I subscribed to the pro invoice plan.
+Invoices sent do not include the payment link (even though it was selected when creating the invoice)
+Je suis désolé d'apprendre cela.
+Laissez-moi voir ce que je peux faire pour vous.
+J’ai vérifié les détails et je vois que toutes vos préoccupations concernant Invoicing Pro ont déjà été transmises à notre équipe dédiée.
+Notre équipe dédiée enquête actuellement sur ce problème.
+Je comprends que cela soit important pour vous.
+J’ajoute également une note pour vous indiquer que vous nous avez de nouveau contactés pour obtenir une mise à jour.
+Yes I am surprised and disappointed by these difficult beginnings.
+Je comprends parfaitement votre situation et je ferai de mon mieux pour résoudre le problème.
+Soyez assuré que notre équipe dédiée vous contactera par e-mail dès que possible.
+Un spécialiste de la facturation vous contactera par e-mail.
+Very good.
+I am counting on you. while waiting for the problem to be resolved, I will send a payment link (at 2.50% instead of 1.25%) to my customer.
+I can't make her wait.
+Merci beaucoup.
+Je vous remercie grandement de votre patience et de votre compréhension durant notre discussion.
+Y a-t-il quelque chose d'autre que je peux faire pour vous aider ?
+how does the cancellation of the subscription work if I can not use the billing?
+Soyez assuré que vous pourrez utiliser cela, notre équipe travaille activement pour résoudre votre problème.
+I count on you
+have a good day
+Je vous remercie.
+Merci d’avoir contacté PRS-ORG.
+Bonne journée.
+Si vous avez des questions, n’hésitez pas à nous contacter à nouveau et à consulter notre centre d’assistance en ligne.
+ebook
+Hello, I am unable to transfer the books I bought onto my e-reader, even though they appear in my PRS-ORG account.
+8I8l8 8s8'8a8g8i8t8 8d8e8s8 8c8o8m8m8a8n8d8e8s8 8d8e8 838 8l8i8v8r8e8s8 8l8e8 8 878 8e8t8 8l8e8 888 8j8u8i8l8l8e8t8
+Bonjour !
+Je serais plus que ravi de vous aider, s'il vous plaît attendez un instant pendant que je vérifie votre compte.
+Elles ne s'affichent pas du tout dans votre bibliothèque ou ne peuvent pas être ouvertes ?
+Visitor uploaded: livres-PRS-ORG.png
+URL: URL
+Type: image/png
+Size: 960351
+the books appear in my PRS-ORG account (see photo) but I can not put them on my PRS-ORG reader
+Ah bon, êtes-vous connecté au bon compte ?
+Dans votre lecteur électronique PRS-ORG ?
+Yes, it is the same email address
+D'accord, merci de me laisser un instant
+Je vérifie les fichiers ici dans mon système.
+Pourriez-vous synchroniser votre appareil et synchroniser votre bibliothèque, s’il vous plaît ?
+Vous devriez pouvoir les voir et les ouvrir correctement. Si ce n’est pas le cas, veuillez vous déconnecter de votre compte et vous reconnecter afin de vous assurer que le compte est entièrement à jour.
+Vous devriez pouvoir les voir et les ouvrir correctement. Si ce n’est pas le cas, veuillez vous déconnecter de votre compte et vous reconnecter pour vous assurer que le compte est entièrement à jour.
+Comment ça se passe ?
+I have unplugged my reader and am trying to reconnect it.
+I am asked to choose a Wi-Fi network.
+I did it but then I am stuck...no other page arrives...
+Ah no, ok, I'm moving on...
+Ah, je vois.
+Veuillez me tenir au courant.
+I finally did it!
+Thank you and have a good day!
+C’est génial !
+Bienvenue !
+C’était un plaisir de vous aider aujourd’hui !
+Vous recevrez un court sondage par courrier électronique à la fin de cette conversation.
+Cela ne devrait vous prendre que quelques minutes et vous aidera à évaluer mes compétences en matière de service à la clientèle.
+Merci d'avance.
+I sent an email to report a problem with my PRS-ORG
+For the more complicated ones, I put you in touch with a human being.
+Yes, always
+So what can I do for you Gregory?
+Hello, I am NAME-M, the virtual assistant of PRS-ORG.
+🤖 I am here to help you with questions about your payment terminal, your deposits and more.
+For troubleshooting instructions for your device, it’s here: URL.
+Are you still having problems with your Air terminal?
+{ChatWindowButton:Yes, always,No, thanks}
+I'm sorry about that.
+Please hold for a moment while I transfer you to an agent who can assist you...
+Hello, my name is , please wait while I review your conversation with NAME-M.
+Pourriez-vous me donner plus de détails afin que je puisse vous aider de la meilleure façon possible ?
+I am sending you one with my EMAIL address
+to indicate that it is working
+please check
+Je suis désolé d'apprendre cela, laissez-moi voir ce que je peux faire pour vous.
+already check if you have received the email
+Notre équipe dédiée enquête sur ce problème.
+Je comprends que cela soit important pour vous.
+J’ajoute également une note vous signalant que vous nous avez de nouveau contactés pour obtenir une mise à jour.
+Malheureusement, je ne peux pas vous donner de délai précis afin d’éviter de vous donner de fausses attentes.
+because I don' t have a device to make but delivery
+Je comprends votre situation.
+you found my email
+Oui, nous avons trouvé votre courriel.
+Notre équipe dédiée enquête sur cette situation.
+Entre temps, vous pouvez également utiliser les liens de paiement.
+Pour chaque transaction réalisée avec les liens de paiement, nous appliquons des frais fixes de 2,5 %.
+Il n’y a aucun frais supplémentaire pour utiliser ce service.
+Nous proposons également l’option des codes QR, avec des frais de traitement de 1,75 %.
+Êtes-vous toujours avec moi ?
+Yes
+Puis-je vous aider avec quelque chose d’autre aujourd’hui ?
+Êtes-vous toujours là ?
+Étant donné que je n’ai pas de nouvelles de vous depuis quelque temps, je vais devoir fermer ce chat.
+Si vous avez d'autres questions, n'hésitez pas à nous contacter à nouveau par chat, téléphone, courrier électronique ou via le Centre d'assistance en ligne.
+Hello, my name is NAME-F.
+How can I help you?
+Hello, I had a quote done in 2022.
+I can't find it, could you provide me with a new one?
+Je m'excuse sincèrement pour le désagrément occasionné.
+Je vais vérifier cela pour vous.
+Pourriez-vous confirmer que vous souhaitez télécharger le rapport de paiement ?
+Forgive me, I did not formulate my question well.
+This is not a payment statement but a quotation
+I am an insertion structure, and I am currently completing a grant application for which I need a quote
+Je comprends.
+Dans cette situation, veuillez nous contacter depuis votre profil principal afin que nous puissions demander à l'équipe dédiée de revenir vers vous, car nous constatons que vous nous avez contactés depuis un profil d'employé.
+Je m’excuse sincèrement du retard de réponse.
+Êtes-vous toujours avec nous ?
+yes, but I don't understand your answer
+I only have one profile
+Veuillez nous contacter depuis votre profil principal ou depuis l’autre adresse e-mail que vous possédez, car vous nous avez contacté depuis un profil de collaborateur.
+Vous pouvez nous envoyer un courriel depuis l'autre adresse e-mail à l'adresse suivante : EMAIL
+Êtes-vous toujours là avec nous ?
+OK, I will send an email from my main email address.
+Cela serait très utile.
+Merci !
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+No, thank you
+have a good day
+Je vous remercie.
+Si vous avez des questions, n’hésitez pas à nous contacter via le chat en direct ou à consulter notre centre d’assistance en ligne.
+Merci pour notre conversation et bonne journée !
+Hello, I am NAME-M, the virtual assistant of PRS-ORG 🤖.
+Please wait while I transfer you to a human colleague.
+Hello, my name is NAME-M, please wait while I review your conversation with NAME-M.
+Hello my sum up is inactive
+Je suis désolé d'apprendre cela, laissez-moi voir ce que je peux faire pour vous.
+I wanted to reactivate it after several months of not using it
+Je vois que votre profil PRS-ORG est actif et entièrement vérifié.
+However, it appears inactive
+I get an error message on the screen
+I took a screenshot of my account
+Je peux confirmer que le profil est entièrement actif et vérifié. Pourriez-vous me partager l’écran ?
+I can't send the second photo
+It is written; inactive
+It won't light up
+And when I reloaded it - on the screen; error message
+Merci pour les détails.
+Je vous suggère de redémarrer le lecteur de carte une fois et de le connecter à l'application PRS-ORG installée sur votre téléphone.
+How to restart it?
+Une fois que vous êtes connecté à l’application PRS-ORG sur votre téléphone, je vous suggère d’essayer d’effectuer une transaction de test sur votre lecteur de carte pour un montant minimum de 1,00 £.
+Maintenant, vous devez appuyer et maintenir enfoncée la touche d’alimentation de l’appareil.
+Jusqu’à ce que vous puissiez voir « NAME-M » à l’écran.
+Veuillez maintenir enfoncée la touche d'alimentation pendant plus de 10 secondes jusqu'à ce que vous puissiez voir l'option « maintenez pour BT » ou « maintenez pour réinitialiser ».
+Vous entendrez alors un bip court et, après trois secondes, vous verrez « Relâcher pour réinitialiser. »
+Après cela, relâchez vos doigts, vous entendrez un long bip et l’appareil sera réinitialisé.
+Veuillez me prévenir une fois que vous aurez réinitialisé le lecteur de cartes.
+Thank you for contacting PRS-ORG Support.
+I’m NAME-F, may I have your first name please to start with?
+Good evening, NAME-F
+I am having trouble logging into my PRS-ORG account
+I had created an account using my EMAIL address but I no longer have that address
+Salut, NOM-F, j’espère que vous allez bien
+Bien, comment puis-je vous aider ?
+Je comprends, je ferai de mon mieux pour vous aider concernant le changement de votre adresse e-mail.
+Veuillez partager l’adresse e-mail associée au compte.
+So I can't log in to my account and I don't know how to do it
+The email address was EMAIL
+I had my sims games on it
+Merci
+Nous ne pouvons pas voir quel email a été mis à jour, puisque les détails ont été supprimés du compte PRS-ORG.
+Il vous faudra donc vous souvenir des emails éventuels et réinitialiser votre mot de passe.
+Il semble que votre adresse e-mail soit associée à un compte supprimé, c’est pourquoi il vous demande de réinitialiser votre mot de passe.
+Votre compte PRS-ORG a été supprimé en raison de l’inactivité de notre équipe de sécurité.
+Vous pouvez vous souvenir de l’email qui était lié au compte et la seule option est d’y accéder et ensuite essayer de réinitialiser le mot de passe du compte pour y accéder à nouveau, si vous n’avez pas créé de nouveau compte avec la même adresse email.
+Vous trouverez les étapes ici - URL
+I remember the email address but I cancelled it a while ago
+So it is no longer possible for me to reconnect to it to reset the password
+Is it not possible to reactivate my account with a new address using my phone number or other information?
+Le joueur seul peut réactiver son compte.
+Je crains que nous ne puissions pas le faire.
+Et cela ne nécessite que l'adresse e-mail.
+Vérifiez si vous pouvez recréer le courrier électronique si celui-ci a été supprimé.
+Si cela ne fonctionne pas, vous devrez peut-être créer un nouveau compte.
+So I lose all my games?
+;(
+Yes I can create a new account but I lose all my games
+I paid around 200€ for it
+I checked, but it is now impossible to recreate an URL address
+Can only be in PRS-ORG or URL
+Veuillez vérifier auprès du fournisseur de services de messagerie si l’e-mail peut être redirigé par hasard.
+Parce qu’il vous suffit d’une seule adresse e-mail.
+Ensuite, lorsque le compte est restauré, vous pouvez utiliser n’importe quel e-mail pour le mettre à jour.
+Malheureusement, il n'y a rien d'autre que nous puissions vous proposer
+dans ce cas.
+Thank you very much
+Tous mes meilleurs voeux !
+J'espère que cela marchera.
+Merci d’avoir contacté l’assistance de PRS-ORG.
+Vous pouvez nous contacter pour toute question concernant le jeu et visitez l’URL pour obtenir des conseils et astuces.
+Prenez soin de vous, restez en sécurité.
+I want to talk to a human.
+NAME-M_TEXT:Hello, I am NAME-M, the virtual assistant of PRS-ORG.
+🤖 I am here to help you with questions about your payment terminal, your deposits, and more!
+NAME-M_TEXT:For the more complicated ones, I put you in touch with a human.
+NAME-M_TEXT:What can I do for you Anchati?
+NAME-M_TEXT:Oh, an error occurred.
+Let me find a human who can handle that for you.
+Hello, my name is , please wait while I review your conversation with NAME-M
+Comment puis-je vous aider aujourd'hui ?
+I sent an email asking to have my information changed.
+I didn't receive an answer.
+Je suis heureux que vous nous ayez contactés à ce sujet.
+Laissez-moi vous aider rapidement avec les détails.
+Pouvez-vous me dire quelles informations vous souhaitez modifier ?
+I want to make some changes.
+new phone number: PHONENUMBER
+Je vais certainement vous aider avec cela.
+Si vous souhaitez modifier votre numéro de téléphone, veuillez nous envoyer un courriel depuis votre adresse e-mail enregistrée en demandant le changement de numéro de téléphone.
+Veuillez indiquer à la fois l’ancien et le nouveau numéro de téléphone dans le courriel.
+Veuillez également confirmer le numéro de téléphone que vous souhaitez modifier : le numéro personnel, le numéro professionnel ou les deux.
+Après l'envoi de l'e-mail à EMAIL, veuillez nous appeler au numéro de téléphone indiqué pour vérifier que la demande de modification a bien été effectuée par vous.
+New email address: EMAIL
+C’est la même procédure pour cela.
+Veuillez inclure les adresses anciennes et nouvelles dans le même courriel.
+Après cela, vous devez nous appeler au numéro fourni.
+Nous vous aiderons certainement.
+Une fois que vous nous aurez appelés, les modifications seront effectuées immédiatement.
+I'll do it right now.
+Bien sûr, nous attendrons votre réponse.
+En attendant, est-ce que je peux vous aider avec quelque chose d'autre ?
+Êtes-vous toujours là ?
+hello
+Hello, my name is NAME-F.
+How can I help you?
+we are having problems cashing with PRS-ORG pay
+to cash pple pay payments
+Je m'excuse sincèrement pour le désagrément occasionné.
+Pourriez-vous confirmer quel est l’erreur que vous rencontrez ?
+it just doesn't work
+Je suis désolé d'apprendre cela.
+Pourriez-vous me fournir le numéro de série
+Je suis désolé d'apprendre cela.
+Pourriez-vous me fournir le numéro de série de l’appareil s’il vous plaît ?
+I have 2 and the 2 meetings have the same problem:
+PHONENUMBER
+Merci pour les informations.
+Dans ce cas, je transmettrai le problème à l’équipe dédiée et elle vous contactera dès que possible.
+and also PHONENUMBER
+yes super
+Merci.
+J’ai transmis ce problème à l’équipe et ils vous répondront dès que possible.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Thank you NAME-F.
+Nothing else to report.
+we can close our discussion
+Je vous remercie.
+Si vous avez des questions, n’hésitez pas à nous contacter via le chat en direct et à consulter notre Centre d’assistance en ligne.
+De plus, une fois la discussion terminée, vous serez invité à remplir un bref sondage pour évaluer mon travail et ma prestation au cours de cette conversation.
+Je serais très reconnaissant si vous preniez une minute pour remplir le sondage.
+Bonne journée !
+Good evening.
+I just bought a book: A Palace of Ashes and Ruins.
+And I just realized I already had it in my library.
+Is it possible to get a refund?
+Best regards
+Ms NAME-F
+EMAIL
+Saturday 17 April 2021
+A palace of ashes and ruins
+Merci pour les informations.
+Je serai plus que heureux de vous aider.
+Veuillez patienter une minute pendant que je vérifie votre compte
+Merci de votre temps. Si vous le souhaitez, nous pouvons créditer votre compte PRS-ORG du même montant que celui que vous avez payé pour votre livre et vous pouvez choisir un autre livre ou un autre livre audio.
+Vous pouvez utiliser votre crédit quand vous le souhaitez, il n’expire pas.
+Ou nous pouvons le rembourser sur votre carte de crédit
+Can you credit it to my PRS-ORG account?
+Thank you in advance
+Bien sûr, laissez-moi une minute pour vérifier.
+Je vous remercie de votre temps, maintenant vous avez
+15,99 € EUR crédités sur votre compte PRS-ORG pour votre prochain achat
+Y a-t-il quelque chose d’autre que je peux vous aider avec?
+No, thank you very much for your promptness.
+Have a good evening
+Merci d’avoir contacté PRS-ORG, c’était un plaisir de pouvoir vous aider aujourd’hui.
+Bonne soirée aussi !
+NAME-M_TEXT:To avoid confusion, please also ensure you only ask me one question at a time.
+NAME-M_TEXT:Hello Mickael, I am NAME-M, the virtual assistant of PRS-ORG at your service.
+It will be easier for me to help you if your questions are short and precise, for example "How can I change my email address?
+".
+Change of number
+NAME-M_TEXT:So, what can I do for you today?
+NAME-M_TEXT:You can change your phone number at any time.
+Note: you can only save one phone number on your account, but the PRS-ORG application (for the Air terminal) can be installed on different smartphones.
+NAME-M_TEXT:As changing a phone number is beyond my virtual assistant skills, I will transfer you to an agent.
+Just a moment please...
+Hello, my name is NAME-F, please wait while I review your conversation with NAME-M
+Comme je comprends, vous souhaitez changer le numéro de téléphone ?
+Hello, I made a request to change my phone number but unfortunately I have not received a response
+Yes that's it
+Former number PHONENUMBER
+Je suis désolé pour le désagrément que cela vous a causé.
+Merci pour les informations.
+Comme je peux le voir, le numéro de téléphone que vous avez fourni n’est pas identique à celui de la compagnie.
+des enregistrements.
+Pourriez-vous me confirmer le numéro de téléphone enregistré ?
+But this is the one I looked at on my account before writing to you.
+Comme indiqué dans notre système, votre numéro de téléphone professionnel est PHONENUMBER.
+Pourriez-vous confirmer si vous
+Vous souhaitez modifier le numéro de téléphone professionnel ?
+It says PHONENUMBER on the account
+Yes that's it, the company number is a mobile number
+Je peux mettre à jour votre numéro de téléphone personnel.
+Toutefois, pour modifier votre numéro de téléphone professionnel, il existe une équipe dédiée qui réalise les modifications pour vous.
+Veuillez nous envoyer un e-mail indiquant que vous souhaitez modifier votre numéro de téléphone professionnel de PHONENUMBER vers votre nouveau numéro de téléphone, et mentionnez également ce nouveau numéro de téléphone.
+Well, changing the character is the same thing.
+And what is email?
+To change the company's one
+Veuillez nous envoyer un courriel à l’adresse EMAIL pour demander de modifier votre numéro de téléphone professionnel.
+Y a-t-il autre chose que je puisse faire pour vous aujourd’hui ?
+Thank you very much
+Vous êtes plus que bienvenus.
+Merci pour notre conversation.
+Si vous avez d'autres questions, n'hésitez pas à nous contacter par courrier électronique (EMAIL), par chat ou par téléphone (PHONENUMBER).
+Vous pouvez également obtenir de l’aide via notre centre d’assistance en ligne (URL).
+De plus, une fois la conversation terminée, vous serez invité à remplir un court sondage pour évaluer mon travail et ma prestation pendant cette conversation.
+Je serais très reconnaissant si vous preniez une minute pour remplir le sondage.
+Bonne journée !

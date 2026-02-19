@@ -1,0 +1,57 @@
+{
+    "gen_data_dir": "/mnt/data/jpombal/wmt24-chat-translation/instructions/no_context_empty_sys",
+    "gen_output_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/no_context_empty_sys",
+    "eval_data_dir": "/mnt/data/jpombal/wmt24-chat-translation/raw_data",
+    "eval_output_dir": "/mnt/data/jpombal/wmt24-chat-translation/evaluations/no_context_empty_sys",
+    "tasks": [
+        {
+            "name": "mt",
+            "subtasks": {
+                "wmt24_chat_test.en-pt-br": {},
+                "wmt24_chat_test.pt-br-en": {},
+                "wmt24_chat_test.en-de": {},
+                "wmt24_chat_test.de-en": {},
+                "wmt24_chat_test.en-fr": {},
+                "wmt24_chat_test.fr-en": {},
+                "wmt24_chat_test.en-nl": {},
+                "wmt24_chat_test.nl-en": {},
+                "wmt24_chat_test.en-ko": {},
+                "wmt24_chat_test.ko-en": {},
+                "bcontrast_test.de-en": {},
+                "bcontrast_test.en-de": {}
+            },
+            "metrics": {
+                "comet": null,
+                "chrf": null
+            }
+        }
+    ],
+    "models": [
+        {
+            "name": "TowerChat-1-epoch-ctx-comet-mbr-distilled",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "/mnt/data/jpombal/axolotl/TowerChat_7B_ctx_comet_mbr_distill_ckpts/checkpoint-121/",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/no_context_empty_sys"
+        },
+        {
+            "name": "TowerChat-retrain-ctx-comet-mbr-distilled",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "/mnt/data/jpombal/axolotl/TowerChat_7B_blocks_and_ctx_comet_mbr_distill_ckpts/checkpoint-5624",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/no_context_empty_sys"
+        }
+    ]
+}

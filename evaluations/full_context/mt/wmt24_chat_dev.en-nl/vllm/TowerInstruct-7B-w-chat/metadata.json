@@ -1,0 +1,37 @@
+{
+    "output_dir": "/mnt/data/jpombal/wmt24-chat-translation/evaluations/full_context",
+    "data_dir": "/mnt/data/jpombal/wmt24-chat-translation/raw_data",
+    "tasks": [
+        {
+            "name": "mt",
+            "subtasks": {
+                "wmt24_chat_dev.en-nl": {}
+            },
+            "metrics": {
+                "chrf": null,
+                "bleu": null,
+                "comet": {
+                    "batch_size": 16
+                },
+                "comet_kiwi": {
+                    "batch_size": 16
+                }
+            }
+        }
+    ],
+    "models": [
+        {
+            "name": "TowerInstruct-7B-w-chat",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "/mnt/data/jpombal/axolotl/TowerInstruct_7B_chat_ckpts/checkpoint-5900",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/full_context"
+        }
+    ]
+}

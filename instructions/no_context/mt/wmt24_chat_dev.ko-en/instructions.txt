@@ -1,0 +1,885 @@
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Can I talk to you in Korean for counseling in Korean?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 한국어로 대화가 가능합니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 아 저의 PRS-ORG계정이\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 영구정지를 당했다는 메일이 도착했습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 맞습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG라는게임에서 인종비하 발언으로 신고가 접수되어 제 계정이 영구정지에 대한 사유라고 적혀있는데\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이메일은 EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 아이디는 ALPHANUMERICID입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 정지사유는 제가 채팅으로 useless chinese라고 해서 정지당했다고 메일이 왔습니다만 저는 한번도 그런적이 없습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 친구가 가끔식 저의 계정으로 게임을 하는데 그친구가 저지른 만행인것갑습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID 입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 친구에게 계정을 몇번 빌려준적이 있었고\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그친구가 제계정을 이용하면서 규칙위반을 한것같습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저는 친구에게 계정을 잠깐 빌려줬을뿐인데 영구정지를 받아 당혹스럽습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저의 이메일 EMAIL로 통보가 오는겁니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: URL 에서 case ID와 Access Key를 뭐라고 입력해야되죠?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 며칠간 기다리기만하면 되는건가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제가 말한 사유가 제계정이 unbanned가 될수있는 충분한사유가 될수있을까요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 10년간 함께했던 저의계정이 영원히 못돌아 올것같아서 너무 무섭습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 혹시 한국어로 대화가능한 PRS-ORG 고객센터 전화번호가 있나요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 넵 알겠습니다 도와주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 상담을 종료하셔도 됩니다 좋은 하루되세요 have a nice day!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-F 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-M 입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 그렇스빈다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 현재 저의 계정에 연동 되어있는 PRS-ORG 아이디로 로그인을 시도하면\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 계정을 연결할 수 없습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 계정(EMAIL)은 이미 PRS-ORG 계정(NAME-N)에 연결되어 있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 계정은 평생 하나의 PRS-ORG 계정에만 연결할 수 있습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이런 문구가 나옵니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 맞습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-N 입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 원래 연결되어있던 PRS-ORG 계정으로 로그인을 실패하는 부분인데 이부분은 무슨 문제로 인해서 발생하는 것인가요 ?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 새로운 PRS-ORG계정을 현재 PRS-ORG 아이디에 연동하려는 것이 아니라 그전에 연동해서 사용하던 PRS-ORG계정을 이용해서 PRS-ORG 로그인을 하려고 했으나 위와 같은 문구가 나오면서 연결 할수없는 상태입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 알겠습니다 더 이상의 문제는 없습니다 감사합니다 수고하세요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 폰을 재부팅하고 충전하면 충전이 되기도 하고\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 집에서 사용한\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제품이 충전이 잘되었는데\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에서 구매한 차량용 시거잭도 같이 사용하는데 뭐가 문제인지\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 집에서 사용하는PRS-ORG 3in1제품은 문제없이 충전 됩니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 기다리면 되나요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 맞습니다 무선파량용 충전기만 문제가 있습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 무선차량용 충전기만 문제 있어요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제품 전원 불량 관련하여\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: AS 받을려고합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 안녕하세요!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제품 전원 불량 관련하여 AS 받을려고합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 여기로 제공해주세요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 아니요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이만 종료해도됩니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-N라고 불러주세요.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Just call me NAME-N please.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Hi.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: I got the game with PRS-ORG code.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: But even though I cleared it at 100%, my achievement level is zero.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: I want to know why.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: yes right\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: and NAME-N.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: or NAME-N\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: oh sorry mail adress is wrong\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG id is NAME-N and name is NAME-N\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: sure\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Whatever I do, my achievements don't renew\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Check the data I sent you.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: I played games for 58 hours.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Of course, I reloaded, checked the internet connection, and restarted the platform.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: I didn't play games for 58 hours straight.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ve tried rebooting my computer and everything, but my achievement hasn't changed at all\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: There's nothing wrong with gameplay, filling the game's achievement is one of the ways I enjoy the game.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: So I really want to solve it.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: I appreciate your effort\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: It's been around since April 28th28th when the game was released.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Yes right.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: sure\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: You don't know the exact cause, do you?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: And you're gonna try to fix it?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: I got it.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: I'll wait until it's fixed.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Thank you for searching for me.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Have a good day and always be happy.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: bye.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: No, thank you.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-N 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 안녕하세요 NAME-N입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID 다운로드 시 "준비중"이라고만 뜹니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG - 다운로드가 "준비 중"에서 멈춤\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 방금 문의를 통해\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 아래 단계를 따라 DNS을 한 번 플러시하십시오."\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 까지 따라했지만\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 상황이 똑같습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 다른 대안이나 처리를 원합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 다운로드가 되지않습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 넵 확인했습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 다운로드가 되지않습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 어려번\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 여러번\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 여러번 시도 해봤으나\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 늘 똑같은 결과였습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 흠...어떤 사유때문일까요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 기존엔 ALPHANUMERICID 다운로드 후 이용했습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG app에서 다운로드 중이며\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 현재 PRS-ORG , PRS-ORG같은 다른PRS-ORG게임은 설치가 가능합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 해당내용으로 지속 지원문의를 연락했으며\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 2주나 지났으나 문제는 전혀 해결되지않습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 인내심의 끝에 도달했습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 좀 더 직설적인 해결방법을 없을까요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-M\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-M\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 계정에 사용한 금액의 환불을 요청합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 계정을 사용할 수 없기 때문에\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 플랫폼의 PRS-ORG입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 아니\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 정지는 PRS-ORG에서 하는게 아니라 여기서 문의하라고 하고 여기서는 해킹당했다고 말을 해도 듣지를 않는데\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 환불은 PRS-ORG에 문의를 하라는 겁니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에서 무고한 정지를 풀어주지 않았으며 이에대한 책임을 PRS-ORG 플랫폼에 전달하여 환불을 받으라는 말씀이십니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL 입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 최종 결정에 대해 이의를 제기했으며 제가 공유할 수 있는 모든 자료를 제시했습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 또한 TOS팀에게 부족한 자료가 있으면 알려달라고 했습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저는 불법 프로그램을 사용하지 않았고 어떠한 부당한 이득도 얻은 적이 없으며 게임 기록을 살펴보면 비정상적으로 플레이한 기록도 없습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 최종 결정이라는 반복되는 답변으로 80건의 사례에 대한 답변을 받았고 우울증으로 인한 병원에 다니고 있습니다만\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 당신은 제게 할 수 있는 일이 없다는 다른 이와 똑같은 답변을 주는 것이면\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이와 관련해 PRS-ORG에 환불 관련 요청을 진행해보겠습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 채팅 세션을 종료해주시기 바랍니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-M\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: My name is NAME-M\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: I can't log in because I entered the wrong email for my account\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Yes\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: The actual email I use is EMAIL.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: We can't access your PRS-ORG Account because you entered the wrong email.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ok\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ID : NAME-N\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Yes\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Ok\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: I'm currently chatting live on my cell phone.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Can I do this live chat from my computer?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: OK, Thank you\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제품에 문제가 있어 보이고\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 지원 을 쫌 받으려로 하니\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 등록을 하라는데\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제품 등록 시도만 8번 넘게 했으나 정상적으로 등록이 안되네요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제품 등록을 시켜주세요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 당신은 사람입니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Bot 입니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 한국말이 서툽니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 보호 필름을 언급하는게 아니라 제품 정품 등록에 대해 문의하고 있는데\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 아하 이해했습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 핫라인이 오늘 일은 안하고 쉰데\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그래서 채팅에 물어보는거야\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그럼 너는 뭘 하는거니?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 제품은 Windows 11과 호환도 잘 안되고\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 화면은 3분에 한번씩 꺼졌다 다시 켜지낟.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 게임을 하다가 화면이 꺼졌다 켜지는걸 상상해 봐라.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 얼마나 끔찍하냐\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그래서 뭔가 드라이버같은걸 설치해야하는지 확인하기 위해 홈페이지에 들어왔는데 제품등록도 안된다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 서비스 센터는 주말이라고 쉰다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저는 그동안 제 계정이 해킹범의 소행에 의해서 정지당했다고 어필했지만 받아들여지지 않았습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 하지만 방금 PRS-ORG에서 제 친구가 제 계정이 PRS-ORG에 로그인되어있다고 알려주었고 그가 계속 서버를 바꿔서 접속을 시도하고 있었다고 알려주었습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 PRS-ORG계정의 로그인 비번을 확인할 수 없었으며 PRS-ORG으로 연동하여 로그인해보니 계정의 ID가 변경되어 있고 저는 비밀번호를 알 수 없었습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 해킹범이 제 계정에 다시 로그인하여 정지가 풀렸는지 확인한 것 같습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 맞습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 해킹범은 저번에는 11시 30분경에 제 계정에서 불법 프로그램을 사용하다가 정지를 당했고 이번엔 새벽 1시 30분 경입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저는 한국에 살기 때문에 이곳과 다른 시차를 가진 나라에서 사용한 것으로 느껴집니다.. 매우 혼란스럽습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이메일이 바꼇는지 확인을 해보겠습니다..\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이메일에 보안 코드가 와있었는데 잠시만 기다려주세요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 해커가 이메일은 손대지 않은 것 같습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이메일 비밀번호를 알고 있어서 그랬나 봅니다..\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 친구는 그가 계속 서버를 바꿔서 게임에 접속을 시도하고 있었고 마지막에 러시아어?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 로 보이는 말을 하고 나갔다고 했습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그 말은 정지는 풀리지 않을 것이고 계정의 비밀번호만 되찾을 수 있다는 이야기입니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 해킹범이 이렇게 다시 접속을 했는데도 저는 아무것도 할 수 없습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 번듯하게 해킹범이 제 계정의 정지가 다시 풀렸는지 확인하고 불법 프로그램을 사용하려고 제 계정을 다시 해킹했는데도 결정이 최종적이라는 말씀이세요??\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 매우 당황스럽습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제가 사용하지 않은 프로그램에 의한 것이라고 수많은 사례로 입증을 시도했고 이번엔 해킹범도 제 계정에 로그인을 했습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이것이 제 최종결정에 번복 사유가 될 수 없다는 이야기입니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이 결정이 매우 혼란스럽습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저는 PRS-ORG를 플레이하기 위해 작년부터 수많은 돈을 사용했으며 제가 바라는 고객 서비스는 이런 것이 아니었기에 매우 혼란스럽습니다... 당혹스럽습니다..\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 최종적인 결정을 번복하고 싶습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그렇지 않으면 PRS-ORG의 계정을 보호할 필요가 없습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저는 PRS-ORG의 계정에서 PRS-ORG만 플레이하고 있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 결정을 확인하기 위한 이메일을 받은 것이 아닌 그냥 통보였습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 계정을 사용하지 못하니 환불을 시도하려고 하니 환불도 PRS-ORG에서 하라고 해서 PRS-ORG으로 갔더니 PRS-ORG은 PRS-ORG에서 하라고 하고\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 정지는 해커때문에 당했는데 내 잘못이고 결정은 최종 결정이니 번복할 수 없다고 하고\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저는 어떻게 해야하나요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 맨 처음 정지의 경우 라이브챗과 전화 통화를 통해 정지를 해제했었습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 왜 지금은 가능하지 않은 것입니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 당신도 제 계정에서 해킹범의 소행을 보았으며 이를 도와주셔야 하는 것이 아닙니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 정말 억울합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저는 이 해킹범이 접속을 시도한 것이 제 억울함을 해결할 수 있는 신이 주신 기회라고 생각했습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 해킹범들이 이번 밴 웨이브를 통하여 다른 계정들을 다시 찾고있다는 것을 커뮤니티에서 보았었습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이미 많은 한국의 계정들이 해킹으로 인한 정지를 당했다고 호소하고 있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 조사를 위해 귀하의 계정이 3 번 보내 졌습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이 말을 이해하지 못했습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저는 PRS-ORG만 플레이하기 때문에\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG의 정지가 풀리지 않는다면 계정의 복구도 필요없습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 썬더볼트4 독 제품을 노트북에 연결했는데, 모니터 출력이 되지 않습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 사용중인 OS는 윈도우11이고, 노트북은 PRS-ORG로 썬더볼트4 단자가 있는 기종입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 썬더볼트4 독의 USB 단자나 SD카드\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 단자는 정상적으로 인식합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: HDMI 단자로 연결한 모니터에서는 ‘신호 없음’ 이라는 메세지만 뜹니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 대한민국입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 안내 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 없습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 전화 문의를 통해 해결해보도로규하지요.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 좋은 하루 보내세요.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-N입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 현재 아이디의 이메일을 해킹당해변경할수가없습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 원래 사용하던 이메일은\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그리고 해킹을 한 사람 이메일이\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL  입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 아이디를 꼭 다시 찾고싶습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 맞습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 해킹한 사람 이메일은\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL 입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 해킹 당하기 전 PRS-ORG 닉내임은\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID 입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 괜찮습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 현재 이사를해서 ip가 다릅니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 생년월일 [1999년11월13일]\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 구매내역: 2020년1월2일 [PRS-ORG 1000코인]\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그때는 코드를 따로 받아서 결제하여 신용카드를 사용하지 않았음\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 전화번호 : PHONENUMBER\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 구매내역 하나더 있습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 주문 번호:    PHONENUMBER\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 주문 날짜:    20.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 11\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 26\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 현재 등록되어 있지 않습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 해킹당해서 이메일이 변경되었으니까요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 가입당시 EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 으로 가입하였고\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 생년월일은 1999.11.13\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 2020.11.26 PRS-ORG 1000코인\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 주문번호 : PHONENUMBER\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 전화번호 : PHONENUMBER 이걸로 한번 확인 부탁드립니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-N 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-N\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 위반사항이 없으므로 이적시장 금지를 풀어주세요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 위반사항이 없습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 정당한 거래 시스템을 이용했습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그 이유가 무엇인가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 명확한 이유가 필요합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL 입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 거래소 시스템의 상한가 하한가를 이용한 정당한 거래였는데 무엇이 문제인지 모르겠습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 최대상한가를 실수로 입력했던지 금액을 잘못 써넣은건지 모르겠지만\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제재를 제거하고 싶습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 어떻게해야하나요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제한사항을 구현한적 없습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 상대방이 최대상한가를 입력한다고 제가 취소할수도 없는건데 제가 어떻게 위반을 합니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG측에서 만들어놓은 정당한 거래시스템을 이용한 거래를 이상하게 취급한다면 게임 거래소 시스템이 이상한것이라는 결론에 도달합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 조속한 처리 부탁드립니다!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 꼭!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 풀어주시길 희망합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 잘 부탁드립니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-F 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-M입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 한국어로 상담이 가능한 건가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 영어로 해도 괜찮습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 가능해요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 에서 플레이 중 업적을 완료했음에도 완료가 안되는 현상이 있습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 앱에서 업적해제가 안돼요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 다운로드는 할수 있어요.설치된 게임을 하는 도중에 업적이 해제가 안되는 겁니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 게임 플레이 자체에는 문제가 없어요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 일단 기다릴까요??\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 어떻게 도와주시는 거에요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 액세스할 수 있습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 일단 지금은 해결 안된다는 거죠 그럼?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 알겠습니다 감사합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 닉네임을 알려드리면 되는건가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-N라고 불러주세요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Maybe I should speak English?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 몇달전에 PRS-ORG 레전드를 정지 먹었습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 기록을 확인할수 있는지 모르겠지만 게임 자체를 돌린적이 없고 총기연습장만 들어갔습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 밴 사유도 적혀있지 않은데 이 정지를 풀어줄수 있을까요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 아니면 밴 사유를 알려주실수 있을까요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 맞습니다 PRS-ORG 이용정지 문제에 대한 도움이 필요합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 죄송합니다 제가 출장을 자주가서 비밀번호를 잊어서 찾고 있습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 죄송합니다 ㅠㅠ\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 아이디를 까먹어서\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 죄송합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이메일을 잘 못알려드린거 같은데 다시 알려드려도 괜찮을까요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 아뇨 없습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 감사합니다 좋은 하루 되세요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-M\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-N 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네, 만나서 반갑습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 #PHONENUMBER 사례가 왜 중복 사례로 표시되는 지 알 수 있을까요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제가 확인했을 때 이 사례를 제외하고 열려있는 사례는 존재하지 않습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 금지된 계정에 대한 문제가 맞습니다만 저는 #PHONENUMBER 사례가 왜 중복 사례로 표시되는 지 알고 싶습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 몇 번 케이스와 중복인가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제가 #PHONENUMBER 사례를 만들었을 때 제 사례들은 모두 Decline 이나 Closed 상태였습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그냥 제 #PHONENUMBER 사례를 다시 재개할 수 있도록 도와주시기 바랍니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: #PHONENUMBER 사례에서 저는 많은 정보를 담은 채팅과 첨부 파일을 추가하였습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 하지만 어떠한 사례도 열려있지 않은 상태에서 중복 사례로 5/10 PM 6:50분 경에 변경되었습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: #PHONENUMBER 사례에 모든 정보를 제공하였기에 추가 정보는 없습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그리고 제 질문은 왜 #PHONENUMBER 사례가 중복 사례로 표기 된 것입니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이유를 알려주시기 바랍니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이 점이 궁금합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 5월230일 (수) 오전23:10 (23시간 전)\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ‎#PHONENUMBER 사례가 작성된 뒤에 어떤 연락도 받지 못했습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이용 정지와 관련해서는\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Hello,\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: We received your latest message regarding the action taken on your account.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: We have performed all investigations possible on this issue and will not reverse the decision.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Please do not expect further responses on this matter.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Please don’t reply to this email, as it won’t reach a monitored mailbox.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: If you need more help, you can set up a new case from our website:\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: URL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Think your account was locked, banned, or suspended by mistake?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Follow these steps to get information on your account lock, ban or suspension:\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: URL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Need to get in touch about a specific game?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Follow this link to get help with a game or service:\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: URL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Thank you,\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG Terms of Service\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이 메일 답변만 받고 있으며 이에 대하여 #PHONENUMBER 사례에서 약 20분 정도 대화를 진행하여 사례를 작성하였습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 담당자는 NAME-N 이었습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 알겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL 계정을 다시 찾고 싶습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL 계정을 다시 찾고 싶습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 비밀번호를 재설정하고 싶은데\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 계정에 사용하던\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이메일에 엑세스 할 수 없습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 비밀번호를 여기서 초기화 하고 싶습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이메일 주소를 사용할 수 없습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 코드를 받을 수가 없습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 무슨말인지 잘 모르겠습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 지금 이메일 주소로 받아야하는 인증 코드를 알 수 가 없습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이메일에 접속을 못하고 있습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제가 예전에 PRS-ORG 계정을 만들때\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 사용한 이메일이 사라져서\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 비밀번호 초기화에 필요한 인증코드를\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 받을 수가 없습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 진행시켜\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: IP 주소(플레이하시는 네트워크 ): Y/N – [ALPHANUMERICID]\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 생년월일(계정 생성 중 제공됨): 예/아니요 - [2000년 3월 17일]\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 계정의 구매 1건 및 구매 날짜(월/년): Y/N - [PRS-ORG 2월 2020년]\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 신용 카드의 마지막 4자리 숫자: Y/ N - [5350]\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 청구 주소: 예/아니요 - [ADDRESS]\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 전화번호: 예/아니요 - [PHONENUMBER]\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 알겠습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저 근데 제가 이사를 해서\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 예전집에서 플레이 하던 아이피 주소랑 다르면\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 어떡하나요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이거 영영 계정을 못 찾는건가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제발 찾고 싶어요...\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저 더이상 기억이 나지 않는데\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 계정을 못찾나요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그냥 한국 본인인증 시스템으로 찾을 수없나요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 헨드폰 인증이라든지\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 다른 방법으로 찾을 수 없을까요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 예전에 사용하던 ip주소를 찾을 수가 없는데 어뜩하나요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-N 입니다!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 안녕하세요!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 다름이 아니고 제 PRS-ORG 아이디가 해킹피해로 인해 정지 당했습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 PRS-ORG 아이디는 PRS-ORG이랑 연동이 되어있는데\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 5/24에 PRS-ORG이 해킹당하면서 같이\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 맞습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제가 보낸 사진을 보시면 그전까지는 한국(서울)에서 로그인 되던 PRS-ORG이 갑자기 다른 지역에서 로그인 된것을 확인하실수 있습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL 로 연락주시면 감사하겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID 이건가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 정말 감사합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 좋은 하루 되시길 바라겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 조사하실때 제가 PRS-ORG를 정말 사랑하고 즐겁게 600시간 이상 즐겼다는 것과 현금을 지불한 것 이러한 것을 봤을때 단기간에 핵을 사용하고 정지를 먹은 것은 좀 많이 상반되는 것이니 제가 아닌 다른 해커가 플레이 했다는 자료가 될 것 같습니다!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이제 정말 끝으로 잘 부탁드립니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 감사합니다 정말로요.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 혹시 다른 캡쳐본 자료가 필요할시 이메일로 연락주시면 감사하겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 여긴 사진을 얼마 못 넣어서 그렇습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 항상 건강하시고 마지막으로 생일 축하드립니다!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 감사합니다 제 PRS-ORG 본 계정의 계정 차단 문제가 발생하여 PRS-ORG 계정을 하나 더 만든 후 문제 해결을 위하여 문의 드렸습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 본래 계정이 사용하는 이메일은 EMAIL입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네네 맞습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 천천히 해주세요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-F 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-M\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG Bureau에 제 계정에 대하여 문의 했을 때 답변입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: To whom it concerns,\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Thank you for bringing this matter to our attention.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: We will review this player's experience with our support and reach out directly to rectify any issues.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 컨텐츠 분쟁 조정 위원회를 통하여 제 계정에 대하여 문의 했을 때 답변입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 안녕하세요.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 관련된 문제 알려주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 분 문제에 대하여 고객님과 직접 접촉하여 해결책을 제공했습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 서비스 규정으로 인해 계정  정지에 대하여 의이  제기하기 위해 다음 문서를 참고하여\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 진행하십시오: URL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 서비스 규정팀에\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저희 게임 보안 및 위반 감지 방법은 기밀이였기 때문에 보호를 하기위해서 해당 제재의\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 대한 자세한 정보를 알려드릴 수 없습니다.서 제기된 의이를 검토하여 고객님께 조사결과의\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 대해 직접 업데이트를 드리겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 만약에 다른 문의 사항이나 제재의대한 문의 있으시면 저희 공식 채널에 URL에서\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 문의하셔야합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 도움말\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 두 답변 모두 저에게 직접 연락한다고 했는데 왜 연락이 오지 않습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG Help\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Executive &amp; Customer Relations Lead\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: TOS\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 모두 다른 팀인가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 왜 그들의 답변이 전부 다른가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 계정이 금지되어 있는 문제가 있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Case를 또 작성하고 또 Tos팀에서 조사가 끝났다는 매크로 답변 말씀이신가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이게 도와주시는 건가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이제 BBB와 한국의 국가 기관을 통한 문의 사항도 오타가 가득한 매크로 답변만 보내고\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 직접적인 해결 방안이나 왜 이러한 일이 발생했는지 이유같은\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 도움이 되는 것은 전혀 없네요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 어차피 또 Case를 작성하고 또 Tos팀에서 거절하고 매크로 답변이 올 것임을 알고 있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 계정이 정지당한 확실하고 명확한 이유를 알고 싶습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이게 내 계정입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 에스컬레이션을 진행해서 달라지는 것이 있습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 지금까지 50번의 항소에도 전혀 달라진 것이 없습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 왜 계속 항소를 하라고 진행하는 것입니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 어차피 항소를 진행해도 문제가 해결되지 않는데 서로 귀찮은 것이 아닙니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 확실하게 이유를 설명하고 정지라고 했다면 포기하거나 확실한 증거를 모아서 다시 제출했을텐데 의미없는 50개의 Case만 작성되었습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 한국의 공공기관을 통한 문의 PHONENUMBER 의 답변도 직접 연락하겠다는 매크로 답변\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: BBB의 #PHONENUMBER에 대한 답변도 직접 연락하겠다는 매크로 답변\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이것이 의미하는 것이 무엇입니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저는 정당한 소비자로써 알 권리가 있다고 생각하며 PS팀역시 유저를 위해 정확한 정보를 제공할 의무가 있다고 생각합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 또한 PRS-ORG는 매크로 답변이 아닌 제대로 된 답변을 유저들에게 보내야 한다고 생각합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 알겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 질문들에 대한 답변을 해주시면\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 좋겠네요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 확실하게 이유를 설명하고 정지라고 했다면 포기하거나 확실한 증거를 모아서 다시 제출했을텐데 의미없는 50개의 Case만 작성되었습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 한국의 공공기관을 통한 문의 PHONENUMBER 의 답변도 직접 연락하겠다는 매크로 답변\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: BBB의 #PHONENUMBER에 대한 답변도 직접 연락하겠다는 매크로 답변\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이것이 의미하는 것이 무엇입니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 왜 계속 항소를 하라고 진행하는 것입니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 어차피 항소를 진행해도 문제가 해결되지 않는데 서로 번거로운 것이 아닙니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 접속 중입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 기다리겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 수고하셨습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 좋은 하루 보내세요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG와 PRS-ORG 다운로드가 불가능 합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 맞습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 좀 전에 상담사 분께서 알려주신 방법으로 다운중이었는데 갑자기 오류가 떴습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 다운로드가 일시중지에서 안움직입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 시도했지만 PRS-ORG 본편 다운만 가능했습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 나머지는 다운로드 불가입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 정확한 건 모르겠지만 이번 업데이트 이후 다운로드가 불가능한 거 같습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 다운로드는 언제쯤 가능할까요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 기다리겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 알겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 수고하셨습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 생일 축하드립니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 다른 문제로는 컬렉션에 있는 게임은 삭제가  불가능 한가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 게임을 제거해도 목록에 계속 남아있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 방법을 알려주세요.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 숨기는 법을 모르겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 안녕하세요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 워렌티 관련해서 여쭤보고 싶은데요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 강화유리 필름이 기스나고 깨져서 워렌티를 받고싶은데 가능한가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 쿠팡에서 구입했습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그럼 앋더ㅣㄴ다는\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그럼 안된다는건가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 안녕하세요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저 강화유리 작년 12월에 샀는데 깨져서 닷 붙이고 싶어서 가게 찾아갔는데요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 여기서 새로운 제품 요청해야 다시 붙일 수가 있대요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그래서 어디서 문의해야할지는 몰라가지고 채팅을 시작했어요!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 서울 여의도 PRS-ORG이요!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 어떻게 보내드릴까요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제가 영수증 있습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 보내드렸습니다!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-N이에요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 비밀번호를 재설정하고 싶어요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 너무 괴로워요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 메일 접속이... 안 돼요.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 차라리 휴대폰으로 인증하고 싶은데 PRS-ORG는 그거 지원 안 한다고 하더라고요.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG은 해줬는데.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 슬프다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 예 비밀번호 다르게 재설정할 수도 있나요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL예요.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 예~\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 1\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 2\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 1998/3/23\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 3\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 2021/3\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 3\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 2021년 3월이에요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 4\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG로 샀어요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 5\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 청구 주소?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이게 맞나?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ADDRESS\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 6\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PHONENUMBER 한국이라 아마 +82가 붙을 거예요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 확장팩이에요 PRS-ORG의 확장팩이고요 동생이 생일선물로 사줬어요!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG로 지불한 건 어떻게 확인하나요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 회사에게 문의해봤는데, PRS-ORG로 사면 카드 4개 번호가 안 나온다고 하더라고요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 아니야.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 회사가 PRS-ORG로 샀으면 카드 직불번호가 나오지 않는다고 했다니까요.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 확장팩 산 정확한 거래일시를 말하면 확인에 도움이 될까요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 2021년 3월 20일 00:21에 샀어요.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 결제번호는 PHONENUMBER이에요.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-M 입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 계정을 정지 당해서요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 현재 로그인이 안되요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG계정 계정을 만들때 쓰던 이메일 계정이 지금은 없는데 괜찮을 까요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL 이메일을 사용 했었습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제가 지금 밖에 나와있는데 상관 없는 건가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 휴대폰으로 하고 있는거라서\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 알겠습니다 감사합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-F입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 계정이 이유도 모른채 정지가 되었고 그때문에 PRS-ORG의 게임을 구매할 수 없습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 한달 전에 관련하여 이의 신청을 했는데 아직도 답변 이메일이 오지 않았습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 아니오 제가 사용중인 PRS-ORG의 게임은 PRS-ORG입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 다만 지난 가을 해킹 피해를 당한 뒤 PRS-ORG 상담을 통해 다시 계정을 돌려 받았습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 어느정도 시간이 걸릴까요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 알겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 조치 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-M\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: #PHONENUMBER 문의가 오류로 중복사례로 표기된 것 같습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 해당 사례를 다시 재개하는 것을 요청드립니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 맞습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 해당 사례를 에스컬레이션하며 새로운 자료를 정리하여 첨부하였습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 새 정보는 계속해서 추가하고 있는데 왜 TOS팀에서 제 사례를 확인하지 않는 것인지 모르겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저는 지금까지 약 80건의 문의를 진행하면서 매번 새로운 증거자료를 제시했습니다만, 3번의 항소 이후에는 계속해서 반복된 답장이 오고 있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 채팅방 문의나 이메일 문의에서는 새로운 정보를 계속 추가하라고 요청하면서 왜 TOS팀에서는 제 새로운 정보를 확인하지 않는 것입니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이런 반복되는 문의가 80건이 달하고 있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 새 정보는 계속해서 추가하고 있는데 왜 TOS팀에서 제 사례를 확인하지 않는 것인지 모르겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 오후 4:54\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저는 지금까지 약 80건의 문의를 진행하면서 매번 새로운 증거자료를 제시했습니다만, 3번의 항소 이후에는 계속해서 반복된 답장이 오고 있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 채팅방 문의나 이메일 문의에서는 새로운 정보를 계속 추가하라고 요청하면서 왜 TOS팀에서는 제 새로운 정보를 확인하지 않는 것입니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 오후 4:57\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이런 반복되는 문의가 80건이 달하고 있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이 내용에 대한 답변이 필요합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 케이스를 에스컬레이션 하는 것  말고는\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제게 도움을 줄 수 없습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그렇다면 제 문의는 의미가 없는 것이 아닙니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이 점도 궁금합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 채팅 문의를 통해서는 TOS팀에 제 사례가 제대로 전달되지 않는 것처럼 느껴집니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 매번 새로운 자료를 저는 제시하고 있는데 제 새로운 자료들의 내용이 부족하여 제 사례가 계속 Decline 되고 조사가 끝났다는 똑같은 메일이 반복되서 오는 것입니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 아니면 단순하게 TOS팀에서 이미 제 계정에 대한 조사를 더이상 진행할 생각이 없어서 마치 차단을 당한 느낌으로 제 문의를 받아들이는 것입니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그들이 원하는 새로운 세부 정보는 어떤 것이 있습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저는 모든 정보에 대해서 제공할 수 있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 PC를 PRS-ORG팀에 보내면 되나요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 알겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 당신의 말은 제 문의가 Decline 될 때 마다 새로운 정보를 가지고 다시 문의를 진행하라는 말이군요.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이미 80건을 진행했지만.. 더 계속 더 많은 사례를 만들라는 이야기로 보입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제가 제대로 이해했나요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 아닙니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 알겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 안녕하세요.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 기호입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 로그인 인증 코드가 이메일로 오지 않습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 하지만 방금 PRS-ORG님과의 채팅 요청이 접수되었다는 이메일은 도착했습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 맞습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 새로운 보조 이메일이 필요합니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 잠시만 기다려주실 수 있습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이메일을 찾는데 약간의 시간이 걸릴거 같습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이메일을 찾았습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 해당 메일을 보조 이메일로 설정하겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERIC 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 성공적으로 로그인과 로그인 인증을 활성화했습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 정말 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 당신의 소중한 시간을 써주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 좋은하루 되길 바랍니다 NAME-N!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 아니요 이제 괜찮습니다!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-N 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-N이자 NAME-N 입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 1년전에도 같은 문제로 문의를 하였지만 게임에 대한 버그가 수정이 된게 없습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 패치를 거듭할 수록 저에게 생긴 문제가 해결 될 거라고 생각했지만 현재 PRS-ORG가 진행중인 새로운 시즌에 와서도 저의 문제는 해결 되지가 않았습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 첨부해드린 스크린샷을 보시는것과 같이\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 부품이나 장비 해금에 필요한 킬수 또는 조건을 만족해도\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 부품들이 해금이 되질 않습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 해금 되었다가 시간이 지나서 다시 잠긴 부품들도 존재 합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 1년전쯔음에 같은 문제로 문의 했었지만 인지하고 있지만 바쁘다는 이유로 기다려 달라는 답변만 받았지 해결은 없었습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그 이후로 1년동안 기다려 왔지만 문제는 여전하고 게임을 즐길 수가 없는데\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이건 어떻게 보면 최근 PRS-ORG 개발사인 가이진이 보인 행보와 같은게 아닐까요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저는 당장 이 문제를 해결 하고 싶습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저는 게임을 즐기고 싶을뿐 이렇게 제한된 상태로 즐기기는 힘듭니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 아니면 다른 해결책이 있습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 새로운 계정에 PRS-ORG와 현재까지 진행 해온 PRS-ORG의 배틀패스 무기들을 주는 것입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 많은 유저들과 소통 해본 결과 이 문제는 해결 할 수 없다고 생각을 하는데\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이렇게 되면 제가 지불한 120USD는 무용지물이 되는 셈입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 2년이라는 시간도 마찬가지지요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 많은 유저들이 PRS-ORG 발매당시에 떠나갈때 저는 기다렸습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이해를 하고 싶지만 너무나도 긴 시간을 기다려 왔습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그렇다면 현재 게임의 버그를 고치는 개발자 한명에게 저에게 연락을 주라고 해주세요 EMAIL 으로 직접 연락을 해달라고요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저는 당장 해결을 보길 원합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 다른 건 없습니다 그저 직접 연락을 받고 이 문제를 해결 보길 원합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 직접 연락을 해달라고 강조 해주세요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-N니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 계속적으로 문의했던 내용에 대해서 다시 문의드립니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG PRS-ORG 모바일 앱에서\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 앱 전환시에 버튼터치가 이뤄지는 부분 있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 메일로 보냈고, 이전 상담사가 팀에 버그 보고했던걸로 알고 있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 앱 전환하는 동작으로 앱이 올라가면서, 버튼터치가 이뤄집니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 특정부분에서만 나타납니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 모바일입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 복구 요청을 계속하고 있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG은 앱 최소화 과정에서 버튼터치가 가능하며, 이는 정상이라고 합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저번 상담사분이 게임의 문제이며, 복구요청이 가능하다고 했습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그부분은 첨부하여 요청했지만\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 정상이라고 거부하고 있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그래서 관련 내용을 메일로 받아서 첨부할 수 있을까요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 앱 전환시 버튼터치가 동시에 진행되는 것이 문제, 오류라는 내용을 메일로 받아 볼 수 있을까요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저번에도 메일로 발송요청했는데 보내주지않았습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 45일이 지났습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 어서 해결하고 싶습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG이 정상이라고 이야기하는 이유가 있나요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 포럼이 answer?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 여기 이야기하시는건가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 전에 그쪽에 게시물을 올렸는데\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 해당 게시물을 확인할 수 없습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 팀에서 오류, 문제라는 내용의 메일을 보내줬으면 합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그리고 URL에 내 사례에 숫자 1이 있는건 어떤것 때문인가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그리고 URL에 내 사례에 숫자 1이 있는건 어떤것 때문인가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 숫자 1이 있는건 제가 확인해야될 것이 있는건가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 홈페이지 좌측 상단에 있는\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 내 사례\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이 부분에 빨간색 동그라미에 1이 있습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 우선 알겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 기다려보겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 수고하세요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 좋은하루보내시고요.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-Nㅎ\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-N!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Unable to purchase games from your account!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: For your information, this account is a side account,\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: email:EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Maybe this account\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: yesyesyes\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: deeply moved\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ip4:ALPHANUMERICID\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Credit card not registered!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: -2\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: birday:1997.03.13\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: (30\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: -3\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Phone number not registered(5)\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: (6)PRS-ORG:2021 06.13\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Note: PRS-ORG game was purchased through a third-party site!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: It's already been done.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: thnaks\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: Do, do, do, do, do, do, do, do\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-M입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제가 연동하고있는 구글 계정이 있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그런데 이계정이 정지 조치를 당해서\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제가 이에 연결된 PRS-ORG계정을 해지할수가없습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 그렇습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그런데 이메일 인증이 불가능합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이메일이 정지를당해서\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 그렇습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 그렇습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 로그인 인증을 시도했지만 이메일에 엑세스가 불가능합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그렇기에 로그인이 불가했습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 이메일의 교체를 원합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 죄송하지만 제가 오해가 있었던것같습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 위에 제시한 이메일이아닌\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이곳으로 메일을보내주셔야합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 기존의이메일은 구글에서 계정정지를했기에\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제가 기존의 이메일로 메일을 받을 방법이 없습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 1997/08/13\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 유료구매는 하지않았습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 전화번호는 PHONENUMBER입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 청구주소역시 등록하지 않았던것으로 기억합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제가 제공할수있는 정보는 이게 전부입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 지금 이계정이 연동되어있는 PRS-ORG계정이 있습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 필요하시다면 이정보역시 제출하겠습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 계정을 사용한 인증은 불가능합니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 위에업급한 정지된 구글메일이 연동된\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 계정이 있습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 아닙니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 감사합니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-N이요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제가 이전에 해킹당한 계정을 복구하였는데 PRS-ORG 게임 이용이 제한되어 있어서 도움이 필요합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 그렇습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 게임 접속을 안 한지 2년이 넘었습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL 입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PHONENUMBER\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 2019 Feb\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 2001 Sep 01\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 5핀충전식인데 충전이 갑자기안돼요ㅠ\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 빨간불이들어왔다가 바로꺼지는데 고장난건가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 작년에산건데 1년이안됐어요ㅠ\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 구입처가기억나질않네요ㅜㅠ\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 모델은 ALPHANUMERICID\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 빨간불이들어오다 안들어온건 고장인건가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-N 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 이름은 NAME-M 입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 옙 반갑습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 좋아요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 계정이 해킹당해서 그런지\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG 게임이 정지 당했습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 사진 2장 보내드렸습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 정지를 해제해줄수 있나요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 너무 슬픕니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 입니다!!!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 입니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 무슨 일인가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 예...\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 바로 해결이 되지 않는건가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 알겠습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 아니오 없습니다\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 상담해주셔서 감사합니다 :)\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-F 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-M\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-M\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 비밀번호 잊어버렸습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이메일은 해킹으로 인하여 삭제 됐습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이메일 변경을 원합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: I want to change my email.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: yes yes yes yes\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: thank you\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: no\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: yes\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ok\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ip : ALPHANUMERICID\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 생년월일 : PHONENUMBER\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 계정의 구매 : I do not know\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 신용 카드의 마지막 숫자 : ALPHANUMERICID\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 청구 주소 : ADDRESS\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 전화번호:PHONENUMBER\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 나는 아주 오래전에 아이디를 만들었기 때문에 전화번호,주소,신용카드 모든게 바뀌었다 내가 그걸 다 기억하질 못한다 더 정확한 본인인증을 해주세요\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-N 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 앗 죄송합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 기존 사례를 진행 중 잘못 연결된 것 같습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PHONENUMBER 사례를 해결하기 위한 파일이 정상적으로 보내졌는지 문의하려 했습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG앱./PRS-ORG 양쪽 시디키 에러로 진행이 되지 않아 구매내역을 보낸 건입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 앗 파일만 확인되었다면 기존 진행하시던 분 답변을 기다리겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG은 시디키 인증 한도 초과라는 메시지가 확인됩니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG앱에서는 오류가 났다며 게임 실행이 안되는 현상이 지속 반복됩니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID - PRS-ORG\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: ALPHANUMERICID - PRS-ORG\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 확인 감사합니다!\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 양 측 계정 실행 후 문제시 연락 드리겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 추가 문의 드립니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG판 cd키의 경우\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: the serial number you entered has expired 라는 문구가 뜨며\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 여전히 플레이가 되지 않습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG역시\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 오류가 발생하였다고 하며 게임이 진행되지 않고 있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 잠시만 기다려 주시겠습니까?재설치후 말씀 드리겠습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG의 경우 재설치해도 동일한 에러 문구가 뜹니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG앱 역시 동일 오류가 발생됩니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: PRS-ORG에 문의해 주셔서 감사합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 이름은 NAME-M 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 고객님의 성함을 알려 주시겠습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: NAME-N입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 비밀번호를 분실하여 이메일로 인증코드를 보내려고했는데 EMAIL 주소로 이메일이 갑니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 저는 저 주소를 알지못합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 네 맞습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL 입니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 모릅니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 너무 옛날에 가입한 아이디를 다시 사용하려고합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 구글 이메일 EMAIL 으로 가입한건 알고있습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 내 계정이 삭제되었다면 왜 새로 가입이 되지 않나요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 제 개인정보를 보관하는건가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 도움말 항목에서 찾아보아도 제가 가입한 이메일을 찾는데 도움이 되지 않습니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 구글 아이디 EMAIL 으로 가입한 아이디를 정확하게 알 수 없습니까?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 혹은 그 아이디에 보조 이메일을 서비스 센터에서 설정할 수 없나요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 지금 구글 아이디를 이용해서 로그인 하려고하면 이미 가입된 아이디가 있다고 나오고, 확인을 위해 인증 코드를 보낸다고 합니다.\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그런데 인증 코드를 보내는 이메일이 EMAIL 로 나오고있는데 어떻게 인증 코드를 확인할수있나요&gt;?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 이메일이 안온다고\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 못알아듣는건가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: EMAIL 라는 주소로 인증 코드가 가고있는데\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 어떻게 제가 인증코드를 확인할수있나요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 그럼 그냥 그 아이디를 절대 사용못하는거 아닌가요?\nEnglish: <|im_end|>\n<|im_start|>assistant\n
+<|im_start|>user\nTranslate the following Korean source text to English:\nKorean: 도움이 별로 되지는 않네요\nEnglish: <|im_end|>\n<|im_start|>assistant\n

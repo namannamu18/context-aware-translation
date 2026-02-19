@@ -1,0 +1,40 @@
+{
+    "output_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/full_context_empty_sys_20_turns",
+    "data_dir": "/mnt/data/jpombal/wmt24-chat-translation/instructions/full_context_empty_sys_20_turns",
+    "tasks": [
+        {
+            "name": "mt",
+            "subtasks": {
+                "wmt24_chat_test.en-pt-br": {},
+                "wmt24_chat_test.pt-br-en": {},
+                "wmt24_chat_test.en-de": {},
+                "wmt24_chat_test.de-en": {},
+                "wmt24_chat_test.en-fr": {},
+                "wmt24_chat_test.fr-en": {},
+                "wmt24_chat_test.en-nl": {},
+                "wmt24_chat_test.nl-en": {},
+                "wmt24_chat_test.en-ko": {},
+                "wmt24_chat_test.ko-en": {}
+            }
+        }
+    ],
+    "models": [
+        {
+            "name": "TowerInstruct-7B-w-chat-empty-sys",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "Unbabel/TowerInstruct-v0.2-w-chat-mt-data",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/full_context_empty_sys_20_turns"
+        }
+    ],
+    "generation_time": [
+        18.367844581604004
+    ],
+    "generation_time_average (lps)": 55.42294282147619
+}

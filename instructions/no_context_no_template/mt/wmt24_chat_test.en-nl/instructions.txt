@@ -1,0 +1,1061 @@
+Translate the following English source text to Dutch:\nEnglish: Hey NAME-M!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How are you doing today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Good to know you're doing great today.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I am enjoying my day so far, thanks for asking.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How can I help you today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'll surely check the details for you right now and look to help you with PRS-ORG disconnection issue accordingly.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please share your PRS-ORG account email and also your PSN ID.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I can see there's an ongoing issues with the PRS-ORG servers and our team is working on fixing it.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Our social media team also provided an update regarding it here :\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: At this point we have no further details about it since the issue is already under investigation by our team.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I cannot commit any time frame on behalf of my higher authorities else it would be a false commitment.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Any new update about it will be shared by our social media team on above shared link.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The best I can do for you is I am providing you a Draft Token tool which you can try after 1 hour from the time of disconnection.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If your account would be eligible for a token it'll automatically grant you a token to your account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Here's the link: URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I really appreciate your patience while we are working to fix this issue for all our affected players.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Glad I was able to share available information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Is there anything you need help with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for reaching out.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Stay safe and have a wonderful week ahead NAME-M!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hi there, nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you are well and good there.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It seems you do not have access to the email right?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hi NAME-M, nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you are well and good there.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It seems you do not have access to the email right?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please do not worry as I’ll certainly check the details about your issue and will provide you all possible help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I know your PRS-ORG Account email so that I can locate your account and check the details for you?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have checked the details of your account and I have found that your account has been disabled.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You can try to reset the account password to get back into it if you haven’t created a new account with the same email, this PRS-ORG Help article.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If you do not have the access to the email then there is no possible way to get the account back.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello, nice to meet you NAME-M!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hope you are doing well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How may I help you today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Alright so as I can understand it seems like that you are unable to access the Transfer market from the web app, right?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Alright Please do not worry as we are here here to help you with the resolution to your issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: To begin with, may I know the email linked with your PRS-ORG Account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for the email.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please allow me a minute to check the account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you so much for the patience here so I just got this case investigated by the concerned team and am happy to tell you that you’ve nothing to worry about, looks like a few other players have reported this issue as well, however, the good news here is that the studio is already aware of it and is already working on a fix, it’s getting rectified as we speak, thanks for your patience on this one and again do not worry we got your back on this one.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please do not worry as this is the studio issue it will be resolved as soon as possible.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I completely understand your point but right now I do not want to make any fake promise because this is with the concerned team.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Apart from this is there anything else I can help you with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for your cooperation throughout the chat!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It was a pleasure assisting you, NAME-M.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG Help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: For future reference, you may contact us by visiting URL.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have a nice day ahead and take care!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello NAME-M, nice to meet you, I hope you are doing great.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How can I help you today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If I understood you correctly then you are facing the PRS-ORG aniticheat issues, am I right?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for sharing the issue with me.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Don't worry will try my best to help you with the options available regarding the anticheat issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please try to perform the steps which are provided in this article to fix this issue:--- URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please perform the troubleshooting steps and if you still face the same issue then please let us know so that we can help you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You have been very nice and polite throughout the session.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please let me know if is there anything else I may assist you with today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for being so understanding.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It's an honor to assist a nice and passionate player like you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hope I was able to assist you today.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Before closing the session, I wish you great health and prosperity ahead.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If you need any further assistance with PRS-ORG products please feel free to reach out to us back at URL.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Goodbye, take care and stay safe.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello NAME-M, nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you are doing good.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Ah, I see, I'll surely check the account to find why it is not allowing you to connect the new PSN Account to the PRS-ORG Account and help you in solving it.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I know your PSN ID and the email address registered on the PRS-ORG Account please?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I am checking it.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Okay, may I know what the original that was registered on the account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: original email that was registered on the account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Okay.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I see that you're contacted us earlier as well regarding this issue wherein our advisor has asked for few details but the details that you provided us did not match with the account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So may I know if you have an new details to verify the account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If you have more information to help us verify your account, you can reach back to us.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: so that we can try verifying the account again.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I am sorry but with that data were unable to verify the account and as you don't any new info to verify the account won't be able to proceed further.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: For any future queries with PRS-ORG, you can always contact us.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks again for contacting.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have a great day ahead!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Take care and stay safe!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello NAME-M, nice to meet you and I hope you are doing good!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How may I assist you?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So you've not received your order correct?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Not to worry I'll surely help you with all possible ways with my all efforts.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I know when did you bought it?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I would like to inform you that some times it takes 24 hours to be processed so not to worry it will be processed in 24 hours if the issue still occurs feel free to contact us back we'll help you with coins.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: No worries if you've not get in 24 hours feel free to contact us back we'll surely help you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for your co-operation!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you're happy with my help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Is there anything else I can help you with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You are such an Incredible person and I must say you have a good heart.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: please take care of yourself.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It was my great privilege to have conversation with you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Before ending this chat session I will request to take good care of yourself.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: For further help please reach back out to us on URL.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for contacting PRS-ORG help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have a great day!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Pleasure to meet you NAME-M.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you are doing well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How may I assist you today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I am sorry to hear you're missing your coins and players.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: And I'll definitely check the updates on your case.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please allow me a moment  to check your last case details.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for waiting.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I can see your transfer market was banned when our teams found violations on your account 4 days ago.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So our adviser helped you resecuring your account and escalated your case to our terms of service team for further investigation of your sanction.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: From there your case was escalated to studios and they may take a week for response depending on the queue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So you'll get a reply from our teams with in 4 working days.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So please wait and keep an eye on your email.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I wish you all the best for it.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I am sorry for that.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: But the investigation takes time.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Depending on the queue and the investigation that's required for your case, it may take a few days.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So please wait and keep an eye on your email.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'll try my best to expedite the things a bit for you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you so much for all your patience and co-operation.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If you need any other help then you can always reach back to us and we'd love to assist you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you contacting PRS-ORG Help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have a beautiful day ahead.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Bye bye and take care!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hi NAME-M\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: , nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you are doing well today.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How may I assist you today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As I understand you need help with transfer market.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Let me assure you that I'm here to help!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Alright!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for letting us know this.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you so much for the patience here so I just got this case investigated by the concerned team and happy to tell you that you’ve nothing to worry about, looks like a few other players have reported this issue as well, however the good news here is that the studio is already aware about it and is already working on a fix, it’s getting rectified as we speak, thanks for your patience on this one and again do not worry we got your back on this one.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Good thing is that this has been brought into the notice of the concerning team and they are diligently working to fix it as soon as possible.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You just need to wait for some time, this is a known issue to us and our concerned team is working hard to fix the issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So please don't worry, please wait for some time and check it again.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I would request you to please keep an eye on our official Website and Social media page for further updates and information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You can follow PRS-ORG Help on PRS-ORG for more updates.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As I can check. there is no update on this as of now. however the discussion is going on and team is working to fix.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Whenever they will have to new updates, they will definitely post the information on social media platform.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I advise to keep an eye on updates.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'm glad that I was able to help you with your issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: This wouldn't have been possible without your co-operation.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Is there anything else apart from this, I may help you with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello NAME-M!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How are you doing today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Good to know you're doing fine.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Just to understand the issue correctly here, your PRS-ORG account was compromised and now you are missing PRS-ORG content.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Right?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Ah!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: That's not the kind out experience we want our players to have.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'll surely check the details for you right now and look to help you with account security and missing PRS-ORG content issue accordingly.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please share your PRS-ORG account email address and also your PSN ID.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have sent a verification email, please check.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The email has the subject line "Verify ownership of your PRS-ORG Account" and you may have received it in your inbox or spam inbox.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please check your email inbox and share the six digit verification code with me.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: There's a good news for you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have checked your account and I can assure you that the account is absolutely secured.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The games on this account were only accessed from trusted devices and you also have login verification enabled to provide additional layer of protection.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: This means anyone who had the access of the account or console were able to make the changes to your PRS-ORG.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: We found this claim to be false and we won't be able to restore any missing content on this account however, I'd suggest you to update your PRS-ORG and PRS-ORG account passwords and log out of your console when you are not using it to avoid any such inconvenience in future.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Glad I was able to share available information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Is there anything you need help with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: We do not need pictures, we can check the account security at our end on your account and I can assure you that your account was not compromised.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I can totally understand the inconvenience however I have already checked the account and provided you available information which still remain same that the account is not compromised an any content which you had on the account was consumed on this account itself.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The game was accessed from your trusted device which means anyone who had the device access can make those changes.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'd again advise you to update your PRS-ORG account and PRS-ORG passwords to ensure you do not have to face such issues again.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Apart from this issue is there anything else I can do for you?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello there, I hope you are doing fine.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How may I help you?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Are we still connected?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Can you please elaborate your issue a little more?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for the information, getting this checked for you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Meanwhile you can tell me how has been your day so far?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Glad to know that and mine is going good till now, thanks for asking.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As for your concern, you will not be able to switch PRS-ORG account from PC to PRS-ORG as the game has not been released yet.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: For more information, you can visit our website - URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: /help/PRS-ORG/PRS-ORG-early-web-and-companion-app-start/\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As you said that you have switched from PC to console and you have played PRS-ORG on PC so the basis of that you will be able to access the PRS-ORG app only from your PC.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So I would suggest you to wait for the game to be released.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: adw\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you understand.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello, I will be more than happy to assist you today.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please allow me a second to get your account details.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for your patience it seems that your book is archived, I will move out to your account again.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You can do it again at URL, then my books and then archive section.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Book is now on your account again, please sync in order to see it.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: There is only at URL you won't see archive section on your eReader\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Are you able to see the missing book now?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Alright, let's see.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Are you on mobile browser or computer browser?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Sounds good, can we help with anything else?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG, it was my pleasure to assist you today.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you have an excellent day.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Nice to meet you PRS-ORG, I hope you're doing well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How can I help today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will certainly help you register new phone number on login verification feature.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I know the email address of your PRS-ORG account please?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Okay.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So this is your first time contacting us to report this problem or have you contacted us before?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: According to the security and privacy guidelines, it is important to verify the ownership of the account before making any changes.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Since you don't have access to the email address, we need some details of the PRS-ORG account we are working on.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please note that we get only one chance over one live chat to submit these info and any misspellings may affect whether the answer is considered correct.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: IP address (network where you play on):\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Date of birth (provided during account creation):\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: One purchase on account and purchase date (month/year):\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Last 4 digits of credit card:\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Billing address:\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Phone number:\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You can find your IPv4 address here: URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: For PRS-ORG games you ordered on PRS-ORG, you can check order history on web: URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: For PRS-ORG games you ordered on PRS-ORG, you can check order history on web:\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Would you be able to find IP address and share?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I've sent a link with you to find.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello NAME-M.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Good evening\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: , nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you are doing well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for sharing the concern, I understand that you are contacting us regarding PRS-ORG SBC progress issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please do not worry, I will surely look into this SBC issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Could you please provide me your PRS-ORG account email address?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for letting me know, I will need to check this directly with the dedicated game team.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please allow me few moments.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for your cooperation and as I have checked the resources I would like to inform you that we are receiving the similar contacts and many of the customers are facing the same issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: However, good thing is that, this has been brought into the notice of the Game Team and they are diligently working to fix it as soon as possible.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So, I would request you to wait for some time till this gets though I know nobody likes to wait but rest assured the team is actively working on it and the issue is been\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: addressed on priority.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Once the issue will fix the team will update this on our official PRS-ORG Page.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So, I would request you to please keep eye on our PRS-ORG page for further updates.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Being a PRS-ORG player I can certainly understand, please so not worry, it will get fixed soon though.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please let me know if there is anything else I can assist you with or if you ha\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: ve any other questions for me?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: My pleasure to help you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: For future reference, you may contact us by visiting at URL.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG Help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You have been amazingly calm and cooperative, much appreciated.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have a nice day ahead and stay safe.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hi NAME-F, nice to meet you on chat.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How can I help you with today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for elaboration the issue that you have experience.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I understand your issue I will do my best to help you out.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Could you please provide me your email address which associated with  your PRS-ORG account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hi there, here I can see that you have unlink your PRS-ORG account on Oct/27/21\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: 02:36 PM U.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So, as per the policy you can only link it again any PRS-ORG account after 6 months in the same PRS-ORG account that's the reason you could not link it.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So, you wan to link your PRS-ORG account in this PRS-ORG account right ?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: EMAIL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Alright, then you will be able to link your PRS-ORG account in this PRS-ORG account EMAIL.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will share you the link please check it one more time.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Try launching any PRS-ORG game, like PRS-ORG from your PRS-ORG and you should get a prompt to link your PRS-ORG  account to PRS-ORG account, than you can add the details and link your PRS-ORG to your PRS-ORG account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please try and let me know if that worked.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: No, problem I hope that will work in this way since other player help to.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You can also contact us back anytime!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: "Before ending this chat session I will request you to take good care of yourself.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Pleasure and lovely talking to you here.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for contacting PRS-ORG Help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have a great day!"\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello NAME-F , nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hope you are doing well today.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How can I help you today ?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I see!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So you are misisng the purchase you made for PRS-ORG , am I correct ?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: No worries, I am here help you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'll quickly check your account details and after verification will be glad to resolve your PRS-ORG pack purchase  issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: For that, I need a few details from you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Is that fine?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I know your  email address linked with your PRS-ORG Account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks , can you please share the name of the pack you purchased and missing ?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks a lot , let me have a quick look .\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have sent a verification email, please check.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The email has the subject line "verify ownership of your PRS-ORG Account" and you may have received it in your inbox or spam inbox.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please share the code .\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Are we connected?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hope you are doing well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I deeply apologize if you are experiencing this issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Rest assured that I will help you regarding this matter.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Would you allow me one moment to open your account and verify it?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: To do that, can you please provide the email address of your PRS-ORG account and the last book you have purchased?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you very much and sorry for this inconvenience.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you very much for verifying your account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'm so sorry again for this issue that caused you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I would be happy to refund you this purchased.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I ask what type of refund you would prefer?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Is it back to your credit card that will take 3-5 days to process or refund it to your store credit that will appear real time?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you very much.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thnak you very much for confirming.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I've refunded you this charged back to your credit card.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Your Subscription is already for PRS-ORG ebooks only and it will renew on July 06,20233.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you very much.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Is there anything else I can help you with aside from this?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hey NAME-M, nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hope you are doing well!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As I understand that lost your account and you need help to find it am I right?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for the confirmation.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please do not worry you are at the right place, I am here to help you and I assure you I will give my best to resolve your issue as early as possible.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Could you please share your registered email address with PRS-ORG?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: No worries but we will try once.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for sharing the email address with us.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please allow me a quick minute to pull out the details of the account linked with your email address.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for waiting.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Just to confirm, do you have access to your registered email address?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello, nice to meet you and I hope you are doing good!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How may I assist you?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hi there.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Alright as I can see your account has been compromised and is missing the players am I correct?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: That’s not good to hear!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Nothing to worry, I will figure it out for you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I know the email linked with your PRS-ORG account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for the email.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: No worries to help you with this, I will be escalating your case to our Terms and Service team immediately so that our team will look into this and further fix this issue for you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Also we cannot guarantee that by submitting the dispute your sanction will be surely overturned.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Also It may take upto ALPHANUMERICID for our team to revert you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You may also check the status of your appeal using the link below:\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Once the team fixes the issue, you will be contacted by them via email that is linked to your PRS-ORG Account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please keep an eye on your email inbox as you may receive the response from our team soon.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Is there anything else that I can help you with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The objective of filing an appeal on your behalf is that you will be able to access the PRS-ORG and I will do my best to help you resolving your issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I am positive that the ban will be removed this time.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Is there anything else that I can help you with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Sure it will be removed and I'll try hard for it.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG Help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If you have any more additional questions, please don't hesitate to reach out to us again!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have a great day ahead.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Bye take care and love from India.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello NAME-M, nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hope you are doing good.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for bringing this to our attention.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As I have understood, you are unable to find your game command and conquer on your PRS-ORG account, am I correct?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for confirming.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please be rest assured, I will check what best I can do in order to resolve your concern.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: To begin with, may I know the email linked with your PRS-ORG Account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for the email address.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have sent a six-digit numerical code to the email registered of your PRS-ORG account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Once you have received it, please post it into the chat.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I do not mean to rush you, please do let me know if you are facing any issue, I'm here for you\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you so much for the code however, as I checked this is not correct.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I request you to please check the recent one and help me with the codes.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for the information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will be more than happy to assist you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I assumed that in the past interaction the past agent told you to re-enter your billing information right?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: This is strange.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: let me review your account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: one moment please.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for your patience.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: can you please provide the 4 last numbers of your old credit card?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I talked with my supervisor about this issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: told me to clear the billing info so you can fill it up again.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: if the problem persist then we have to escalate this issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It's weird because in our system once the billing info has been cleared on our side there is nothing that saves the past billing information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Contact us again.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: and tell the agent that we have cleared your billing info 2 times and the problem has been persisting.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Also.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: something is telling me that maybe the issue is your web browsers cache and cookies.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: cookies in Technology Information terms is information that the web browser uses to identify you on a website.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: so you don't have to re-enter your credentials every time you enter a site.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: like ours or PRS-ORG per example\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If you want I can assist you on clearing your cookies form your web browser.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I am sorry, due to quality purposes I will have to close this chat if I don’t receive a response in 2 minutes.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: have a nice day and take care!.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As I can understand you are facing a ban in your transfer market.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: No worries, I will try my best to help you in resolving your issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I know the email address which is registered with your PRS-ORG account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: After reviewing your account, I can see there that there is a ban on your account due to a Terms of Service violation.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Do you know why this may have happened?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I would like to inform you that this act comes under the violation of PRS-ORG policies.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: What I can do is help you submit a dispute.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The dispute isn’t a guarantee that the ban will be overturn however, our Terms of Service team will reevaluate the case on the basis of the information provided by you and contact you back via email once they’re done.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So do you wish to raise a dispute?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: No worries please allow me a moment to raise a dispute.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Great!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So I have successfully raise a dispute to our Terms of Service team stating all the information provided by you to help the team revaluate the case.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Also, they will reach back to you within 10 working days over the email.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: However you can always check the update of the case using the below link and by checking the case number- PHONENUMBER\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Apart from this is there anything else I can help you with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Sure I have made a note of it.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Apart from this is there anything else I can help you with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Are we still connected?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Since there is no response from your end, we are disconnecting the chat from our end.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: However, you may contact us through URL and we will be more than happy to help you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hi NAME-F, I hope you are doing good.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Nice to meet you today.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If I understand you correctly, you are facing concern with error message I completely understand, this can be frustrating for you, however, please do not worry.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I am here to help you fix this.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Let's work together and make sure that this issue is fixed as soon as possible.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Could you please provide me the Email address associated with your PRS-ORG account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for sharing the information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: In order to help you effectively, I request you to please share following details  Date when the issue occurred.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Username and platform on which you play the game, Error message that you are getting.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: When was the last time you were able to play your game smoothly with same username.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It seems that you are away from the Keyboard, please let me know if we are still connected.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Since we didn't get any response from you, I have to close this chat session.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: For further help please reach back out to us on URL.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG help!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have a great rest of your day and remember to stay safe!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hey NAME-M, hope you are doing good.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I know the issue you are facing?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As I can understand you are facing an issue in changing the weapon.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: No worries, I will try my best to help you in resolving your issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I know the email address which is registered with your PRS-ORG account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for the email.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I know if you have tried any troubleshooting steps in order to get this issue resolved?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Alright, I request you to please try to reinstall the game and if the issue persist I request to please contact us back we will be more than happy to help you. '\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Are we still connected?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As we are not getting any response from your end from last 5 minutes, I would strongly recommend you to return to the chat window so that we can pursue with the troubleshooting steps and help you further, however if we are unable to get any response from your end the chat will be disconnected automatically due to inactivity from your end.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: In that case I would suggest you to please contact us back and we will be more than happy to help you with your issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello, nice to meet you, NAME-M.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How may I help you today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I can totally understand that you are not happy with the pack probabailty.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will surely help you with the information as to how it actually works.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I know that packing the same player twice is not what you would have expected as the PRS-ORG is quite expensive to complete but there's a probability of getting the same player card again from the pack.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: PRS-ORG Ultimate Team is a live service that we are always looking to improve.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: This means being open to player feedback at all times.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: We know all the effort you put into building up your squad, and we want that time to be as rewarding and fun as possibl\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: e.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: PRS-ORG is a live service that we are always looking to improve.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: This means being open to player feedback at all times.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: We know all the effort you put into building up your squad, and we want that time to be as rewarding and fun as possible.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will surely be sharing the feedback further with our team regarding the pack probabilities.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope that you are able to see some positive changes with it in the future.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Also, you can go through this link in the meanwhile for the information on the pack probabilities:-\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will surely share your feedback further with our team.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for understanding!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I really appreciate it.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please feel free to contact us back if you face any issues.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for giving me a chance to help you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you have a wonderful day!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hi NAME-F, hope you are good today!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please elaborate your concern, I'll be glad assisting you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I understand your concern since you have mentioned that you unable to play PRS-ORG for the first time on your new PRS-ORG.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: However, please be rest assured let me check what best I can do here in order to resolve your query related to this concern.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Just to confirm you launch PRS-ORG on your PRS-ORG, via PRS-ORG app or PRS-ORG.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please do let me know.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for the confirmation.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please allow me while I check this for you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Also for better understanding on your concern could you please confirm if you are facing any error message while launching PRS-ORG on your PRS-ORG.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for letting me know.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Just a moment please.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Could you please uninstall the PRS-ORG once and then re-install it once or in case if you have tried this already please reinstall the PRS-ORG again on your PRS-ORG as many players who are facing this issues while launching PRS-ORG through PRS-ORG on their PRS-ORG got it fixed after following this.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'll keep this chat case open for you in case you face any issues do reach back to us and we will assist you further regarding this.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I appreciate for your patience and understanding in this matter.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Apart from this, Is there anything else I can help you with, I would love to do that.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for the information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will be more than happy to assist you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Nice to meet you!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you are having a great day!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please, allow me a few minutes to find your account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for your patience!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Just to verify your account, can you provide me your postal code, please?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Also, can you provide me more information about your request, please?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: What do you mean about increasing a credit with PRS-ORG?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Oh, I see.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Ideal is not appearing as a payment method you can add and save on your account settings, but if you wish to purchase an eBook using PRS-ORG you can go to the checkout page of your eBook and PRS-ORG should appear as one of the last payment methods.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If you can see it, you can select PRS-ORG and complete your purchase.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: However, PRS-ORG does not work in PRS-ORG to purchase eBooks that are only available in Preorder or subscription.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Another thing you can do is to make your eBook purchase from PRS-ORG website as well, using PRS-ORG, and due to your PRS-ORG account us linked to PRS-ORG, the eBook will sync to your PRS-ORG account as well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: However, if you don't have an PRS-ORG account at the moment or if you need more information about the PRS-ORG funds you have at the moment, it will be necessary to contact them directly.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for letting me know.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The 25 EUR you are referring to where related to a PRS-ORG you redeemed in your account before?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I can see that you have 7,33 € saved as Store Credit in your account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hey NAME-F, nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hope you are doing well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How may I help you?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: No worries, I'll surely see what's the best we can do and will try my best to help you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I please know your registered email?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Here is the link for clear cache : URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please try this once and let me know if this fixes the issue\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope we are connected.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The only way to completely 'shut down' the PRS-ORG app is by clicking on Exit via the hamburger menu in the top-left corner of the app, or by right-clicking on the PRS-ORG app icon in your 'hidden icons' area in your taskbar, followed by clicking on Exit.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Also try this once as I checked it with my internal team, I would like to inform you that there are multiple troubleshooting steps.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: But I would recommend you to follow my steps as these will work for sure.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I would request you to create a new PRS-ORG user on your PC and install PRS-ORG app there then download game and I assure you that the game will work normal again this is a temporary solution once the issue is fixed from our side you will be abler to play PRS-ORG on your primary user as always.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If you face any issue feel free to reach us back we'll be happy to help you anytime.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for sharing your concern with me.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please do not worry I would help you in this concern.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Could you please help me with your registered e-mail address in order to pull up your account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you so much for sharing your email address.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Could you please allow me few minutes to check with the account details for you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you so much for your understanding.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you so much for your patience with me.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I would like to inform you that you nee to buy the PRS-ORG play pro membership to play the the FIF 23 game.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You are unable to play the PRS-ORG game on PRS-ORG membership.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I would like to inform you that PRS-ORG game is not available on PRS-ORG play that is the reason you are unable to play the game.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you so much for your understanding.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please let me know if there's anything else that I can help you with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Pleasure to meet you NAME-M.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you are doing well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How may I assist you today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: No worries!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'll check the update on your case.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have sent a verification email, please check if you have received an email with the subject line "Please verify ownership of your PRS-ORG Account" in your Inbox or SPAM inbox and please provide that code to me.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I can see our adviser helped you securing your account again and then escalated your to our game team to validate and restore your missing content.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Depending on the queue and the investigation that's required for your case, it may take a few days.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So please wait and keep an eye on your email.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'll try my best to expedite the things a bit for you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Also, it seems you've reopened the same case again.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please make sure to not to open this case again.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You can check your case status under "My Cases" by going to PRS-ORG Help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'll escalate it again.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please keep an eye on your email.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Once our teams have validated everything, they'll grant you the missing content or the coins value of it.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It's been a pleasure assisting you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If you need any other help then you can always reach back to us and we'd love to assist you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you contacting PRS-ORG Help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have a beautiful day ahead.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Bye bye and take care!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello NAME-M, nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hope you are doing good.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How may I assist you today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: how are you NAME-M\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: how may I assist you today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: My day has been pretty good so far.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How was your day?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I apologize for  this  inconvenience caused and apologize for long wait time.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Don't worry, your case is in my hand and I will make sure that you do every possible way to help you with the missing PRS-ORG points .\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Has it been more than 24 hours since the purchase?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Ohh !You may not worry.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It usually takes 24 hours for the points to get credited to the account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Within 24 hours, missing points  will be credited.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: In case, not received within the 24-hours of purchase.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Make sure to contact us back after 24 hours, we'll validate the purchase made, and help you with the missing points.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: heheh!I really appreciate your love and enthusiasm for the game which you have.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I appreciate your patience and understanding in this regards and please don't worry once  the 24 hours passed the issue will get fixed, also, if you still need any help you can get back to us any time as it is 24*7 hrs window and I do not want our players to face any issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hi NAME-M\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: ! Nice to have you here, how may I assist you today ?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: No worries I will definitely try to help you  as you have not received the loot.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have you tried to log out the game once?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have you tried to log out the game once?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Are we connected?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please response if we're connected.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I just consulted your case with our game team regarding your issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please first of all, accept my apology for the inconvenience caused.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have checked the details the issue that you are facing is something which we're already aware of.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: We're receiving similar reports from other players around the globe.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Good thing is that this has been brought into the notice of our game team and they are diligently working to fix it as soon as possible.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'm glad that I was able to help you with your issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: This wouldn't have been possible without your co-operation.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Is there anything else I can help you with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You just need to wait.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG Help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If you need further help, please contact us again, good bye and take care of yourself.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hey NAME-M, nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you are well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How can I help you today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Just to confirm, you lost your draft match in PRS-ORG as the opponent left the game?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: No worries, let me look into it and assist you accordingly.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Alright.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Actually, this is something that we as a chat team won't be able to manually change from our end and therefore, I am gonna report this issue with my game team for you to fix it and try to get some sort of compensation for the affected players.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Meanwhile, you can try to get your draft token back using the below link.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I am afraid but these things are controlled by the servers.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: We don't have any option to manually grant them from our end.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Yes.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: That is why this issue is being reported to the team and they can check on the case closely and help you with it.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You will be notified via email if something comes out.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I don't want to give you any false hopes regarding the time but I can assure you that our team will work on it diligently and contact you as soon as possible.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please let me know if there is anything else I can assist you with.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I would be glad to help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Are we still connected?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It seems you are away from your keyboard, this puts us in a bad spot, I will need to disconnect this chat session and I would request you to please contact us again if you require any help and we will be here to help you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello, nice to meet you NAME-M!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hope you are doing well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How may I help you today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Alright so as I can understand it seems like that you need to cancel the PRS-ORG membership from the PRS-ORG Account. right?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Okay no issues, I will certainly try and help in cancelling the PRS-ORG membership of the PRS-ORG Account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: To begin with, may I know the email linked with your PRS-ORG Account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for sharing the email!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please allow me a couple of minutes to check the details and get back to you with an update.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for waiting!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I ahve checked the account and it seems like that the PRS-ORG membership was expired on Nov 29 2021\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: And as I can see that the billing is from PRS-ORG so in this case you need to get in touch with the PRS-ORG support and they will be able to help you in resolving the issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You're most welcome and thank you for your cooperation throughout the chat!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: yes we are but the billing is from PRS-ORG so the records are with them so they will help you with the payment dispute issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Apart from this is there anything else I can help you with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I don't mean to rush you but just for confirmation are we still connected on this chat?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It seems you are away from your keyboard, this puts us in a bad spot, I will need to disconnect this chat session and I would request you to please contact us again if you require any help and we will be here to help you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hey NAME-M, I hope you are doing well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I can see that you're a bit worried as you not getting the verification code for logging in to your PRS-ORG account am I correct?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Not to worry I'll try my best to help you with your issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please share your registered email that is linked to your PRS-ORG account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have sent a verification email, please check.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The email has the subject line "Verify ownership of your PRS-ORG Account" and you may have received it in your inbox or spam inbox.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please tell me the code.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for the code.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Do you have any spare email so I can update the secondary email it will help you to get the codes?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: A validation email has been sent to you please share the code.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have you received the code?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Are we connected?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope we are connected.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: please do respond so that I can make sure to wait.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The system detected that you are not responding to the chat and disconnected.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please reach us back in case you need any help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello NAME-M, I hope you're having a good day.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How may I help you today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Don't worry, I am here to help you!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will certainly look into this and do my best to help you with the PRS-ORG hack.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I know the email that is linked to your PRS-ORG Account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks, I have sent a verification email, please check.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The email has the subject line "Verify ownership of your PRS-ORG Account" and you may have received it in your inbox or spam inbox.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: No worries, please allow me a moment to check.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As I have checked your case is done with the investigation and you got the 148002 coins in your account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Are we connected?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As I have not heard from you in a few moments, so we have to close the case.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Don't worry you can contact us back from URL so we can try to help you further.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for contacting PRS-ORG Help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello NAME-M.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you are doing well!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How may I assist you today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for providing the information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As I can understand you may need help with quick sell.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Kindly share your concern.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will try my best to help you!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Could you please confirm the date or time when your cycle gent renewed\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Alright!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As you have received 1 however 4 are still left, in this case I request you to kindly wait for 24 hours, as sometimes dude to a technical glitch or server issue, it takes some time.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you will receive it after 24 hours.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: In case if it doesn't work, you can reinitiate the chat by sharing the case ID that is PHONENUMBER\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: . Our PRS-ORG advisors are 24 hours available, in order to help you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope this is fine!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Apart from this,\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please let me know if there is anything else, I may assist you with today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will be more than happy to assist you further.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for your cooperation\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: and understanding!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It was a pleasure assisting you today.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: In case you need any assistance in future feel free to contact us back.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG Help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have a great day ahead!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hi NAME-M\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: ! Hope you're doing good.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How may I help you today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for the info.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Not to worry, we're here to help with your issue of unable to login to your PRS-ORG account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Can you please help me with the email address of your PRS-ORG account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'm going to send a six digit code to your email address.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please check if you have received an email with the subject line " Please verify ownership of your PRS-ORG Account " in your Inbox or SPAM inbox.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please read it back to me so we can verify your account and check it's status.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for the verification of your PRS-ORG account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have sent the reset password link, please reset your password and try to log in and let me know.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Apart from this, is there anything else I can help you with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Nice talking to you, hope you've a great day.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG Help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello there, nice to meet you and I hope you are doing good!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How may I assist you?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So you need to dispute the ban correct?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Not to worry I'll surely help you with all possible ways with my all efforts.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I know the email which is linked to your PRS-ORG account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have sent a verification email, please check.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The email has the subject line "Verify ownership of your PRS-ORG Account" and you may have received it in your inbox or spam inbox.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you !\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As I can see there is a transfer lock on your account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: In order to validate the case I have to escalate the case to it's concern team please allow me a moment.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for your patience!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have escalated the case to the team.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Your original case will remain open as we continue to investigate it, and we will close this current case.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It is because I have escalated the case and if you resume the same case again, it will be pulled from the investigation queue and will come at the end of the queue and it will delay the investigation.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The team will investigate your case and contact you once the investigation is complete.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The team will review your case and reach out to you within 10 days via email after investigating your case.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You can check the update on your case status with the help of this self-help article.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for your co-operation!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you're happy with my help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Is there anything else I can help you with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Yes I've mention your story nothing to worry now.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for the information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will be more than happy to assist you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'll review your account, one moment please.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for your waiting time, I have just checked the information into your account, I'm sorry to know that you are having this problem with your last purchase but I'm willing to help you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It seems that the transaction didn't go through, however, if the money was debited from your account, I'll need that you share with me with the Description number that appears into your bank statement so I can add the eBook manually.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for the information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Let me verify the code, one moment please.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for your waiting time, I have just added the eBook into your library, Could you please sync your device and let me know if you can see the book now?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It's a big pleasure for me!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope that  you enjoy your book!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Is there anything else that I can help you with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for the information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will be more than happy to assist you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Nice to meet you, NAME-F.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you are having a great day!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please, allow me a few minutes to find your account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for your patience!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Just to verify your account, can you provide me your postal code, please?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Sure, no problem!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for letting me know.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Now that you verified her account with me, we can check it with no problems.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If I understand correctly, the subscription was successfully renewed and charged to your payment method, but you also received an email from PRS-ORG informing there was a problem doing the renewal?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you so much for the information!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If you received this message, it might be possible there could have been a problem renewing the subscription, but although I cannot see if this is completely the case, it might be possible the problem was more from our side rather than the billing information because the subscription was successfully renewed and I cannot see any failed attempts of doing this.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: At this moment, the subscription is working with no problems in your wife's PRS-ORG or PRS-ORG App?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Perfect!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: That is good to know.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I can also see the next renewal date is also set for Feb 28, 2021 the subscription should be working with no problems from now on!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: And yes, the subscription was charged to you at January 28, 20211.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Also, if you daughter re-entered the information at the website and it is exactly the same at the moment, everything should be fine with your subscription.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: What I can suggest you do is ignore that message and continue using the subscription normally, but if you receive this message the next month when the subscription tries to renew again, please contact us again to let us know and we will help you check this further!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hopefully it is not necessary at all, but if it does happen again, we will be here for you!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You're welcome!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It is a pleasure to help you and I apologize about any inconvenience this message could have caused.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: In case you also need it, the reference number of this interaction is #PHONENUMBER\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Is there anything else I can do for you at the moment, NAME-M?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Perfect!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I wish you and your family a lovely day and a nice week!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for your time and kindness!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Stay safe and healthy!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hey NAME-M, nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you are well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Yes !\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I can chat in Dutch as well\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So How can I help you today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I would love to do this for you as I understand that this would be really important to you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: However, I know you would understand that as this is completely server dependent it is beyond our support limits as the we won't be able to alter it as the server won't accept an overwrite from our very end .\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I know you would understand this.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please don't get me wrong here, had there been an option for us.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I would have loved to do this for you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I wish I could but as I mentioned that this is an online game based on servers due to which we have no option to make any in game changes manually from our end.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: : (\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I know that this won't be the answer you had been looking for but trust me had it possible I would have surely done it for you even if it meant breaching my limitations or going beyond my ways as customer satisfaction what I am here for.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: My intention is not to keep you from something that you can have, had it been possible for me to process the request for you, then I wouldn't have given it a second thought.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope that you will understand.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If you need any further assistance then feel free to contact us back again regarding the issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG Help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have a good day!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hi, hope you are good today!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please elaborate your concern, I'll be glad assisting you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I understand your concern since you have mentioned that when you claimed the division rivals rewards the game got crashed and you got coins and few packs and you want tradeable rewards instead of the reward you got.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Am I correct?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for clarifying your concern.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You selected option 2 for claiming the rewards and wanted to select the option 3 instead.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I do understand your concern and as the rewards are already claimed from you we don't have the option to change the claimed reward from our end.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I would suggest you to please report this to our dedicated in-game team and they will be able to check and revert you shortly over the email with the best possible resolution on this.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please refer to this link to report this issue to them.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Apart from this, Is there anything else I can help you with, I would love to do that.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I do understand your concern and I realize that the situation is difficult and we never want our players to have bad experience.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As much as I would love to help as I am also a Gamer like you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: However, we don't have option to change the claimed rewards/packs by the player in-game.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You may report/post this on our official portals where our  community mangers checks and reverts back to such in-game issues faced by our players.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I would request you to please post your concern on our official Website and Social media page for further updates and information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You may follow the below links for reference:\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: 1\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: PRS-ORG page link-URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: 2\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Official website- URL or URL.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As much as I would love to help, your request is beyond what we are able to do for players.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Believe me, if there is any steps to follow, I would have performed already.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG Help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It was pleasure assisting you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have a wonderful day ahead.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello NAME-F\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: ! It's nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hope you are doing well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please share your concern with me.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I am sorry that you had to deal with this.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As I understand that your concern is regarding PRS-ORG pack\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: . Please do not worry.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will try my best to help you in this.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I am sorry to inform you that you can only get the discount if you can see on your account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: We as a agent can not provide discount to our players.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If you need help in login to your PRS-ORG account, I can help you here.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I am sorry if I step into your shoes, I will feel the same.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have done everything and tried every step to fix the issue for you, but unfortunately this something which is not in my hand.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I would request you to please wait for sometimes, hope you get the discount option soon.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Apart from this, is there anything else I can help you with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hey NAME-M!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'll surely check the details for you right now and look to help you with reset password issue accordingly.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please share your PRS-ORG account email address and also your PRS-ORG ID.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have sent a verification email, please check if you have received an email with the subject line Please verify ownership of your PRS-ORG Account in your Inbox or SPAM inbox.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please share the code sent to your email.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You should have received a six digit numeric code.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have sent you a reset password link on your email, please reset the password and you should be able to login now.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I would also suggest you to enable two factor authentication (PRS-ORG) to enhance security of your account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Glad I was able to resolve your issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Is there anything else you need help with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for reaching out.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Stay safe and have a wonderful day ahead NAME-M!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hey NAME-M, nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you are well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How can I help you today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: No worries, I will surely look into this for you and help you out with your query.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please share your PRS-ORG Account's registered email address with me.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please allow me a moment.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As I checked with my team, which features be added in our club is that Climb the Ranks in Pro Clubs, or Battle each other across the range of Party Games in PRS-ORG, you'll make progress however you want to spend time with your friends in PRS-ORG across the two modes.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: We’re also bringing a live service element to Pro Clubs through shared Seasons Progress across Pro Clubs and PRS-ORG, to earn and unlock new content for your Avatar all year round.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: And which featured you want to add for that , I can take your feedback, So that team can check this issue from their end and get it fixed for you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Shall I?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Good news!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The ticket on the issue with  has been raised &amp; shared to our Studio team.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The team will double-check this.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Again thank you for bringing this to our attention.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I would encourage you to keep on playing the game and wait for some time.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Let the team investigate.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hopefully, this bug issue will be resolved very soon.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please let me know if there is anything else I can do for you?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Nice to meet you, hope you are doing good today.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It seems you’re experiencing some issues with the missing prime gaming rewards on PRS-ORG.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Could you tell me more about it?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Oh!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: That does not sound good.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Let me see how I can help you with the missing prime rewards.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I know the email address associated with your PRS-ORG Account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks, please allow me a moment to check the account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Do you play PRS-ORG Or PRS-ORG game?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I checked the details and it seems you don't have the PRS-ORG Account linked with the PRS-ORG Account, and hence you have not received the rewards on the PRS-ORG.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Alright,  please try the following workaround -\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Go to your PRS-ORG account, and then find the game that you don't play "PRS-ORG Or PRS-ORG", and then claim the rewards for the game you don't play, this action unlocks the linking process again and then you will have the option to link the PRS-ORG and the PRS-ORG Accounts again.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: This will help you to link the accounts\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Let me know once you have done it\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Alright Now, you can restart the game and should have the rewards on PRS-ORG.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have you done it?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for your kind understanding.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: We love that you’re just as passionate about our games as we are.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You are most welcome.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Apart from this do you have any additional questions or concerns, so please let me know?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello NAME-M, nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hope you're doing well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I understand you are unable to login as the email address is not accessible.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please do not worry I am here to help you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You are welcome!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: But I am sorry to disappoint you here.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I can see your account is deleted due to inactivity.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: In order to restore PRS-ORG account you need access for registered email address so that you reset password.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I would suggest you to please try to get access for email address.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I understand how frustrating it is and I wish I could do something in this regards.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: To request a callback, please contact an Electronic Arts Technical Support adviser here: URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: 1) Click on the game you're having trouble with (If you can't see it, use the search bar)\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: 2) Select a topic for the best results.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: 3) Scroll to the bottom and select 'Contact Us'.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: 4) Select your platform and list a short description of your problem.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: 5) Select 'call me' to request a callback from an PRS-ORG games adviser.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: In order to transfer game we need access for PRS-ORG account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As the account is deleted we can not access the account and can not make any changes.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: As much as I would love to help as I am also a Gamer, your request is beyond what we are able to do for players.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Believe me, if there is any steps to follow, I would have performed alrea\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: dy.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Apart from this, is there anything else I can help with you?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will be very happy to help you with.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I am really very sorry, and I am so disappointed as I was not so helpful with you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I can imagine how you are feeling right now.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please let me know if there is anything else I can assist you with or if you have any other questions for me, I'll be happy to help you!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello NAME-M\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: , nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you are doing fine.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will surely help you in updating the email for your PRS-ORG Account with the possible options and so that you get back into it.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I please have the PSN ID and the email linked with the PRS-ORG Account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Congratulations!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Your account has been verified with PSN\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: . We will be updating a new email on your account now.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How does that sound?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please share the new email address that is not linked with any of the PRS-ORG Account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will be updating it on your PRS-ORG Account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You will need to share a new email here.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Okay.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Cheers!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have updated the email on your account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You can reset the password with the link I have shared on your email.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please let me know if there is anything else apart from this I can help you with.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You're welcome.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It was great experience talking to you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Stay safe.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hope I was helpful in your issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: And I hope you've enjoyed your experience with us.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have a great day/night ahead.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG Help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: For further queries you can contact us back through URL.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello NAME-M, nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you are doing fine.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will surely assist you with the concern you are facing in purchasing PRS-ORG.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So just to confirm you have switched the location, right?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Okay.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So the thing is you will need to change your location on your PSN account as well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Once you have changed it.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You can purchase the games and content as well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I understand the situation however the points bought on PRS-ORG are managed by PRS-ORG  alone.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Being our gaming partners we can not access their databases to check purchase logs or databases.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So please we would suggest you to please get in touch with PRS-ORG\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: for any purchase related issues.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Welcome.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: With that been discussed please let us know if there is anything else apart from this?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Are we connected?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Since there is no response from your end It looks like you are away from your keyboard right now.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: The chat may end soon.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: For further assistance you may contact us again from URL.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for contacting PRS-ORG Help and have a good day.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello NAME-M, nice to meet you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I can see that you never receive the PRS-ORG points for purchasing the ultimate edition.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: No worries, I will check and try my best to assist you with the same.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: To proceed further, can you please share the email address that is linked to the PRS-ORG account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for providing the email please give me a minute to locate the account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have checked your account and I can see that you did not receive the points but I can also not validate that you purchase the ultimate edition, so are you sure that you purchase the ultimate edition?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have checked this and I would like to informed you that you will need to contact PRS-ORG support for the issue and they should be able to help you with the points.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Other than this, is there anything else I can assist you with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I believe it has to be through internet and you can check this link to contact PSN support: URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It was nice talking to you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG help, have a great day ahead!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello there.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It's a pleasure, to meet you through chat.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hope you are doing good today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: What can I help you with today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I would like to inform you that there is some translator tool issue we are facing so, you might get some late responses, but do not worry I'll try me best to help you out.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Certainly, I understand the issue you are going through.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'll try my best to help you out with getting the option to download the game.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I know the email address of your PRS-ORG account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So may I know from where did you purchased the game?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So did you got any game code?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: PLease provide me the game code?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Alright, So I am providing you the game from my end again.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: PLease restart\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: your PRS-ORG and wait for couple of hours to get the game reflect in your account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I have grant you the game from my end.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It will get reflect to our account within couple of hours.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Apart from this, is there anything else I can help you with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Perfect.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I wish you a Merry Christmas and a Happy New Year.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for contacting PRS-ORG Help.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Have a great day!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for the information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will be more than happy to assist you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Do you mean to pay a PRS-ORG subscription., or individual books?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You can pay with PRS-ORG for individual books.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: At the checkout page you have the option to select PRS-ORG as the payment method\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It should be.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Maybe you don't see it because you already have a default payment method saved.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Can you try to do it from the website?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: However the Subscription can only be paid with credit card.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You can only pay it with PRS-ORG if you subscribe from URL, and for that you would have to cancel the subscription at PRS-ORG and subscribe again from URL.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'd suggest that you wait for your new credit card, and then update your payment information\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You can go to URL, sign into your  PRS-ORG account and select the book you want to purchase\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: When you click on "Buy now" you'll go the checkout page.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: There you will find the option to pay with your credit card, PRS-ORG or PRS-ORG\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hi!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for the information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will be more than happy to assist you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please allow me a few minutes to check  your information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for your patience!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Can you please Sign out from your account?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Yes, please.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: And Sign In again\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Great, please let me know if you can open your books now.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Let's try to make a repair account:\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: URL\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please allow me a moment to see what else can we do.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'm still checking on it, thank you for your patience!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you again for your patience!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I'm going to escalate your case to a higher department so they could bring us further assistance in your case.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please stay in touch with your email, we will be contacting you as soon as we have a response for you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Is there anything else I can help you with?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Oh, great to hear that!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you have a great time reading!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG, it was my pleasure to assist you today.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you have an excellent day.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hope you are doing well.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I deeply apologize if you are experiencing this issue.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Rest assured that I will help you regarding this matter.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Would you allow me one moment to open your account and verify it?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: To do that, can you please provide the email address of your PRS-ORG account and the last book you have purchased?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you very much and sorry for this inconvenience.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you very much for verifying your account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Can we ask for a picture of your device please?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you very much.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you very much for this.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Can we also asked for the serial number of this device to verify your warranty?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: May I also ask which country are you from?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you very much.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you very much for verifying this.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If you've already tried to troubleshoot this issue but the issue persists, please contact your point of purchased for the warranty of your device.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you very much.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hi!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for the information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: How can I assist you today?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I can see what's going on.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: You've got two active and different accounts\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I can transfer your books to your other account\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: are you logged into your EMAIL email address, correcvt?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: wait a moment, I'll transfer the books there\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Done, please check if you can see your books now in your device\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Tap the 'Sync' button\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: the best solution to this would be that you manage only one account\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: If you say that in your ereader you can see your EMAIL email address, you should only use that account to access your profile and make purchases\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: the books are in the  EMAIL account\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Go to your Home screen.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Tap the 'More' icon at the bottom of the screen.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Tap Settings.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Tap Device information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Beside 'Repair your PRS-ORG account', tap Repair.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Tap Repair now.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: no sir\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG, it was my pleasure to assist you today.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you have an excellent evening!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for the information.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will be more than happy to assist you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Nice to meet you, NAME-M.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you are having a great day!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please, allow me a few minutes to find your account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for your patience, NAME-M.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I was able to find your account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I am sorry to know about this situation with your subscription.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: So far, did you just re-entered your billing information to your account or you did this a few days ago?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you very much, NAME-M.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Okay, I can see the information was successfully saved, but it seems like the renewal date of the subscription has not been renewed yet.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Don't worry!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: In order to see what could have caused this problem and fix it in your PRS-ORG account, I will redirect this ticket to our higher department so they can check this situation further from their side.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: This means our interaction will continue via email and as soon as we have any updates about this, we will get back to you via email to let you know.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Yes, that is correct!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Your subscription should normally continue once everything is updated by our team in your account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you so much!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It is a pleasure to help you and yes, we will be in contact via email.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I wish you have a good day and a nice week, too!\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for your time and kindness, NAME-M.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for the information, I will be more than happy to assist you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please allow me a moment to verify the account.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thanks for waiting\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I am sorry that you are experiencing this issue, I will do my best to assist you\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: if you have a second ereader you can sign in with your same PRS-ORG email address in the second ereader and all your library will be downloaded in the new ereader\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: i have checked your account and these 2 email addresses are linked, you can use one or another, no problem\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: all your books are stored in the 2 email addresses\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: yes, you can try that later, For your information, I will be sending you a transcript of our conversation.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Should you have any further questions or concerns, you can always reply back to that email and we will be able to assist you further.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: at the moment, is there any other doubt or request you may have?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: ok, no problem\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Thank you for contacting PRS-ORG, it was my pleasure to assist you today.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I hope you have an excellent day.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Hello NAME-M, my apologies for the troubles.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I will take care of your books unable to open today.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: I understand, it seems that both email address are linked so books are on the same place.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Let's try some repair on your device if you agree.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: In order to be able to open the books.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Great, on your eReader please go to your home Screen and then tap More options menu.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Then please tap Settings and then Accounts.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: PRS-ORG, are you still online with me?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: No worries if you need help or have any question please let me know, I am here for you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: NAME-M, just to let you know that I am still here online with you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Please let us know if you need further support or if you have any further questions.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Unfortunately, for quality reasons, I will have to release the interaction if I do not receive a response within the next 2 minutes.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: But don't worry, we will gladly continue assisting you via email or you can contact us again.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Your reference number is PHONENUMBER\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Absolutely, I am happy to hear that.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It’s been great helping you.\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: Can I help you with anything else?\nDutch: 
+Translate the following English source text to Dutch:\nEnglish: It seems that PRS-ORG account is not linked with the apple one, but those account does not have books either.\nDutch: 

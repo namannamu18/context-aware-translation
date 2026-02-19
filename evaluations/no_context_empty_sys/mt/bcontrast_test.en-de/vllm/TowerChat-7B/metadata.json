@@ -1,0 +1,34 @@
+{
+    "output_dir": "/mnt/data/jpombal/wmt24-chat-translation/evaluations/no_context_empty_sys",
+    "data_dir": "/mnt/data/jpombal/wmt24-chat-translation/raw_data",
+    "tasks": [
+        {
+            "name": "mt",
+            "subtasks": {
+                "bcontrast_test.en-de": {},
+                "bcontrast_test.de-en": {}
+            },
+            "metrics": {
+                "chrf": null,
+                "bleu": null,
+                "comet": null,
+                "comet_kiwi": null
+            }
+        }
+    ],
+    "models": [
+        {
+            "name": "TowerChat-7B",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "Unbabel/TowerInstruct-v0.2-w-chat-mt-data",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/no_context_empty_sys"
+        }
+    ]
+}

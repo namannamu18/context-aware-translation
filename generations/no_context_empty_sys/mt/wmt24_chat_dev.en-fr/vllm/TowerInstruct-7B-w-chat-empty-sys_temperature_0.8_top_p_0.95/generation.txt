@@ -1,0 +1,1529 @@
+Bonjour NAME-M, bon de rencontrer quelqu'un comme vous.
+Le système déconnecte le chat si vous êtes .
+Ne vous inquiétez pas, laissez-moi vous aider davantage.
+Ok, donc je vous demandais si vous pouviez me donner le code du jeu que vous aviez obtenu au moment de l’achat ?
+Bon, pourriez-vous donc me communiquer le numéro de facture ?
+D'accord, il ne s'agit donc pas du numéro de facture de notre site, ce qui signifie essentiellement que vous avez acheté le jeu dans un autre magasin.
+Le magasin a donc votre argent que vous avez payé pour l'achat du jeu, donc je vous demande de contacter ce magasin, et c'est à eux qu'il appartiendra de vous rembourser.
+Nous espérons que vous comprenez.
+Très bien, permettez-moi d'essayer à nouveau.
+Nous ne pouvons vous rembourser que l'argent que nous avons prélevé, mais dans votre cas, vous avez acheté le jeu dans un autre magasin. N'est-ce pas à eux qu'il faut s'adresser pour être remboursé ?
+J'espère que vous comprenez ce que j'essaie de dire.
+Le jeu est à nous, mais vous l'avez acheté d'eux.
+Si vous l’aviez acheté chez PRS-ORG, nous aurions alors essayé de vous rembourser.
+Mais maintenant je ne vois littéralement aucun enregistrement d'achat.
+Nous espérons que vous comprenez cela.
+Non, nous ne pouvons pas, c'est ce que j'essaye de vous dire depuis le début.
+Mais alors, s'il y a autre chose que je puisse faire pour vous aider, faites-le nous savoir.
+Mais si je peux vous aider avec quoi que ce soit, faites-le s'il vous plaît.
+Sommes-nous toujours connectés ?
+Bonjour NAME-M, j’espère que vous allez bien, comment puis-je vous aider ?
+Vous aviez PRS-ORG lié et désirez maintenant le relier à un compte PRS-ORG ?
+Désolé mais NAME-M et NAME-M ne sont pas apparentés.
+Voulez-vous synchroniser les progrès réalisés dans les jeux PRS-ORG que vous possédez sur PRS-ORG avec PRS-ORG ?
+Ou bien vous voulez juste connecter PRS-ORG à ce compte ?
+Le progrès du jeu n'est pas transféré d'une plateforme à l'autre.
+Si vous envisagez de jouer sur PC cette année, vous ne pourrez pas bénéficier des avantages de l'utilisateur régulier ou de l'accès au site web, car vous aviez déjà joué sur PRS-ORG auparavant.
+Vous devez avoir créé un PRS-ORG dans PRS-ORG et vous être connecté à PRS-ORG sur votre plateforme avant le 1er août 2022, pour être éligible à un accès anticipé aux applications PRS-ORG Web et PRS-ORG Apps.
+Votre compte PRS-ORG doit être actif sur la même plateforme.
+URL
+Je comprends votre inquiétude puisque vous n’arrivez pas à lancer le jeu, n’est-ce pas ?
+Pourriez-vous me donner votre adresse e-mail enregistrée ?
+J'ai vérifié votre compte et il semblerait que tout soit parfait.
+Je vous demande de vider le cache de votre appareil et d'essayer à nouveau de jouer, vous ne rencontrerez plus ce problème.
+Vous pouvez obtenir de l’aide à partir de l’article mentionné ci-dessous ;
+URL
+Merci d'être membre de la famille PRS-ORG.
+Nous sommes heureux de servir des joueurs précieux et aimables comme vous.
+Merci pour votre effort et pour nous laisser le privilège de vous servir.
+Vous êtes une personne très gentille, et je suis content d’avoir une telle interaction avec vous.
+Nous vous souhaitons à vous et à votre famille une vie heureuse et en bonne santé.
+Je suis content de voir des joueurs comme vous avec un bon esprit de jeu et enthousiasme pour le jeu.
+S'il y a autre chose que je puisse faire pour vous aider aujourd'hui, faites-le moi savoir.
+Je serai ravi de vous aider davantage.
+Merci pour ces informations.
+Je serai ravi de vous aider.
+Accordez-moi une minute pendant que je vérifie votre compte
+Quel appareil utilisez-vous pour effectuer vos achats ?
+Auriez-vous un VPN par hasard ?
+Un réseau de confidentialité virtuel.
+Cela bloque certaines pages
+Si vous l'utilisez, veuillez le désactiver.
+Il vous faudrait contacter votre fournisseur de Wi-Fi
+Avez-vous vérifié votre antivirus ?
+Essayons ce qui suit.
+Nous supprimerons ensuite vos informations de facturation et vous devrez les ajouter à nouveau directement sur le site Web de PRS-ORG.
+et terminez votre achat
+Voulez-vous continuer ?
+D'accord, j'ai supprimé vos informations de facturation, veuillez les ajouter à nouveau directement sur le site Web de PRS-ORG.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Merci d'avoir contacté PRS-ORG, j'ai eu le plaisir de vous aider aujourd'hui.
+Bonne soirée à vous aussi !
+Bonjour NAME-F,
+C'est un plaisir de vous rencontrer.
+J'espère que vous allez bien et que vous passez une merveilleuse journée.
+Comment puis-je vous aider aujourd'hui ?
+Il est bon d'entendre que votre problème est déjà résolu.
+Il est possible que vous ayez touché l’oreille
+Je vous réponds par email, comme vous pouvez le voir.
+Il n’y a donc pas lieu d’être paniqué.
+Si le problème a déjà été résolu, la demande est clôturée.
+Ne vous inquiétez pas, si le problème est déjà résolu, vous avez
+ne plus répondre à cet email.
+Il sera automatiquement clos dans les 7 jours.
+Je vous en prie.
+Je vous suis très reconnaissant de votre compréhension à ce sujet.
+Veuillez nous faire savoir si vous avez d’autres questions concernant PRS-ORG.
+Bonjour C,
+Hristopher, le plaisir est pour moi, j'espère que vous allez bien malgré le problème que vous rencontrez.
+D'accord.
+Rassurez-vous !
+Merci pour l'information.
+Je comprends que c'est tout à fait désagréable.
+Je ferai de mon mieux pour résoudre votre problème.
+Puis-je savoir si vous avez libéré le code du jeu sur PRS-ORG ?
+Si vous avez réglé le jeu, il devrait être dans la bibliothèque PRS-ORG.
+Vous aurez besoin de l'application PRS-ORG pour pouvoir jouer au jeu.
+Vous pouvez télécharger le jeu sur votre PC via l'application PRS-ORG, en vous connectant sur le compte pour lequel vous avez acquis le jeu.
+Oui, le jeu doit être téléchargé.
+Oh ! Je comprends qu'il doit être désagréable d'attendre un jour.
+Malheureusement, il n’y a pas d’autres solutions.
+Vous pouvez essayer d'éteindre Internet sur votre PC, puis d'installer le jeu avec le CD pour voir s'il fonctionne ou pas.
+Sinon, vous pouvez attendre que le téléchargement se termine.
+J'espère que vous allez comprendre.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Bonjour, NAME-F. Comment puis-je vous aider ?
+Je vais certainement vous aider pour votre requête.
+Vous pouvez changer la langue de votre tableau de bord à partir de la page d'accueil.
+Pourriez-vous vérifier les paramètres linguistiques sur votre tableau de bord ?
+Je peux comprendre pourquoi cela pose problème.
+Pourriez-vous m'accorder deux minutes pendant que je vérifie quelques informations pour vous ?
+Merci pour votre patience !
+Je vois que votre préférence linguistique est en français.
+Toutes les futures e-mails que vous recevez seront maintenant en français.
+Je vous en prie.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Bonjour, sommes-nous toujours connectés ?
+Je suis désolé, comme il n'y a pas de réponse de votre part depuis un moment, je devrai mettre fin à cette discussion.
+Pour toute question supplémentaire, vous pouvez toujours nous contacter par chat, e-mail ou téléphone, ou visiter notre Centre d'aide.
+Merci d'avoir contacté PRS-ORG, passez une belle journée.
+Je serai heureux de vous aider aujourd'hui, laissez-moi voir ce que je peux faire pour vous.
+Pourriez-vous me dire si vous êtes sur le tableau de bord ?
+Vous pouvez modifier la langue en cliquant sur l’icône du pays et en sélectionnant le français.
+Concernant votre commande, vous pourrez la retrouver dans votre tableau de bord en vous rendant dans la rubrique boutique PRS-ORG.
+Cependant, puisque vous n'avez pas accès à ceci, j'annulerais cette commande pour vous et vous prierais de créer une nouvelle commande et de la payer.
+Cela serait formidable, je l’annulerais pour vous.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Ce serait formidable, je l'annulerait pour vous.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Je vous en prie.
+Si vous avez d'autres questions ou problèmes, n'hésitez pas à nous contacter par chat, par e-mail ou par téléphone, et visitez notre centre d'aide.
+Merci d'avoir contacté PRS-ORG et passez une bonne journée !
+Je regrette vraiment d'apprendre cela.
+Laissez-moi voir ce que je peux faire pour vous.
+Je peux voir que notre service compétent vous a envoyé un courriel il y a 25 minutes, car les documents que vous avez soumis ne sont pas clairs.
+Veuillez vérifier cet e-mail et répondre à la demande, afin que nous puissions valider votre profil.
+Merci.
+Veuillez nous accorder un peu de temps, et nous vous répondrons sous peu.
+Je souhaite vous aider autant que possible, donc je vais créer une note interne à propos de votre demande dans laquelle je demanderai à l'équipe concernée de vous contacter avec une mise à jour dès que possible.
+Je suis là pour vous !
+Je comprends que vous aimeriez connaître une échéancier précis, mais malheureusement, je n'ai pas cette information.
+Veuillez être assuré que notre équipe vous contactera au sujet de cela dès que possible.
+Etes-vous toujours là ?
+Comme je n'ai pas de nouvelles de votre part depuis un certain temps, je vais devoir clore ce chat.
+Si vous avez d'autres questions, veuillez nous contacter à nouveau et visitez notre Centre de Support en ligne.
+Comme il n'y a pas de discussion avec NAME-M, c'est NAME-M.
+Comment puis-je vous aider aujourd'hui ?
+Je suis heureux de vous aider, cependant, comme vous nous contactez à partir d'un profil employé, nous ne pourrons pas vous fournir les informations sur le RIB.
+Je vous demande de bien vouloir nous contacter à partir du profil principal et nous serons en mesure de vous aider à cet effet.
+Y a-t-il autre chose que je puisse faire pour vous aider aujourd'hui ?
+Bonjour, êtes-vous toujours là ?
+Mes plus sincères excuses.
+Je viens de vérifier et aucun email de votre part n'a été envoyé depuis ce profil demandant de modifier l'IBAN.
+Si je peux vous le demander, avez-vous envoyé l'e-mail à partir de votre adresse e-mail enregistrée sur PRS-ORG ?
+Bonjour, êtes-vous toujours là ?
+Comme il n’y a pas de réponse de votre part, je dois fermer la discussion.
+Merci d'avoir contacté PRS-ORG.
+Bonne journée.
+Pour toute autre question, veuillez consulter notre Centre d'aide URL ou nous contacter par chat, email ou téléphone.
+Je suis désolé, mais je ne suis pas en mesure de comprendre la demande ci-dessus.
+Pourriez-vous nous en dire plus ?
+Souvenez-vous d'avoir effectué un achat auprès de l'un de nos commerçants ?
+Vous trouverez les coordonnées du vendeur dans votre relevé bancaire à côté de PRS-ORG.
+Cela pourrait vous aider à vous souvenir de la transaction.
+Êtes-vous toujours là ?
+Dans ce cas je vous fournirai par email à votre adresse mail un modèle.
+Pourriez-vous également indiquer toutes les informations requises ?
+Et envoyer par courriel
+Pourriez-vous nous aider avec votre adresse e-mail ?
+L'équipe concernée vous aidera à identifier le paiement.
+Êtes-vous toujours là ?
+Nous sommes désolés pour le problème que vous rencontrez.
+Accordez-moi deux minutes pour vérifier les informations et vous aider à effectuer la mise à jour.
+Merci pour votre patience.
+Pourriez-vous confirmer le numéro de série de l’appareil ?
+Il se trouve à l’arrière du lecteur.
+Merci de me l'avoir confirmé.
+Veuillez m'accorder deux minutes pour vérifier les informations et vous aider à mettre à jour.
+Merci pour votre patience.
+Veuillez confirmer votre adresse de livraison et nous serons heureux de vous envoyer un nouvel lecteur de carte PRS-ORG.
+Je m'excuse pour la mauvaise communication.
+Votre appareil n’est plus sous la période de garantie.
+Je transmettrai votre demande à l'équipe concernée et leur demanderai de régler ce problème pour vous dès que possible.
+Ne vous inquiétez pas, nous avons une équipe qui s'occupe de ces problèmes et nous vous aiderons à les résoudre dans les plus brefs délais. J'attribuerai une grande priorité à votre demande.
+Bien sûr et merci pour votre compréhension.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Je vous en prie.
+Si vous avez d'autres questions, veuillez consulter notre Centre de Support (URL) et nous contacter auprès du Support PRS-ORG par chat, email (EMAIL) ou téléphone (PHONENUMBER)
+Merci d'avoir discuté avec nous et passez une belle journée !
+Etes-vous toujours là ?
+Je vais m’intéresser certainement à cette affaire.
+Pourriez-vous me dire si vous vous référez aux limites des cartes PRS-ORG ?
+Nous rechercherons certainement les mises à jour.
+Pourriez-vous me fournir les informations de transfert afin que je m'en occupe ?
+Pourriez-vous nous accorder deux minutes pour que j’enquête sur cette question ?
+Merci pour votre patience.
+Je peux constater que votre transfert a échoué.
+Les montants maximaux par défaut s'appliquent aux virements que vous pouvez effectuer avec votre Compte PRS-ORG.
+Si vous dépassez ces limites, vos transferts seront refusés.
+15 000 EUR par transfert
+25 000 EUR par jour
+75 000 euros par mois
+Nous transmettons votre demande à notre équipe pour augmenter les limites.
+Êtes-vous toujours là ?
+Je vous présente mes excuses, mais comme vous n'avez pas répondu depuis un moment, je vais devoir terminer ce chat.
+Pour toute question supplémentaire, vous pouvez toujours contacter ou visiter notre Centre d'aide.
+Merci d'avoir contacté PRS-ORG, passez une belle journée.
+Heureux de vous rencontrer, NAME-M.
+Je réalise que les déconnexions du PRS-ORG  DRAFT sont vraiment désagréables, ce n'est pas ce que nous voulons que nos gamers vivent.
+Je sais combien cela coûte pour une ébauche.
+Laissez-moi vérifier ce qui peut être fait.
+pour vous aider.
+Avez-vous déjà réclamé les récompenses et si une heure s'est écoulée depuis la déconnexion ?
+Revendez-nous votre PROJET.
+Je tiens à vous informer que le jeton est accordé de manière totalement automatique et nous ne pouvons pas ajouter le jeton manuellement.
+Veuillez consulter le lien ci-dessous et vérifier par vous-même si l'outil estime que vous pouvez être admissible au jeton.
+Il sera automatiquement ajouté à votre compte.
+URL
+Veuillez utiliser cet outil une heure après votre déconnexion.
+Je suis ouvert à vos commentaires à ce sujet.
+Nous comprenons que vous êtes en colère et nous voulons vous aider.
+Le mieux que nous pouvons suggérer est d’essayer un travail autour afin que vous puissiez éviter ce problème à nouveau.
+URL
+Je suis désolé pour la gêne occasionnée.
+Nous vous aiderons certainement à résoudre votre problème.
+Je tenais à vous informer que
+Vous devriez recevoir vos paiements dans les 1-3 jours ouvrables.
+PRS-ORG traite vos transactions, puis transfère les fonds sur votre compte bancaire.
+Le délai nécessaire pour que les fonds apparaissent sur votre compte bancaire varie en fonction des procédures de règlement de votre banque.
+NAME-F, sommes-nous toujours connectés ?
+Vous devriez recevoir vos paiements dans les 1 à 3 jours ouvrables.
+Je suis désolé pour le désagrément que vous avez eu.
+Y a-t-il autre chose que je puisse faire pour vous aider aujourd'hui ?
+Merci pour notre conversation.
+Si vous avez d'autres questions, n'hésitez pas à consulter notre centre de support ou à nous contacter par téléphone, e-mail ou chat.
+En outre, lorsque le chat sera terminé, vous serez invité à répondre à un court questionnaire pour noter mon travail et mon comportement durant le chat.
+Je serai très reconnaissant si vous passez une minute à remplir le sondage.
+Bonne journée !
+Votre bienvenue.
+Passez une bonne journée.
+Je suis ici pour vous aider, pourriez-vous me parler de votre préoccupation ?
+Bien sûr.
+Vous pouvez ajouter un logo d'entreprise sur vos factures.
+Je vais vous guider à travers les étapes pour y parvenir.
+Sur votre profil PRS-ORG, cliquez sur « Factures » dans le panneau de navigation à gauche, puis sélectionnez « Paramètres » et choisissez « Informations sur l'entreprise ».
+Veuillez cliquer sur le symbole en forme d'image avec le signe plus bleu pour télécharger une image.
+N'hésitez pas à consulter notre centre de support en ligne à l'adresse URL pour obtenir de l'aide.
+Je suis désolé pour cette mauvaise communication.
+Dans ce cas, pourriez-vous confirmer si vous souhaitez des affiches ou des stickers ?
+Êtes-vous encore avec moi ?
+Bien sûr.
+Pourriez-vous confirmer l'adresse d'expédition complète et le nombre d'affiches que vous souhaitez avoir ?
+Bien sûr.
+Dans ce cas, soyez sans crainte, nous avons une autre équipe spécialement dédiée qui s’occupe particulièrement de ce sujet.
+Je vais transmettre cette demande à eux.
+Ne vous inquiétez pas, ils vous communiqueront les mises à jour via l'adresse e-mail que vous nous avez enregistrée.
+Vous recevrez les affiches dans moins d’une semaine.
+J'espère avoir répondu à toutes vos préoccupations.
+Y a-t-il quelque chose que je puisse faire pour vous aider ?
+Je vous en prie.
+Merci pour notre conversation.
+Si vous avez d'autres questions, veuillez nous contacter via chat ou email et visiter notre centre d'aide en ligne.
+Je serais vraiment reconnaissante de votre précieux temps et de vos commentaires.
+De plus, si cela ne vous dérange pas, après cette discussion, un court sondage vous sera envoyé pour noter mon service.
+Nous vous serions reconnaissants de prendre un instant pour évaluer cette discussion.
+Passez une bonne journée et prenez soin de vous.
+Je m'excuse pour la gêne occasionnée.
+Je serai ravi de vous aider davantage dans votre requête.
+Après avoir vérifié les détails, je constate que la dernière transaction que vous avez effectuée est toujours en attente car votre client n'a pas encore effectué le paiement en utilisant les liens de paiement.
+Je m'excuse sincèrement pour les inconvénients que vous avez pu rencontrer.
+Vu que je peux vérifier les informations relatives à votre compte, l'option de liens de paiement est désactivée pour vous. Je vous demande donc d'activer l'option pour accepter les paiements via des liens de paiement.
+Je serai heureux de vous aider en vous indiquant les étapes pour l'activer à nouveau.
+1
+Pour vérifier cela, rendez-vous dans la rubrique « Liens de paiement » de votre Appli.
+2
+Appuyez ici sur l’icône Paramètres dans le coin supérieur droit de l’écran.
+3
+Dans cette section, vous devriez pouvoir activer et désactiver les liens de paiement.
+4
+Vérifiez que le basculement est bleu pour indiquer que la fonction est activée.
+Je vous en prie.
+J'espère avoir répondu à vos questions.
+Y a-t-il autre chose que nous pouvons faire pour vous aider ?
+Êtes-vous toujours là avec nous ?
+Si vous ne répondez pas dans les prochaines minutes, nous devrons mettre fin à la discussion.
+Bonjour NAME-M.
+Heureux de vous rencontrer.
+Je vous souhaite une excellente journée.
+Comment puis-je vous aider aujourd'hui ?
+Je peux comprendre votre inquiétude concernant le passage de l’argent.
+Nous pouvons consulter les informations sur la sanction et essayer de vous aider avec les démarches à suivre.
+Veuillez me fournir votre identifiant PSN et votre adresse e-mail pour le compte PRS-ORG.
+Merci pour l'information.
+Veuillez m'accorder un moment pour consulter votre compte.
+Merci pour votre patience.
+J’ai vérifié la mise à jour récente des sanctions en place.
+Si vous souhaitez contester les restrictions en vigueur, je peux vous aider.
+L'équipe qui s'occupe de ces restrictions s'appelle l'équipe Responsable des conditions d'utilisation et elle est basée hors-ligne.
+Je vais préparer une note détaillée à ce sujet et je vous les enverrai.
+Nous pouvons transmettre votre demande au service des conditions d'utilisation qui l'examinera et vous répondra par e-mail.
+Très bien.
+Je transmets votre différend à notre équipe des Conditions d'utilisation.
+Si vous avez besoin de modifications dans votre affaire, veuillez ne pas reprendre votre affaire.
+Vous pouvez trouver les futures mises à jour ici : URL
+Bien !
+Je vais faire ici votre part et vous attendez simplement l'e-mail de l'équipe.
+Merci à vous pour votre coopération, l'équipe peut contrôler tout ce qui se passe dans votre jeu.
+Pas de panique.
+Si vous avez besoin d'aide pour autre chose, vous pouvez nous contacter à tout moment.
+Bonne journée à vous.
+Au revoir et soyez en sécurité !
+Bonjour NAME-M, c'est un plaisir de vous rencontrer.
+Je vous souhaite une bonne journée.
+Comment puis-je vous aider ?
+Pas de soucis.
+Bien sûr, je vais essayer de vous aider avec l’élaboration de la perte dans PRS-ORG.
+Laissez-moi vérifier avec mon équipe.
+Accordez-moi une minute.
+Merci pour votre patience.
+En vérifiant avec mon équipe, je vous informe que nous ne serons pas en mesure de vous rembourser les frais encourus, ce qui est malheureux.
+Afin de vous aider avec ce problème, je vous demande de cliquer sur le lien ci-dessous et de réclamer le jeton de projet. Si vous êtes admissible, vous pourrez l'obtenir :
+URL
+Nous vous prions de bien vouloir excuser la gêne occasionnée.
+Je comprends bien votre situation.
+Laissez-moi vérifier une fois de plus avec mon équipe.
+Merci pour votre patience.
+J'ai de nouveau vérifié avec mon équipe et nous vous présentons nos excuses, nous ne pouvons pas effectuer de remboursement de notre côté.
+S'il y avait une option, nous aurions pu le faire pour vous.
+Sommes-nous toujours connectés ?
+Vous n'ayant pas réagi, je devais mettre fin à notre discussion.
+Si vous avez encore besoin d’aide, merci de nous contacter à l’URL suivante.
+Hey NAME-M, c’est un plaisir de vous rencontrer.
+Je vous souhaite de passer une bonne journée.
+Pourriez-vous me préciser le problème afin de mieux vous aider ?
+Je peux vous aider avec les informations disponibles sur les membres.
+après avoir vérifié mes ressources.
+Jouez-vous des jeux sur PC en utilisant le client PRS-ORG ou PRS-ORG ?
+En fait, vous êtes sur le mauvais support.
+Need for Speed Most Wanted est un produit PRS-ORG, toutefois les questions relatives à l'achat et à l'adhésion sont traitées par le support du magasin concerné.
+Nous gérons les services de boutique PRS-ORG.
+Je vous recommande de contacter l'assistance PRS-ORG pour plus d'informations.
+Oui, je comprends, mais nous gérons les services de PRS-ORG sur PRS-ORG.
+Étant donné que vous êtes membre actif sur PRS-ORG, vous devrez contacter
+Il faut le support de PRS-ORG pour le réparer.
+C'est un véritable coup de poing pour moi de devoir rediriger les joueurs dévoués comme vous vers les bonnes équipes de support lorsque vous nous contactez à propos de nos jeux.
+Nous ne le faisons que pour résoudre le problème, c'est le seul moyen.
+D'après les informations que nous avons, les deux sont des plates-formes différentes et les jeux sont propres à une plate-forme.
+Donc, si vous voulez accéder au jeu sur les deux plateformes, vous devez acheter un abonnement sur PRS-ORG et PRS-ORG.
+Pour plus d’informations, je vous recommande de contacter le support de PRS-ORG.
+Je vous remercie d’avoir coopéré tout au long de cette affaire.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Merci pour ces informations.
+Je serai ravi de vous aider.
+Veuillez m'accorder un moment pour vérifier le compte.
+Merci pour votre patience
+Je regrette que vous rencontriez ce problème, je ferai de mon mieux pour vous aider.
+Pouvez-vous confirmer votre code postal ?
+Je regrette que vous rencontriez ce problème, je ferai de mon mieux pour vous aider.
+j'ai examiné les informations de votre compte
+Dans ce cas, vous pouvez accéder à votre compte à l’aide de PRS-ORG ou de PRS-ORG.
+Nous vous enverrons un e-mail pour réinitialiser votre mot de passe.
+Faites-moi savoir si vous l'avez reçu
+Je suis heureux que cela ait fonctionné.
+profitez de vos livres
+À titre d’information, je vous enverrai une transcription de notre conversation.
+Si vous avez d'autres questions ou préoccupations, vous pouvez toujours répondre à cet e-mail et nous serons en mesure de vous aider davantage.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Bonjour NAME-M, heureux de vous rencontrer.
+Bien sûr, si j'ai bien compris, vous ne pouvez pas jouer à PRS-ORG sur votre PRS-ORG, est-ce exact ?
+Pourriez-vous me dire ce que cela indique lorsque vous essayez de lancer votre jeu ?
+Recevez-vous un message d'erreur particulier ?
+Merci de partager le code d'erreur.
+J'ai investigué votre problème et il semble que ces codes d'erreur apparaissent lorsque les serveurs PRS-ORG sont en maintenance.
+Ne vous inquiétez pas, je vous suggère d'attendre un peu et de réessayer plus tard.
+Je partagerai un lien vers la page PRS-ORG officielle.
+URL
+Veuillez consulter ce lien.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Oh !
+C’est inquiétant !
+Je pense que tout va bien avec le jeu, cependant, je vous suggère d'appeler l'assistance PRS-ORG et de mentionner que vous recevez ce même message d'erreur depuis 4 jours, ils seront heureux de vous aider.
+Y a-t-il donc autre chose que je puisse faire pour vous aider ?
+C'est un plaisir de vous aider.
+N'hésitez pas à nous contacter si vous trouvez quoi que ce soit de préoccupant.
+J'espère que vous passez une excellente journée.
+Prenez soin de vous et bonne journée.
+Au revoir soldat !
+Au revoir, jusqu'au champ de bataille !
+Je regrette que vous n'ayez pas reçu de réponse de notre part.
+Nous faisons de notre mieux pour répondre aux courriels dès que possible.
+Maintenant que vous êtes connecté à moi, je peux vous aider davantage.
+Notre équipe dédiée travaille sur ce problème.
+Les collègues précédents avec qui vous avez parlé ont déjà porté cette question à l'attention des autorités compétentes.
+Je comprends que cela est important pour vous.
+Je vous adjoins aussi une note pour vous faire savoir que vous nous avez de nouveau contactés afin d'obtenir des nouvelles.
+Oui, vous recevrez certainement une mise à jour de notre part.
+Je vous en prie.
+J'espère avoir répondu à vos questions et vous espère en bonne voie pour la suite de la conversation.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Je vous en prie.
+Merci d'avoir contacté le support PRS-ORG.
+Si vous avez d’autres questions ou demandes de renseignements, veuillez nous contacter via chat ou e-mail, et visitez notre centre d’aide en ligne.
+Bonjour, comment puis-je vous aider ?
+Je suis désolé d'entendre ça.
+Nous serons heureux de vous aider aujourd'hui.
+Laissez-moi voir ce que nous pouvons faire pour vous.
+Puis-je vous demander si vous recevez des messages d'erreur ?
+Merci de nous l'avoir dit.
+J’ai vérifié les détails pour vous, et nous avons bien reçu votre email à ce sujet, et notre équipe travaille déjà dessus.
+Je comprends que cela soit important pour vous.
+Je vous ajoute également une note pour vous indiquer que vous nous avez de nouveau contactés pour obtenir des nouvelles.
+Soyez assuré que notre équipe dédiée vous contactera par e-mail dès que possible.
+Ne vous inquiétez pas, je vais également accorder une grande priorité à votre demande.
+Je vous en prie.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Bonjour !
+Je vais sûrement vérifier les détails pour vous maintenant et essayer de vous aider pour le problème de manque de pack PRS-ORG.
+Veuillez partager votre adresse e-mail de compte PRS-ORG et également votre identifiant PSN.
+Comme je peux le voir, le compte de votre compte PRS-ORG, avec l'adresse e-mail 'EMAIL' et l'identifiant 'PRS-ORG', est lié à l'identifiant PSN 'ALPHANUMERICID' et au compte PRS-ORG 'Arguimbau'.
+Si vous n'avez pas reçu de récompense pour avoir regardé un stream, c'est que les conditions n'ont pas été remplies pour réclamer le pack.
+Nous n'avons aucun moyen manuel pour accorder les packs PRS-ORG puisque ces packs ne sont fournis par PRS-ORG qu'à des comptes admissibles.
+Je suis content d'avoir pu partager des informations disponibles.
+Y a-t-il quelque chose en particulier pour lequel vous auriez besoin d’aide ?
+Il n’y a aucun problème avec le jeu ou le compte puisque votre compte est correctement lié.
+Avez-vous relancé la console pour voir si vous receviez le pack ?
+Les packs de jeu PRS-ORG étaient toujours les premiers disponibles sur la console.
+Veuillez redémarrer la console et le jeu pour recevoir votre pack.
+Si votre compte était éligible, vous devriez recevoir le pack.
+Merci de nous avoir contactés.
+Prenez soin de vous et passez une bonne journée !
+Comment puis-je vous aider aujourd'hui ?
+Je viens de récupérer des informations sur votre compte et je viens de vérifier que votre compte n'est pas complètement vérifié.
+Nous vous suggérons de vérifier votre boîte de réception ou votre dossier de courrier indésirable, car vous avez peut-être reçu un e-mail important de notre part.
+Il s’agit des documents requis pour les transactions illimitées, veuillez soumettre les documents demandés.
+Ce contrôle est prévu pour votre sécurité.
+Une fois que vous serez vérifié, nous serons heureux de vous fournir les avantages des transactions illimitées.
+Parfait, merci.
+Veuillez laisser notre équipe examiner vos documents, pour vous aider, nous allons accélérer ce processus pour vous.
+Soyez assurés que je vais m'occuper de cela en priorité.
+Êtes-vous toujours là ?
+Veuillez vous assurer que tout est bien avec votre compte.
+Y a-t-il autre chose que nous pouvons faire pour vous aider aujourd'hui ?
+Comment puis-je vous aider aujourd'hui ?
+Soyez assuré que je ferai de mon mieux pour vous aider.
+Merci pour la confirmation.
+Je serai heureux de vous aider.
+Veuillez noter que vous pouvez acheter le lecteur de carte 3G sans pointeur sur votre tableau de bord accessible à l'URL suivante :
+Veuillez également noter que votre profil PRS-ORG ne peut avoir qu'un seul PRS-ORG et un seul compte Business.
+Si vous souhaitez commander une carte PRS-ORG par l'intermédiaire d'un autre profil PRS-ORG, je serai ravi de vous envoyer par e-mail sur votre adresse e-mail enregistrée les étapes à suivre, de manière à ce que vous puissiez vous y référer plus tard également.
+De plus, dans ce cas, sélectionnez l'ordre comme « Liseuse de carte 3G » et non « Kit ».
+Veuillez ne pas vous inquiéter.
+Pour commander un lecteur de carte 3G, veuillez suivre les étapes mentionnées ci-dessous :
+1
+Rendez-vous sur votre profil à l’URL ci-dessus, et cliquez sur l’onglet Accueil dans le coin supérieur gauche de l’écran.
+2. Cliquez ensuite sur « Boutique PRS-ORG » dans le menu déroulant.
+3
+Vous serez redirigé vers notre boutique en ligne.
+Ici, vous pouvez sélectionner « Lecteur de carte 3G ».
+Si vous ne trouvez pas cette option, nous transmettrons votre demande à notre équipe compétente avec priorité absolue, et ils vous contacteront dès que possible.
+Soyez assuré que notre équipe examinera cela et vous contactera concernant le même à votre adresse e-mail enregistrée dès que possible.
+Merci pour l'information, je serai ravi de vous aider.
+Veuillez patienter un moment pendant que je vérifie le compte.
+Merci pour votre patience
+je serai heureux de vous aider
+Je devrai préparer un rapport concernant cet article pour traiter votre demande de remboursement
+Votre numéro de référence est PHONENUMBER
+s'il vous plaît faites-moi savoir quels chapitres ou pages ne sont pas lisibles
+nous pouvons essayer quelques procédures pour vérifier si le problème provient de votre liseuse ou du livre
+si vous voulez, nous pouvons continuer par email
+s'il est déjà tard à présent
+Très bien.
+Je peux vous envoyer les procédures sur votre adresse e-mail et vous pouvez essayer plus tard.
+À titre d'information, je vous transmettrai une transcription de notre conversation.
+Si vous avez d'autres questions ou préoccupations, vous pouvez toujours répondre à cet e-mail et nous serons en mesure de vous aider davantage.
+Merci d'avoir contacté PRS-ORG, j'ai eu le plaisir de vous aider aujourd'hui.
+Je vous souhaite une excellente soirée, NAME-M.
+Puisque vous n'avez pas de conversation avec NAME-M, comment puis-je vous aider aujourd'hui ?
+Nous sommes désolés d'apprendre que vous rencontrez ce problème.
+Laissez-moi voir ce que je peux faire pour vous.
+Pourriez-vous me confirmer à quel moment votre client a effectué le paiement via le lien et à quel moment son compte a été débité ?
+Merci de me l'avoir confirmé.
+Je peux voir que la transaction est enregistrée comme ALPHANUMERICID et sera payée dans votre carte PRS-ORG d'ici la fin de la journée.
+Je vous en prie.
+Veuillez ne pas vous inquiéter, il se peut qu'il y ait un problème de latence avec votre profil.
+Je vous recommande vivement de vous re-connecter à votre profil PRS-ORG.
+J’espère avoir répondu à toutes vos préoccupations.
+Y a-t-il quelque chose que je puisse faire pour vous aider ?
+Vous pouvez également vous re-connecter à votre Application PRS-ORG pour vous assurer que votre Application fonctionne correctement.
+Je vous en prie.
+Merci pour notre conversation.
+Si vous avez d’autres questions, n’hésitez pas à nous contacter via chat ou e-mail, et visitez notre centre d’aide en ligne.
+Passez une bonne journée.
+Bonjour, J'espère que vous allez bien.
+Comment puis-je vous aider aujourd'hui ?
+Okay, laisse-moi vérifier.
+Merci pour votre patience et votre compréhension.
+D’accord donc si vous rencontrez un problème de réseau, veuillez suivre le lien ci-dessous !
+URL
+Veuillez suivre le lien ci-dessous si vous êtes éligible, vous le recevrez alors assurez-vous de le vérifier après 1 heure !
+URL
+Si j'avais une option pour vous le concéder, je l'aurais sûrement fait pour vous, même si cela signifiait transgresser mes limitations ou aller au-delà de mes façons, étant donné que la satisfaction de la clientèle est ce pourquoi je suis là.
+Je vais porter ce problème à votre attention et je dois vous dire que je fais tout ce qui est en mon pouvoir pour y remédier. De mon côté, je vais rédiger un dossier adéquat pour vous et prendre des notes appropriées pour que cela reçoive une attention immédiate.
+Sommes-nous connectés ?
+Oh !
+Il semble que vous soyez loin de votre clavier.
+Comme le chat est inactif depuis quelques minutes, puisque nous n’avons pas reçu de réponse de votre part, il se ferme maintenant.
+Nous vous prions de nous re-contacter et nous serons heureux de vous aider.
+Merci d'avoir contacté l'assistance PRS-ORG et passez une bonne journée.
+Prenez soin de vous.
+Merci pour les informations.
+J’espère que vous allez bien.
+Que puis-je faire pour vous aujourd'hui ?
+Je pense que vous avez besoin d'un compte PRS-ORG
+Connectez-vous ensuite au compte
+Vous autoriserez ensuite l'ordinateur et la liseuse au moyen de PRS-ORG
+Oui, lorsque les eBooks sont protégés par PRS-ORG, vous ne pouvez pas les télécharger. C'est la raison pour laquelle vous devez réautoriser PRS-ORG sur votre ordinateur et la liseuse, car pour une raison quelconque, la liseuse n'a pas été détectée comme ayant été autorisée
+Veuillez suivre ces étapes:
+1.- Désautoriser la liseuse et l'ordinateur d'Adobe Digital Editions et les désinstaller.
+2.- Supprimez le fichier que vous avez essayé de télécharger.
+3.- Supprimez les cookies.
+Redémarrez votre ordinateur.
+Utilisez un autre câble USB.
+4. - Installez PRS-ORG, en utilisant un autre navigateur (si vous le souhaitez, vous pouvez également essayer la version 3.0 de PRS-ORG) et autorisez à nouveau les deux appareils.
+Je comprends la situation mais voici les étapes à suivre pour essayer de la résoudre.
+Bienvenido!
+Êtes-vous toujours là ?
+D'accord.
+Nous vous remercions.
+Hey !
+Ravi de vous rencontrer.
+J’espère que vous allez bien.
+Faites-moi savoir comment puis-je vous aider ?
+Pourriez-vous nous expliquer votre problème de manière à ce que nous puissions vous comprendre ?
+Merci pour les explications.
+Ne vous inquiétez pas !
+Je vais essayer de vous aider car vous ne pouvez plus vous connecter à vos clubs PRS-ORG.
+Veuillez m'accorder un moment.
+Pourriez-vous me donner l'e-mail de votre compte PRS-ORG ?
+Merci.
+Je vais envoyer un code à six chiffres à votre adresse e-mail.
+Veuillez vérifier si vous avez reçu un courriel dans votre boîte de réception avec pour objet "Vérifier la propriété de votre compte PRS-ORG" dans votre boîte de réception ou dans votre dossier de courriers indésirables.
+Veuillez me lire à voix haute afin que nous puissions vérifier votre compte et vérifier son statut.
+Bonjour, NAME-M, j’espère que vous êtes en sécurité et en bonne santé.
+Comment puis-je vous aider aujourd'hui ?
+Oui, je suis connecté.
+Je m'excuse sincèrement mais malheureusement, l'appareil que j'utilisais prennait du temps à recevoir vos textes, ce qui est maintenant résolu.
+Merci de m'avoir accordé votre temps et votre patience. Je m'excuse sincèrement du dérangement que vous avez pu subir à cause de cela mais je tiens à vous informer qu'une maintenance est en cours.
+Nous aimerions vous informer que le support du jeu est géré par l'équipe de développement, qui travaille dessus. Nous vous demandons de patienter pendant 4 à 6 heures, pour que la maintenance soit terminée.
+Veuillez être assuré que lorsque la maintenance sera terminée, vous n’aurez plus à vous soucier de ce problème.
+Puis-je savoir s'il y a autre chose que je puisse faire pour vous aider à ce moment-là ?
+Je serai heureux de vous aider davantage.
+Vous êtes les bienvenus, merci pour votre compréhension et votre gentillesse.
+Très bien.
+Merci d'avoir contacté l'équipe d'assistance de PRS-ORG.
+Si vous avez besoin d'aide, n'hésitez pas à nous contacter.
+Bonne journée et bonne chance.
+Heureux de vous rencontrer !
+Nous espérons que vous allez bien.
+Je comprends parfaitement votre frustration en ce moment.
+Je suis navré que vous ayez dû vivre ça avec nous.
+Nous avons
+nous ne voulons pas que nos joueurs se sentent de la sorte.
+Cependant, je vais certainement continuer et rechercher la solution pour vous.
+Rassurez-vous.
+J’ai bien compris votre inquiétude.
+Je ferai de mon mieux pour vous aider à résoudre ce problème.
+Pourriez-vous me donner l'adresse e-mail associée à votre compte PRS-ORG ?
+Je comprends que vous êtes aussi énervée et frustrée.
+Je peux me retrouver complètement en tant que joueur moi-même.
+Veuillez m'accorder un peu de temps pour étudier ceci et voir si je peux vous aider.
+Merci pour les informations.
+Veuillez patienter avec moi pendant quelques minutes, nous y regarderons de plus près et nous verrons ce que nous pouvons faire pour vous aider.
+Je serai bientôt de retour avec vous !
+Merci pour votre patience.
+Lorsque nous examinons un compte pour détecter des pertes, des violations de données ou des éléments manquants, nous analysons toute l’activité antérieure sur le compte.
+Les joueurs qui prétendent faussement à un objet perdu ou qui ont b
+l'envoi et la réception de pièces de monnaie enfreignent nos règles dans le Contrat d'utilisation.
+Lorsque nos conditions d'utilisation sont violées, nous devons souvent suspendre le jeu ou fermer des comptes.
+Cela nous permet de garantir un environnement amusant, sécurisé et juste pour tous les joueurs.
+Voulez-vous toujours procéder à l'examen de votre compte ?
+Sommes-nous toujours connectés ?
+C'est dommage.
+Laissez-moi voir ce que je peux faire pour vous.
+Pourriez-vous m'accorder deux minutes pour vérifier les détails dans notre système ?
+Merci pour votre patience.
+Notre équipe dédiée étudie ce problème.
+Vos collègues précédents avec qui vous avez parlé ont déjà transmis cette question à la hiérarchie.
+Je comprends qu'il est important pour vous.
+Je vous joins également une note pour vous dire que vous nous avez à nouveau contacté afin d'obtenir des nouvelles.
+Je comprends tout à fait et je ferai de mon mieux pour régler ce problème pour vous.
+Soyez assuré que notre équipe dédiée vous contactera par courrier électronique dès que possible.
+Merci beaucoup.
+J'apprécie grandement votre patience et votre compréhension durant notre discussion.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Je vous en prie.
+Merci d'avoir contacté le support PRS-ORG.
+Si vous avez d’autres questions ou préoccupations, n’hésitez pas à nous contacter par chat ou par e-mail, et visitez notre Centre de Support en ligne.
+Bonne journée.
+Bonjour NAME-M,
+! Ravi de vous rencontrer.
+J'espère que vous passez une merveilleuse journée.
+Comment puis-je vous aider aujourd'hui ?
+Comme nous avons vérifié les messages ci-dessus et qu'il n'y a pas de problème.
+Je vous recommande donc de bien vouloir la partager.
+Veuillez préciser la préoccupation concernant le jeu PRS-ORG.
+Cela permet d'introduire un élément spécifique dans le jeu.
+Permettez-moi de regarder ça rapidement.
+Cela n’aurait pas dû se produire et nous ne voulons jamais que nos clients soient contrariés en raison de telles problématiques, nous nous efforçons toujours de faire de notre mieux pour aider les joueurs.
+Veuillez ne pas vous inquiéter, je vais essayer tous les moyens possibles pour résoudre votre problème.
+Tout d'abord, je vous présente mes excuses pour le désagrément occasionné.
+Merci beaucoup de nous l'avoir signalé.
+Vous ne croirez pas que vous êtes le premier à nous avoir signalé ce problème.
+Votre amour et votre passion pour notre jeu sont grandement appréciés.
+Vous n'avez plus rien à faire, vous avez déjà bien fait de nous le signaler.
+Bonne journée !
+J'espère que votre problème sera résolu très bientôt !!
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Bonjour NAME-M, c'est un plaisir de vous voir, j'espère que vous allez bien aujourd'hui.
+Comment puis-je vous aider ?
+Merci d'avoir partagé votre demande, puisque vous ne recevez pas de codes sur l'e-mail associé à votre compte PRS-ORG.
+Permettez-moi de voir comment je peux vous aider.
+Juste pour confirmer, vous jouez sur PRS-ORG ?
+Bien !
+J'ai envoyé un e-mail de vérification, vérifiez si vous avez reçu un e-mail avec pour objet « Vérifiez la propriété de votre compte PRS-ORG » dans votre boîte de réception ou dans la boîte de réception des spams.
+Merci.
+Je vous transmets un code de réinitialisation, veuillez l'utiliser lorsque vous vous connecterez à PHONENUMBER.
+C'est bien de voir cela fonctionner, j'espère que vous n'aurez plus de problèmes.
+Pour toute autre question, n'hésitez pas à nous contacter, nous serons heureux de vous aider.
+Merci d'avoir contacté l'assistance de PRS-ORG, nous avons eu le plaisir de vous aider.
+Si je peux vous le demander, avez-vous répondu à cet e-mail ?
+Bonjour NAME-M, nous sommes désolés d'apprendre que vous rencontrez un problème.
+Comme je peux le voir, notre équipe concernée vous a envoyé un e-mail vous demandant des documents et des informations concernant votre entreprise.
+Merci pour les précisions.
+Je vous demande de nous accorder un peu de temps pour que le profil soit vérifié et que notre équipe compétente vous envoie une notification dès que votre profil sera complètement vérifié.
+Y a-t-il autre chose que je puisse faire pour vous aider aujourd'hui ?
+Bien sûr, que puis-je faire pour vous aider ?
+Bien sûr, avec quoi puis-je vous aider aujourd’hui ?
+Je ne peux pas vous donner une date précise, mais ils vous contactera au plus vite.
+Si je puis clarifier une chose de plus, avez-vous répondu à l'e-mail envoyé par notre équipe hier?
+Merci pour les précisions.
+Soyez assurés qu'une fois votre profil entièrement vérifié, notre équipe concernée vous en informera sur l'adresse e-mail enregistrée dans PRS-ORG.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Bonjour, nous espérons que vous allez bien.
+Comment puis-je vous aider aujourd’hui ?
+Je vois, laissez-moi vérifier si nous pouvons résoudre le problème que vous rencontrez avec trop d'ordinateurs.
+Restez connecté pendant que je recherche des informations à ce sujet.
+Je viens de vérifier, vous devez attendre 24 heures pour résoudre cette erreur.
+Dans l’intervalle, veuillez vous déconnecter de tous les lieux où vous pouvez accéder au contenu PRS-ORG.
+Veuillez utiliser ce lien pour plus d'informations URL
+Je peux comprendre, mais ce n'est pas un problème d'abonnement ou du jeu.
+Cette erreur se produit lorsque vous accédez au jeu plusieurs fois, il s'agit simplement d'une période d'attente.
+Il faut donc attendre 24 heures.
+Pourriez-vous me dire le nombre d'écrans que vous utilisez lorsque vous jouez au jeu ?
+Et utilisez-vous aussi PRS-ORG ?
+Il semble que vous soyez loin du clavier. Veuillez me faire savoir si nous sommes toujours connectés.
+Comme je n’ai pas reçu de réponse de votre part, je devais terminer notre conversation aujourd’hui.
+Pour toute question sur le jeu, contactez-nous et rendez-vous sur URL pour des conseils et astuces.
+Prenez soin de vous, restez en sécurité.
+Je vais certainement vous aider avec ça, NAME-M !
+Pourriez-vous m'accorder deux minutes pour vérifier les informations pour vous ?
+Je pense que cela concerne l'intégration de votre profil pour vérifier si nous prenons en charge votre type d'entreprise.
+Merci pour les informations.
+Veuillez nous envoyer, s’il vous plaît, tout document que vous avez en rapport avec l’entreprise ou la société que vous dirigez.
+Ou tout lien possible renvoyant à l'e-mail qui vous a été envoyé.
+Juste pour confirmer, avez-vous déjà envoyé les documents ?
+Merci pour vos efforts.
+Dans ce cas, vous recevrez un e-mail de notre service dédié concernant l’état d’avancement de votre intégration.
+Je vous prie de bien vouloir surveiller vos emails.
+Désolé, sommes-nous toujours connectés ?
+Vu que nous n’avons pas eu de nouvelle de votre part depuis un certain temps, nous devrons mettre fin à cette discussion.
+Bien sûr, si vous avez d'autres questions, veuillez visiter notre centre d'aide (URL) et nous contacter à l'aide du chat, par e-mail (EMAIL) ou par téléphone (PHONENUMBER).
+Merci d'avoir participé au chat, passez une bonne journée.
+Bonjour NAME-M,
+J'espère que vous allez bien.
+Je peux voir que vous souhaitez annuler la pré-commande de PRS-ORG, nous vous aiderons certainement à annuler la pré-commande de PRS-ORG.
+Pourriez-vous s'il vous plaît fournir l'e-mail de votre compte PRS-ORG et votre identifiant PSN/Gamertag/identifiant PRS-ORG ?
+Merci d'avoir attendu. J'ai annulé la précommande de PRS-ORG à votre demande.
+Veuillez nous faire savoir si nous pouvons vous aider dans d'autres domaines ?
+Si le montant a été débité, vous recevrez le remboursement dans les 7 à 10 jours ouvrés.
+Vous pouvez la réordonner chaque fois que vous le souhaitez.
+N'hésitez pas à nous contacter si vous avez besoin d'aide pour tout autre problème.
+Je vous remercie pour vos gentils mots.
+Parfait @ !
+Parfait.
+Nous avons aimé vous parler, nous espérons que vous passez une bonne journée.
+Merci d'avoir contacté l'assistance de PRS-ORG.
+Bonjour, Ravi de vous rencontrer sur le chat.
+Comment puis-je vous aider aujourd'hui ?
+Merci d'avoir développé le problème que vous rencontrez.
+Veuillez m'accorder un instant, je vais vérifier rapidement le problème pour vous.
+Pourriez-vous me fournir votre identifiant de messagerie associé à votre compte PRS-ORG ?
+Je vous remercie.
+Pouvons-nous savoir dans quelle mode vous jouez ?
+D'accord, donnez-moi un peu de temps pour que je m'en inquiète.
+Merci pour votre patience.
+Veuillez m'excuser, je travaille dessus.
+Je suis sincèrement désolé que vous n'ayez pas pu vous qualifier pour le PRS-ORG et n'ayez pas été éligible pour les récompenses. Je comprends à quel point vous avez investi dans le jeu pour gagner des récompenses et progresser dans le jeu et pour vous mesurer à d'autres joueurs. Je comprends totalement votre colère, mais je ne peux malheureusement pas vous compenser avec des articles. La seule chose que je puisse vous proposer, c'est des étapes de dépannage car vous avez indiqué que la défaite était due à une connexion.
+Si vous le souhaitez, je peux vous aider en vous indiquant des étapes pour résoudre ce problème, ce qui devrait vous aider lors de vos futurs matchs et éviter de tels problèmes.
+En voulez-vous ?
+J’ai aussi vérifié avec l’équipe et il n’y a pas de problème avec le jeu.
+Il pourrait y avoir un problème au sein de votre système.
+Puis-je savoir sur quelle plate-forme vous jouez au jeu ?
+J'aimerais m'excuser auprès de vous pour le désagrément causé.
+Laissez-moi voir ce que je peux faire pour vous.
+Pourriez-vous confirmer le problème que vous rencontrez lors de l'acceptation de transactions ?
+J'ai consulté votre profil et j'ai pu voir qu'il n'est malheureusement pas entièrement vérifié.
+Une vérification est requise afin de maintenir la sécurité de votre profil.
+Une fois cela fait, nous serons heureux de vous aider avec les avantages des transactions illimitées.
+Je vous suggère de vérifier votre boîte email ou SPAM, car il se peut que nous vous ayons envoyé des emails aujourd'hui.
+Veuillez nous accorder un peu de temps, et notre équipe concernée vous répondra dès que possible.
+Nous avons besoin de quelques temps pour examiner vos documents.
+Soyez assuré que tout est fait pour résoudre ce problème aussi rapidement que possible.
+Merci pour les informations.
+Je serai plus que ravi de vous aider.
+Accordez-moi une minute pour que je vérifie votre compte
+Pouvez-vous me donner le montant total de la facture ?
+Êtes-vous toujours là ?
+Nous avons vérifié votre compte et l'abonnement a été annulé.
+Si vous le souhaitez, nous pouvons rembourser
+11,49 $ CAD ajoutez-le à votre compte PRS-ORG avec le même montant que vous avez payé pour l'abonnement, et vous pouvez choisir un livre ou un livre audio différent.
+Vous pourriez utiliser votre crédit lorsque vous voulez, il n'expire pas.
+Ou nous pouvons vous rembourser sur votre carte de crédit
+Veuillez nous indiquer la marche à suivre,
+Etes-vous toujours en ligne ?
+Je vais maintenant fermer ce chat puisque je n’ai reçu aucune réponse.
+Je serai heureux de continuer à vous aider par e-mail, ou vous pouvez nous contacter à nouveau au moment qui vous convient le mieux.
+Merci pour votre patience.
+D’après votre conversation précédente avec NAME-M, je comprends que lorsque vous ouvrez votre boutique en ligne, celle-ci est fermée, n’est-ce pas ?
+C'est déplorable à entendre.
+Pourriez-vous me dire quel message d'erreur s'affiche lorsque vous essayez de l'ouvrir ?
+Vous pouvez réactiver la boutique.
+grâce à votre application ou à votre tableau de bord.
+Sur votre profil PRS-ORG, cliquez sur « Boutique en ligne » dans le panneau de navigation à gauche.
+Sélectionnez « Paramètres » puis « Général ».
+Utilisez l'option « Magasin ouvert » pour activer ou désactiver votre boutique en ligne.
+Je vous en prie.
+Y a-t-il autre chose que je puisse faire pour vous aider aujourd'hui ?
+Nous nous ferons un plaisir de vous aider.
+Pour modifier le numéro dans le profil, nous avons une procédure qui garantit que votre profil est sécurisé.
+Si vous souhaitez modifier votre numéro de téléphone, veuillez nous envoyer un e-mail à partir de votre adresse e-mail enregistrée à EMAIL en demandant de modifier votre numéro de téléphone.
+Dans le courriel, veuillez inclure à la fois l'ancien numéro de téléphone et le nouveau.
+Veuillez également nous confirmer quel numéro de téléphone vous aimeriez changer : le numéro personnel, le numéro professionnel ou les deux.
+Une fois l'e-mail envoyé, veuillez nous appeler au n° PHONENUMBER pour que nous vérifions que la demande de modification a bien été faite par vous.
+Comment puis-je vous aider aujourd'hui ?
+Nous sommes désolés pour le désagrément cependant, soyez assuré que nous ferons de notre mieux pour vous aider à ce sujet.
+Pourriez-vous confirmer le numéro de téléphone que vous nous avez enregistré afin que je puisse vérifier cela pour vous ?
+Merci pour votre confirmation.
+Je constate que le numéro de téléphone est enregistré chez nous comme étant un numéro de téléphone professionnel.
+Tous les codes sont envoyés au téléphone portable personnel et nous avons enregistré un numéro de téléphone personnel différent.
+C'est la raison pour laquelle vous ne pouvez pas recevoir le code.
+Pour modifier votre numéro de téléphone, veuillez nous envoyer un courriel à partir de votre adresse e-mail enregistrée et demander la modification de votre numéro de téléphone.
+Dans l'e-mail, veuillez inclure à la fois l'ancien et le nouveau numéros de téléphone.
+Veuillez également confirmer le numéro de téléphone que vous souhaitez modifier, soit le numéro personnel, le numéro professionnel ou les deux et envoyer votre réponse à EMAIL
+Après que l'email soit envoyé, veuillez nous appeler au PHONENUMBER pour vérifier que le changement a été demandé par vous.
+Etes-vous toujours là ?
+Bonjour,
+C’est un plaisir de vous rencontrer par chat.
+J'espère que vous allez bien aujourd'hui ?
+Ah !
+Cela pourrait être décevant.
+Il n'y a pas de quoi s'inquiéter du tout, nous ferons de notre mieux pour vous aider.
+Ne vous inquiétez surtout pas, nous ferons immédiatement intervenir notre équipe concernée.
+Ils examineront votre compte et vous assureront le remboursement pour ce problème.
+Je vous fais totalement confiance dans cette affaire, car je comprends que personne ne se donnerait la peine d'envoyer une demande de révision s'il avait fait quelque chose de mal de son côté.
+Ne vous inquiétez pas, nous allons élever ce cas auprès de mon équipe
+Je mentionnerai également tous les détails de manière appropriée pour vous aider à résoudre le problème.
+J’ai transmis votre dossier à notre équipe.
+Je ferai tout ce qui est en mon pouvoir dans cette affaire, car je joue aussi au jeu « nom du jeu », et je peux comprendre à quel point ces restrictions vous affectent.
+Je vous assure également que nous ferons remonter cette situation à la direction avec la gravité qu’elle mérite afin que ces incidents ne se reproduisent pas à l’avenir.
+Sinon, y a-t-il autre chose que je puisse faire pour vous aider ?
+C'était vraiment formidable de discuter avec toi.
+Au revoir.
+Prendre soin de soi.
+Ce fut un plaisir de vous parler.
+Je vous demande de rester à l'intérieur, de rester en sécurité et de prendre soin de vous
+Je regrette d'apprendre que vous rencontrez un problème.
+Je serai ravi de vous aider aujourd'hui, laissez-moi voir ce que je peux faire pour vous.
+Je vais changer le numéro de téléphone pour vous.
+Veuillez confirmer le numéro de téléphone actuel et le nouveau numéro de téléphone.
+Merci pour l'information.
+Je vais l'enlever tout de suite, pourriez-vous m'accorder deux minutes ?
+Merci de votre patience.
+Comme je peux le voir, le PHONENUMBER est déjà enregistré comme votre numéro de téléphone.
+Merci pour votre patience.
+Comme je peux le voir, le PHONENUMBER est déjà enregistré comme votre numéro de téléphone.
+Nous sommes désolés d'entendre parler de ce problème.
+Parfois, il peut prendre jusqu'à 2 heures pour recevoir le code.
+Je vous demande d'attendre un moment et de réessayer.
+Je peux voir, le nombre est correctement mis à jour.
+Donnez-moi le bon numéro, je vais le mettre à jour.
+Je suis désolé pour la gêne occasionnée.
+J’ai ré-abordé cette question et j’ai découvert que le numéro de téléphone enregistré est le NUM001.
+J’ai vérifié les informations et j’ai découvert que le numéro de téléphone enregistré était PHONENUMBER.
+Pourriez-vous réessayer, vous devriez recevoir le code maintenant ?
+Nous vous demandons de bien vouloir réessayer et vous devriez recevoir le code cette fois-ci.
+Merci de l'essayer et faites-le nous savoir.
+Bonjour, comment puis-je vous aider ?
+Je vais certainement vous aider dans votre requête.
+Pourriez-vous me fournir le numéro de téléphone enregistré actuellement et le numéro qui doit être mis à jour ?
+Je vais certainement vous aider dans votre demande.
+Veuillez m’accorder deux minutes pour mettre à jour pour vous le numéro de téléphone.
+Merci pour l'information.
+Veuillez m'accorder deux minutes pour mettre à jour le numéro de téléphone.
+Merci pour votre patience.
+J'ai changé le numéro de téléphone pour vous, et vous recevrez bientôt un e-mail de confirmation.
+Je vous en prie.
+Y a-t-il autre chose que je puisse faire pour vous aider aujourd'hui ?
+Je vous en prie.
+Si vous avez d'autres questions, n'hésitez pas à consulter notre centre de support (URL) ou à nous contacter via le chat, par e-mail (EMAIL) ou par téléphone (PHONENUMBER) à l'adresse PRS-ORG Support.
+De plus, une fois la discussion terminée, vous serez invité à remplir un court sondage pour évaluer mon travail et mon intervention pendant la discussion.
+Je vous serais très reconnaissant si vous passiez une minute à remplir le questionnaire.
+Merci d'avoir discuté avec vous, et passez une bonne journée !
+Pourriez-vous développer votre question ?
+Je vais très bien, merci de me le demander.
+Je serai heureux de vous aider aujourd'hui, laissez-moi voir ce que je peux faire pour vous.
+Pour modifier votre adresse e-mail, veuillez nous envoyer un courriel à EMAIL depuis votre adresse e-mail enregistrée, et demandez la modification de votre adresse.
+Veuillez inclure à la fois l’ancienne et la nouvelle adresse e-mail dans votre message.
+Une fois l'e-mail envoyé, veuillez nous appeler au PHONENUMBER pour confirmer que le changement a été effectué à votre demande.
+Je vous en prie, y a-t-il autre chose que je puisse faire pour vous aider aujourd'hui ?
+De plus, une fois que le chat sera terminé, vous serez invité à remplir un court questionnaire pour noter mon travail et ma prestation lors de ce chat.
+Je vous serai très reconnaissant si vous passez une minute à remplir le sondage.
+1 est la note la plus basse, et 5 la note la plus élevée.
+Bonne journée.
+Je vous en prie !
+Si vous avez d'autres questions, n'hésitez pas à nous contacter par chat ou par e-mail, et consultez notre centre d'aide en ligne.
+Bonjour, j'espère que vous allez bien.
+Ne vous inquiétez pas, je ferai de mon mieux pour vous aider avec votre problème de points PRS-ORG manquants.
+Pourriez-vous me dire l'adresse électronique associée à votre compte PRS-ORG ?
+Puis-je savoir d'où vous avez obtenu ces points ?
+Pouvez-vous vérifier si vous avez échangé les points PRS-ORG sur le bon compte ?
+Merci.
+Je voudrais vous informer que depuis que vous avez effectué l'achat chez PRS-ORG
+nous ne pouvons pas vérifier ce point de notre côté, donc nous avons besoin de preuves d’achat de votre part.
+Nous pourrons l'utiliser pour valider votre demande.
+Et la raison pour laquelle nous vous demandons cela, c'est que le paiement a été effectué sur PRS-ORG
+magasin, nous ne pouvons donc pas vérifier cela, et c'est pourquoi nous demandons une preuve d'achat.
+Sans preuve d’achat
+Est-ce que nous sommes toujours connectés ?
+Comme je n’ai pas reçu de réponse de votre part, je devais mettre fin à notre discussion aujourd’hui.
+Si vous avez encore besoin d'aide, contactez-nous à l'URL, nous serons heureux de vous aider.
+Je m'excuse pour le problème que vous rencontrez.
+Je ferai de mon mieux pour vous aider.
+Juste pour vous informer, NAME-M est actuellement compatible avec les plates-formes d’hébergement suivantes :
+PrestaShop
+PRS-ORG
+PRS-ORG
+Puis-je vous demander si votre site est compatible ?
+Je m’excuse pour le malentendu.
+Puis-je me faire confirmer que vous essayez de connecter votre nom de domaine avec PRS-ORG ?
+Merci pour les précisions.
+Nous vous aiderons à suivre les étapes pour ajouter votre domaine.
+Veuillez suivre les étapes ci-dessous à partir de votre Tableau de bord :
+Je comprends que vous avez déjà actualisé les modifications.
+Bien que le changement de ces paramètres ne prenne pas plus de cinq minutes, il se peut que cela prenne jusqu’à 48 heures pour que les modifications soient effectives.
+Etes-vous toujours là ?
+Je vous en prie.
+Faites-nous savoir si le problème perdure et notre équipe s'en chargera.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Etes-vous toujours là ?
+Comme je n'ai pas eu de nouvelles de votre part depuis un certain temps, je vais devoir fermer ce chat.
+Si vous avez d'autres questions, n'hésitez pas à nous contacter à nouveau et visitez notre centre de support en ligne.
+Bonjour NAME-F.
+Les problèmes de connexion sont moins amusants, nous sommes là pour vous aider.
+Voyons voir cela en consultant le compte.
+Quel est votre nom d'écran PRS-ORG ?
+Merci.
+Il semble que votre PSN soit associé à un compte supprimé.
+Savez-vous quel était l'e-mail de cet ancien compte ?
+Si vous connaissez le courriel d’origine associé au compte PRS-ORG, vous pouvez réinitialiser votre mot de passe et cela pourrait activer à nouveau le compte.
+Si vous ne le pouvez pas, je crains que vous ne puissiez pas jouer à des jeux PRS-ORG sur cet identifiant PSN.
+Vous devrez utiliser un autre identifiant PSN pour le moment
+J'aimerais avoir d'autres informations de votre part.
+Vous pouvez toujours utiliser vos jeux sur un autre compte PSN et les associer à votre nouveau compte PRS-ORG.
+Avez-vous d’autres questions à me poser pendant que nous sommes ensemble ?
+C’est à vous de voir, bien sûr, mais c’est la seule façon pour vous de jouer, car votre autre compte PRS-ORG est attaché à un compte PRS-ORG supprimé auquel vous ne pouvez pas accéder, il semble.
+Je souhaite que vous puissiez y accéder à nouveau et profiter de vos jeux.
+Si vous rencontrez d’autres problèmes, n’hésitez pas à nous contacter à l’URL suivante.
+Merci d'avoir contacté l'assistance PRS-ORG et passez une bonne journée !
+Bonjour, je suis NAME-N.
+Je suis heureux de vous rencontrer aujourd'hui et j'espère que vous allez bien !
+Pouvez-vous partager votre préoccupation avec moi ?
+Pour lancer une enquête sur votre cas.
+Veuillez préciser votre problème afin que nous puissions mieux vous comprendre et vous aider.
+Dites-nous le nombre de points que vous demandez et qui ont disparu de votre compte et indiquez également d’où vous les avez achetés.
+Au nombre de points manquants sur votre compte, s'il vous plaît partagez où avez-vous acheté les points.
+Je tiens à vous informer qu’aucun point n’est octroyé lors de parties sur le jeu PRS-ORG.
+Pouvons-nous savoir quels sont les points sur lesquels vous demandez l'autorisation ?
+Veuillez me transmettre l'ID de la transaction pour que je puisse la localiser sur votre compte.
+Puis-je connaître l'e-mail associé à votre compte PRS-ORG ?
+Bienvenue sur PRS-ORG.
+Je m'appelle NAME-M.
+Comment puis-je vous aider aujourd'hui ?
+Nous sommes désolés d'apprendre ce problème.
+Néanmoins, je serai heureux de vous aider de la meilleure façon possible.
+Pourriez-vous me dire pourquoi vous fermez votre compte ?
+Je m'excuse pour la gêne occasionnée.
+Je vais aller de l’avant et créer un dossier immédiatement auprès du service concerné.
+Je vais m'en occuper personnellement et je vais demander à l'équipe concernée de mettre cela à jour pour vous.
+Je vais aller de l'avant et créer un dossier immédiatement auprès du service compétent.
+Je vais m’en charger personnellement et je demanderai à l’équipe concernée de le mettre à jour pour vous.
+Etes-vous toujours là ?
+Ne vous inquiétez pas !
+Je suis sûr de me débrouiller !
+Je vais régler ça pour vous.
+Personnellement, nous allons maintenant demander immédiatement à l'équipe concernée de vérifier votre compte après la fin du chat.
+Je vous demande s'il vous plaît de me laisser un peu plus de temps.
+Je comprends à quel point c'est frustrant.
+Je donnerai cependant une priorité élevée à votre demande.
+Nous comprenons votre situation.
+Maintenant, nous examinerons personnellement votre problème et nous vous ferons parvenir une solution dans les plus brefs délais.
+Sommes-nous toujours connectés ?
+Comme je ne vous ai pas entendu pendant un certain temps, je vais devoir clore ce chat.
+Bien sûr, si vous avez d'autres questions, veuillez visiter notre centre de support (URL) et nous contacter par chat, e-mail ou téléphone.
+Merci de nous avoir contactés et passez une bonne journée !
+Merci pour les informations, je serai ravi de vous aider.
+Veuillez m'accorder un moment pour que je vérifie le compte.
+Merci d'avoir attendu
+Quel est le message d'erreur que vous obtenez ou le problème que vous rencontrez lorsque vous essayez d'ouvrir le livre ?
+Est-ce le titre concerné ?
+livre concerné ?
+Juste un instant, je vais examiner le contenu du livre.
+Merci pour votre patience
+J’ai ré-ajouté le livre à votre bibliothèque, le contenu est correct.
+Veuillez vous déconnecter puis vous reconnecter pour mettre à jour votre bibliothèque.
+À titre d'information, je vous enverrai une transcription de notre conversation.
+Si vous avez d’autres questions ou préoccupations, vous pouvez toujours répondre à cet e-mail et nous serons en mesure de vous aider davantage.
+Merci d'avoir contacté PRS-ORG, nous avons eu le plaisir de vous aider aujourd'hui.
+J'espère que vous passerez également une excellente journée !
+Le Compte PRS-ORG a été ouvert lorsque vous vous êtes inscrit auprès de PRS-ORG.
+Juste pour confirmer, vous avez seulement besoin des détails de votre compte PRS-ORG, n'est-ce pas ?
+Etes-vous toujours avec nous ?
+Si vous le souhaitez, vous pourrez télécharger les relevés de compte professionnel à cet effet.
+Je vais vous aider à savoir comment le télécharger.
+Suivez les étapes ci-dessous :
+Connectez-vous à votre profil PRS-ORG dans un navigateur Web, puis cliquez sur « Compte d'entreprise » dans le panneau de navigation gauche.
+Dans le panneau « Vue d'ensemble », cliquez sur « Filtre » pour sélectionner une période de temps.
+Cliquez sur « Télécharger » et choisissez le format de fichier souhaité.
+Veuillez vous reporter à l'article suivant pour plus d'informations :
+URL
+Êtes-vous toujours là ?
+Je vous en prie.
+Y a-t-il autre chose que je puisse faire pour vous aider aujourd'hui ?
+Etes-vous toujours sur ce chat ?
+Étant donné que je n'ai pas eu de vos nouvelles depuis quelque temps, je vais devoir terminer ce chat.
+Si vous avez d'autres questions, veuillez nous recontacter via chat, appel, e-mail et centre d'aide en ligne.
+Bonjour, nous espérons que vous allez bien.
+Comment puis-je vous aider aujourd'hui ?
+Merci de partager la question, laissez-moi examiner le compte et je ferai de mon mieux pour vous aider et vous fournir des informations utiles sur la réinitialisation du mot de passe sur le compte PRS-ORG et le découvrir la cause de la récurrence.
+Merci pour cet email.
+J'ai envoyé un e-mail de vérification, veuillez vérifier si vous avez reçu un e-mail dont le sujet est « Veuillez vérifier la propriété de votre compte PRS-ORG » dans votre boîte de réception ou dans la boîte de réception des spams.
+Veuillez partager le code reçu à l'adresse e-mail avec moi.
+Merci pour le code.
+Je vous ai envoyé un lien pour réinitialiser votre mot de passe à l'adresse e-mail.
+Veuillez utiliser le même mot de passe pour actualiser le mot de passe.
+Pourriez-vous me faire savoir si vous rencontrez des problèmes ?
+Merci de me l'avoir confirmé, je suis content d'avoir pu vous aider.
+Je vous en prie.
+Puis-je savoir s'il y a autre chose que je puisse faire pour vous aider aujourd'hui ?
+Je vous en prie.
+Puis-je savoir s'il y a autre chose que je puisse faire pour vous aider ?
+Je m'excuse pour la gêne occasionnée, j'espère que vous passerez également une bonne journée.
+Merci d'avoir contacté l'assistance de PRS-ORG.
+Prenez soin de vous et au revoir !
+Comment puis-je vous aider aujourd'hui ?
+Etes-vous toujours là avec nous ?
+Etes-vous toujours là avec nous ?
+Je suis désolé d'entendre cela.
+Je serai ravi de vous aider.
+Pourriez-vous confirmer l'erreur affichée à l'écran lorsque vous essayez d'inclure le transfert ?
+Merci pour la confirmation.
+Pourriez-vous confirmer votre numéro de téléphone enregistré ?
+Merci pour la confirmation.
+J'ai vérifié et j'ai constaté que le numéro de téléphone portable que vous nous avez fourni ne correspond pas à nos dossiers.
+Si vous souhaitez modifier votre numéro de téléphone, envoyez-nous un e-mail à partir de l'adresse e-mail enregistrée afin de demander de changer votre numéro de téléphone.
+Vous devrez confirmer si vous souhaitez modifier votre numéro professionnel, personnel ou les deux.
+De plus, vous devrez nous envoyer votre ancien et votre nouveau numéro.
+Après que l’email soit envoyé, veuillez nous appeler au NOM_DU_NUMERO_DE_TELEPHONE pour vérifier que la modification a été demandée par vous.
+Etes-vous toujours là avec nous ?
+Étant donné que nous n’avons pas eu de vos nouvelles depuis un certain temps, je vais devoir fermer ce chat. Si vous avez d’autres questions, n’hésitez pas à nous recontacter ou à consulter notre centre d’aide en ligne.
+Passez une bonne journée !
+Bonjour NAME-M
+Heureux de vous rencontrer.
+Comment puis-je vous aider aujourd'hui ?
+Je vois que vous nous avez contactés concernant le compte PRS-ORG compromis.
+Ne vous inquiétez pas, je vais vous aider à régler cela.
+Et oui, vous pouvez jouer normalement pendant que nous travaillons sur votre compte.
+Je comprends tout à fait ce que vous voulez dire, mais l'équipe en charge des jeux va enquêter et ajouter le contenu.
+Nous nous ferons un plaisir de vous recontacter dès que possible, soyez en sûr.
+A part ça, y a-t-il autre chose que je puisse faire pour vous aider ?
+Je vous en prie.
+N'hésitez pas à nous contacter si vous avez besoin d'aide.
+Votre amie PRS-ORG est toujours là.
+Merci d'avoir contacté l'Assistance PRS-ORG.
+Nos meilleurs voeux à vous et à votre famille.
+Je serai heureux de vous aider.
+Juste pour confirmer, voulez-vous mettre à jour l'adresse e-mail ?
+Merci pour la confirmation.
+Pour modifier votre adresse personnelle, merci de nous envoyer un e-mail avec un document prouvant votre nouvelle adresse et datant de moins de 6 mois.
+Parmi les documents valables, citons une copie de la facture d’électricité, de téléphone fixe ou de taxe foncière, ainsi que toute lettre officielle.
+Vous pouvez nous envoyer les documents par e-mail à EMAIL
+Pour modifier votre adresse, veuillez nous faire parvenir une preuve d'identité comportant l'adresse correcte.
+Êtes-vous toujours là ?
+Bien sûr.
+L’équipe mettra à jour l’adresse en votre nom et vous enverra un e-mail de confirmation.
+Y a-t-il autre chose que je puisse faire pour vous aider aujourd'hui ?
+Etes-vous toujours là ?
+Je suis désolé mais comme il y a encore pas de réponse de votre part depuis un certain temps, je vais devoir terminer cette discussion.
+Si vous avez d’autres questions, veuillez nous recontacter ou visitez notre centre d’assistance en ligne.
+Merci de nous avoir permis de discuter et passez une belle journée !
+Bien sûr.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Êtes-vous toujours là ?
+Toutes mes excuses, puisque je n'ai pas de réponse de votre part depuis un certain temps, je devrais mettre fin à cette discussion.
+Si vous avez d'autres questions, n'hésitez pas à nous re-contacter et visitez notre centre de support en ligne.
+Merci d'avoir choisi notre chat et passez une bonne journée !
+Je me ferai un plaisir de changer votre numéro de téléphone.
+Pour finaliser cette demande, pourriez-vous nous communiquer votre numéro de téléphone actuel ?
+Ainsi, une fois que le numéro aura été validé, nous pourrons basculer sur le nouveau.
+Ne vous inquiétez pas, je vais le changer pour vous.
+Pourriez-vous me communiquer le nouveau numéro ?
+Merci pour ces informations.
+Comme vous le demandiez, j'ai changé le numéro de téléphone.
+y a-t-il autre chose que je puisse faire pour vous aider ?
+Il sera mis à jour dans quelques minutes.
+Je vous en prie.
+J'espère avoir répondu à vos questions.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Je vous en prie.
+Bien entendu, si vous avez d'autres questions, n'hésitez pas à nous contacter sur PRS-ORG Support via chat, e-mail ou téléphone. Vous pouvez également consulter notre centre d'aide.
+Merci d'avoir discuté avec vous, et passez une bonne journée !
+En outre, une fois la discussion terminée, vous serez invité à répondre à un court sondage pour noter mon travail et mes performances lors de cette discussion.
+Je vous serai très reconnaissante de passer une minute pour remplir le sondage.
+Passez une très belle journée !
+Bonjour, c'est un plaisir de vous rencontrer.
+J'espère que vous allez bien !
+Oh !
+Je vais vérifier cela et essayer de vous aider.
+Puis-je connaître l'adresse e-mail afin que je puisse localiser votre compte ?
+Merci pour cet email.
+J'ai vérifié au niveau de mon serveur et je n'ai pas trouvé de désynchronisation.
+Le jeu fonctionne comme prévu.
+Je voudrais vous informer que le jeu est conçu de telle sorte que celui qui se déconnecte perd.
+Donc, si vous avez perdu votre connexion, c’est que la coupure est sur votre extrémité.
+Cela peut être dû à une perte de paquets de données ou à une micro-déconnexion sur votre console.
+Il existe un certain nombre de raisons qui peuvent expliquer le déconnectement d'un jeu.
+Dans le futur, je voudrais vous aider davantage, c'est pourquoi nous vous enverrons un e-mail contenant quelques étapes de dépannage testées et approuvées à la fin de cette discussion.
+Je vous demande sincèrement de bien vouloir renvoyer l'e-mail après le chat et d'effectuer toutes les étapes une à une.
+Cela empêchera de tels problèmes de se reproduire pendant le jeu et vous pourrez jouer normalement.
+Je peux comprendre ce que vous devez ressentir dans ce cas, mais croyez-moi, il n'est pas possible d'ajouter le jeton de projet ou tout autre contenu au compte.
+Nous ne pouvons que vous aider avec les étapes de dépannage pour résoudre le problème et elles vous seront envoyées sur votre email après cette discussion.
+Merci d'être si compréhensif et patient.
+Y a-t-il autre chose que je puisse faire pour vous aider aujourd'hui ?
+Merci d'avoir contacté notre service.
+Pour toute autre question, n’hésitez pas à nous contacter à l’adresse URL.
+Bonne soirée.
+Heureux de vous rencontrer, NAME-M.
+. J'espère que vous allez bien.
+Merci d'avoir confirmé le problème.
+Soyez assuré que je me ferai un plaisir de vous aider dans le problème d'accès au marché des transferts sur le site Web PRS-ORG/application PRS-ORG.
+Puis-je avoir l'ID de votre compte PRS-ORG et l'e-mail associé à votre compte PRS-ORG ?
+Sommes-nous toujours connectés à ce chat ?
+Bon à savoir.
+Je vais bien, merci de me le demander.
+Veuillez patienter quelques instants pendant que nous vérifions les informations de connexion de votre compte à l'Appli Web/PRS-ORG.
+En attendant je vérifie pour vous.
+Pouvons-nous connaître votre joueur favori, puisque nous jouons à PRS-ORG ?
+Je peux constater votre association avec PRS-ORG et j'espère que vous obtiendrez la meilleure carte de l'année.
+Je suis fan de PRS-ORG.
+Merci d'avoir attendu ici, j'ai vérifié pour vous.
+Bon à savoir, en effet il est le grand joueur.
+Nous avons vérifié pour vous que vous n'avez pas encore gagné l'accès au marché des transferts sur le site Web/l'application PRS-ORG sur PRS-ORG. Nous vous suggérerions de continuer à jouer.
+J'espère que vous pourrez le gagner bientôt.
+Vous pouvez vérifier ici comment obtenir un accès au marché des transferts de PRS-ORG sur le Web et sur les applications PRS-ORG : URL
+Il n’y a pas de limite fixe en termes de jours ou de matchs à jouer pour obtenir l’accès.
+Cependant, cela dépend totalement de continuer à jouer et le jeu détectera que vous devriez avoir accès à ce que vous seriez capable de faire.
+Cependant, comme je peux le voir, vous jouez constamment et utilisez le meilleur marché de transfert possible sur la console avec les conditions générales, veuillez continuer ainsi.
+J'espère que vous pourrez y accéder rapidement.
+L’accès au marché des transferts dans le jeu vous est offert avec l’achat du jeu, cependant, l’accès à l’application PRS-ORG est un privilège que les joueurs peuvent gagner en jouant au jeu.
+Nous espérons que vous pourrez y accéder rapidement, car je sais que l’accès à l’application PRS-ORG rend le jeu plus amusant.
+Veuillez me faire savoir.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Merci pour votre appréciation.
+Ce fut un plaisir de discuter avec vous et vous aider aujourd'hui.
+Merci d'avoir contacté l'assistance de PRS-ORG.
+Pour toute question concernant les jeux de PRS-ORG, vous pouvez nous contacter à tout moment.
+Au revoir, prenez soin de vous.
+Passez une bonne journée, camarade !
+Bonjour NAME-M.
+Heureux de vous rencontrer.
+Je vous souhaite une excellente journée.
+Comment puis-je vous aider ?
+Je comprends que votre commande n'a pas été finalisée et que vous n'avez pas reçu votre jeu.
+Ne vous inquiétez pas, je vais faire de mon mieux pour vous aider.
+Puis-je connaître l'adresse e-mail enregistrée avec PRS-ORG ?
+Nous vous remercions.
+Juste pour confirmer, ne voyez-vous pas de jeu dans votre bibliothèque de jeux ?
+Merci pour la confirmation.
+Laissez-moi vérifier.
+Pour confirmer, vous essayez de le faire fonctionner sur PRS-ORG ou PRS-ORG ?
+Merci pour la confirmation.
+J'ai vérifié, et il semble que tout soit en ordre avec votre compte et votre commande.
+Cela peut être dû à un problème technique.
+Je vais vous fournir quelques étapes, essayez-les s'il vous plaît.
+URL
+Veuillez suivre ce lien et suivre les étapes :
+J'espère que cela résoudra le problème.
+Si vous rencontrez toujours un problème, ne vous inquiétez pas, vous pouvez nous contacter à nouveau, nous sommes toujours là pour vous aider.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Avez-vous redémarré le PC pour que les modifications prennent effet ?
+Ne vous inquiétez pas, vous pouvez nous contacter avec un screenshot
+si vous rencontrez encore un problème.
+Avez-vous d'autres questions ou préoccupations en dehors de celle-ci ?
+Merci pour votre patience.
+Je serai heureux de vous aider aujourd'hui, laissez-moi voir ce que je peux faire pour vous.
+Pourriez-vous me dire quel lecteur de carte vous avez commandé ?
+Merci pour l'information.
+Vous pouvez configurer votre compte une seule fois, il vous est fourni avec quelques étapes simples et je vous l'enverrai par e-mail si vous le souhaitez.
+Je constate qu'aucune commande n'a été passée depuis le compte à partir duquel vous nous avez contactés.
+Je vous expliquerai les étapes de configuration sur cette adresse électronique.
+Une fois que vous l’aurez reçu, vous pourrez l’associer à un compte.
+Etes-vous avec nous ?
+Merci pour l'information.
+C’est l’adresse e-mail enregistrée sur ce compte et je regrette de vous informer que nous n’avons pas reçu d’e-mail émanant de ce compte concernant la commande du lecteur de carte.
+Veuillez vérifier si l'e-mail n'aurait pas pu être envoyé à une autre adresse e-mail de votre compte.
+Merci pour l'information.
+C’est l’adresse email associée à ce compte et nous sommes désolés mais nous n’avons pas trouvé d’email provenant de ce compte concernant la commande du lecteur de carte.
+Veuillez vérifier si l’e-mail n’a pas été envoyé à l’adresse e-mail de votre autre compte.
+Le français est la langue par défaut pour ce compte et les courriels sont envoyés en français.
+Je vous ai également envoyé les étapes de configuration.
+Pour changer la langue de l'autre compte, vous devrez nous contacter à partir de celui-ci et nous transmettrons votre demande à l'avance.
+Je comprends votre inquiétude et, comme je peux le voir, il n'y a aucun e-mail envoyé à partir de ce compte concernant la langue.
+Les e-mails de ce compte vous sont envoyés en français.
+La langue de l’autre compte peut être définie sur Néerlandais, veuillez nous contacter à partir de ce compte et nous ferons passer votre demande en priorité.
+Bonjour NAME-M,
+Ravi de vous rencontrer.
+Comment allez-vous ?
+Merci d'avoir fourni plus d'informations sur votre problème. Je comprends votre inquiétude car vous rencontrez des ralentissements dans votre jeu et ne parvenez plus à y jouer.
+Je suis content que vous soyez venu chez nous pour obtenir de l'aide, et je serai certainement en mesure de vous aider dans votre problème.
+J'ai entendu parler de ça aujourd'hui, je vous prie de me laisser une minute ou deux.
+Je m'en charge.
+Merci pour votre patience, je viens de vérifier et je souhaite vous informer que de nombreux autres joueurs nous ont également signalé le même problème et que c’est un problème que nous connaissons.
+Notre équipe dédiée travaille d'arrache-pied pour le résoudre pour les précieux joueurs comme vous.
+Je vous demande de bien vouloir patienter un peu, et nous espérons que cela sera résolu aussi rapidement que possible.
+Je vois que ce problème nous a été signalé par d’autres joueurs également.
+Donc, évidemment, ce n'est pas seulement avec vous.
+Je comprends tout à fait, mais pour être honnête avec vous, je n'ai pas d'ETA non plus, alors je ne vous ferai pas espérer quoi que ce soit de faux.
+Mais comme cela a déjà été signalé, cela ne va pas prendre beaucoup de temps.
+Veuillez patienter un peu et cela sera corrigé.
+Pouvez-vous me dire s'il y a autre chose que je puisse faire pour vous aider ?
+C'est pour moi un plaisir absolu de vous aider, merci d'être une personne compréhensive.
+Merci d'avoir contacté le Service d'assistance de PRS-ORG.
+N'hésitez pas à nous contacter pour toute aide future.
+Bonjour, pouvez-vous nous donner plus de détails concernant votre demande ?
+Êtes-vous toujours là ?
+Je suis désolé pour la gêne que cela vous a causé.
+Je me ferai un plaisir de vous aider aujourd'hui, laissez-moi voir ce que je peux faire pour vous.
+Pourriez-vous m’accorder deux minutes afin que je puisse vérifier les détails et vous aider de la meilleure façon possible ?
+Je m'excuse sincèrement pour la gêne occasionnée.
+Nous allons vérifier cela pour vous.
+Pourriez-vous confirmer le message d’erreur que vous recevez ?
+Nous comprenons.
+Dans ce cas, veuillez essayer de mettre à jour l’Appli et activez l’option des notifications push dans les réglages de votre téléphone mobile.
+Nous comprenons.
+Maintenant, cliquez sur l'icône du profil.
+Vous aurez maintenant la possibilité d'activer et désactiver l'option « Sécurité des comptes ».
+Effectuez-vous un virement depuis votre compte professionnel PRS-ORG ?
+Etes-vous toujours là ?
+Étant donné que nous n’avons pas eu de nouvelles de votre part depuis quelque temps, je vais devoir terminer cette discussion.
+Si vous avez d'autres questions, n'hésitez pas à nous contacter via le chat, par e-mail ou à consulter notre Centre d'aide.
+Merci pour votre discussion et passez une bonne journée !
+Bonjour, je vous présente mes salutations.
+J’espère que vous êtes en bonne santé
+Tu vas bien ?
+Je comprends que vous n’avez pas accès à votre compte.
+Je ferai de mon mieux pour vous aider.
+Pourriez-vous me donner l'adresse e-mail pour laquelle vous n'avez pas accès ?
+Merci de partager l'adresse électronique.
+Après vérification, je voudrais vous informer que votre compte EMAIL est lié au compte supprimé.
+Merci de nous avoir partagé ces informations.
+Je vous suggère de contacter votre fournisseur de services e-mail une fois pour que celui-ci accorde l'accès à votre adresse e-mail.
+Je comprends que vous soyez contrarié, cependant, puisque vous n’avez pas accès à votre adresse électronique, j’apprécierais que vous preniez contact avec vos services de messagerie.
+Comme nous n’avons pas accès à modifier votre compte, il sera supprimé.
+Pour nous assurer de la connexion, est-ce que tout fonctionne ?
+Il semble que vous soyez loin de votre clavier, ce qui nous place dans une mauvaise position. Je vous demande de vous reconnecter à ce chat car il peut être bientôt déconnecté à cause de cela.
+Voici comment la fenêtre de conversation est conçue.
+Je vous demande de bien vouloir répondre dans une minute, au risque de vous voir disconnecté.
+Puisque nous ne recevons aucune réponse de votre part, cette discussion sera terminée.
+Cependant, si vous avez encore des questions, vous pouvez nous contacter et nous serons plus qu’heureux de vous aider.
+Merci d'avoir contacté l'assistance de PRS-ORG.
+Bonne journée à tous.
+Merci pour l'information.
+Je serai plus qu'heureux de vous aider.
+Veuillez patienter un moment pendant que je vérifie le compte.
+Merci pour votre patience
+Je regrette que vous rencontriez ce problème, je ferai de mon mieux pour vous aider.
+Dans ce cas, vous pouvez essayer quelques procédures pour résoudre le message d'erreur. Votre liseuse est-elle mise à jour ?
+Bien, la date et l'heure sont-elles exactes ?
+Cela peut affecter l'autorisation sur la liseuse
+D'accord, donc la première étape est d'annuler l'autorisation de l'ordinateur et de la liseuse, de supprimer le document concerné, puis d'autoriser de nouveau l'ordinateur et la liseuse, et de télécharger à nouveau le livre depuis la source d'origine
+Si vous l'avez déjà essayé, vous pouvez essayer de désinstaller PRS-ORG et de le réinstaller.
+vous pouvez aussi essayer d'utiliser les deux versions de PRS-ORG, 3.0 et 4.5.11
+si le problème persiste, vous pouvez essayer une réinitialisation des paramètres d'usine sur votre appareil, mais cela supprimera tous les livres de la liseuse.
+Nous vous suggérons de sauvegarder tous vos livres si vous souhaitez essayer la réinitialisation des paramètres d'usine.
+Malheureusement, ADE est un programme tiers et nous avons quelques informations sur la façon de résoudre certains problèmes, mais nous ne sommes pas des experts sur le produit. Nous pouvons toujours garantir le service avec les livres PRS-ORG, mais les problèmes liés aux livres fournis par d'autres serveurs que PRS-ORG peuvent parfois être difficiles à résoudre.
+Si les étapes précédentes ne fonctionnent pas, vous pouvez contacter le fournisseur du livre et demander de réinitialiser la licence de DRM du livre, ce qui devrait également résoudre le problème du message d'erreur.
+Êtes-vous toujours en ligne ?
+Je vais fermer ce chat maintenant puisque je n'ai pas reçu de réponse.
+Nous serons ravis de continuer à vous aider par e-mail. Vous pouvez également nous contacter à nouveau à un moment qui vous convient mieux.
+Merci d'avoir contacté PRS-ORG, j'ai eu le plaisir de vous aider aujourd'hui.
+J'espère que vous passez une excellente journée.
+Je vous en prie.
+D'après votre conversation précédente avec NAME-M, je peux conclure que vous rencontrez des problèmes pour recevoir vos paiements, n'est-ce pas ?
+Soyez assuré que je ferai de mon mieux pour vous aider.
+Merci pour la confirmation.
+Je regrette le problème que vous rencontrez.
+Je comprends que ce soit préoccupant.
+Néanmoins, nous vous assurons que vous recevrez les paiements des transactions acceptées hier d'ici la fin de la journée.
+N'hésitez pas à me recontacter.
+Je vous en prie.
+Ce fut un plaisir de vous aider.
+Nous apprécions vraiment votre patience et votre compréhension lors de notre conversation.
+A part cela, y a-t-il autre chose que je puisse faire pour vous aider aujourd'hui ?
+Je vous en prie.
+Ce fut un plaisir de vous aider.
+Merci d'avoir contacté PRS-ORG.
+Si vous avez d’autres questions, n’hésitez pas à nous contacter via le chat ou par e-mail ou visitez notre centre d’aide à l’adresse URL.
+Passez une très belle journée et un superbe week-end.
+Merci pour votre temps.
+Au revoir et prenez soin de vous.
+Je vous en prie.
+Ravi de vous rencontrer, j'espère que vous allez bien aujourd'hui.
+Il semble que vous rencontriez quelques problèmes avec Starwars.
+Pourriez-vous m'en dire plus ?
+Oh!
+Ça n’a pas l’air bon.
+Permettez-moi de voir comment je peux vous aider avec les problèmes sur le jeu
+Puis-je connaître l'adresse électronique associée à votre compte PRS-ORG ?
+Merci, permettez-moi un instant
+Merci, j’ai vérifié les détails avec l’équipe concernée.
+Ils ont indiqué qu'actuellement, aucun problème de ce type n'a été signalé.
+Il existe néanmoins une possibilité d'un bogue empêchant le jeu dans ce scénario.
+Nous ferons parvenir un rapport à l'équipe concernée afin que cela soit investigué. Si le problème vient du jeu, il devra être corrigé et vous devriez pouvoir jouer sans problème.
+Cependant, nous ne pourrons pas vous informer directement à ce sujet.
+Si des modifications ou des mises à jour sont apportées au jeu, vous devriez pouvoir les voir dans les notes de la version corrigée ou dans les mises à jour du jeu.
+Merci d'avoir partagé cela avec nous, nous apprécions votre amour pour le jeu.
+Si des problèmes apparaissent dans le jeu, vous devez les signaler à l'équipe en charge du jeu afin qu'elle puisse les enquêter et les résoudre.
+Nous, en tant que service client, ne pouvons pas résoudre ces problèmes ni les enquêter.
+On a donc informé la même personne que nous allions renvoyer la question pour enquête.
+Vous pouvez également signaler le problème ici - URL
+Bonjour, comment puis-je vous aider ?
+Êtes-vous toujours là ?
+Pourriez-vous nous fournir le numéro de série de votre appareil ?
+Vous pouvez le trouver à l'arrière du lecteur.
+Comment puis-je vous aider aujourd’hui ?
+Je présente mes sincères excuses pour le désagrément occasionné.
+Je vous suggère d'utiliser les autres options de paiement telles que les liens de paiement et les codes QR pour continuer les ventes jusqu'à ce que vous receviez votre nouveau terminal.
+Pour chaque transaction effectuée via des liens de paiement, nous facturons un montant forfaitaire de 2,5 %.
+Je vais envoyer la demande et l'équipe dédiée l'activera pour vous.
+L’équipe vous contactera par e-mail dès que possible.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Je vous en prie !
+De plus, une fois la discussion terminée, vous serez invité à remplir un bref sondage pour noter mon travail et ma prestation durant la discussion.
+Je serais très reconnaissant si vous preniez une minute pour remplir le sondage en choisissant un 1 pour la note la plus basse et un 5 pour la note la plus élevée.
+Si vous avez d'autres questions, n'hésitez pas à nous recontacter et à consulter notre Centre d'aide en ligne.
+Bonne journée !
+Joyeux Noël !
+Bonjour, Ravi de vous rencontrer sur le chat.
+Ne vous inquiétez pas, nous vous aiderons à associer votre PRS-ORG à votre compte PRS-ORG.
+Pourriez-vous me fournir l'adresse e-mail associée à votre compte PRS-ORG ?
+Oui.
+Merci pour le code de vérification.
+Pourquoi connectez-vous votre PRS-ORG à votre compte ?
+Pour relier à nouveau, veuillez visiter l'URL suivante.
+Lorsque vous le ferez, vous verrez apparaître un écran pour connecter votre compte Amazon.
+Est-ce que nous sommes toujours connectés ?
+Vu que je n’ai pas reçu de réponse de ta part, j’ai du mettre fin à notre chat aujourd’hui.
+Si vous avez encore besoin d’aide, contactez-nous à l’adresse URL.
+Merci d'avoir contacté l'assistance de PRS-ORG.
+Bonne chance pour l'avenir !
+Prenez soin de vous.
+Je me ferai un plaisir de vous aider.
+Je vous demande de bien vouloir vérifier votre courrier électronique, car nous vous y avons envoyé un courriel le 18 novembre 2021021 concernant le même problème.
+Les quatre derniers chiffres de votre IBAN enregistré sont 0507.
+Je vous demande de répondre à nouveau à ce courrier ou de transférer vos documents sur votre tableau de bord PRS-ORG.
+Nous aimerions vous informer que PRS-ORG a créé un compte de votre côté car vos informations bancaires n'ont pas été mises à jour.
+Si vous souhaitez modifier les informations, je vous demande d'envoyer un courriel avec votre relevé bancaire des six derniers mois.
+Et si nous étions encore connectés ?
+Vous pouvez modifier le numéro de compte et le code SWIFT.
+Cependant, vous ne pouvez pas modifier le nom de la banque.
+Oui, nous résoudrons votre problème dès que possible.
+Bonjour NAME-M
+, espérons que tout se passe bien de votre côté.
+Comment puis-je vous aider aujourd'hui ?
+Je peux comprendre ce sentiment.
+Je comprends que parfois il peut être difficile de dénicher les joueurs désirés dans les paquets.
+Je peux toutefois vous assurer que les packs sont entièrement aléatoires.
+Même chez PRS-ORG, nous ne pouvons pas prédire le contenu des paquets sans les ouvrir.
+Si vous avez dépensé de l’argent dans le jeu, sachez que le montant de l’argent dépensé sur le jeu n’a aucune incidence sur les chances d’obtenir un joueur dans un pack.
+Cela a été fait pour assurer que tout le monde a des chances égales dans le jeu.
+C'est donc totalement une question de chance, de ce que vous obtenez dans vos paquets après l'avoir ouvert.
+Nous n'avons pas de contrôle dessus pour le corriger de nouveau de notre côté.
+Cela dépend de la chance.
+elle est octroyée par le Seigneur
+au hasard et il est entièrement automatisé.
+Merci d'avoir contacté l'assistance de PRS-ORG. Pour de l'aide supplémentaire, vous pouvez contacter l'URL.
+Prenez soin de vous !
+Comment puis-je vous aider ?
+Soyez assuré que je ferai de mon mieux pour vous aider.
+Merci pour la confirmation.
+Nous sommes désolés du problème que vous rencontrez.
+Soyez assuré que je ferai de mon mieux pour vous aider.
+Pourriez-vous me fournir l'identifiant de la transaction et le montant de celle-ci à laquelle vous faites référence ?
+Merci beaucoup.
+Dans ce cas, nous transmettrons votre demande de remboursement à notre équipe compétente en priorité et elle vous contactera dès que possible.
+Soyez assuré que notre équipe se penchera sur cela et vous contactera à propos du même, à votre adresse e-mail dès que possible.
+Pourriez-vous me communiquer votre adresse email ?
+Je vous en prie.
+Je comprends totalement votre inquiétude.
+Soyez assuré que je transmettrai votre situation à notre équipe compétente avec une priorité élevée et qu'elle vous contactera dès que possible.
+Soyez assuré que notre équipe examinera cela et vous contactera à propos de la même chose à votre adresse e-mail dès que possible.
+Sinon, y a-t-il autre chose que je puisse faire pour vous aider aujourd’hui ?
+Merci pour les informations.
+Je serai plus que ravi de vous aider.
+Veuillez m'accorder un moment pour que je vérifie le compte.
+Merci pour votre patience
+Je regrette que vous rencontriez ce problème, je ferai de mon mieux pour vous aider.
+Dans ce cas, nous pourrons mettre à jour vos informations de paiement, sous réserve que toutes les informations soient correctes
+Puis-je supprimer vos informations de facturation pour vous afin que vous puissiez les mettre à jour ?
+nous venons d’apporter une mise à jour pour rendre les achats en ligne plus sûrs, ce qui pourrait avoir affecté votre compte.
+Nous vous suggérons de mettre à jour vos informations de facturation
+Si le problème persiste, vous pouvez nous contacter à nouveau
+À titre d'information, je vous transmettrai une transcription de notre conversation.
+Si vous avez d’autres questions ou préoccupations, vous pouvez toujours répondre à cet e-mail et nous serons en mesure de vous aider davantage.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Je regrette d'entendre cela.
+Veuillez me dire ce que je peux faire pour vous, NAME-M.
+Pourriez-vous m'accorder deux minutes pour vérifier les mises à jour ?
+Merci pour votre patience.
+Je vois qu'on vous a promis que votre paiement serait effectué le 23 mai 2022.
+Nous sommes désolés pour ce retard.
+Je transmettrai cette préoccupation à notre équipe, et elle se penchera sur cette question.
+Soyez assuré que votre argent vous sera versé très prochainement.
+Soyez assuré que votre argent vous sera versé sous peu*
+Êtes-vous toujours là avec nous ?
+Pourriez-vous confirmer la date où vous nous avez envoyé les informations ?
+Pourriez-vous nous confirmer la date à laquelle vous nous avez envoyé les informations ?
+Je vais certainement enquêter sur cette affaire.
+Donnez-moi deux minutes pour vérifier cela.
+Merci de votre patience.
+Je peux voir que nous avons reçu l'e-mail.
+Je dirai la même chose de l'équipe.
+Êtes-vous toujours là avec nous ?
+Ne vous inquiétez pas, je vais essayer de vous aider à vous connecter au service de liaison du compte PRS-ORG.
+Puis-je connaître l'email associé au compte PRS-ORG ?
+Bonjour, je vous souhaite une bonne journée.
+Vous souhaitez associer PRS-ORG à ce compte PRS-ORG ?
+Ou bien il s’agit du compte PRS-ORG auquel il est rattaché.
+Je vous en ai parlé plus tôt, mais vous avez répondu qu'il n'était lié à aucun.
+À quel compte PRS-ORG est-elle liée en ce moment ?
+Je sais, mais d'abord, je dois vérifier à quel compte il est lié.
+Accordez-moi un moment, s'il vous plaît.
+Restez connecté.
+J’ai envoyé un e-mail de vérification, veuillez vérifier.
+Cet e-mail a pour objet « Vérifier la propriété de votre compte PRS-ORG » et vous l’avez peut-être reçu dans votre boîte de réception ou dans votre dossier de courrier indésirable.
+Veuillez me donner le code.
+Êtes-vous toujours connecté ?
+Puisque je n'ai pas eu de réponse de votre part, je devais mettre fin à notre discussion aujourd'hui.
+Si vous avez encore besoin d'aide, n'hésitez pas à nous contacter sur notre site URL, nous serons heureux de vous aider.
+Je suis très désolé d'apprendre cela, laisse-moi voir ce que je peux faire pour toi.
+Pourriez-vous me fournir le numéro de série de votre appareil ?
+Vous pouvez le trouver à l'arrière du lecteur.
+Merci de me fournir le numéro de série.
+Pourriez-vous confirmer si le lecteur de carte a récemment subi un incident inhabituel ?
+Pourriez-vous me dire ce qui est arrivé à la liseuse de cartes ?
+Nous avons malheureusement une équipe dédiée qui gère les appels.
+Si vous souhaitez parler à quelqu'un au téléphone, veuillez nous appeler au PHONENUMBER.
+Je serai cependant ravi de vous aider dans le cadre de cette discussion.
+Êtes-vous toujours là ?
+Je vous en prie, pouvez-vous appuyer sur le bouton rouge X et me dire quel message apparaît à l'écran ?
+Êtes-vous toujours là ?
+Merci beaucoup d'avoir contacté le support Chat.
+Si vous avez d'autres questions, n'hésitez pas à nous recontacter ou à consulter notre centre d'aide en ligne.
+Je suis désolé pour le problème que vous rencontrez, je serai heureux de le régler.
+Pourriez-vous me donner le numéro de série de l'appareil ?
+Vous pouvez le trouver sur la face arrière du lecteur de carte.
+Je vous remercie.
+Pourriez-vous me dire si quelque chose de particulier lui est arrivé avant que vous remarquiez ce message ?
+Êtes-vous toujours là ?
+Etes-vous toujours là avec nous ?
+Bien, merci.
+Pourriez-vous appuyer sur X sur le lecteur de carte et confirmer le message affiché à l'écran ?
+Bien.
+Pourriez-vous confirmer si les 4 voyants situés au bas de l'appareil s'allument et entendre 4 bips courts lorsque l'appareil est allumé ?
+Etes-vous toujours là ?
+Bien sûr, vous pouvez nous contacter.
+Merci pour notre conversation, NAME-M !
+Prenez soin de vous et passez une bonne journée !
+Merci d'avoir contacté PRS-ORG.
+Si vous avez d'autres questions, n'hésitez pas à nous recontacter ou à consulter notre Centre d'aide en ligne.
+Bonjour NAME-M.
+C'est un plaisir de vous rencontrer.
+Comment puis-je vous aider ?
+Ne vous inquiétez pas, je ferai de mon mieux pour vous aider.
+Sais-tu si tu as perdu à la fin du match ?
+Subissez-vous une perte lorsque la connexion au match est interrompue ?
+Permettez-moi de vérifier les détails, nous aurons une réponse dans une minute.
+J’ai vérifié les détails et la plupart des matchs ont été terminés en raison d’une déconnexion.
+Soyez assurés que nous allons enquêter sur cette affaire et prendre les mesures appropriées contre ces joueurs.
+Je tiens à vous assurer que nous nous efforçons de fournir une meilleure expérience de jeu aux joueurs.
+J'ai vérifié de notre côté et il semble que votre problème ne soit pas connu, car nous n'avons reçu aucune demande sur les forums et le groupe de travail n'a pas signalé qu'un problème de ce type existait.
+Vu le problème que vous rencontrez, je vais certainement saisir l'opportunité de recueillir vos commentaires sur ce bug et en informer notre équipe, de sorte que s'il existe bien un problème, il sera certainement résolu.
+Sinon, y a-t-il autre chose que je puisse faire pour vous aider ?
+Vu que je n’ai pas eu de réponse de votre part, je devais mettre fin à notre conversation aujourd’hui.
+Si vous avez encore besoin d’aide, contactez-nous à l’URL suivante.
+Merci pour ces informations.
+Je serai plus qu'heureux de vous aider.
+J'examinerai votre compte, un instant s'il vous plaît.
+Merci d'avoir attendu, nous vous prions d'excuser la mise à jour.
+J’ai pu vérifier votre compte et j’ai eu la chance de voir ce livre pour vous.
+En raison des inconvénients que vous rencontrez, nous avons obtenu l’autorisation d’effectuer un remboursement pour vous.
+Ce fut un grand plaisir pour moi !
+Préféreriez-vous recevoir le remboursement sur votre carte de crédit ou sous forme d'avoir ?
+Vous pouvez utiliser le crédit immédiatement lors de votre prochain achat, il sera automatiquement utilisé lors du paiement final. Le remboursement prend de 3 à 5 jours ouvrables pour être crédité sur votre carte de crédit.
+Bien sûr.
+Votre remboursement a été traité avec succès !
+Vous devriez pouvoir retrouver le montant de 15,99 € EUR sur votre carte de crédit dans les 3-5 jours ouvrables.
+Je vous enverrai un e-mail avec les détails du remboursement au cas où vous en auriez besoin pour des raisons de référence.
+Je me ferais un plaisir de vous aider.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Je vous en prie.
+Et merci d'avoir contacté PRS-ORG, ce fut un plaisir de vous aider aujourd'hui.
+J'espère que vous passez une excellente journée !
+Merci pour l'information.
+Je serai ravi de vous aider.
+Veuillez m'accorder un moment pour vérifier le compte.
+Merci pour votre patience.
+Je passais en revue les détails de votre compte
+Ce compte a 2 fournisseurs
+PRS-ORG et PRS-ORG
+dans ce cas, vous devez utiliser le mot de passe PRS-ORG ou PRS-ORG
+si vous devez réinitialiser le mot de passe, veuillez le réinitialiser directement depuis PRS-ORG ou PRS-ORG
+dans ce cas vous devez réinitialiser le mot de passe directement à partir de l'URL, ce n'est pas possible à partir de la liseuse
+Pourriez-vous essayer de réinitialiser simplement votre liseuse ?
+il suffit de l’éteindre puis de rallumer
+on peut essayer une mise à jour via ordinateur
+Pouvez-vous y accéder maintenant ?
+Je vous enverrai une transcription de notre conversation à titre d'information.
+Si vous avez d’autres questions ou préoccupations, vous pouvez toujours répondre à cet e-mail et nous serons en mesure de vous aider davantage.
+Profitez de vos livres.
+Merci d'avoir contacté PRS-ORG, ce fut un plaisir de vous aider aujourd'hui.
+J'espère que vous passez une excellente journée !
+Je suis désolé d'entendre ça, laisse-moi voir ce que je peux faire pour toi.
+Puis-je savoir si vous avez commandé l'appareil sur notre site Web ?
+Je suis désolé, car je ne peux voir la commande dans le profil.
+Avez-vous un autre profil ?
+Merci pour la confirmation.
+Je vous demanderai de nous contacter depuis le profil sur lequel vous avez reçu l’e-mail de confirmation.
+J'ai vérifié et je ne vois aucune commande depuis ce profil.
+Dans ce cas, veuillez nous envoyer une preuve de paiement de l'appareil et le numéro de commande par e-mail à EMAIL et notre équipe concernée vous contactera dès que possible par e-mail.
+Nous sommes désolés, nous avons une équipe dédiée qui traite les appels.
+Si vous souhaitez parler à quelqu'un au téléphone, veuillez nous appeler au numéro PHONENUMBER.
+Je serai toutefois ravi de vous aider pendant cette discussion.
+Pourriez-vous m'accorder deux minutes pour vérifier les détails ?
+Merci pour votre patience.
+J’ai vérifié les détails et j’en suis très désolé.
+Cependant, je ne peux pas voir les détails sur le profil.
+Je regrette sincèrement tout inconvénient que cela pourrait causer.
+Ne vous inquiétez pas, envoyez-nous un courriel via votre adresse électronique enregistrée et notre équipe vous contactera dans les meilleurs délais par courriel pour résoudre le problème.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+Heureux de vous rencontrer NAME-M, j'espère que vous allez bien.
+Comment puis-je vous aider aujourd'hui ?
+Veuillez ne pas vous inquiéter, Monsieur NAME.
+Je vais sûrement vérifier de mon côté et faire de mon mieux pour vous aider à accéder au marché des transferts.
+L'adresse e-mail enregistrée à votre compte PRS-ORG est EMAIL. Est-ce exact ?
+Merci pour la confirmation.
+Comme je ne vois pas d'erreur de notre côté, puis-je vous demander depuis quand vous rencontrez cette erreur ?
+Puis-je demander quel est exactement l'erreur que vous rencontrez ?
+Veuillez m'accorder un moment pour vérifier.
+Merci beaucoup pour votre patience.
+Veuillez cliquer sur le lien pour résoudre le problème de connexion URL
+Merci beaucoup d'être si compréhensif et d'être un exemple de joueur mature.
+Je respecte vraiment ça.
+Y a-t-il autre chose que je puisse faire pour vous aider ?
+EST-CE QUE NOUS SOMMES CONNUS ?
+Il semble que vous soyez éloigné de votre clavier.
+Veuillez me répondre si nous sommes toujours connectés, faute de quoi je devrai mettre fin à cette session de mon côté.
+Vu que je n'ai pas eu de réponse de ta part, je devais mettre fin à notre conversation aujourd'hui.
+Si vous avez encore besoin d’aide, contactez-nous sur le lien suivant.
+Comment puis-je vous aider aujourd'hui ?
+Je suis désolé d'apprendre cela, laisse-moi voir ce que je peux faire pour toi.
+Nous allons essayer de réinitialiser la fonction PRS-ORG (Authentification forte du client) et de recommencer.
+PRS-ORG est une mesure de sécurité de paiement en ligne.
+Veuillez suivre ces étapes à partir de votre application PRS-ORG :
+Connectez-vous à l’application sur le téléphone que vous utiliserez pour valider vos paiements en ligne.
+Dans le coin supérieur droit, choisissez « Profil ».
+Sélectionnez « Sécurité du compte » et activez « Authentification forte des clients en appuyant sur le commutateur.
+Vous recevrez un SMS avec un code de validation unique. Veuillez entrer ce code dans la section « Vérification par téléphone » de l’application et appuyez sur Confirmer.
+Veuillez me le confirmer dès que vous aurez terminé les étapes ci-dessus.
+Pourriez-vous confirmer, si vous l’avez vérifié à partir de votre profil ?
+Dans ce cas, vous devez d'abord modifier le numéro de téléphone de votre profil.
+Veuillez nous envoyer un e-mail à partir de votre adresse e-mail enregistrée demandant de changer votre numéro de téléphone.
+Dans l'e-mail, veuillez indiquer à la fois l'ancien et le nouveau numéros de téléphone.
+Veuillez également confirmer quel numéro de téléphone vous souhaitez modifier : le numéro personnel, le numéro professionnel ou les deux.
+Une fois l’e-mail envoyé, veuillez nous appeler au NOM DU NUMÉRO DE TÉLÉPHONE pour vérifier que la modification a bien été demandée par vous.
+Dans ce cas, veuillez suivre le même processus et notre équipe vous aidera davantage.
+Veuillez envoyer l'email à EMAIL.
+Bonjour NAME-M,
+C'est un plaisir de vous rencontrer.
+Je souhaite que vous allez bien.
+Pourriez-vous me dire dans quoi vous êtes intéressé afin que je puisse vous aider ?
+Si je vous comprends bien, votre jeu ne démarre pas sur votre iPad
+est-ce exact ?
+Si je vous comprends bien, vous rencontrez un problème
+Je lance le jeu, est-ce exact ?
+Bonjour NAME-M - NAME-M
+, j'espère que vous allez bien !
+Veuillez nous expliquer votre problème, nous serons heureux de vous aider.
+Êtes-vous toujours connectés ?
+Puisque nous n'avons pas eu de nouvelles de votre part, la session de discussion prend automatiquement fin.
+N’hésitez pas à co
+nTactez-nous à nouveau.
+Nous nous ferons un plaisir de vous aider.
+Merci d'avoir contacté l'Assistance de PRS-ORG.
+Pour plus d’informations ou articles de conseils, vous pouvez toujours consulter notre base de connaissances URL.
+Nous vous prions de bien vouloir développer votre problème afin que nous puissions vous aider de la meilleure façon possible.
+Bonjour, êtes-vous là ?
+Je regrette d'apprendre ce problème.
+Je me ferai tout de même un plaisir de vous aider de la meilleure des façons.
+Je peux voir que votre compte est déjà actif.
+Je voudrais vous informer que notre limite de pré-validation est de 5000euros.
+Lorsque votre compte atteindra 5 000 euros de transactions
+notre équipe concernée vous contactera pour la vérification.
+Lorsque le solde de votre compte atteindra 5000 euros de transactions, notre équipe compétente vous recontactera pour la vérification.
+Si vous ne pouvez pas lire mes messages, veuillez vous reconnecter.
+Je suis désolé si vous n’arrivez pas à lire le message.
+Bonjour, êtes-vous là ?
+Bonjour, êtes-vous là ?
+Comme je n'ai pas de nouvelles de votre part depuis un moment, je vais devoir terminer ce chat.
+Si vous avez d'autres questions, n'hésitez pas à consulter notre centre d'aide (URL) ou à nous contacter via le chat, l'e-mail ou le téléphone.
+Merci de nous avoir accordé votre temps et passez une bonne journée !

@@ -1,0 +1,216 @@
+{
+    "output_dir": "/mnt/data/jpombal/wmt24-chat-translation/evaluations/no_context",
+    "data_dir": "/mnt/data/jpombal/wmt24-chat-translation/raw_data",
+    "tasks": [
+        {
+            "name": "mt",
+            "subtasks": {
+                "wmt24_chat_train.en-pt-br": {},
+                "wmt24_chat_train.pt-br-en": {},
+                "wmt24_chat_train.en-de": {},
+                "wmt24_chat_train.de-en": {},
+                "wmt24_chat_train.en-fr": {},
+                "wmt24_chat_train.fr-en": {},
+                "wmt24_chat_train.en-nl": {},
+                "wmt24_chat_train.nl-en": {},
+                "wmt24_chat_train.en-ko": {
+                    "metrics": {
+                        "chrf": null,
+                        "bleu": {
+                            "tokenizer": "ko-mecab"
+                        },
+                        "comet": {
+                            "batch_size": 16
+                        },
+                        "comet_kiwi": {
+                            "batch_size": 16
+                        }
+                    }
+                },
+                "wmt24_chat_train.ko-en": {}
+            },
+            "metrics": {
+                "chrf": null,
+                "bleu": null,
+                "comet": {
+                    "batch_size": 16
+                },
+                "comet_kiwi": {
+                    "batch_size": 16
+                }
+            }
+        }
+    ],
+    "models": [
+        {
+            "name": "TowerInstruct-13B-v0.2_temperature_0.6_top_p_0.9",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "Unbabel/TowerInstruct-13B-v0.2",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 0.6,
+                "vllm_sampling_params": {
+                    "top_p": 0.9
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/no_context"
+        },
+        {
+            "name": "TowerInstruct-13B-v0.2_temperature_0.6_top_p_0.95",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "Unbabel/TowerInstruct-13B-v0.2",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 0.6,
+                "vllm_sampling_params": {
+                    "top_p": 0.95
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/no_context"
+        },
+        {
+            "name": "TowerInstruct-13B-v0.2_temperature_0.7_top_p_0.9",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "Unbabel/TowerInstruct-13B-v0.2",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 0.7,
+                "vllm_sampling_params": {
+                    "top_p": 0.9
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/no_context"
+        },
+        {
+            "name": "TowerInstruct-13B-v0.2_temperature_0.7_top_p_0.95",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "Unbabel/TowerInstruct-13B-v0.2",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 0.7,
+                "vllm_sampling_params": {
+                    "top_p": 0.95
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/no_context"
+        },
+        {
+            "name": "TowerInstruct-13B-v0.2_temperature_0.8_top_p_0.9",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "Unbabel/TowerInstruct-13B-v0.2",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 0.8,
+                "vllm_sampling_params": {
+                    "top_p": 0.9
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/no_context"
+        },
+        {
+            "name": "TowerInstruct-13B-v0.2_temperature_0.8_top_p_0.95",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "Unbabel/TowerInstruct-13B-v0.2",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 0.8,
+                "vllm_sampling_params": {
+                    "top_p": 0.95
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/no_context"
+        },
+        {
+            "name": "TowerInstruct-13B-v0.2_temperature_0.9_top_p_0.9",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "Unbabel/TowerInstruct-13B-v0.2",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 0.9,
+                "vllm_sampling_params": {
+                    "top_p": 0.9
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/no_context"
+        },
+        {
+            "name": "TowerInstruct-13B-v0.2_temperature_0.9_top_p_0.95",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "Unbabel/TowerInstruct-13B-v0.2",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 0.9,
+                "vllm_sampling_params": {
+                    "top_p": 0.95
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/no_context"
+        },
+        {
+            "name": "TowerInstruct-13B-v0.2_temperature_1.0_top_p_0.9",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "Unbabel/TowerInstruct-13B-v0.2",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 1.0,
+                "vllm_sampling_params": {
+                    "top_p": 0.9
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/no_context"
+        },
+        {
+            "name": "TowerInstruct-13B-v0.2_temperature_1.0_top_p_0.95",
+            "type": "vllm",
+            "arguments": {
+                "model_dir": "Unbabel/TowerInstruct-13B-v0.2",
+                "n_gpus": 1,
+                "max_tokens": 1024,
+                "run_async": true,
+                "batch_size": -1,
+                "strip": false,
+                "temperature": 1.0,
+                "vllm_sampling_params": {
+                    "top_p": 0.95
+                }
+            },
+            "hypothesis_dir": "/mnt/data/jpombal/wmt24-chat-translation/generations/no_context"
+        }
+    ]
+}

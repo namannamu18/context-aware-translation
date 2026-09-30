@@ -80,6 +80,7 @@ def main():
     p.add_argument("--subtasks", nargs="+", default=None)
     p.add_argument("--model_type", default=None)
     p.add_argument("--model_name", default=None)
+    p.add_argument("--eval_output_root", default=None, help="Write evaluations under <this>/<condition> instead of the config's eval_output_dir")
     args = p.parse_args()
 
     ensure_vllm_importable()
@@ -89,6 +90,8 @@ def main():
     if args.root_dir:
         for k in ["gen_data_dir", "eval_data_dir", "gen_output_dir", "eval_output_dir"]:
             cfg[k] = str(Path(args.root_dir) / cfg[k])
+    if args.eval_output_root:
+        cfg["eval_output_dir"] = str(Path(args.eval_output_root) / Path(cfg["eval_output_dir"]).name)
     for task in cfg["tasks"]:
         if args.subtasks:
             task["subtasks"] = {k: v for k, v in task["subtasks"].items() if k in args.subtasks}

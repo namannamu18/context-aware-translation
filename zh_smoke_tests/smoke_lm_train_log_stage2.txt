@@ -1,0 +1,7 @@
+step 50 loss 4.667 (1.1 min)
+step 500 loss 4.700 (11.5 min)
+step 1000 loss 3.895 (18.8 min)
+step 1500 loss 2.930 (26.2 min)
+step 2000 loss 2.364 (33.4 min)
+step 2100 loss 2.275 (34.9 min)
+saved smoke_models/tiny-chatml-lm

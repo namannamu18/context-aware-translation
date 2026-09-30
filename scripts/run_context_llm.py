@@ -7,7 +7,7 @@ from collections import defaultdict
 
 import pandas as pd
 import tqdm
-from llm_fewshot_examples import TEMPLATE_GEMBA_CONTEXT_MQM_1shot
+from llm_fewshot_examples import TEMPLATE_GEMBA_CONTEXT_MQM_1shot, few_shots_context
 from openai import OpenAI
 
 lang_dict = {
@@ -17,6 +17,7 @@ lang_dict = {
     "fr": "French",
     "nl": "Dutch",
     "ko": "Korean",
+    "zh": "Chinese",
 }
 
 
@@ -43,7 +44,7 @@ def get_bilingual_context(df, doc_id, seg_id, k):
     return ("\n").join(context_text)
 
 
-def get_response(client, prompt):
+def get_response(client, prompt, model="gpt-4"):
     parameters = {
         "temperature": 0,
         "max_tokens": 100,
@@ -52,7 +53,7 @@ def get_response(client, prompt):
         "frequency_penalty": 0,
         "presence_penalty": 0,
         "stop": None,
-        "model": "gpt-4",
+        "model": model,
         "messages": prompt,
     }
     response = client.chat.completions.create(**parameters)
@@ -201,27 +202,40 @@ def get_args():
     parser.add_argument(
         "--fixed_ende_examples", action="store_true", help="Use fixed en-de examples"
     )
+    # Free / open-weight judges: any OpenAI-compatible server, e.g.
+    #   vllm serve Qwen/Qwen2.5-72B-Instruct --port 8000
+    #   python run_context_llm.py --base_url http://localhost:8000/v1 --judge_model Qwen/Qwen2.5-72B-Instruct ...
+    parser.add_argument("--base_url", type=str, default=None, help="OpenAI-compatible endpoint (default: OpenAI API)")
+    parser.add_argument("--judge_model", type=str, default="gpt-4", help="Model name sent to the API")
+    parser.add_argument("--data_dir", type=str, default="../tacl_review")
+    parser.add_argument("--max_workers", type=int, default=16)
     args = parser.parse_args()
     return args
 
 
 def main(args):
-    credentials = {
-        "deployments": {args.model_name: args.model_name},
-        "api_key": os.environ["OPENAI_API_KEY"],  # add api-key
-        "requests_per_second_limit": 1,
-        "organization": os.environ["OPENAI_API_ORG"],  # add org-key
-    }
+    if args.base_url is None:
+        credentials = {
+            "deployments": {args.model_name: args.model_name},
+            "api_key": os.environ["OPENAI_API_KEY"],  # add api-key
+            "requests_per_second_limit": 1,
+            "organization": os.environ["OPENAI_API_ORG"],  # add org-key
+        }
+        client = OpenAI(
+            api_key=credentials["api_key"],
+            organization=credentials["organization"],
+        )
+    else:
+        client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY", "EMPTY"), base_url=args.base_url)
+    if not args.fixed_ende_examples and f"en{args.lp}_conversation" not in few_shots_context:
+        # no 1-shot conversation example exists for this language pair (e.g. en-zh)
+        print(f"### No en{args.lp} few-shot example; falling back to the fixed en-de example ###")
+        args.fixed_ende_examples = True
     if args.fixed_ende_examples:
         print("### USING FIXED EN-DE FEWSHOT EXAMPLES ###")
 
-    client = OpenAI(
-        api_key=credentials["api_key"],
-        organization=credentials["organization"],
-    )
-
     dfs_all = pd.read_csv(
-        f"../tacl_review/{args.dataset}/{args.split}.en-{args.lp}.csv", index_col=None
+        f"{args.data_dir}/{args.dataset}/{args.split}.en-{args.lp}.csv", index_col=None
     )
     dfs_all["src_len"] = dfs_all["source"].apply(lambda x: len(x.split(" ")))
 
@@ -296,13 +310,13 @@ def main(args):
 
     prompts = dfs_all["context_prompt"].tolist()
     results = [None] * len(prompts)  # Pre-allocate the results list
-    with concurrent.futures.ThreadPoolExecutor(max_workers=16) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=args.max_workers) as executor:
         # Create a dictionary to map futures to their indices
         future_to_index = {}
 
         # Submit all tasks and store their futures with indices
         for idx, p in enumerate(prompts):
-            future = executor.submit(get_response, client, p)
+            future = executor.submit(get_response, client, p, args.judge_model)
             future_to_index[future] = idx
 
         # Process completed futures
@@ -323,7 +337,7 @@ def main(args):
     ] = dfs_all[f"{args.model_name}-result"].apply(parse_mqm_answer)
 
     dfs_all.to_csv(
-        f"../tacl_review/{args.dataset}/{args.split}.en-{args.lp}-{args.tgt_col}.gemba-{args.model_name}{path_str}.csv",
+        f"{args.data_dir}/{args.dataset}/{args.split}.en-{args.lp}-{args.tgt_col}.gemba-{args.model_name}{path_str}.csv",
         index=None,
     )
 

@@ -1,0 +1,59 @@
+PASS  en-zh: raw data non-empty and directions correct  [n=34]
+PASS  en-zh: no_context instructions aligned with sources  [34 prompts]
+PASS  en-zh: full_context instructions aligned with sources  [34 prompts]
+PASS  en-zh: full_context prompts contain the conversation history (both speakers)
+PASS  en-zh: no_context greedy generations  [34 lines]
+PASS  en-zh: no_context evaluation.json  [chrf=4.2877, bleu=2.2455, comet=0.0842]
+PASS  en-zh: no_context candidates  [136 = 34 x 4]
+PASS  en-zh: full_context greedy generations  [34 lines]
+PASS  en-zh: full_context evaluation.json  [chrf=3.5908, bleu=1.3374, comet=0.0785]
+PASS  en-zh: full_context candidates  [136 = 34 x 4]
+PASS  en-zh: P-CXMI ref gating (no_context)  [34/34 segments match]
+PASS  en-zh: P-CXMI src gating (no_context)  [34/34]
+PASS  en-zh: P-CXMI hyp log-probs (no_context)
+PASS  en-zh: P-CXMI ref gating (full_context)  [34/34 segments match]
+PASS  en-zh: P-CXMI src gating (full_context)  [34/34]
+PASS  en-zh: P-CXMI hyp log-probs (full_context)
+PASS  en-zh: pcxmi_hyps full_context_input_on_full_context_output
+PASS  en-zh: pcxmi_hyps full_context_input_on_no_context_output
+PASS  en-zh: pcxmi_hyps no_context_input_on_full_context_output
+PASS  en-zh: pcxmi_hyps no_context_input_on_no_context_output
+PASS  zh-en: raw data non-empty and directions correct  [n=25]
+PASS  zh-en: no_context instructions aligned with sources  [25 prompts]
+PASS  zh-en: full_context instructions aligned with sources  [25 prompts]
+PASS  zh-en: full_context prompts contain the conversation history (both speakers)
+PASS  zh-en: no_context greedy generations  [25 lines]
+PASS  zh-en: no_context evaluation.json  [chrf=11.7433, bleu=1.2137, comet=0.0739]
+PASS  zh-en: no_context candidates  [100 = 25 x 4]
+PASS  zh-en: full_context greedy generations  [25 lines]
+PASS  zh-en: full_context evaluation.json  [chrf=12.2575, bleu=1.098, comet=0.085]
+PASS  zh-en: full_context candidates  [100 = 25 x 4]
+PASS  zh-en: P-CXMI ref gating (no_context)  [25/25 segments match]
+PASS  zh-en: P-CXMI src gating (no_context)  [25/25]
+PASS  zh-en: P-CXMI hyp log-probs (no_context)
+PASS  zh-en: P-CXMI ref gating (full_context)  [25/25 segments match]
+PASS  zh-en: P-CXMI src gating (full_context)  [25/25]
+PASS  zh-en: P-CXMI hyp log-probs (full_context)
+PASS  zh-en: pcxmi_hyps full_context_input_on_full_context_output
+PASS  zh-en: pcxmi_hyps full_context_input_on_no_context_output
+PASS  zh-en: pcxmi_hyps no_context_input_on_full_context_output
+PASS  zh-en: pcxmi_hyps no_context_input_on_no_context_output
+PASS  MBR mbr_outputs_test/full_context/tiny-chatml-lm/synthetic_chat_test.en-zh/comet_eps.csv: selections are candidates of the right segment
+PASS  MBR mbr_outputs_test/full_context/tiny-chatml-lm/synthetic_chat_test.en-zh/comet_eps_context_comet-best_w0.csv: selections are candidates of the right segment
+PASS  MBR mbr_outputs_test/full_context/tiny-chatml-lm/synthetic_chat_test.en-zh/comet_eps_context_comet-best_w2.csv: selections are candidates of the right segment
+PASS  MBR mbr_outputs_test/full_context/tiny-chatml-lm/synthetic_chat_test.en-zh/comet_eps_context_source_w0.csv: selections are candidates of the right segment
+PASS  MBR mbr_outputs_test/full_context/tiny-chatml-lm/synthetic_chat_test.en-zh/comet_eps_context_source_w2.csv: selections are candidates of the right segment
+PASS  MBR mbr_outputs_test/no_context/tiny-chatml-lm/synthetic_chat_test.en-zh/comet_eps.csv: selections are candidates of the right segment
+PASS  MBR mbr_outputs_test/no_context/tiny-chatml-lm/synthetic_chat_test.en-zh/comet_eps_context_comet-best_w0.csv: selections are candidates of the right segment
+PASS  MBR mbr_outputs_test/no_context/tiny-chatml-lm/synthetic_chat_test.en-zh/comet_eps_context_comet-best_w2.csv: selections are candidates of the right segment
+PASS  MBR mbr_outputs_test/no_context/tiny-chatml-lm/synthetic_chat_test.en-zh/comet_eps_context_source_w0.csv: selections are candidates of the right segment
+PASS  MBR mbr_outputs_test/no_context/tiny-chatml-lm/synthetic_chat_test.en-zh/comet_eps_context_source_w2.csv: selections are candidates of the right segment
+PASS  contrastive c0_nc1.out.txt  [59 lines]
+PASS  contrastive c1_nc0.out.txt  [59 lines]
+PASS  contrastive c1_nc1.out.txt  [59 lines]
+PASS  contrastive c1_nc1_t0.7_minp0.02_n4.out.txt  [236 lines]
+PASS  contrastive c5_nc1.out.txt  [59 lines]
+
+language sanity (informative): {"no_context en-zh hyps CJK share": 0.855, "full_context en-zh hyps CJK share": 0.827, "en-zh refs CJK share": 0.862, "no_context zh-en hyps CJK share": 0.0, "full_context zh-en hyps CJK share": 0.0, "zh-en refs CJK share": 0.0}
+
+55/55 checks passed

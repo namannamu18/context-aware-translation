@@ -1,0 +1,60 @@
+source_language,target_language,source,reference,doc_id,client_id,sender,tags,lp
+zh,en,你好，我昨天买的耳机到现在还没发货。,"Hello, the headphones I bought yesterday still haven't been shipped.",SYNTHETIC-enzh-0000,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,"Hello NAME-M, thank you for contacting us.",您好，NAME-M，感谢您联系我们。,SYNTHETIC-enzh-0000,SYNTHETIC,agent,['synthetic'],en-zh
+en,zh,I'm sorry to hear about the delay with your order.,很抱歉听到您的订单延迟了。,SYNTHETIC-enzh-0000,SYNTHETIC,agent,['synthetic'],en-zh
+en,zh,Could you please provide me with your order number?,能请您提供一下订单号吗？,SYNTHETIC-enzh-0000,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,订单号是 NUMBER。,The order number is NUMBER.,SYNTHETIC-enzh-0000,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,Thank you. Please allow me a moment to check it.,谢谢。请稍等，我查一下。,SYNTHETIC-enzh-0000,SYNTHETIC,agent,['synthetic'],en-zh
+en,zh,I can see that it is still being processed in our warehouse.,我看到它仍在我们的仓库中处理。,SYNTHETIC-enzh-0000,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,那它什么时候能发出？,So when will it be shipped?,SYNTHETIC-enzh-0000,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,It should be shipped within 24 hours.,它应该会在24小时内发货。,SYNTHETIC-enzh-0000,SYNTHETIC,agent,['synthetic'],en-zh
+en,zh,You will receive a tracking number by email once it leaves the warehouse.,它一离开仓库，您就会通过电子邮件收到快递单号。,SYNTHETIC-enzh-0000,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,好的，如果明天还没发货怎么办？,"Okay, what if it still hasn't shipped by tomorrow?",SYNTHETIC-enzh-0000,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,"In that case, please contact us again and we will escalate it.",如果是那样，请再次联系我们，我们会升级处理。,SYNTHETIC-enzh-0000,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,明白了，谢谢。,"Understood, thank you.",SYNTHETIC-enzh-0000,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,You're welcome! Is there anything else I can help you with?,不客气！还有什么我可以帮您的吗？,SYNTHETIC-enzh-0000,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,没有了。,"No, that's all.",SYNTHETIC-enzh-0000,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,Have a nice day!,祝您有美好的一天！,SYNTHETIC-enzh-0000,SYNTHETIC,agent,['synthetic'],en-zh
+en,zh,"Hi, my name is NAME-F. How can I help you today?",您好，我是NAME-F。今天有什么可以帮您的？,SYNTHETIC-enzh-0001,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,我的账户被锁了，登录不了。,My account has been locked and I can't log in.,SYNTHETIC-enzh-0001,SYNTHETIC,customer,['synthetic'],zh-en
+zh,en,我已经试了好几次重置密码。,I have already tried resetting my password several times.,SYNTHETIC-enzh-0001,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,I understand how frustrating that must be.,我理解这一定让您很困扰。,SYNTHETIC-enzh-0001,SYNTHETIC,agent,['synthetic'],en-zh
+en,zh,Did you receive the password reset email?,您收到重置密码的邮件了吗？,SYNTHETIC-enzh-0001,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,收到了，但是链接打不开。,"Yes, I received it, but the link doesn't open.",SYNTHETIC-enzh-0001,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,"The link expires after 30 minutes, so it may no longer be valid.",该链接在30分钟后失效，所以它可能已经无效了。,SYNTHETIC-enzh-0001,SYNTHETIC,agent,['synthetic'],en-zh
+en,zh,I have just sent you a new one.,我刚刚给您发了一个新的。,SYNTHETIC-enzh-0001,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,新的也不行。,The new one doesn't work either.,SYNTHETIC-enzh-0001,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,Could you tell me which browser you are using?,您能告诉我您使用的是哪种浏览器吗？,SYNTHETIC-enzh-0001,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,手机上的浏览器。,The browser on my phone.,SYNTHETIC-enzh-0001,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,Please try opening it on a computer instead.,请改用电脑打开它试试。,SYNTHETIC-enzh-0001,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,用电脑可以了！密码已经改好了。,It works on the computer! The password has been changed.,SYNTHETIC-enzh-0001,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,Great! Your account is now unlocked.,太好了！您的账户现在已经解锁了。,SYNTHETIC-enzh-0001,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,太感谢你了。,Thank you so much.,SYNTHETIC-enzh-0001,SYNTHETIC,customer,['synthetic'],zh-en
+zh,en,我想退掉上周买的那件外套。,I would like to return the coat I bought last week.,SYNTHETIC-enzh-0002,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,"Sure, I can help you with the return.",好的，我可以帮您办理退货。,SYNTHETIC-enzh-0002,SYNTHETIC,agent,['synthetic'],en-zh
+en,zh,May I know the reason for returning it?,请问退货的原因是什么？,SYNTHETIC-enzh-0002,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,尺码太小了，穿不上。,"The size is too small, I can't wear it.",SYNTHETIC-enzh-0002,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,Would you like to exchange it for a larger size instead?,您想换一个大一点的尺码吗？,SYNTHETIC-enzh-0002,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,不用了，直接退款吧。,"No need, just refund it.",SYNTHETIC-enzh-0002,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,No problem. The refund will go back to your original payment method.,没问题。退款将退回到您原来的支付方式。,SYNTHETIC-enzh-0002,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,大概要多久？,How long will it take roughly?,SYNTHETIC-enzh-0002,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,It usually takes 5 to 7 business days after we receive the item.,我们收到商品后，通常需要5到7个工作日。,SYNTHETIC-enzh-0002,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,运费谁出？,Who pays for the shipping?,SYNTHETIC-enzh-0002,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,Return shipping is free for this item.,这件商品的退货运费是免费的。,SYNTHETIC-enzh-0002,SYNTHETIC,agent,['synthetic'],en-zh
+en,zh,I will send you a prepaid return label by email.,我会通过电子邮件给您发送一张预付退货标签。,SYNTHETIC-enzh-0002,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,好的，收到了。,"Okay, I got it.",SYNTHETIC-enzh-0002,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,Please print it and attach it to the package.,请把它打印出来贴在包裹上。,SYNTHETIC-enzh-0002,SYNTHETIC,agent,['synthetic'],en-zh
+en,zh,Thank you for waiting. I have checked your subscription.,感谢您的耐心等待。我已经查看了您的订阅。,SYNTHETIC-enzh-0003,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,为什么这个月扣了两次钱？,Why was I charged twice this month?,SYNTHETIC-enzh-0003,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,It looks like the payment was processed twice by mistake.,看起来这笔付款被错误地处理了两次。,SYNTHETIC-enzh-0003,SYNTHETIC,agent,['synthetic'],en-zh
+en,zh,I apologize for the inconvenience.,给您带来不便，我深表歉意。,SYNTHETIC-enzh-0003,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,那多扣的钱能退吗？,Can the extra charge be refunded then?,SYNTHETIC-enzh-0003,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,"Yes, I have already requested a refund for the duplicate charge.",可以，我已经为重复扣款申请了退款。,SYNTHETIC-enzh-0003,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,退到哪里？,Where will it be refunded to?,SYNTHETIC-enzh-0003,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,It will be returned to the same credit card.,它会退回到同一张信用卡上。,SYNTHETIC-enzh-0003,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,那张卡我已经注销了。,I have already cancelled that card.,SYNTHETIC-enzh-0003,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,"In that case, the bank will usually transfer it to your new card or account.",如果是那样，银行通常会把它转到您的新卡或账户上。,SYNTHETIC-enzh-0003,SYNTHETIC,agent,['synthetic'],en-zh
+en,zh,"If it doesn't arrive within 10 days, please let us know.",如果10天内没有到账，请告诉我们。,SYNTHETIC-enzh-0003,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,好，我会留意的。,"Okay, I'll keep an eye on it.",SYNTHETIC-enzh-0003,SYNTHETIC,customer,['synthetic'],zh-en
+en,zh,Is there anything else I can do for you?,还有什么我可以为您做的吗？,SYNTHETIC-enzh-0003,SYNTHETIC,agent,['synthetic'],en-zh
+zh,en,暂时没有了，谢谢。,"Not for now, thanks.",SYNTHETIC-enzh-0003,SYNTHETIC,customer,['synthetic'],zh-en

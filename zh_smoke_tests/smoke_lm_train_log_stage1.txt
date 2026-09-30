@@ -1,0 +1,10 @@
+params: 5.5M, examples: 39948
+step 50 loss 7.302 (1.0 min)
+step 100 loss 6.535 (1.9 min)
+step 150 loss 5.558 (2.7 min)
+step 200 loss 5.311 (3.5 min)
+step 250 loss 4.476 (4.4 min)
+step 300 loss 4.986 (5.2 min)
+step 350 loss 4.975 (10.3 min)
+step 400 loss 4.669 (15.6 min)
+step 450 loss 4.773 (19.4 min)

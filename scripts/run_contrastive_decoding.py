@@ -9,8 +9,9 @@ import sacrebleu
 from comet import download_model, load_from_checkpoint
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline, LogitsProcessorList, LogitsProcessor
 
-checkpoint_path = download_model("Unbabel/wmt22-comet-da")
-comet_metric = load_from_checkpoint(checkpoint_path)
+# COMET is only needed with --eval; it is loaded lazily in main() (--comet_model).
+comet_metric = None
+DEVICE = torch.cuda.current_device() if torch.cuda.is_available() else "cpu"
 
 class LLaMaTranslationModel():
     def __init__(self, model_name_or_path: str, padding: str = "before_system_prompt",):
@@ -18,9 +19,9 @@ class LLaMaTranslationModel():
         self.model = AutoModelForCausalLM.from_pretrained(model_name_or_path, 
                                                         #   attn_implementation="flash_attention_2",
                                                           torch_dtype=torch.bfloat16)
-        self.model.to(torch.cuda.current_device())
+        self.model.to(DEVICE)
         self.tokenizer = AutoTokenizer.from_pretrained(model_name_or_path)
-        self.pipeline = pipeline('text-generation', model=self.model, tokenizer=self.tokenizer, device=torch.cuda.current_device(), return_full_text=False)
+        self.pipeline = pipeline('text-generation', model=self.model, tokenizer=self.tokenizer, device=DEVICE, return_full_text=False)
         assert padding in ["before_system_prompt", "after_system_prompt"]
         self.padding = padding
 
@@ -113,7 +114,8 @@ def translate_multi_source(model, prompts: List[str],
     input_ids = [x[:max_prompt_length] for x in input_ids]
     attention_mask = [x[:max_prompt_length] for x in attention_mask]
 
-    pad_token_id = model.tokenizer.get_vocab()["▁"]
+    # Llama/Tower sentencepiece tokenizers: pad with "▁" (original behaviour); other tokenizers: pad token
+    pad_token_id = model.tokenizer.get_vocab().get("▁", model.tokenizer.pad_token_id if model.tokenizer.pad_token_id is not None else model.tokenizer.eos_token_id)
     max_len = max(len(x) for x in input_ids)
     if model.padding == "before_system_prompt":
         input_ids = [[pad_token_id] * (max_len - len(x)) + x for x in input_ids]
@@ -170,12 +172,12 @@ def read_file(fname, unescape_newline=True):
       output = [l.replace("\\n", "\n") for l in output]
     return output
 
-def get_instructions(inst_dir, df, lp, context_type, split="dev"):
+def get_instructions(inst_dir, df, lp, context_type, split="dev", data_name="wmt24_chat"):
   source_lang = lp.split("-")[0]
   target_lang = lp.split("-")[1].replace('pt','pt-br')
 
-  xx_yy_insts = read_file(f"{inst_dir}/{context_type}/mt/wmt24_chat_{split}.{source_lang}-{target_lang}/instructions.txt")
-  yy_xx_insts = read_file(f"{inst_dir}/{context_type}/mt/wmt24_chat_{split}.{target_lang}-{source_lang}/instructions.txt")
+  xx_yy_insts = read_file(f"{inst_dir}/{context_type}/mt/{data_name}_{split}.{source_lang}-{target_lang}/instructions.txt")
+  yy_xx_insts = read_file(f"{inst_dir}/{context_type}/mt/{data_name}_{split}.{target_lang}-{source_lang}/instructions.txt")
 
   assert len(xx_yy_insts) + len(yy_xx_insts) == len(df)
   instructions = []
@@ -212,6 +214,11 @@ def get_args():
     parser.add_argument("--use_logits", action='store_true')
     parser.add_argument("--entropy_top_k", type=int, default=None)
     parser.add_argument("--num_return_sequences", type=int, default=1)
+    parser.add_argument("--data_name", type=str, default="wmt24_chat", help="Instructions are read from <instructions_dir>/<prompt>/mt/<data_name>_<split>.<lp>")
+    parser.add_argument("--context_prompt", type=str, default="full_context_empty_sys")
+    parser.add_argument("--no_context_prompt", type=str, default="no_context_empty_sys")
+    parser.add_argument("--comet_model", type=str, default="Unbabel/wmt22-comet-da", help="HF id or local .ckpt (only used with --eval)")
+    parser.add_argument("--max_new_tokens", type=int, default=None, help="If set, caps generated tokens (takes precedence over --max_length)")
     args = parser.parse_args()
     return args
 
@@ -224,8 +231,8 @@ def main(args):
 
     df = pd.read_csv(f"{args.data_dir}/{args.split}.{lang_pair}.csv")
 
-    context_ints = get_instructions(args.instructions_dir, df, lang_pair, 'full_context_empty_sys', args.split)
-    non_context_ints = get_instructions(args.instructions_dir, df, lang_pair, 'no_context_empty_sys', args.split)
+    context_ints = get_instructions(args.instructions_dir, df, lang_pair, args.context_prompt, args.split, args.data_name)
+    non_context_ints = get_instructions(args.instructions_dir, df, lang_pair, args.no_context_prompt, args.split, args.data_name)
 
     all_pairs = []
     for (x, y) in list(zip(context_ints, non_context_ints)):
@@ -245,7 +252,8 @@ def main(args):
             sample=args.sample,
             temperature=args.temperature,
             min_p=args.min_p,
-            entropy_top_k=args.entropy_top_k
+            entropy_top_k=args.entropy_top_k,
+            **({"max_new_tokens": args.max_new_tokens} if args.max_new_tokens else {}),
             )
         translations.append(translation)
 
@@ -255,9 +263,11 @@ def main(args):
                 f.write(f"{line}\n")
                 
     if args.eval:
+        global comet_metric
+        comet_metric = load_from_checkpoint(args.comet_model if args.comet_model.endswith(".ckpt") else download_model(args.comet_model))
         df["output-select"] = translations
-        df[f"output-comet"]  = comet_metric.predict([{"mt": y, "ref":z, "src": x} for x, y, z in zip(df["source"], df["output-select"], df["reference"])], 
-                batch_size=64, gpus=1, progress_bar=True, devices=[0])['scores']
+        df[f"output-comet"]  = comet_metric.predict([{"mt": y, "ref":z, "src": x} for x, y, z in zip(df["source"], df["output-select"], df["reference"])],
+                batch_size=64, gpus=1 if torch.cuda.is_available() else 0, progress_bar=True, **({"devices": [0]} if torch.cuda.is_available() else {}))['scores']
         df[f"output-chrf"] = [sacrebleu.sentence_chrf(x, [y]).score for (x, y) in zip(df["output-select"].to_list(), df["reference"].to_list())]
 
         if args.save_output is not None:

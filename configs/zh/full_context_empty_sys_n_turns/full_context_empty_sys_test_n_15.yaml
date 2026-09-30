@@ -1,0 +1,40 @@
+# English<->Chinese version of configs/full_context_empty_sys_n_turns/full_context_empty_sys_test_blind_n_15.yaml (datasets from scripts/prepare_zh_data.py).
+# Run from the repository root: tower-eval gen-eval --config configs/zh/full_context_empty_sys_n_turns/full_context_empty_sys_test_n_15.yaml
+gen_data_dir: "instructions/full_context_empty_sys_15_turns"
+eval_data_dir: "raw_data"
+gen_output_dir: "generations/full_context_empty_sys_15_turns"
+eval_output_dir: "evaluations/full_context_empty_sys_15_turns"
+tasks: 
+  - name: mt
+    subtasks:
+      bmeld_test.en-zh:
+        eval_args:
+          metrics:
+            chrf:
+            bleu:
+              tokenizer: zh
+            comet:
+              batch_size: 16
+      bmeld_test.zh-en:
+      synthetic_chat_test.en-zh:
+        eval_args:
+          metrics:
+            chrf:
+            bleu:
+              tokenizer: zh
+            comet:
+              batch_size: 16
+      synthetic_chat_test.zh-en:
+    metrics:
+      comet:
+      chrf:
+models:
+  - name: TowerInstruct-WMT24-Chat-7B
+    type: vllm
+    arguments:
+      model_dir: Unbabel/TowerInstruct-WMT24-Chat-7B
+      n_gpus: 1
+      max_tokens: 1024
+      run_async: True
+      batch_size: -1
+      strip: False

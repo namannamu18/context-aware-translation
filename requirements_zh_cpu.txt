@@ -1,0 +1,17 @@
+# Minimal CPU environment used to run/test the en<->zh pipeline without vLLM/GPUs
+# (scripts/run_zh_pipeline.sh with BACKEND=hf). The full GPU setup is in requirements.txt + tower-eval + vLLM.
+torch
+transformers==4.49.0
+tokenizers<0.22
+huggingface-hub>=0.26,<1.0
+unbabel-comet==2.2.7
+protobuf<5
+numpy<2
+pandas==2.2.2
+sacrebleu>=2.4
+pyyaml
+tqdm
+# optional: GEMBA/ContextMQM with a free OpenAI-compatible endpoint
+openai
+fastapi
+uvicorn

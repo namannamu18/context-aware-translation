@@ -1,0 +1,59 @@
+# English<->Chinese version of configs/no_context_empty_sys_llama3.yaml (datasets from scripts/prepare_zh_data.py).
+# Run from the repository root: tower-eval gen-eval --config configs/zh/no_context_empty_sys_llama3.yaml
+gen_data_dir: "instructions/no_context_empty_sys_llama3"
+eval_data_dir: "raw_data"
+gen_output_dir: "generations/no_context_empty_sys_llama3"
+eval_output_dir: "evaluations/no_context_empty_sys_llama3"
+tasks: 
+  - name: mt
+    subtasks:
+      bmeld_dev.en-zh:
+        eval_args:
+          metrics:
+            chrf:
+            bleu:
+              tokenizer: zh
+            comet:
+              batch_size: 16
+            comet_kiwi:
+              batch_size: 16
+      bmeld_dev.zh-en:
+      bmeld_test.en-zh:
+        eval_args:
+          metrics:
+            chrf:
+            bleu:
+              tokenizer: zh
+            comet:
+              batch_size: 16
+            comet_kiwi:
+              batch_size: 16
+      bmeld_test.zh-en:
+      synthetic_chat_test.en-zh:
+        eval_args:
+          metrics:
+            chrf:
+            bleu:
+              tokenizer: zh
+            comet:
+              batch_size: 16
+            comet_kiwi:
+              batch_size: 16
+      synthetic_chat_test.zh-en:
+    metrics:
+      chrf:
+      bleu:
+      comet:
+        batch_size: 16
+      comet_kiwi:
+        batch_size: 16
+models:
+  - name: Tower-CPT-2106-WMT24-70B-SFT-Merge-greedy
+    type: vllm
+    arguments:
+      model_dir: Unbabel/Tower-Llama3-70B-WMT24-Merged-2106
+      n_gpus: 4
+      max_tokens: 1024
+      batch_size: -1
+      strip: False
+      stop_sequences: ["<|eot_id|>"]

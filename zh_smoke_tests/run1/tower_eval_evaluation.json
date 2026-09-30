@@ -1,0 +1,10 @@
+{
+  "tiny-chatml-lm/mt/bmeld_test.en-zh": {
+    "chrf": 6.0741,
+    "bleu": 4.4005
+  },
+  "tiny-chatml-lm/mt/bmeld_test.zh-en": {
+    "chrf": 16.6657,
+    "bleu": 3.003
+  }
+}

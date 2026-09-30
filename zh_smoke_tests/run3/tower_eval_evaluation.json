@@ -1,0 +1,10 @@
+{
+  "tiny-chatml-lm/mt/synthetic_chat_test.en-zh": {
+    "chrf": 3.5908,
+    "bleu": 1.3374
+  },
+  "tiny-chatml-lm/mt/synthetic_chat_test.zh-en": {
+    "chrf": 12.2575,
+    "bleu": 1.098
+  }
+}

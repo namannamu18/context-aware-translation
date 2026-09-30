@@ -52,8 +52,10 @@ def main():
             entry[lp] = {"mbr": lexical(g["output-select"], g["reference"], tgt)}
             if "greedy" in g:
                 entry[lp]["greedy"] = lexical(g["greedy"], g["reference"], tgt)
-            if "output-select-comet" in g and g["output-select-comet"].notna().any():
-                entry[lp]["mbr"]["comet"] = round(float(g["output-select-comet"].mean()), 4)
+            if "output-select-comet" in g:
+                comet = pd.to_numeric(g["output-select-comet"], errors="coerce")  # empty when COMET was unavailable
+                if comet.notna().any():
+                    entry[lp]["mbr"]["comet"] = round(float(comet.mean()), 4)
         report["mbr"][name] = entry
 
     data_csv = root / "paper_results_zh" / args.data_name / f"{args.split}.en-zh.csv"

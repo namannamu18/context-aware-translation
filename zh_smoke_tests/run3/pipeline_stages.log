@@ -1,0 +1,13 @@
+### run3: synthetic_chat test skip=0 max= utility=comet
+### run_zh_pipeline: ROOT=<scratch>/smoke_runs/run3 DS=synthetic_chat_test MODEL=<scratch>/smoke_models/tiny-chatml-lm BACKEND=hf N=4 UTILITY=comet
+=================== 1. data ===================
+=================== 2. instructions ===================
+=================== 3. greedy decoding (no_context / full_context) ===================
+=================== 4. evaluation ===================
+=================== 5. epsilon-sampling candidates ===================
+=================== 6. MBR decoding ===================
+=================== 7. contrastive decoding ===================
+=================== 8. P-CXMI ===================
+=================== 9. report ===================
+### done: <scratch>/smoke_runs/run3/pipeline_report.json
+pipeline exit code: 0 (228s)

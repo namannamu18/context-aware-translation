@@ -1,0 +1,6 @@
+872:=================== 9. report ===================
+873-Traceback (most recent call last):
+874-  File "/home/user/context-aware-translation/scripts/zh_pipeline_report.py", line 87, in <module>
+876-  File "/home/user/context-aware-translation/scripts/zh_pipeline_report.py", line 56, in main
+877-    entry[lp]["mbr"]["comet"] = round(float(g["output-select-comet"].mean()), 4)
+TypeError: Could not convert string '' to numeric   (empty output-select-comet column when COMET is unavailable; fixed in scripts/zh_pipeline_report.py, run2 re-run from scratch afterwards)

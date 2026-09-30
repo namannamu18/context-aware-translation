@@ -84,7 +84,10 @@ def main():
     args = p.parse_args()
 
     ensure_vllm_importable()
-    from tower_eval.cli import run_evaluations
+    import contextlib
+
+    with contextlib.redirect_stdout(sys.stderr):  # faiss prints its loader messages to stdout
+        from tower_eval.cli import run_evaluations
 
     cfg = yaml.safe_load(open(args.config))
     if args.root_dir:
@@ -93,6 +96,11 @@ def main():
     if args.eval_output_root:
         cfg["eval_output_dir"] = str(Path(args.eval_output_root) / Path(cfg["eval_output_dir"]).name)
     for task in cfg["tasks"]:
+        # same flattening as `tower-eval gen-eval`: subtask-level `eval_args:` (e.g. the zh / ko-mecab
+        # BLEU tokenizer) become the subtask's evaluation arguments
+        task["subtasks"] = {
+            k: (v["eval_args"] if v and "eval_args" in v else v) for k, v in task["subtasks"].items()
+        }
         if args.subtasks:
             task["subtasks"] = {k: v for k, v in task["subtasks"].items() if k in args.subtasks}
         if args.metrics:
@@ -102,13 +110,17 @@ def main():
                     sub_args["metrics"] = {k: v for k, v in sub_args["metrics"].items() if k in args.metrics}
     if args.model_type or args.model_name:
         cfg["models"] = [{"name": args.model_name or cfg["models"][0]["name"], "type": args.model_type or cfg["models"][0]["type"]}]
-    scores = run_evaluations(cfg)
-    def drop_segments(x):
-        if isinstance(x, dict):
-            return {k: drop_segments(v) for k, v in x.items() if not str(k).endswith("_segments")}
-        return x
-
-    print(json.dumps(drop_segments(json.loads(json.dumps(scores, default=dict))), indent=2, ensure_ascii=False))
+    run_evaluations(cfg)
+    # print what tower-eval wrote (system-level scores only)
+    summary = {}
+    for model in cfg["models"]:
+        for task in cfg["tasks"]:
+            for subtask in task["subtasks"]:
+                f = Path(cfg["eval_output_dir"]) / task["name"] / subtask / model["type"] / model["name"] / "evaluation.json"
+                if f.exists():
+                    res = json.load(open(f))
+                    summary[f"{model['name']}/{task['name']}/{subtask}"] = {k: v for k, v in res.items() if not k.endswith("_segments")}
+    print(json.dumps(summary, indent=2, ensure_ascii=False))
 
 
 if __name__ == "__main__":

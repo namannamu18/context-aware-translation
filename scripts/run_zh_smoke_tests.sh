@@ -38,8 +38,9 @@ run() {  # name data split skip max utility comet_model
     [ $rc -ne 0 ] || [ $rc2 -ne 0 ] || [ $rc3 -ne 0 ] && status=1
 }
 
-run run1 bmeld test 0 8 comet "$COMET_CKPT"
+RUNS=${RUNS:-"run1 run2 run3"}
+[[ " $RUNS " == *" run1 "* ]] && run run1 bmeld test 0 8 comet "$COMET_CKPT"
 # run2: the real COMET id; where the HF Hub is unreachable this exercises the "no COMET" fallback
-run run2 bmeld dev 20 8 chrf Unbabel/wmt22-comet-da
-run run3 synthetic_chat test 0 "" comet "$COMET_CKPT"
+[[ " $RUNS " == *" run2 "* ]] && run run2 bmeld dev 20 8 chrf Unbabel/wmt22-comet-da
+[[ " $RUNS " == *" run3 "* ]] && run run3 synthetic_chat test 0 "" comet "$COMET_CKPT"
 exit $status

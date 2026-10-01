@@ -126,7 +126,7 @@ ROOT=. MODEL=Unbabel/TowerInstruct-7B-v0.2 MODEL_NAME=TowerInstruct-7B-v0.2 BACK
   N_CANDIDATES=100 CONTEXT_SIZES="0 2 6 10 15" bash scripts/run_zh_pipeline.sh
 ```
 
-TowerInstruct-7B-v0.2 officially covers Chinese. The individual scripts accept the same arguments as before
+TowerInstruct-7B-v0.2 officially covers Chinese. No GPU? See [`kaggle/README.md`](kaggle/README.md) to run everything on Kaggle's free T4 GPUs. The individual scripts accept the same arguments as before
 plus new, optional ones (defaults reproduce the original runs):
 
 | Script | New options |

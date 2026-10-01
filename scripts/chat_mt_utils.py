@@ -318,5 +318,16 @@ class HFBackend:
         return out
 
 
+def vllm_engine_kwargs(**defaults) -> dict:
+    """Keyword arguments for vllm.LLM(...): the script's own defaults, updated with the
+    JSON object in the VLLM_ENGINE_ARGS environment variable (empty by default), e.g.
+    VLLM_ENGINE_ARGS='{"dtype": "half", "tensor_parallel_size": 2, "max_model_len": 4096}'
+    for GPUs without bfloat16 support such as Kaggle/Colab T4s."""
+    extra = os.environ.get("VLLM_ENGINE_ARGS", "").strip()
+    if extra:
+        defaults.update(json.loads(extra))
+    return defaults
+
+
 def repo_root() -> Path:
     return Path(os.environ.get("CHAT_MT_ROOT", Path(__file__).resolve().parent.parent))

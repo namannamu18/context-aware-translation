@@ -17,6 +17,8 @@
 #   SKIP_DOCS=0
 #   CONTEXT_SIZES="0 2"          context window(s) for context-aware COMET MBR (paper: 0 2 6 10 15)
 #   MAX_TOKENS=1024
+#   VLLM_ENGINE_ARGS=            JSON passed to vllm.LLM, e.g. '{"dtype":"half","tensor_parallel_size":2}' on 2x T4
+#   CD_EXTRA_ARGS=               extra args for contrastive decoding, e.g. "--torch_dtype float16 --device_map auto"
 set -euo pipefail
 
 REPO=$(cd "$(dirname "$0")/.." && pwd)
@@ -102,7 +104,7 @@ EVAL_FLAG=()
 [ "$UTILITY" = "comet" ] && EVAL_FLAG=(--eval --comet_model "$COMET_MODEL")
 CD_ARGS=(--lang_pair en-zh --split "$SPLIT" --data_name "$DATA_NAME" --data_dir "$ROOT/paper_results_zh/$DATA_NAME"
          --instructions_dir "$ROOT/instructions" --model_name_or_path "$MODEL"
-         --context_prompt full_context --no_context_prompt no_context --max_new_tokens "$MAX_TOKENS")
+         --context_prompt full_context --no_context_prompt no_context --max_new_tokens "$MAX_TOKENS" ${CD_EXTRA_ARGS:-})
 $PY "$REPO/scripts/run_contrastive_decoding.py" "${CD_ARGS[@]}" "${EVAL_FLAG[@]}" --non_context_weight 0 --save_output "$CD_DIR/c1_nc0"
 $PY "$REPO/scripts/run_contrastive_decoding.py" "${CD_ARGS[@]}" "${EVAL_FLAG[@]}" --context_weight 0 --save_output "$CD_DIR/c0_nc1"
 $PY "$REPO/scripts/run_contrastive_decoding.py" "${CD_ARGS[@]}" "${EVAL_FLAG[@]}" --save_output "$CD_DIR/c1_nc1"

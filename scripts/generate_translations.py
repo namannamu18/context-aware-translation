@@ -20,7 +20,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from chat_mt_utils import HFBackend, read_lines, write_lines  # noqa: E402
+from chat_mt_utils import HFBackend, read_lines, vllm_engine_kwargs, write_lines  # noqa: E402
 
 
 def main():
@@ -40,7 +40,7 @@ def main():
     if args.backend == "vllm":
         from vllm import LLM, SamplingParams
 
-        llm = LLM(model=args.model)
+        llm = LLM(**vllm_engine_kwargs(model=args.model))
         sp = SamplingParams(temperature=0.0, max_tokens=args.max_tokens)
         gen = lambda prompts: [o.outputs[0].text for o in llm.generate(prompts, sp, use_tqdm=True)]  # noqa: E731
     else:

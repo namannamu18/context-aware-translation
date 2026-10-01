@@ -22,14 +22,16 @@ from pathlib import Path
 from typing import List, Optional, Tuple
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from chat_mt_utils import CODE_LANG_DICT, TEMPLATES, context_content, iter_conversations, load_jsonl, no_context_content  # noqa: E402
+from chat_mt_utils import CODE_LANG_DICT, TEMPLATES, context_content, is_degenerate, iter_conversations, load_jsonl, no_context_content  # noqa: E402
 
 
 class ChatTranslator:
     def __init__(self, model_name_or_path: str, dtype: str = "float16", device_map: Optional[str] = "auto", template: str = "chatml",
-                 repetition_penalty: float = 1.1):
-        # repetition_penalty > 1 stops rare degenerate loops ("啊，啊，啊…") in greedy decoding; 1.0 = off
+                 repetition_penalty: float = 1.0, loop_retry_penalty: float = 1.1):
+        # Plain greedy decoding (repetition_penalty 1.0, as in the paper). Only an output stuck in a repetition
+        # loop ("啊，啊，啊…") is translated again with loop_retry_penalty; 0 = never retry.
         self.repetition_penalty = repetition_penalty
+        self.loop_retry_penalty = loop_retry_penalty
         import torch
         from transformers import AutoModelForCausalLM, AutoTokenizer
 
@@ -58,19 +60,25 @@ class ChatTranslator:
     def generate(self, prompts: List[str], max_new_tokens: int = 128) -> List[str]:
         outs = []
         for p in prompts:
-            enc = self.tokenizer(p, return_tensors="pt").to(self.model.device)
-            with self.torch.no_grad():
-                gen = self.model.generate(
-                    input_ids=enc["input_ids"],
-                    attention_mask=enc["attention_mask"],
-                    max_new_tokens=max_new_tokens,
-                    do_sample=False,
-                    repetition_penalty=self.repetition_penalty,
-                    eos_token_id=self.eos_ids,
-                    pad_token_id=self.tokenizer.pad_token_id if self.tokenizer.pad_token_id is not None else self.eos_ids[0],
-                )
-            outs.append(self.tokenizer.decode(gen[0, enc["input_ids"].shape[1]:], skip_special_tokens=True).strip())
+            out = self._generate_one(p, max_new_tokens, self.repetition_penalty)
+            if self.loop_retry_penalty > 0 and is_degenerate(out, p):
+                out = self._generate_one(p, max_new_tokens, self.loop_retry_penalty)
+            outs.append(out)
         return outs
+
+    def _generate_one(self, p: str, max_new_tokens: int, repetition_penalty: float) -> str:
+        enc = self.tokenizer(p, return_tensors="pt").to(self.model.device)
+        with self.torch.no_grad():
+            gen = self.model.generate(
+                input_ids=enc["input_ids"],
+                attention_mask=enc["attention_mask"],
+                max_new_tokens=max_new_tokens,
+                do_sample=False,
+                repetition_penalty=repetition_penalty,
+                eos_token_id=self.eos_ids,
+                pad_token_id=self.tokenizer.pad_token_id if self.tokenizer.pad_token_id is not None else self.eos_ids[0],
+            )
+        return self.tokenizer.decode(gen[0, enc["input_ids"].shape[1]:], skip_special_tokens=True).strip()
 
     def translate(self, src: str, src_lang: str, tgt_lang: str, history=None, use_context: bool = True, max_new_tokens: int = 128) -> str:
         return self.generate([self.prompt(src, src_lang, tgt_lang, history, use_context)], max_new_tokens)[0]
@@ -160,9 +168,10 @@ def main():
     p.add_argument("--quick_check", default=None, help="Dataset for a small check, e.g. bmeld_test")
     p.add_argument("--n_docs", type=int, default=3)
     p.add_argument("--max_new_tokens", type=int, default=128)
-    p.add_argument("--repetition_penalty", type=float, default=1.1)
+    p.add_argument("--repetition_penalty", type=float, default=1.0, help="applied to every output; 1.0 = off (paper)")
+    p.add_argument("--loop_retry_penalty", type=float, default=1.1, help="re-translate only looping outputs with this penalty; 0 = off")
     args = p.parse_args()
-    tr = ChatTranslator(args.model, args.dtype, args.device_map, args.template, args.repetition_penalty)
+    tr = ChatTranslator(args.model, args.dtype, args.device_map, args.template, args.repetition_penalty, args.loop_retry_penalty)
     if args.quick_check:
         quick_check(tr, Path(args.root_dir), args.quick_check, args.n_docs, max_new_tokens=args.max_new_tokens)
     else:

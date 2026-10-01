@@ -144,6 +144,14 @@ New helper scripts: `generate_translations.py` (tower-eval-style greedy generati
 `check_zh_pipeline_outputs.py` (consistency checks), `subset_zh_dataset.py`, `smoke_models.py`,
 `serve_openai_compatible.py`, `training_tower_chat/make_zh_chat_mt_data.py` (fine-tuning data, with/without
 context, optionally MBR-distilled). MuDA supports Chinese: `get_muda_accuracy.py --tgt-lang zh`.
+`translate_chat.py` translates your own chat messages (interactive) or a few BMELD conversations (`--quick_check`).
+
+**Repetition loops.** Greedy decoding occasionally gets stuck (e.g. `啊，啊，啊，…` until `max_tokens`).
+`generate_translations.py --loop_retry_penalty 1.1` (`LOOP_RETRY_PENALTY=1.1` in `run_zh_pipeline.sh`; on by default
+in the Kaggle notebook and in `translate_chat.py`) re-translates *only* such outputs (a short unit repeated ≥10 times
+and far more often than in the source) with repetition penalty 1.1. All other outputs are byte-identical to plain
+greedy decoding. A global `--repetition_penalty` also exists but changes normal translations too, so it is not recommended.
+Default: off (paper setup).
 
 ### Paid components and free alternatives
 

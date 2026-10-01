@@ -20,6 +20,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 from pathlib import Path
 from typing import Iterable, List, Optional, Sequence
 
@@ -331,6 +332,36 @@ def vllm_engine_kwargs(**defaults) -> dict:
     if extra:
         defaults.update(json.loads(extra))
     return defaults
+
+
+_REPEAT_RE = re.compile(r"(.{1,8}?)\1+", re.S)
+
+
+def max_repeat(text: str) -> int:
+    """Largest number of consecutive repetitions of a short unit (1-8 characters) in text, e.g. 3 for "啊，啊，啊，"."""
+    return max((len(m.group(0)) // len(m.group(1)) for m in _REPEAT_RE.finditer(text or "")), default=1)
+
+
+def is_degenerate(text: str, source: str = "") -> bool:
+    """True for a degenerate output stuck in a repetition loop ("啊，啊，啊，…"): a short unit repeated at least
+    10 times in a row AND far more often than anything repeats in the source (so that a faithful translation of
+    e.g. "Go!Go!Go!Go!Go!Go!Go!Go!Go!Go!" is not flagged)."""
+    return max_repeat(text) >= max(10, 2 * max_repeat(source) + 2)
+
+
+def retry_degenerate(prompts: List[str], outputs: List[str], regenerate, label: str = "") -> List[str]:
+    """Re-translate only the degenerate outputs with `regenerate(prompts) -> outputs` (e.g. greedy decoding
+    with a repetition penalty); all other outputs are returned unchanged. The prompt (which contains the
+    source and its context) is used as the source for is_degenerate."""
+    bad = [i for i, o in enumerate(outputs) if is_degenerate(o, prompts[i])]
+    if not bad:
+        return outputs
+    print(f"[loop retry] {label} re-translating {len(bad)}/{len(outputs)} degenerate output(s): {bad}")
+    fixed = regenerate([prompts[i] for i in bad])
+    outputs = list(outputs)
+    for i, o in zip(bad, fixed):
+        outputs[i] = o
+    return outputs
 
 
 def repo_root() -> Path:

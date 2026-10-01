@@ -1,5 +1,10 @@
 # Running the en↔zh pipeline on Kaggle (free GPUs)
 
+> **Just want to see it work?** Import `kaggle/quick_demo_kaggle.ipynb` instead (about 10–15 minutes): it loads
+> TowerInstruct-7B once, checks 3 real BMELD conversations in both directions (with/without context), and then lets
+> you type chat messages (`en: ...` / `zh: ...`) and get context-aware translations. Same settings: GPU T4 x2, Internet On.
+> Import URL: `https://github.com/namannamu18/context-aware-translation/blob/master/kaggle/quick_demo_kaggle.ipynb`
+
 `run_zh_pipeline_kaggle.ipynb` runs the full non-paid pipeline (TowerInstruct-7B-v0.2 + COMET-22) on Kaggle's free
 **2× T4** GPUs.
 

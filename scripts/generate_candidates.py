@@ -14,7 +14,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from chat_mt_utils import HFBackend, read_lines, write_lines  # noqa: E402
+from chat_mt_utils import HFBackend, read_lines, vllm_engine_kwargs, write_lines  # noqa: E402
 
 ORIGINAL_ROOT = "/mnt/data/jpombal/wmt24-chat-translation"
 ORIGINAL_LPS = {
@@ -60,7 +60,7 @@ def main(args):
     if args.backend == "vllm":
         from vllm import LLM, SamplingParams
 
-        model = LLM(model=args.model, seed=42, gpu_memory_utilization=0.9)
+        model = LLM(**vllm_engine_kwargs(model=args.model, seed=42, gpu_memory_utilization=0.9))
         # epsilon sampling
         s = SamplingParams(stop=None, max_tokens=args.max_tokens, temperature=args.temperature, min_p=args.min_p)
 

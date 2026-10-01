@@ -34,6 +34,7 @@ from chat_mt_utils import (  # noqa: E402
     load_jsonl,
     read_lines,
     split_lp,
+    vllm_engine_kwargs,
     write_logprob_files,
 )
 
@@ -97,7 +98,7 @@ class Engine:
             from vllm import LLM, SamplingParams
 
             self.SamplingParams = SamplingParams
-            self.model = LLM(args.model)
+            self.model = LLM(**vllm_engine_kwargs(model=args.model))
         else:
             self.model = HFBackend(args.model)
         self.tokenizer = self.model.get_tokenizer()

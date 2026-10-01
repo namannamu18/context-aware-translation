@@ -14,19 +14,24 @@ comet_metric = None
 DEVICE = torch.cuda.current_device() if torch.cuda.is_available() else "cpu"
 
 class LLaMaTranslationModel():
-    def __init__(self, model_name_or_path: str, padding: str = "before_system_prompt",):
+    def __init__(self, model_name_or_path: str, padding: str = "before_system_prompt", torch_dtype: str = "bfloat16", device_map: str = None):
         self.model_name_or_path = model_name_or_path
+        # device_map (e.g. "auto") spreads the model over several GPUs, e.g. 2x T4 on Kaggle;
+        # torch_dtype float16 for GPUs without bfloat16 support (T4/P100)
         self.model = AutoModelForCausalLM.from_pretrained(model_name_or_path, 
                                                         #   attn_implementation="flash_attention_2",
-                                                          torch_dtype=torch.bfloat16)
-        self.model.to(DEVICE)
+                                                          torch_dtype=getattr(torch, torch_dtype),
+                                                          **({"device_map": device_map} if device_map else {}))
+        if not device_map:
+            self.model.to(DEVICE)
         self.tokenizer = AutoTokenizer.from_pretrained(model_name_or_path)
-        self.pipeline = pipeline('text-generation', model=self.model, tokenizer=self.tokenizer, device=DEVICE, return_full_text=False)
+        self.pipeline = pipeline('text-generation', model=self.model, tokenizer=self.tokenizer, return_full_text=False,
+                                 **({} if device_map else {"device": DEVICE}))
         assert padding in ["before_system_prompt", "after_system_prompt"]
         self.padding = padding
 
-def load_translation_model(model_name_or_path: str):
-    return LLaMaTranslationModel(model_name_or_path=model_name_or_path)
+def load_translation_model(model_name_or_path: str, torch_dtype: str = "bfloat16", device_map: str = None):
+    return LLaMaTranslationModel(model_name_or_path=model_name_or_path, torch_dtype=torch_dtype, device_map=device_map)
 
 class EnsembleLogitsProcessor(LogitsProcessor):
 
@@ -218,6 +223,8 @@ def get_args():
     parser.add_argument("--context_prompt", type=str, default="full_context_empty_sys")
     parser.add_argument("--no_context_prompt", type=str, default="no_context_empty_sys")
     parser.add_argument("--comet_model", type=str, default="Unbabel/wmt22-comet-da", help="HF id or local .ckpt (only used with --eval)")
+    parser.add_argument("--torch_dtype", type=str, default="bfloat16", choices=["bfloat16", "float16", "float32"])
+    parser.add_argument("--device_map", type=str, default=None, help='e.g. "auto" to split the model over all visible GPUs')
     parser.add_argument("--max_new_tokens", type=int, default=None, help="If set, caps generated tokens (takes precedence over --max_length)")
     args = parser.parse_args()
     return args
@@ -227,7 +234,7 @@ def main(args):
     context_weight=args.context_weight
     non_context_weight=args.non_context_weight
 
-    model = load_translation_model(args.model_name_or_path)
+    model = load_translation_model(args.model_name_or_path, args.torch_dtype, args.device_map)
 
     df = pd.read_csv(f"{args.data_dir}/{args.split}.{lang_pair}.csv")
 

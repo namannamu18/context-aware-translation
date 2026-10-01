@@ -24,6 +24,7 @@ from chat_mt_utils import (  # noqa: E402
     assistant_prefix_token_ids,
     find_token_for_gating,
     read_lines,
+    vllm_engine_kwargs,
     write_logprob_files,
 )
 
@@ -63,7 +64,7 @@ def main(args):
         from vllm import LLM, SamplingParams
 
         sampling_params = SamplingParams(temperature=0.0, max_tokens=1, prompt_logprobs=1)
-        model = LLM(model_name)
+        model = LLM(**vllm_engine_kwargs(model=model_name))
 
         def prompt_logprobs(tokenized_prompts):
             output = model.generate(prompt_token_ids=tokenized_prompts, sampling_params=sampling_params, use_tqdm=True)

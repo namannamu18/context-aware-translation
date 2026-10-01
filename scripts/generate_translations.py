@@ -34,6 +34,8 @@ def main():
     p.add_argument("--backend", choices=["vllm", "hf"], default="vllm")
     p.add_argument("--max_tokens", type=int, default=1024)
     p.add_argument("--limit", type=int, default=None, help="Only translate the first N segments (debugging)")
+    p.add_argument("--repetition_penalty", type=float, default=1.0,
+                   help="1.0 = off (original setup); e.g. 1.1 stops degenerate repetition loops in greedy decoding")
     args = p.parse_args()
     root = Path(args.root_dir)
 
@@ -41,11 +43,11 @@ def main():
         from vllm import LLM, SamplingParams
 
         llm = LLM(**vllm_engine_kwargs(model=args.model))
-        sp = SamplingParams(temperature=0.0, max_tokens=args.max_tokens)
+        sp = SamplingParams(temperature=0.0, max_tokens=args.max_tokens, repetition_penalty=args.repetition_penalty)
         gen = lambda prompts: [o.outputs[0].text for o in llm.generate(prompts, sp, use_tqdm=True)]  # noqa: E731
     else:
         llm = HFBackend(args.model)
-        gen = lambda prompts: llm.generate(prompts, temperature=0.0, max_tokens=args.max_tokens)  # noqa: E731
+        gen = lambda prompts: llm.generate(prompts, temperature=0.0, max_tokens=args.max_tokens, repetition_penalty=args.repetition_penalty)  # noqa: E731
 
     for cond in args.conditions:
         for ds in args.datasets:
@@ -67,6 +69,7 @@ def main():
                             "backend": args.backend,
                             "temperature": 0.0,
                             "max_tokens": args.max_tokens,
+                            "repetition_penalty": args.repetition_penalty,
                         },
                         f,
                         indent=4,

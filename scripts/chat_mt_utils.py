@@ -260,7 +260,7 @@ class HFBackend:
         # vLLM tokenizes the raw prompt with the tokenizer defaults
         return self.tokenizer.encode(prompt)
 
-    def _sample_one(self, input_ids: List[int], temperature: float, min_p: float, max_tokens: int, want_logprobs: bool):
+    def _sample_one(self, input_ids: List[int], temperature: float, min_p: float, max_tokens: int, want_logprobs: bool, repetition_penalty: float = 1.0):
         torch = self.torch
         eos = self.tokenizer.eos_token_id
         ids = torch.tensor([input_ids], device=self.device)
@@ -272,6 +272,10 @@ class HFBackend:
                 past = res.past_key_values
                 logits = res.logits[0, -1].float()
                 logprobs = torch.log_softmax(logits, dim=-1)
+                if repetition_penalty != 1.0:  # same rule as HF/vLLM: penalise tokens already in prompt or output
+                    seen = torch.tensor(sorted(set(input_ids) | set(out_ids)), device=logits.device)
+                    vals = logits[seen]
+                    logits[seen] = torch.where(vals > 0, vals / repetition_penalty, vals * repetition_penalty)
                 if temperature == 0.0:
                     nxt = int(torch.argmax(logits))
                 else:
@@ -289,11 +293,11 @@ class HFBackend:
         text = self.tokenizer.decode(text_ids, skip_special_tokens=True)
         return (text, out_lps) if want_logprobs else text
 
-    def generate(self, prompts: List[str], temperature: float = 0.0, min_p: float = 0.0, max_tokens: int = 1024, use_tqdm: bool = True) -> List[str]:
+    def generate(self, prompts: List[str], temperature: float = 0.0, min_p: float = 0.0, max_tokens: int = 1024, use_tqdm: bool = True, repetition_penalty: float = 1.0) -> List[str]:
         from tqdm import tqdm
 
         it = tqdm(prompts, desc="generate") if use_tqdm else prompts
-        return [self._sample_one(self._encode(p), temperature, min_p, max_tokens, False) for p in it]
+        return [self._sample_one(self._encode(p), temperature, min_p, max_tokens, False, repetition_penalty) for p in it]
 
     def generate_with_logprobs(self, prompts: List[str], max_tokens: int = 1024, use_tqdm: bool = True):
         from tqdm import tqdm

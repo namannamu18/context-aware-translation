@@ -26,7 +26,10 @@ from chat_mt_utils import CODE_LANG_DICT, TEMPLATES, context_content, iter_conve
 
 
 class ChatTranslator:
-    def __init__(self, model_name_or_path: str, dtype: str = "float16", device_map: Optional[str] = "auto", template: str = "chatml"):
+    def __init__(self, model_name_or_path: str, dtype: str = "float16", device_map: Optional[str] = "auto", template: str = "chatml",
+                 repetition_penalty: float = 1.1):
+        # repetition_penalty > 1 stops rare degenerate loops ("啊，啊，啊…") in greedy decoding; 1.0 = off
+        self.repetition_penalty = repetition_penalty
         import torch
         from transformers import AutoModelForCausalLM, AutoTokenizer
 
@@ -62,6 +65,7 @@ class ChatTranslator:
                     attention_mask=enc["attention_mask"],
                     max_new_tokens=max_new_tokens,
                     do_sample=False,
+                    repetition_penalty=self.repetition_penalty,
                     eos_token_id=self.eos_ids,
                     pad_token_id=self.tokenizer.pad_token_id if self.tokenizer.pad_token_id is not None else self.eos_ids[0],
                 )
@@ -156,8 +160,9 @@ def main():
     p.add_argument("--quick_check", default=None, help="Dataset for a small check, e.g. bmeld_test")
     p.add_argument("--n_docs", type=int, default=3)
     p.add_argument("--max_new_tokens", type=int, default=128)
+    p.add_argument("--repetition_penalty", type=float, default=1.1)
     args = p.parse_args()
-    tr = ChatTranslator(args.model, args.dtype, args.device_map, args.template)
+    tr = ChatTranslator(args.model, args.dtype, args.device_map, args.template, args.repetition_penalty)
     if args.quick_check:
         quick_check(tr, Path(args.root_dir), args.quick_check, args.n_docs, max_new_tokens=args.max_new_tokens)
     else:

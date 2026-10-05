@@ -17,6 +17,9 @@
 #   SKIP_DOCS=0
 #   CONTEXT_SIZES="0 2"          context window(s) for context-aware COMET MBR (paper: 0 2 6 10 15)
 #   MAX_TOKENS=1024
+#   REPETITION_PENALTY=1.0       greedy decoding, applied to all outputs; 1.0 = off (paper setup)
+#   LOOP_RETRY_PENALTY=0         0 = off (paper setup); e.g. 1.1 = only outputs stuck in a repetition loop ("啊，啊，啊…")
+#                                are translated again with that penalty, all other outputs stay identical
 #   VLLM_ENGINE_ARGS=            JSON passed to vllm.LLM, e.g. '{"dtype":"half","tensor_parallel_size":2}' on 2x T4
 #   CD_EXTRA_ARGS=               extra args for contrastive decoding, e.g. "--torch_dtype float16 --device_map auto"
 set -euo pipefail
@@ -37,6 +40,8 @@ MAX_DOCS=${MAX_DOCS:-}
 SKIP_DOCS=${SKIP_DOCS:-0}
 CONTEXT_SIZES=${CONTEXT_SIZES:-"0 2"}
 MAX_TOKENS=${MAX_TOKENS:-1024}
+REPETITION_PENALTY=${REPETITION_PENALTY:-1.0}
+LOOP_RETRY_PENALTY=${LOOP_RETRY_PENALTY:-0}
 DS=${DATA_NAME}_${SPLIT}
 LPS="en-zh zh-en"
 
@@ -63,7 +68,8 @@ $PY "$REPO/scripts/make_instructions.py" --root_dir "$ROOT" --datasets "$DS" --p
 # 3. greedy decoding (tower-eval gen equivalent) + 4. evaluation ------------------------------
 step "3. greedy decoding (no_context / full_context)"
 $PY "$REPO/scripts/generate_translations.py" --root_dir "$ROOT" --model "$MODEL" --model_name "$MODEL_NAME" \
-    --conditions no_context full_context --datasets "$DS" --lps $LPS --backend "$BACKEND" --max_tokens "$MAX_TOKENS"
+    --conditions no_context full_context --datasets "$DS" --lps $LPS --backend "$BACKEND" --max_tokens "$MAX_TOKENS" \
+    --repetition_penalty "$REPETITION_PENALTY" --loop_retry_penalty "$LOOP_RETRY_PENALTY"
 step "4. evaluation"
 $PY "$REPO/scripts/evaluate_translations.py" --root_dir "$ROOT" --model_name "$MODEL_NAME" --backend "$BACKEND" \
     --conditions no_context full_context --datasets "$DS" --lps $LPS --comet_model "$COMET_MODEL"

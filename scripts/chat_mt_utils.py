@@ -20,6 +20,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 from pathlib import Path
 from typing import Iterable, List, Optional, Sequence
 
@@ -260,7 +261,7 @@ class HFBackend:
         # vLLM tokenizes the raw prompt with the tokenizer defaults
         return self.tokenizer.encode(prompt)
 
-    def _sample_one(self, input_ids: List[int], temperature: float, min_p: float, max_tokens: int, want_logprobs: bool):
+    def _sample_one(self, input_ids: List[int], temperature: float, min_p: float, max_tokens: int, want_logprobs: bool, repetition_penalty: float = 1.0):
         torch = self.torch
         eos = self.tokenizer.eos_token_id
         ids = torch.tensor([input_ids], device=self.device)
@@ -272,6 +273,10 @@ class HFBackend:
                 past = res.past_key_values
                 logits = res.logits[0, -1].float()
                 logprobs = torch.log_softmax(logits, dim=-1)
+                if repetition_penalty != 1.0:  # same rule as HF/vLLM: penalise tokens already in prompt or output
+                    seen = torch.tensor(sorted(set(input_ids) | set(out_ids)), device=logits.device)
+                    vals = logits[seen]
+                    logits[seen] = torch.where(vals > 0, vals / repetition_penalty, vals * repetition_penalty)
                 if temperature == 0.0:
                     nxt = int(torch.argmax(logits))
                 else:
@@ -289,11 +294,11 @@ class HFBackend:
         text = self.tokenizer.decode(text_ids, skip_special_tokens=True)
         return (text, out_lps) if want_logprobs else text
 
-    def generate(self, prompts: List[str], temperature: float = 0.0, min_p: float = 0.0, max_tokens: int = 1024, use_tqdm: bool = True) -> List[str]:
+    def generate(self, prompts: List[str], temperature: float = 0.0, min_p: float = 0.0, max_tokens: int = 1024, use_tqdm: bool = True, repetition_penalty: float = 1.0) -> List[str]:
         from tqdm import tqdm
 
         it = tqdm(prompts, desc="generate") if use_tqdm else prompts
-        return [self._sample_one(self._encode(p), temperature, min_p, max_tokens, False) for p in it]
+        return [self._sample_one(self._encode(p), temperature, min_p, max_tokens, False, repetition_penalty) for p in it]
 
     def generate_with_logprobs(self, prompts: List[str], max_tokens: int = 1024, use_tqdm: bool = True):
         from tqdm import tqdm
@@ -327,6 +332,36 @@ def vllm_engine_kwargs(**defaults) -> dict:
     if extra:
         defaults.update(json.loads(extra))
     return defaults
+
+
+_REPEAT_RE = re.compile(r"(.{1,8}?)\1+", re.S)
+
+
+def max_repeat(text: str) -> int:
+    """Largest number of consecutive repetitions of a short unit (1-8 characters) in text, e.g. 3 for "啊，啊，啊，"."""
+    return max((len(m.group(0)) // len(m.group(1)) for m in _REPEAT_RE.finditer(text or "")), default=1)
+
+
+def is_degenerate(text: str, source: str = "") -> bool:
+    """True for a degenerate output stuck in a repetition loop ("啊，啊，啊，…"): a short unit repeated at least
+    10 times in a row AND far more often than anything repeats in the source (so that a faithful translation of
+    e.g. "Go!Go!Go!Go!Go!Go!Go!Go!Go!Go!" is not flagged)."""
+    return max_repeat(text) >= max(10, 2 * max_repeat(source) + 2)
+
+
+def retry_degenerate(prompts: List[str], outputs: List[str], regenerate, label: str = "") -> List[str]:
+    """Re-translate only the degenerate outputs with `regenerate(prompts) -> outputs` (e.g. greedy decoding
+    with a repetition penalty); all other outputs are returned unchanged. The prompt (which contains the
+    source and its context) is used as the source for is_degenerate."""
+    bad = [i for i, o in enumerate(outputs) if is_degenerate(o, prompts[i])]
+    if not bad:
+        return outputs
+    print(f"[loop retry] {label} re-translating {len(bad)}/{len(outputs)} degenerate output(s): {bad}")
+    fixed = regenerate([prompts[i] for i in bad])
+    outputs = list(outputs)
+    for i, o in zip(bad, fixed):
+        outputs[i] = o
+    return outputs
 
 
 def repo_root() -> Path:

@@ -50,7 +50,7 @@ def split_messages(line: str) -> List[Tuple[str, str]]:
 
 class ChatTranslator:
     def __init__(self, model_name_or_path: str, dtype: str = "float16", device_map: Optional[str] = "auto", template: str = "chatml",
-                 repetition_penalty: float = 1.0, loop_retry_penalty: float = 1.1):
+                 repetition_penalty: float = 1.0, loop_retry_penalty: float = 1.1, adapter: Optional[str] = None):
         # Plain greedy decoding (repetition_penalty 1.0, as in the paper). Only an output stuck in a repetition
         # loop ("啊，啊，啊…") is translated again with loop_retry_penalty; 0 = never retry.
         self.repetition_penalty = repetition_penalty
@@ -64,6 +64,10 @@ class ChatTranslator:
         if device_map and (torch.cuda.is_available() or device_map != "auto"):
             kwargs["device_map"] = device_map
         self.model = AutoModelForCausalLM.from_pretrained(model_name_or_path, **kwargs).eval()
+        if adapter:  # LoRA adapter of scripts/finetune_lora.py: merged into the weights, so generation is as fast as without it
+            from peft import PeftModel
+
+            self.model = PeftModel.from_pretrained(self.model, adapter).merge_and_unload().eval()
         self.template = TEMPLATES[template]
         self.eos_ids = [self.tokenizer.eos_token_id]
         for t in ["<|im_end|>", "<|eot_id|>"]:
@@ -210,6 +214,7 @@ def main():
     p.add_argument("--dtype", default="float16", choices=["float16", "bfloat16", "float32"])
     p.add_argument("--device_map", default="auto")
     p.add_argument("--template", default="chatml", choices=["chatml", "chatml_empty_sys", "llama3_empty_sys"])
+    p.add_argument("--adapter", default=None, help="LoRA adapter folder (scripts/finetune_lora.py); use with --template chatml_empty_sys")
     p.add_argument("--root_dir", default=str(Path(__file__).resolve().parent.parent))
     p.add_argument("--quick_check", default=None, help="Dataset for a small check, e.g. bmeld_test")
     p.add_argument("--n_docs", type=int, default=3)
@@ -217,7 +222,7 @@ def main():
     p.add_argument("--repetition_penalty", type=float, default=1.0, help="applied to every output; 1.0 = off (paper)")
     p.add_argument("--loop_retry_penalty", type=float, default=1.1, help="re-translate only looping outputs with this penalty; 0 = off")
     args = p.parse_args()
-    tr = ChatTranslator(args.model, args.dtype, args.device_map, args.template, args.repetition_penalty, args.loop_retry_penalty)
+    tr = ChatTranslator(args.model, args.dtype, args.device_map, args.template, args.repetition_penalty, args.loop_retry_penalty, args.adapter)
     if args.quick_check:
         quick_check(tr, Path(args.root_dir), args.quick_check, args.n_docs, max_new_tokens=args.max_new_tokens)
     else:

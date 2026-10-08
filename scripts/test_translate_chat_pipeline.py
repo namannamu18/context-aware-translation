@@ -1,0 +1,112 @@
+"""Tests of scripts/translate_chat_pipeline.py with the tiny smoke models (CPU, no downloads):
+  0. the COMET context strings are identical to run_context_comet_mbr.add_context_across (the paper's code) for every turn, window and mode
+  1. a LoRA adapter loaded on the fly gives the same model as the merged checkpoint (scripts/merge_lora.py)
+  2. concise mode runs no greedy decoding and picks the final translation among the sampled candidates; verbose mode shows all four systems
+  3. COMET unavailable -> chrF-MBR fallback
+  4. the typing loop: several messages per line, verbose toggle, reset, transcript
+
+  python scripts/test_translate_chat_pipeline.py --lm <tiny lm> --adapter <adapter> --merged <merged model> --comet <tiny comet model.ckpt>
+"""
+
+import argparse
+import builtins
+import contextlib
+import io
+import itertools
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+import torch  # noqa: E402
+
+import run_context_comet_mbr as mbr_mod  # noqa: E402
+import translate_chat_pipeline as tp  # noqa: E402
+from translate_chat import ChatTranslator  # noqa: E402
+
+
+def quiet():
+    return contextlib.redirect_stdout(io.StringIO())
+
+
+def main():
+    p = argparse.ArgumentParser()
+    p.add_argument("--lm", required=True, help="tiny base language model")
+    p.add_argument("--adapter", required=True, help="LoRA adapter trained on it (scripts/finetune_lora.py)")
+    p.add_argument("--merged", required=True, help="the same adapter merged into the model (scripts/merge_lora.py)")
+    p.add_argument("--comet", required=True, help="tiny COMET model.ckpt")
+    A = p.parse_args()
+
+    # 0. context strings == the paper's add_context_across --------------------------------------------------------------------
+    convo = [("en", "Hi, I bought a coat last week."), ("zh", "尺码太小了。"), ("en", "Which size do you need?"), ("zh", "我要L码。"),
+             ("zh", "越快越好。"), ("en", "OK, I'll send it tomorrow."), ("zh", "谢谢！")]
+    best = [f"BEST{i}" for i in range(len(convo))]
+    cands = [f"CAND{i}" for i in range(len(convo))]
+    langs, srcs = [l for l, _ in convo], [t for _, t in convo]
+    n = 0
+    for ws, mode in itertools.product([0, 1, 2, 3, 6], ["source", "comet-best"]):
+        pt = object.__new__(tp.PipelineTranslator)
+        pt.sep, pt.context_size, pt.context_mt = "</s>", ws, mode
+        ctx_mt = best if mode == "comet-best" else srcs
+        ref_src = mbr_mod.add_context_across(srcs, srcs, ctx_mt, langs, "</s>", ws)
+        ref_out = mbr_mod.add_context_across(cands, ctx_mt, srcs, langs, "</s>", ws)
+        for i, (lang, text) in enumerate(convo):
+            history = [tp.Turn(l, t, b) for (l, t), b in zip(convo[:i], best[:i])]
+            s, o = pt.context_strings(history, lang, text, [cands[i]])
+            assert s == ref_src[i] and o == [ref_out[i]], (ws, mode, i)
+            n += 1
+    print(f"0. context strings identical to add_context_across: {n}/{n} (turns x windows x modes)")
+
+    # 1. adapter on the fly == merged checkpoint ----------------------------------------------------------------------------------
+    a = ChatTranslator(A.lm, dtype="float32", device_map=None, template="chatml_empty_sys", adapter=A.adapter)
+    b = ChatTranslator(A.merged, dtype="float32", device_map=None, template="chatml_empty_sys")
+    x = a.tokenizer(a.prompt("Hello there", "en", "zh", [("zh", "你好")], True), return_tensors="pt")
+    with torch.no_grad():
+        diff = (a.model(**x).logits - b.model(**x).logits).abs().max().item()
+    assert diff < 1e-4, diff
+    print(f"1. adapter-on-the-fly == merged checkpoint (max logit diff {diff:.1e})")
+
+    # 2. concise / verbose conversation ----------------------------------------------------------------------------------------
+    pt = tp.load_system(A.lm, adapter=A.adapter, comet_model=A.comet, n_candidates=4, dtype="float32", device_map=None)
+    assert pt.utility == "comet" and pt.context_mt == "source" and pt.context_size == 2
+    conv = [("en", "Hi, I bought a coat last week but it is too small."), ("zh", "那我可以换一件大一点的吗？"), ("en", "Sure, which size do you need?")]
+    calls = {"n": 0}
+    orig = pt.tr.generate
+    pt.tr.generate = lambda *args, **kw: (calls.__setitem__("n", calls["n"] + 1), orig(*args, **kw))[1]
+    buf = io.StringIO()
+    with contextlib.redirect_stdout(buf):
+        res = pt.run_conversation(conv, max_new_tokens=16)
+    assert calls["n"] == 0, "concise mode must not run the greedy decodings"
+    assert all(r["final"] in r["candidates"] and r["greedy_context"] is None for r in res)
+    assert buf.getvalue().count("   -> ") == 3
+    with quiet():
+        res_v = pt.run_conversation(conv[:2], max_new_tokens=16, verbose=True)
+    assert all(r["greedy_context"] is not None and r["mbr"] in r["candidates"] and r["final"] in r["candidates"] for r in res_v)
+    print("2. concise mode: no greedy decoding, final output among the candidates; verbose mode: all four systems")
+
+    # 3. chrF fallback ---------------------------------------------------------------------------------------------------------
+    o = io.StringIO()
+    with contextlib.redirect_stdout(o):
+        pt2 = tp.PipelineTranslator(pt.tr, comet_model="/nonexistent/model.ckpt", n_candidates=4)
+    assert pt2.utility == "chrf" and "falling back" in o.getvalue()
+    with quiet():
+        r = pt2.run_conversation(conv[:2], max_new_tokens=16)
+    assert all(x_["final"] in x_["candidates"] for x_ in r)
+    print("3. COMET unavailable -> chrF-MBR fallback works")
+
+    # 4. typing loop -----------------------------------------------------------------------------------------------------------
+    lines = iter(["en: Hello there. zh: 你好吗？", "verbose", "en: Fine, thanks.", "reset", "zh: 再见", "quit", "en: never"])
+    builtins.input = lambda prompt="": next(lines)
+    buf = io.StringIO()
+    with contextlib.redirect_stdout(buf):
+        out = tp.interactive_pipeline(pt, max_new_tokens=16)
+    text = buf.getvalue()
+    assert len(out) == 1 and out[0]["text"] == "再见"          # after 'reset' only the last conversation is kept
+    assert text.count("=== translated conversation ===") == 2   # transcript printed at reset and at quit
+    assert "(verbose on)" in text and "(new conversation)" in text
+    print("4. typing loop: several messages per line, verbose toggle, reset, transcript on reset/quit")
+    print("ALL TESTS PASSED")
+
+
+if __name__ == "__main__":
+    main()

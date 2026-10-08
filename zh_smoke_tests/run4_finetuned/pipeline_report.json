@@ -1,0 +1,248 @@
+{
+  "dataset": "bmeld_test",
+  "model": "tiny-ft",
+  "greedy": {
+    "full_context_empty_sys/en-zh": {
+      "chrf": 1.3441,
+      "bleu": 2.8398,
+      "comet": 0.0738
+    },
+    "full_context_empty_sys/zh-en": {
+      "chrf": 17.4917,
+      "bleu": 5.876,
+      "comet": 0.077
+    },
+    "no_context_empty_sys/en-zh": {
+      "chrf": 1.3441,
+      "bleu": 2.8398,
+      "comet": 0.0738
+    },
+    "no_context_empty_sys/zh-en": {
+      "chrf": 13.8683,
+      "bleu": 4.0111,
+      "comet": 0.0892
+    }
+  },
+  "mbr": {
+    "mbr_outputs_test/full_context_empty_sys/tiny-ft/bmeld_test.en-zh/comet_eps.csv": {
+      "en-zh": {
+        "mbr": {
+          "chrf": 1.32,
+          "bleu": 2.63,
+          "n": 1
+        },
+        "greedy": {
+          "chrf": 1.34,
+          "bleu": 2.84,
+          "n": 1
+        }
+      },
+      "zh-en": {
+        "mbr": {
+          "chrf": 13.94,
+          "bleu": 4.21,
+          "n": 10
+        },
+        "greedy": {
+          "chrf": 17.49,
+          "bleu": 5.88,
+          "n": 10
+        }
+      }
+    },
+    "mbr_outputs_test/full_context_empty_sys/tiny-ft/bmeld_test.en-zh/comet_eps_context_comet-best_w2.csv": {
+      "en-zh": {
+        "mbr": {
+          "chrf": 1.32,
+          "bleu": 2.63,
+          "n": 1
+        },
+        "greedy": {
+          "chrf": 1.34,
+          "bleu": 2.84,
+          "n": 1
+        }
+      },
+      "zh-en": {
+        "mbr": {
+          "chrf": 17.76,
+          "bleu": 4.48,
+          "n": 10
+        },
+        "greedy": {
+          "chrf": 17.49,
+          "bleu": 5.88,
+          "n": 10
+        }
+      }
+    },
+    "mbr_outputs_test/full_context_empty_sys/tiny-ft/bmeld_test.en-zh/comet_eps_context_source_w2.csv": {
+      "en-zh": {
+        "mbr": {
+          "chrf": 1.32,
+          "bleu": 2.63,
+          "n": 1
+        },
+        "greedy": {
+          "chrf": 1.34,
+          "bleu": 2.84,
+          "n": 1
+        }
+      },
+      "zh-en": {
+        "mbr": {
+          "chrf": 14.93,
+          "bleu": 4.23,
+          "n": 10
+        },
+        "greedy": {
+          "chrf": 17.49,
+          "bleu": 5.88,
+          "n": 10
+        }
+      }
+    },
+    "mbr_outputs_test/no_context_empty_sys/tiny-ft/bmeld_test.en-zh/comet_eps.csv": {
+      "en-zh": {
+        "mbr": {
+          "chrf": 1.39,
+          "bleu": 3.39,
+          "n": 1
+        },
+        "greedy": {
+          "chrf": 1.34,
+          "bleu": 2.84,
+          "n": 1
+        }
+      },
+      "zh-en": {
+        "mbr": {
+          "chrf": 15.02,
+          "bleu": 4.5,
+          "n": 10
+        },
+        "greedy": {
+          "chrf": 13.87,
+          "bleu": 4.01,
+          "n": 10
+        }
+      }
+    },
+    "mbr_outputs_test/no_context_empty_sys/tiny-ft/bmeld_test.en-zh/comet_eps_context_comet-best_w2.csv": {
+      "en-zh": {
+        "mbr": {
+          "chrf": 1.39,
+          "bleu": 3.39,
+          "n": 1
+        },
+        "greedy": {
+          "chrf": 1.34,
+          "bleu": 2.84,
+          "n": 1
+        }
+      },
+      "zh-en": {
+        "mbr": {
+          "chrf": 13.23,
+          "bleu": 1.87,
+          "n": 10
+        },
+        "greedy": {
+          "chrf": 13.87,
+          "bleu": 4.01,
+          "n": 10
+        }
+      }
+    },
+    "mbr_outputs_test/no_context_empty_sys/tiny-ft/bmeld_test.en-zh/comet_eps_context_source_w2.csv": {
+      "en-zh": {
+        "mbr": {
+          "chrf": 1.39,
+          "bleu": 3.39,
+          "n": 1
+        },
+        "greedy": {
+          "chrf": 1.34,
+          "bleu": 2.84,
+          "n": 1
+        }
+      },
+      "zh-en": {
+        "mbr": {
+          "chrf": 13.16,
+          "bleu": 1.87,
+          "n": 10
+        },
+        "greedy": {
+          "chrf": 13.87,
+          "bleu": 4.01,
+          "n": 10
+        }
+      }
+    }
+  },
+  "contrastive": {
+    "c1_nc1": {
+      "en-zh": {
+        "chrf": 1.34,
+        "bleu": 2.84,
+        "n": 1
+      },
+      "zh-en": {
+        "chrf": 14.74,
+        "bleu": 4.08,
+        "n": 10
+      },
+      "score_txt": [
+        "Comet: 0.07384171336889267",
+        "Chrf: 1.3440860215053763",
+        "Comet: 0.07314278706908225",
+        "Chrf: 18.411877452174473"
+      ]
+    },
+    "c5_nc1": {
+      "en-zh": {
+        "chrf": 1.34,
+        "bleu": 2.84,
+        "n": 1
+      },
+      "zh-en": {
+        "chrf": 15.94,
+        "bleu": 4.42,
+        "n": 10
+      },
+      "score_txt": [
+        "Comet: 0.07384171336889267",
+        "Chrf: 1.3440860215053763",
+        "Comet: 0.0729907862842083",
+        "Chrf: 19.05882488991701"
+      ]
+    }
+  },
+  "pcxmi": {
+    "bmeld_test.en-zh": {
+      "pcxmi_on_full_context_output": {
+        "mean": 0.0,
+        "std": 0.0,
+        "n": 1
+      },
+      "pcxmi_on_no_context_output": {
+        "mean": 0.0,
+        "std": 0.0,
+        "n": 1
+      }
+    },
+    "bmeld_test.zh-en": {
+      "pcxmi_on_full_context_output": {
+        "mean": 0.22606165664898428,
+        "std": 0.21200439327943518,
+        "n": 10
+      },
+      "pcxmi_on_no_context_output": {
+        "mean": 0.014491775561518172,
+        "std": 0.47450977021757146,
+        "n": 10
+      }
+    }
+  }
+}

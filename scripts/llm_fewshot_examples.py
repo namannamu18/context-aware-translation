@@ -191,6 +191,28 @@ Minor:
 fluency/inconsistency - "first"
 """,
         },
+    # en-zh: written for this repository (NOT taken from the human MQM annotations of the WMT24 chat task like the other pairs):
+    # one major accuracy error ("再次登出" = sign out again, should be "重新登录") and one minor style error (redundant "之后，然后").
+    "enzh_conversation": {
+        "source_lang": "English",
+        "source_seg": "Please sign out of your account on the e-reader, wait two minutes, and then sign back in.",
+        "target_lang": "Chinese",
+        "target_seg": "请在电子阅读器上退出您的账户，等待两分钟之后，然后再次登出。",
+        "sender": "Agent",
+        "context": """Customer (Chinese): 你好，我昨天买了一本电子书，但是在阅读器上找不到。
+Agent (English): Hello, thank you for contacting us. I'm sorry to hear that.
+Agent (English): Could you tell me which e-reader model you are using?
+Customer (Chinese): 是最新的那款，买了大概两个月。
+Agent (English): Thank you. Let me check the account details for you.
+""",
+        "answer": """Critical:
+no-error
+Major:
+accuracy/mistranslation - "再次登出"
+Minor:
+style/awkward - "之后，然后"
+""",
+    },
 }
 
 

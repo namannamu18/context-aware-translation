@@ -226,13 +226,79 @@ def get_args():
     parser.add_argument("--torch_dtype", type=str, default="bfloat16", choices=["bfloat16", "float16", "float32"])
     parser.add_argument("--device_map", type=str, default=None, help='e.g. "auto" to split the model over all visible GPUs')
     parser.add_argument("--max_new_tokens", type=int, default=None, help="If set, caps generated tokens (takes precedence over --max_length)")
+    parser.add_argument("--variants", nargs="+", default=None,
+                        help="Run several settings with ONE model load, named like the files of the paper: c<context_weight>_nc<non_context_weight>"
+                             "[_b<beams>][_t<temp>_minp<min_p>_n<n_samples>], e.g. c1_nc1 c5_nc1 c1_nc1_t0.7_minp0.02_n4. Outputs: <save_dir>/<variant>.out.txt")
+    parser.add_argument("--save_dir", type=str, default=None, help="Output folder for --variants")
     args = parser.parse_args()
     return args
 
+def parse_variant(name):
+    """c<cw>_nc<ncw>[_b<beams>][_t<temp>_minp<min_p>_n<n>] -> decoding settings (the names of the files in contrast_decode/)."""
+    import re
+    m = re.fullmatch(r"c([\d.]+)_nc([\d.]+)(?:_b(\d+))?(?:_t([\d.]+)_minp([\d.]+)_n(\d+))?", name)
+    if not m:
+        raise ValueError(f"cannot parse contrastive decoding variant '{name}'")
+    cw, ncw, beams, temp, min_p, n = m.groups()
+    cfg = {"context_weight": float(cw), "non_context_weight": float(ncw), "num_beams": int(beams) if beams else 1,
+           "sample": temp is not None, "temperature": float(temp) if temp else 1.0, "min_p": float(min_p) if min_p else 0.0,
+           "num_return_sequences": int(n) if n else 1}
+    return cfg
+
+
+def decode(model, context_ints, non_context_ints, cfg, args):
+    all_pairs = []
+    for (x, y) in list(zip(context_ints, non_context_ints)):
+        all_pairs.extend([(x, y)] * cfg["num_return_sequences"])
+
+    translations = []
+    for pair in tqdm(all_pairs):
+        translation = translate_multi_source(
+            model,
+            src_weights=[cfg["context_weight"], cfg["non_context_weight"]],
+            max_length=args.max_length,
+            prompts=pair,
+            max_prompt_length=args.max_prompt_length,
+            use_entropy_weights=args.use_entropy_weights,
+            use_logits=args.use_logits,
+            num_beams=cfg["num_beams"],
+            sample=cfg["sample"],
+            temperature=cfg["temperature"],
+            min_p=cfg["min_p"],
+            entropy_top_k=args.entropy_top_k,
+            **({"max_new_tokens": args.max_new_tokens} if args.max_new_tokens else {}),
+            )
+        translations.append(translation)
+    return translations
+
+
+def evaluate_and_save(df, translations, save_output, args):
+    """Write <save_output>.out.txt and, with --eval, the COMET / chrF scores (<save_output>.score.txt)."""
+    global comet_metric
+    if save_output is not None:
+        with open(save_output + '.out.txt', 'w') as f:
+            for line in translations:
+                f.write(f"{line}\n")
+
+    if args.eval and len(translations) == len(df):
+        if comet_metric is None:
+            comet_metric = load_from_checkpoint(args.comet_model if args.comet_model.endswith(".ckpt") else download_model(args.comet_model))
+        df = df.copy()
+        df["output-select"] = translations
+        df[f"output-comet"]  = comet_metric.predict([{"mt": y, "ref":z, "src": x} for x, y, z in zip(df["source"], df["output-select"], df["reference"])],
+                batch_size=64, gpus=1 if torch.cuda.is_available() else 0, progress_bar=True, **({"devices": [0]} if torch.cuda.is_available() else {}))['scores']
+        df[f"output-chrf"] = [sacrebleu.sentence_chrf(x, [y]).score for (x, y) in zip(df["output-select"].to_list(), df["reference"].to_list())]
+
+        if save_output is not None:
+            with open(save_output + '.score.txt', 'w') as f:
+                for lp, lp_df in df.groupby("lp"):
+                    print(lp, lp_df[f"output-comet"].mean(), lp_df[f"output-chrf"].mean())
+                    f.write(f'Comet: {lp_df["output-comet"].mean()}\n')
+                    f.write(f'Chrf: {lp_df["output-chrf"].mean()}\n')
+
+
 def main(args):
     lang_pair=args.lang_pair
-    context_weight=args.context_weight
-    non_context_weight=args.non_context_weight
 
     model = load_translation_model(args.model_name_or_path, args.torch_dtype, args.device_map)
 
@@ -241,48 +307,21 @@ def main(args):
     context_ints = get_instructions(args.instructions_dir, df, lang_pair, args.context_prompt, args.split, args.data_name)
     non_context_ints = get_instructions(args.instructions_dir, df, lang_pair, args.no_context_prompt, args.split, args.data_name)
 
-    all_pairs = []
-    for (x, y) in list(zip(context_ints, non_context_ints)):
-        all_pairs.extend([(x,y)] * args.num_return_sequences )
+    if args.variants:   # several settings, one model load (same names as the files of the paper)
+        assert args.save_dir, "--variants needs --save_dir"
+        import os
+        os.makedirs(args.save_dir, exist_ok=True)
+        for name in args.variants:
+            print(f"### contrastive decoding variant {name}")
+            cfg = parse_variant(name)
+            translations = decode(model, context_ints, non_context_ints, cfg, args)
+            evaluate_and_save(df, translations, f"{args.save_dir}/{name}", args)
+        return
 
-    translations = []
-    for pair in tqdm(all_pairs):
-        translation = translate_multi_source(
-            model,
-            src_weights=[context_weight, non_context_weight],
-            max_length=args.max_length,
-            prompts=pair,
-            max_prompt_length=args.max_prompt_length,
-            use_entropy_weights=args.use_entropy_weights,
-            use_logits=args.use_logits,
-            num_beams=args.num_beams,
-            sample=args.sample,
-            temperature=args.temperature,
-            min_p=args.min_p,
-            entropy_top_k=args.entropy_top_k,
-            **({"max_new_tokens": args.max_new_tokens} if args.max_new_tokens else {}),
-            )
-        translations.append(translation)
-
-    if args.save_output is not None:
-        with open(args.save_output + '.out.txt', 'w') as f:
-            for line in translations:
-                f.write(f"{line}\n")
-                
-    if args.eval:
-        global comet_metric
-        comet_metric = load_from_checkpoint(args.comet_model if args.comet_model.endswith(".ckpt") else download_model(args.comet_model))
-        df["output-select"] = translations
-        df[f"output-comet"]  = comet_metric.predict([{"mt": y, "ref":z, "src": x} for x, y, z in zip(df["source"], df["output-select"], df["reference"])],
-                batch_size=64, gpus=1 if torch.cuda.is_available() else 0, progress_bar=True, **({"devices": [0]} if torch.cuda.is_available() else {}))['scores']
-        df[f"output-chrf"] = [sacrebleu.sentence_chrf(x, [y]).score for (x, y) in zip(df["output-select"].to_list(), df["reference"].to_list())]
-
-        if args.save_output is not None:
-            with open(args.save_output + '.score.txt', 'w') as f:
-                for lp, lp_df in df.groupby("lp"):
-                    print(lp, lp_df[f"output-comet"].mean(), lp_df[f"output-chrf"].mean())
-                    f.write(f'Comet: {lp_df["output-comet"].mean()}\n')
-                    f.write(f'Chrf: {lp_df["output-chrf"].mean()}\n')
+    cfg = {"context_weight": args.context_weight, "non_context_weight": args.non_context_weight, "num_beams": args.num_beams,
+           "sample": args.sample, "temperature": args.temperature, "min_p": args.min_p, "num_return_sequences": args.num_return_sequences}
+    translations = decode(model, context_ints, non_context_ints, cfg, args)
+    evaluate_and_save(df, translations, args.save_output, args)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,21 @@
+e judge answer: 'I cannot evaluate this.'
+unparsable judge answer: 'I cannot evaluate this.'
+
+  0%|          | 0/11 [00:00<?, ?it/s]
+  9%|▉         | 1/11 [00:00<00:04,  2.17it/s]
+ 18%|█▊        | 2/11 [00:00<00:03,  2.39it/s]
+ 27%|██▋       | 3/11 [00:01<00:03,  2.47it/s]
+ 36%|███▋      | 4/11 [00:01<00:02,  2.36it/s]
+ 45%|████▌     | 5/11 [00:02<00:02,  2.30it/s]
+ 55%|█████▍    | 6/11 [00:02<00:02,  2.19it/s]
+ 64%|██████▎   | 7/11 [00:03<00:01,  2.31it/s]
+ 73%|███████▎  | 8/11 [00:03<00:01,  2.27it/s]
+ 82%|████████▏ | 9/11 [00:03<00:00,  2.32it/s]
+ 91%|█████████ | 10/11 [00:04<00:00,  2.24it/s]
+100%|██████████| 11/11 [00:04<00:00,  2.21it/s]
+100%|██████████| 11/11 [00:04<00:00,  2.27it/s]
+
+scores  : [-5.0, -12.0, 0.0, nan, -10.0, -5.0, -12.0, 0.0, nan, -10.0, -5.0]
+expected: [-5, -12, 0, nan, -10, -5, -12, 0, nan, -10, -5]
+JUDGE TEST OK: 11 rows; every first request was rate limited and retried; markdown / numbered / inline answers parsed; unparsable -> NaN
+RESUME TEST OK: the second run answered everything from the cache

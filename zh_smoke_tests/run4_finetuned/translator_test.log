@@ -1,0 +1,6 @@
+0. context strings identical to add_context_across: 70/70 (turns x windows x modes)
+1. adapter-on-the-fly == merged checkpoint (max logit diff 0.0e+00)
+2. concise mode: no greedy decoding, final output among the candidates; verbose mode: all four systems
+3. COMET unavailable -> chrF-MBR fallback works
+4. typing loop: several messages per line, verbose toggle, reset, transcript on reset/quit
+ALL TESTS PASSED

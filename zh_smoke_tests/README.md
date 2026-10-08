@@ -189,3 +189,10 @@ OUT=runs/ft_smoke LM=smoke_models/tiny-chatml-lm COMET_CKPT=smoke_models/tiny-co
   concise and verbose output, chrF fallback, typing loop.
 * The judge **after the translation** inside the translator (fake API server): the judge's request is checked (system prompt + 1-shot example + context of the previous messages),
   the score is parsed, a failing or unreadable judge neither breaks nor changes the translation, `judge` on/off toggle, mean score in the transcript.
+* **The notebook itself:** `scripts/simulate_train_notebook_cpu.py` executes the code cells of `kaggle/train_eval_zh_kaggle.ipynb` (pre-flight, training, merge, both
+  evaluations, checks, results table, packaging) on CPU with the tiny models inside a scratch copy of Kaggle's folder layout, replacing only model names, backend and sizes
+  (`run4_finetuned/notebook_simulation.log`: pre-flight 47/47 checks, evaluation 48/48 checks, `ALL STEPS OK`). Running the cells this way found a real problem (a setting the
+  results-table step ignored) that the script tests had not. The failure handling was tested too: a failing pre-flight step stops the notebook, a failing step after the
+  training is recorded and the notebook continues.
+* **What none of this can show:** vLLM, 4-bit loading (bitsandbytes), the 2-GPU launch on T4s, the real Tower/COMET models and a real Gemini request were not available,
+  and no result of the fine-tuned system on real data exists yet.

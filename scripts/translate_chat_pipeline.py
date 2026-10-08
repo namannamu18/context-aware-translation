@@ -238,9 +238,16 @@ def main():
     p.add_argument("--template", default=None, help="default: the one recorded in the adapter (else chatml_empty_sys)")
     p.add_argument("--max_new_tokens", type=int, default=128)
     p.add_argument("--verbose", action="store_true")
+    p.add_argument("--judge", choices=["none", "gemini"], default="none", help="grade every translation afterwards (needs GEMINI_API_KEY; skipped with a message without it)")
+    p.add_argument("--judge_model", default="gemini-2.5-flash")
     args = p.parse_args()
+    judge = None
+    if args.judge != "none":
+        from judge_chat import ChatJudge
+
+        judge = ChatJudge.create(judge_model=args.judge_model)
     pt = load_system(args.base_model, args.adapter, None if args.comet_model.lower() == "none" else args.comet_model, args.n_candidates,
-                     args.dtype, args.device_map if args.device_map != "none" else None, args.template, context_size=args.context_size)
+                     args.dtype, args.device_map if args.device_map != "none" else None, args.template, context_size=args.context_size, judge=judge)
     interactive_pipeline(pt, args.max_new_tokens, args.verbose)
 
 

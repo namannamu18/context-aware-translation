@@ -105,7 +105,11 @@ def main():
     with torch.no_grad():
         diff = (a.model(**x).logits - b.model(**x).logits).abs().max().item()
     assert diff < 1e-4, diff
-    print(f"1. adapter-on-the-fly == merged checkpoint (max logit diff {diff:.1e})")
+    plain = ChatTranslator(A.lm, dtype="float32", device_map=None, template="chatml_empty_sys")      # same model WITHOUT the adapter
+    with torch.no_grad():
+        effect = (a.model(**x).logits - plain.model(**x).logits).abs().max().item()
+    assert effect > 1e-3, "the adapter has no effect on the model: the translator would silently use the untrained model"
+    print(f"1. adapter-on-the-fly == merged checkpoint (max logit diff {diff:.1e}); the adapter really changes the model (effect {effect:.3f})")
 
     # 2. concise / verbose conversation ----------------------------------------------------------------------------------------
     pt = tp.load_system(A.lm, adapter=A.adapter, comet_model=A.comet, n_candidates=4, dtype="float32", device_map=None)

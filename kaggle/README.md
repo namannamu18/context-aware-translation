@@ -35,8 +35,10 @@ train_eval_zh_kaggle.ipynb  (run once, Save & Run All)
 
 1. Merge the pull request that contains these notebooks (they clone the `master` branch of the repository).
 2. Open `train_eval_zh_kaggle.ipynb` → Accelerator **GPU T4 x2**, Internet **On** → **Save Version → Save & Run All (Commit)**. It runs in the background
-   (you can close the browser). Settings are in cell 4 (`TRAIN_MINUTES`, `EVAL_DOCS`, `N_CANDIDATES`, `TRAIN_GPUS`). Cell 6 first runs a 4-step check of the
-   training, so a problem shows up after minutes instead of after an hour. If the 2-GPU launch hangs or fails, set `TRAIN_GPUS = 1`.
+   (you can close the browser). Settings are in cell 4 (`TRAIN_MINUTES`, `EVAL_DOCS`, `N_CANDIDATES`, `TRAIN_GPUS`). Cell 6 is a **pre-flight** (about 20 minutes): it runs every later step once at a tiny scale with the real models
+   (4-step training, the pipeline on 2 conversations, the consistency checks, the results table, the translator), so a problem shows up in the first half hour
+   instead of after an hour of training; if it fails, the notebook stops there. After the training, a failing evaluation step is reported at the end but does not stop
+   the notebook, so the adapter is never lost. Expect about 3 hours in total. If the 2-GPU launch hangs or fails, set `TRAIN_GPUS = 1`.
    The notebook's **output** keeps the adapter (`zh_lora/`, about 0.2 GB) and the results (`run_zh/`, `results_zh.zip`); the roughly 30 GB of temporary model
    copies disappear when the session ends.
 3. *(optional)* `judge_zh_kaggle.ipynb`: *Add Input → Notebook Output →* step 2's notebook; create a free key at <https://aistudio.google.com/apikey> and store it with

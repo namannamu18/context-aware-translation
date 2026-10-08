@@ -36,6 +36,7 @@ Run the cells in order:
 | 5 | **Small test run**: 5 BMELD-test conversations, 8 candidates |
 | 6 | Consistency checks (should end with "N/N checks passed") |
 | 7 | Prints greedy / MBR / contrastive / P-CXMI results |
+| 7b–7c | **Type your own messages** and get translations from the full method: greedy with/without context, 16 sampled candidates, best one picked by COMET (also context-aware COMET). Loads the model and COMET once (a few minutes); skipped in *Save & Run All* |
 | 8–9 | A bigger run, and a zip of all results for download |
 
 Interactive sessions stop when idle. For long runs use **Save Version → Save & Run All (Commit)**: it runs in the

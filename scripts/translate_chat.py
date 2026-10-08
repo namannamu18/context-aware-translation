@@ -17,12 +17,35 @@ Command line (type "en: <text>" or "zh: <text>", "reset" to start a new conversa
 """
 
 import argparse
+import re
 import sys
 from pathlib import Path
 from typing import List, Optional, Tuple
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from chat_mt_utils import CODE_LANG_DICT, TEMPLATES, context_content, is_degenerate, iter_conversations, load_jsonl, no_context_content  # noqa: E402
+
+
+_MARKER_RE = re.compile(r"(?<![A-Za-z])(en|zh)\s*[:：]\s*", re.I)
+
+
+def split_messages(line: str) -> List[Tuple[str, str]]:
+    """Split a typed/pasted line into messages: 'en: Hi. zh: 你好' -> [('en', 'Hi.'), ('zh', '你好')].
+    Only en: and zh: start a new message; a line starting with another language code is one message."""
+    line = line.strip()
+    marks = list(_MARKER_RE.finditer(line))
+    if not marks or marks[0].start() != 0:
+        if ":" in line and line.split(":", 1)[0].strip().lower() in CODE_LANG_DICT:
+            lang, text = line.split(":", 1)
+            return [(lang.strip().lower(), text.strip())] if text.strip() else []
+        return []
+    out = []
+    for i, m in enumerate(marks):
+        end = marks[i + 1].start() if i + 1 < len(marks) else len(line)
+        text = line[m.end():end].strip()
+        if text:
+            out.append((m.group(1).lower(), text))
+    return out
 
 
 class ChatTranslator:
@@ -80,6 +103,27 @@ class ChatTranslator:
             )
         return self.tokenizer.decode(gen[0, enc["input_ids"].shape[1]:], skip_special_tokens=True).strip()
 
+    def sample(self, prompt: str, n: int, max_new_tokens: int = 128, temperature: float = 0.7, min_p: float = 0.02) -> List[str]:
+        """n epsilon-sampled translations of one prompt (temperature 0.7, min_p 0.02, no top-k/top-p),
+        the same sampling as scripts/generate_candidates.py."""
+        enc = self.tokenizer(prompt, return_tensors="pt").to(self.model.device)
+        with self.torch.no_grad():
+            gen = self.model.generate(
+                input_ids=enc["input_ids"],
+                attention_mask=enc["attention_mask"],
+                max_new_tokens=max_new_tokens,
+                do_sample=True,
+                temperature=temperature,
+                min_p=min_p,
+                top_k=0,
+                top_p=1.0,
+                num_return_sequences=n,
+                eos_token_id=self.eos_ids,
+                pad_token_id=self.tokenizer.pad_token_id if self.tokenizer.pad_token_id is not None else self.eos_ids[0],
+            )
+        n_prompt = enc["input_ids"].shape[1]
+        return [self.tokenizer.decode(g[n_prompt:], skip_special_tokens=True).strip() for g in gen]
+
     def translate(self, src: str, src_lang: str, tgt_lang: str, history=None, use_context: bool = True, max_new_tokens: int = 128) -> str:
         return self.generate([self.prompt(src, src_lang, tgt_lang, history, use_context)], max_new_tokens)[0]
 
@@ -130,7 +174,8 @@ def quick_check(tr: ChatTranslator, root: Path, dataset: str, n_docs: int, n_sho
 
 
 def interactive(tr: ChatTranslator, max_new_tokens: int = 128, show_no_context: bool = True):
-    print('Type "en: <English text>" or "zh: <Chinese text>"; "reset" = new conversation; "quit" = stop.')
+    print('Type or paste messages starting with "en:" or "zh:" (several on one line are fine).')
+    print('"reset" = new conversation, "quit" = stop (type it on its own line).')
     history = []
     while True:
         try:
@@ -145,17 +190,18 @@ def interactive(tr: ChatTranslator, max_new_tokens: int = 128, show_no_context: 
             history = []
             print("(new conversation)")
             continue
-        if ":" not in line or line.split(":", 1)[0].strip().lower() not in CODE_LANG_DICT:
+        messages = split_messages(line)
+        if not messages:
             print('Start the line with a language code, e.g. "en: Hello" or "zh: 你好".')
             continue
-        lang, text = line.split(":", 1)
-        lang, text = lang.strip().lower(), text.strip()
-        tgt = "zh" if lang == "en" else "en"
-        out = tr.translate(text, lang, tgt, history, use_context=True, max_new_tokens=max_new_tokens)
-        print(f"  [{lang}->{tgt}, with context] {out}")
-        if show_no_context and history:
-            print(f"  [{lang}->{tgt}, no context]   {tr.translate(text, lang, tgt, None, use_context=False, max_new_tokens=max_new_tokens)}")
-        history.append((lang, text))
+        for lang, text in messages:
+            tgt = "zh" if lang == "en" else "en"
+            out = tr.translate(text, lang, tgt, history, use_context=True, max_new_tokens=max_new_tokens)
+            print(f"  [{lang}->{tgt}] {text}")
+            print(f"      with context : {out}")
+            if show_no_context and history:
+                print(f"      no context   : {tr.translate(text, lang, tgt, None, use_context=False, max_new_tokens=max_new_tokens)}")
+            history.append((lang, text))
 
 
 def main():

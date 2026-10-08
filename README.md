@@ -145,6 +145,9 @@ New helper scripts: `generate_translations.py` (tower-eval-style greedy generati
 `serve_openai_compatible.py`, `training_tower_chat/make_zh_chat_mt_data.py` (fine-tuning data, with/without
 context, optionally MBR-distilled). MuDA supports Chinese: `get_muda_accuracy.py --tgt-lang zh`.
 `translate_chat.py` translates your own chat messages (interactive) or a few BMELD conversations (`--quick_check`).
+`translate_chat_pipeline.py` does the same with the full method (greedy, epsilon sampling, COMET MBR incl. the context-aware
+variant) for typed conversations; it uses the same prompts and the same `run_mbr` as the batch pipeline. Typed messages have no
+reference, so it prints translations, not scores.
 
 **Repetition loops.** Greedy decoding occasionally gets stuck (e.g. `啊，啊，啊，…` until `max_tokens`).
 `generate_translations.py --loop_retry_penalty 1.1` (`LOOP_RETRY_PENALTY=1.1` in `run_zh_pipeline.sh`; on by default

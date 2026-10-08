@@ -8,7 +8,7 @@
 | `run_zh_pipeline_kaggle.ipynb` | GPU T4 x2 | the paper's pipeline for the **base** model (no fine-tuning) on a small test set | 30–60 min |
 | **`train_eval_zh_kaggle.ipynb`** | GPU T4 x2 | **one time:** LoRA fine-tuning on BMELD-train + the paper's pipeline for the fine-tuned model + one results table | about 2.5–3 h with the defaults |
 | `judge_zh_kaggle.ipynb` | **None (CPU)** | scores the outputs with Gemini (free API key), adds an MQM column to the results table | 30–40 min (free-tier rate limit) |
-| **`translate_zh_kaggle.ipynb`** | GPU T4 x2 | **one cell:** type a conversation, get the fine-tuned system's translations (paper's primary system) | a few minutes to load, seconds per message |
+| **`translate_zh_kaggle.ipynb`** | GPU T4 x2 | **one cell:** type a conversation, get the fine-tuned system's translations (paper's primary system), optionally graded by the Gemini judge afterwards | a few minutes to load, seconds per message |
 
 ## The fine-tuned system, step by step
 
@@ -24,7 +24,7 @@
    (the API is billed separately). Free-tier limits and model names change; the notebook has `JUDGE_MODEL` and `--rpm` settings, and the judge is
    a different model than the paper's GPT-4, so its scores are not comparable to the paper's.
 4. `translate_zh_kaggle.ipynb`: *Add Input → Notebook Output →* step 2's notebook → run the two cells; the second one asks for your conversation. Messages start with
-   `en:` or `zh:` (several can be pasted on one line); each one is translated with the earlier messages as context. Nothing is trained or evaluated again.
+   `en:` or `zh:` (several can be pasted on one line); each one is translated with the earlier messages as context. Nothing is trained or evaluated again. **The judge also works here:** with the `GEMINI_API_KEY` secret attached, Gemini grades every translation *after* it was produced (it only grades; the choice among the candidates is made by COMET before). Without the secret the cell runs without the judge; type `judge` to switch it off/on.
 
 Everything here was tested on CPU with tiny stand-in models (`scripts/run_zh_finetune_smoke_test.sh`); the first run with the real models may need small fixes.
 

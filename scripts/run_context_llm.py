@@ -41,12 +41,16 @@ def apply_template(template, data):
         raise ValueError(f"Unknown template type {type(template)}")
 
 
-def get_bilingual_context(df, doc_id, seg_id, k):
+def get_bilingual_context(df, doc_id, seg_id, k, mode="target"):
+    """Previous k messages as "Sender (source language): text". mode="target" is the original code: the text is the
+    translation (target_seg) of the system being judged; mode="source" shows the original message instead, which is what
+    the 1-shot examples of the prompt look like."""
+    col = -2 if mode == "target" else 5          # columns: doc_id, segment_id, source_lang, target_lang, sender, source_seg, target_seg, lp
     context_text = []
     for con_seg_id in range(max(0, seg_id - k), seg_id):
         row = df[(df["doc_id"] == doc_id) & (df["segment_id"] == con_seg_id)].values
         assert len(row) == 1
-        context_text.append(f"{row[0][4]} ({row[0][2]}): {row[0][-2]}")
+        context_text.append(f"{row[0][4]} ({row[0][2]}): {row[0][col]}")
     return ("\n").join(context_text)
 
 
@@ -270,6 +274,8 @@ def get_args():
     parser.add_argument("--extra_body_json", type=str, default=None, help='extra request fields as JSON, e.g. \'{"reasoning_effort": "none"}\'')
     parser.add_argument("--cache_file", type=str, default=None, help="jsonl file with finished answers; makes the run resumable")
     parser.add_argument("--max_docs", type=int, default=None, help="judge only the first N conversations (cheaper)")
+    parser.add_argument("--context_mode", choices=["target", "source"], default="target",
+                        help="target (original code): the context shows the translations of the system being judged; source: the original messages")
     args = parser.parse_args()
     return args
 
@@ -364,7 +370,7 @@ def main(args):
         else:
             context.append(
                 get_bilingual_context(
-                    dfs_all, row["doc_id"], row["segment_id"], args.context_size
+                    dfs_all, row["doc_id"], row["segment_id"], args.context_size, args.context_mode
                 )
             )
 

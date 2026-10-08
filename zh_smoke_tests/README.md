@@ -187,3 +187,5 @@ OUT=runs/ft_smoke LM=smoke_models/tiny-chatml-lm COMET_CKPT=smoke_models/tiny-co
   **No real Gemini request was made.**
 * `scripts/test_translate_chat_pipeline.py`: the COMET context strings are identical to the paper code's `add_context_across` (70/70 turn/window/mode combinations),
   concise and verbose output, chrF fallback, typing loop.
+* The judge **after the translation** inside the translator (fake API server): the judge's request is checked (system prompt + 1-shot example + context of the previous messages),
+  the score is parsed, a failing or unreadable judge neither breaks nor changes the translation, `judge` on/off toggle, mean score in the transcript.

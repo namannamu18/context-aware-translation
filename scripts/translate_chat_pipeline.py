@@ -30,6 +30,7 @@ import numpy as np
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import run_context_comet_mbr as mbr_mod  # noqa: E402
+from judge_chat import describe  # noqa: E402
 from translate_chat import ChatTranslator, split_messages  # noqa: E402
 
 
@@ -37,14 +38,16 @@ class Turn(NamedTuple):
     lang: str          # language of the message ("en" / "zh"); also identifies the sender
     text: str          # the message as typed (source)
     comet_best: str    # its translation picked by plain COMET MBR (the "comet-best" column of the pipeline)
+    final: str = ""    # the translation that was output (the paper's primary system); shown to the judge as context
 
 
 class PipelineTranslator:
     def __init__(self, tr: ChatTranslator, comet_model: Optional[str] = "Unbabel/wmt22-comet-da", n_candidates: int = 6,
                  context_size: int = 2, context_mt: str = "source", batch_size: int = 16,
-                 temperature: float = 0.7, min_p: float = 0.02, comet_device=None):
+                 temperature: float = 0.7, min_p: float = 0.02, comet_device=None, judge=None):
         assert context_mt in ("comet-best", "source")
         self.tr = tr
+        self.judge = judge          # optional ChatJudge (scripts/judge_chat.py): grades each final translation AFTER it was chosen
         self.n_candidates = n_candidates
         self.context_size = context_size
         self.context_mt = context_mt
@@ -103,19 +106,26 @@ class PipelineTranslator:
                 mbr_plain = candidates[self._mbr(text, candidates, use_context=False)]
             src_c, outs_c = self.context_strings(history, lang, text, candidates)
             final = candidates[self._mbr(src_c, outs_c, use_context=True)]
+        judged = None
+        if self.judge is not None and self.judge.enabled:   # after the translation: the judge never influences the choice
+            judged = self.judge.score(history, lang, text, final)
         return {"lang": lang, "tgt": tgt, "text": text, "final": final, "greedy_no_context": greedy_no, "greedy_context": greedy_ctx,
-                "mbr": mbr_plain, "mbr_context": final, "candidates": candidates,
-                "turn": Turn(lang, text, mbr_plain if mbr_plain is not None else final)}
+                "mbr": mbr_plain, "mbr_context": final, "candidates": candidates, "judge": judged,
+                "turn": Turn(lang, text, mbr_plain if mbr_plain is not None else final, final)}
 
     def show(self, r: dict) -> None:
         print(f"\n[{r['lang']}->{r['tgt']}] {r['text']}")
         if r["greedy_context"] is None:
             print(f"   -> {r['final']}")
+            if r.get("judge") is not None:
+                print(describe(r["judge"], self.judge.judge_model))
             return
         print(f"   1 no context, greedy                    : {r['greedy_no_context']}")
         print(f"   2 with context, greedy                  : {r['greedy_context']}")
         print(f"   3 with context + COMET MBR              : {r['mbr']}")
         print(f"   4 with context + context-aware MBR (the paper's primary system): {r['final']}")
+        if r.get("judge") is not None:
+            print(describe(r["judge"], self.judge.judge_model))
 
     def run_conversation(self, messages: List[Tuple[str, str]], max_new_tokens: int = 128, verbose: bool = False) -> List[dict]:
         history, results = [], []
@@ -132,14 +142,21 @@ def print_transcript(results: List[dict]) -> None:
         return
     print("\n=== translated conversation ===")
     for r in results:
-        print(f"[{r['lang']}] {r['text']}\n[{r['tgt']}] {r['final']}\n")
+        j = r.get("judge")
+        mark = f"   (judge MQM {j['score']})" if j and j.get("score") is not None else ""
+        print(f"[{r['lang']}] {r['text']}\n[{r['tgt']}] {r['final']}{mark}\n")
+    scores = [r["judge"]["score"] for r in results if r.get("judge") and r["judge"].get("score") is not None]
+    if scores:
+        print(f"judge: mean MQM {sum(scores) / len(scores):.2f} over {len(scores)} of {len(results)} messages (0 = no errors found, more negative = worse)")
 
 
 def interactive_pipeline(pt: PipelineTranslator, max_new_tokens: int = 128, verbose: bool = False):
     print('Type or paste the conversation: messages starting with "en:" or "zh:" (several on one line are fine).')
-    print('"reset" = new conversation, "verbose" = also show the greedy / plain-MBR translations, "quit" = stop and print the transcript.')
+    print('"reset" = new conversation, "verbose" = also show the greedy / plain-MBR translations, "judge" = judge on/off, "quit" = stop and print the transcript.')
     print(f"Each message is translated with the earlier messages as context: {pt.n_candidates} sampled candidates, best one picked by "
           f"{'context-aware COMET' if pt.utility == 'comet' else 'chrF'}.")
+    if pt.judge is not None:
+        print(f"After each translation the judge ({pt.judge.judge_model}) grades it (it only grades, it never changes the translation); type \"judge\" to switch it off/on.")
     history: List[Turn] = []
     results: List[dict] = []
     while True:
@@ -155,6 +172,13 @@ def interactive_pipeline(pt: PipelineTranslator, max_new_tokens: int = 128, verb
             print_transcript(results)
             history, results = [], []
             print("(new conversation)")
+            continue
+        if line.lower() == "judge":
+            if pt.judge is None:
+                print("(no judge: add the GEMINI_API_KEY secret and run the cell again)")
+            else:
+                pt.judge.enabled = not pt.judge.enabled
+                print(f"(judge {'on' if pt.judge.enabled else 'off'})")
             continue
         if line.lower() == "verbose":
             verbose = not verbose

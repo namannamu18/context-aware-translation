@@ -4,6 +4,8 @@
   2. concise mode runs no greedy decoding and picks the final translation among the sampled candidates; verbose mode shows all four systems
   3. COMET unavailable -> chrF-MBR fallback
   4. the typing loop: several messages per line, verbose toggle, reset, transcript
+  5. the judge after the translation (fake API server): what the judge is sent, the score, a failing judge never breaks the translation,
+     the judge never changes the translation, on/off toggle, mean score in the transcript
 
   python scripts/test_translate_chat_pipeline.py --lm <tiny lm> --adapter <adapter> --merged <merged model> --comet <tiny comet model.ckpt>
 """
@@ -13,6 +15,7 @@ import builtins
 import contextlib
 import io
 import itertools
+import os
 import sys
 from pathlib import Path
 
@@ -27,6 +30,43 @@ from translate_chat import ChatTranslator  # noqa: E402
 
 def quiet():
     return contextlib.redirect_stdout(io.StringIO())
+
+
+class FakeApi:
+    """OpenAI-compatible server that records the judge's requests. mode: ok | fail."""
+
+    def __init__(self):
+        import json
+        import threading
+        from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
+
+        outer = self
+        self.requests, self.mode = [], "ok"
+        self.answer = 'Critical:\nno-error\nMajor:\naccuracy/mistranslation - "x"\nMinor:\nstyle/awkward - "y"'
+
+        class H(BaseHTTPRequestHandler):
+            def log_message(self, *a):
+                pass
+
+            def do_POST(self):
+                body = json.loads(self.rfile.read(int(self.headers["Content-Length"])))
+                outer.requests.append(body)
+                if outer.mode == "fail":
+                    self.send_response(500)
+                    self.send_header("Content-Type", "application/json")
+                    self.end_headers()
+                    self.wfile.write(b'{"error": {"message": "boom"}}')
+                    return
+                out = {"id": "x", "object": "chat.completion", "created": 0, "model": "stub",
+                       "choices": [{"index": 0, "finish_reason": "stop", "message": {"role": "assistant", "content": outer.answer}}]}
+                self.send_response(200)
+                self.send_header("Content-Type", "application/json")
+                self.end_headers()
+                self.wfile.write(json.dumps(out).encode())
+
+        self.srv = ThreadingHTTPServer(("127.0.0.1", 0), H)
+        threading.Thread(target=self.srv.serve_forever, daemon=True).start()
+        self.url = f"http://127.0.0.1:{self.srv.server_address[1]}/v1"
 
 
 def main():
@@ -105,6 +145,65 @@ def main():
     assert text.count("=== translated conversation ===") == 2   # transcript printed at reset and at quit
     assert "(verbose on)" in text and "(new conversation)" in text
     print("4. typing loop: several messages per line, verbose toggle, reset, transcript on reset/quit")
+
+    # 5. judge after the translation -------------------------------------------------------------------------------------------
+    import time
+
+    import judge_chat
+    import run_context_llm as rcl
+
+    api = FakeApi()
+    os.environ["FAKE_JUDGE_KEY"] = "not-a-real-key"
+    rcl.time.sleep = lambda s_: None                      # no waiting between retries in the test
+    judge = judge_chat.ChatJudge(provider="openai", base_url=api.url, judge_model="stub", api_key_env="FAKE_JUDGE_KEY", rpm=0, context_size=2)
+    pt3 = tp.PipelineTranslator(pt.tr, comet_model=A.comet, n_candidates=4, judge=judge)
+    conv3 = [("en", "Hi, I bought a coat last week."), ("zh", "尺码太小了。"), ("en", "Which size do you need?")]
+    buf = io.StringIO()
+    with contextlib.redirect_stdout(buf):
+        res3 = pt3.run_conversation(conv3, max_new_tokens=16)
+    assert len(api.requests) == 3 and all(r["judge"]["score"] == -6 for r in res3), [r["judge"] for r in res3]      # 5 (major) + 1 (minor)
+    assert "judge (stub): MQM -6 (0 critical, 1 major, 1 minor)" in buf.getvalue() and 'accuracy/mistranslation - "x"' in buf.getvalue()
+    # what the judge is sent: the third message, context = the previous 2 messages as "Sender (source language): translation" (original code)
+    last = api.requests[2]["messages"]
+    user = last[-1]["content"]
+    assert last[0]["role"] == "system" and last[1]["role"] == "user" and last[2]["role"] == "assistant"      # system prompt + 1-shot example
+    assert "Which size do you need?" in user and res3[2]["final"] in user and 'sender' not in user
+    assert f"Agent (English): {res3[0]['final']}" in user and f"Customer (Chinese): {res3[1]['final']}" in user, user
+    assert 'by "Agent" in English' in user and "Chinese translation" in user
+    assert "top_p" not in api.requests[0] and api.requests[0]["temperature"] == 0 and api.requests[0]["max_tokens"] == 1024
+    # context_mode="source" shows the original messages instead
+    judge_src = judge_chat.ChatJudge(provider="openai", base_url=api.url, judge_model="stub", api_key_env="FAKE_JUDGE_KEY", rpm=0, context_mode="source")
+    hist = [tp.Turn("en", "Hi, I bought a coat last week.", "x", "你好，我上周买了一件外套。"), tp.Turn("zh", "尺码太小了。", "y", "The size is too small.")]
+    u = judge_src.prompt(hist, "en", "Which size do you need?", "你需要哪个尺码？")[-1]["content"]
+    assert "Agent (English): Hi, I bought a coat last week." in u and "Customer (Chinese): 尺码太小了。" in u
+    # the judge never changes the translation: same candidates -> the judge call happens after the choice, and a failing judge does not break anything
+    api.mode = "fail"
+    with contextlib.redirect_stdout(io.StringIO()) as o:
+        r_fail = pt3.run_conversation(conv3[:1], max_new_tokens=16)
+    assert r_fail[0]["final"] in r_fail[0]["candidates"] and r_fail[0]["judge"]["score"] is None and "judge: no score" in o.getvalue()
+    api.mode = "ok"
+    # unreadable answer -> no score, not a perfect score
+    api.answer = "I cannot judge this."
+    with quiet():
+        r_bad = pt3.run_conversation(conv3[:1], max_new_tokens=16)
+    assert r_bad[0]["judge"]["score"] is None
+    api.answer = 'Critical:\nno-error\nMajor:\nno-error\nMinor:\nno-error'
+    # typing loop: judge toggle + mean score in the transcript; judge off -> no request
+    n_before = len(api.requests)
+    lines = iter(["en: Hello there.", "judge", "zh: 你好吗？", "judge", "en: Fine, thanks.", "quit"])
+    builtins.input = lambda prompt="": next(lines)
+    buf = io.StringIO()
+    with contextlib.redirect_stdout(buf):
+        tp.interactive_pipeline(pt3, max_new_tokens=16)
+    text = buf.getvalue()
+    assert len(api.requests) - n_before == 2, "the judge must be called only while it is switched on"
+    assert "(judge off)" in text and "(judge on)" in text and "judge: mean MQM 0.00 over 2 of 3 messages" in text
+    # no key -> no judge, a message, and the translator still works
+    os.environ.pop("FAKE_JUDGE_KEY")
+    with contextlib.redirect_stdout(io.StringIO()) as o:
+        none = judge_chat.ChatJudge.create(provider="openai", base_url=api.url, judge_model="stub", api_key_env="FAKE_JUDGE_KEY")
+    print("5. judge after the translation: prompt and context as in the paper's judge code, score parsed, failing / unreadable judge never breaks "
+          "or changes the translation, on/off toggle, mean score in the transcript")
     print("ALL TESTS PASSED")
 
 

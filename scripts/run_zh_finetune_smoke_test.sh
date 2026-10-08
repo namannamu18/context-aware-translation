@@ -60,7 +60,7 @@ grep -E "^merged" "$OUT/consolidate_judge.log"
 echo "### 8. one-cell translator"
 $PY "$REPO/scripts/test_translate_chat_pipeline.py" --lm "$LM" --adapter "$OUT/adapter" --merged "$OUT/merged" --comet "$COMET_CKPT" \
     > "$OUT/translator_test.log" 2>&1 || fail "translator tests"
-grep -E "^[0-5]\.|ALL TESTS" "$OUT/translator_test.log"
+grep -E "^[0-6]\.|ALL TESTS" "$OUT/translator_test.log"
 
 [ $status -eq 0 ] && echo "SMOKE TEST PASSED" || echo "SMOKE TEST FAILED (see the logs in $OUT)"
 exit $status

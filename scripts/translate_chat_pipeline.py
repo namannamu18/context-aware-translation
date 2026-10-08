@@ -22,6 +22,7 @@ Command line:  python scripts/translate_chat_pipeline.py --adapter finetuned/zh_
 """
 
 import argparse
+import json
 import sys
 from pathlib import Path
 from typing import List, NamedTuple, Optional, Tuple
@@ -197,24 +198,44 @@ def interactive_pipeline(pt: PipelineTranslator, max_new_tokens: int = 128, verb
     return results
 
 
-def load_system(base_model: str = "Unbabel/TowerInstruct-7B-v0.2", adapter: Optional[str] = None, comet_model: Optional[str] = "Unbabel/wmt22-comet-da",
-                n_candidates: int = 6, dtype: str = "float16", device_map: Optional[str] = "auto", template: str = "chatml_empty_sys",
+def read_adapter_setup(adapter: str) -> dict:
+    """What the adapter was trained with (written by scripts/finetune_lora.py): base model, prompt template, whether the context was used.
+    This is how the translator is tied to the training run: nothing about the model has to be repeated by hand."""
+    out, folder = {}, Path(adapter)
+    if (folder / "adapter_config.json").exists():
+        out["base_model"] = json.load(open(folder / "adapter_config.json")).get("base_model_name_or_path")
+    if (folder / "train_info.json").exists():
+        info = json.load(open(folder / "train_info.json"))
+        out["template"], out["context"] = info.get("template"), info.get("context")
+    return out
+
+
+def load_system(base_model: Optional[str] = None, adapter: Optional[str] = None, comet_model: Optional[str] = "Unbabel/wmt22-comet-da",
+                n_candidates: int = 6, dtype: str = "float16", device_map: Optional[str] = "auto", template: Optional[str] = None,
                 **kwargs) -> PipelineTranslator:
-    """Fine-tuned system: base model + LoRA adapter (merged on load) + COMET. Without an adapter this is the base model."""
+    """Fine-tuned system: base model + LoRA adapter (merged on load) + COMET (+ optional judge=ChatJudge). With an adapter, the base model and the
+    prompt template are taken from the adapter folder (what the training run used) unless given explicitly; without an adapter this is the base model."""
+    setup = read_adapter_setup(adapter) if adapter else {}
+    base_model = base_model or setup.get("base_model") or "Unbabel/TowerInstruct-7B-v0.2"
+    template = template or setup.get("template") or "chatml_empty_sys"
+    if adapter:
+        print(f"adapter {adapter}: base model {base_model}, prompt format {template}")
+        if setup.get("context") == "none":
+            print("WARNING: this adapter was trained WITHOUT context, but the translator gives the earlier messages as context.")
     tr = ChatTranslator(base_model, dtype=dtype, device_map=device_map, template=template, adapter=adapter)
     return PipelineTranslator(tr, comet_model=comet_model, n_candidates=n_candidates, **kwargs)
 
 
 def main():
     p = argparse.ArgumentParser()
-    p.add_argument("--base_model", default="Unbabel/TowerInstruct-7B-v0.2")
+    p.add_argument("--base_model", default=None, help="default: the base model recorded in the adapter (else TowerInstruct-7B-v0.2)")
     p.add_argument("--adapter", default=None)
     p.add_argument("--comet_model", default="Unbabel/wmt22-comet-da", help="HF id or local .ckpt; 'none' = chrF-MBR")
     p.add_argument("--n_candidates", type=int, default=6)
     p.add_argument("--context_size", type=int, default=2)
     p.add_argument("--dtype", default="float16", choices=["float16", "bfloat16", "float32"])
     p.add_argument("--device_map", default="auto")
-    p.add_argument("--template", default="chatml_empty_sys")
+    p.add_argument("--template", default=None, help="default: the one recorded in the adapter (else chatml_empty_sys)")
     p.add_argument("--max_new_tokens", type=int, default=128)
     p.add_argument("--verbose", action="store_true")
     args = p.parse_args()

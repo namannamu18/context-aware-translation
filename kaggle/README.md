@@ -10,6 +10,27 @@
 | `judge_zh_kaggle.ipynb` | **None (CPU)** | scores the outputs with Gemini (free API key), adds an MQM column to the results table | 30–40 min (free-tier rate limit) |
 | **`translate_zh_kaggle.ipynb`** | GPU T4 x2 | **one cell:** type a conversation, get the fine-tuned system's translations (paper's primary system), optionally graded by the Gemini judge afterwards | a few minutes to load, seconds per message |
 
+## How the files are connected
+
+```
+train_eval_zh_kaggle.ipynb  (run once, Save & Run All)
+   |  writes zh_lora/        the LoRA adapter + train_info.json (which base model, which prompt format)
+   |  writes run_zh/results_zh/...   the results table (test translations of every system, COMET)
+   |
+   |-- Add Input -> Notebook Output -->  translate_zh_kaggle.ipynb   READS ONLY zh_lora/  (found automatically under /kaggle/input)
+   |                                        base model + prompt format come from the adapter folder, so nothing is repeated by hand
+   |                                        optional: Gemini judge AFTER each translation (secret GEMINI_API_KEY)
+   |
+   '-- Add Input -> Notebook Output -->  judge_zh_kaggle.ipynb       READS ONLY run_zh/results_zh/ (found automatically)
+                                            adds an MQM score column to the results table; has no effect on translations
+```
+
+* Everything runs the same scripts from the repository (each notebook clones `master`): `translate_chat_pipeline.py` (translator) uses `translate_chat.py`,
+  `run_context_comet_mbr.py` (the paper's MBR code) and `judge_chat.py` (which uses `run_context_llm.py`, the paper's judge code).
+* The translator needs **none** of the evaluation files and does not read the results table. The two notebooks that read training output (`translate` and `judge`) need
+  that notebook to have been saved (Save & Run All does it) and added as input.
+* `quick_demo_kaggle.ipynb` and `run_zh_pipeline_kaggle.ipynb` are the older base-model notebooks and are not connected to the others.
+
 ## The fine-tuned system, step by step
 
 1. Merge the pull request that contains these notebooks (they clone the `master` branch of the repository).

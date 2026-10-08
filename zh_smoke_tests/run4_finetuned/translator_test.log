@@ -4,4 +4,5 @@
 3. COMET unavailable -> chrF-MBR fallback works
 4. typing loop: several messages per line, verbose toggle, reset, transcript on reset/quit
 5. judge after the translation: prompt and context as in the paper's judge code, score parsed, failing / unreadable judge never breaks or changes the translation, on/off toggle, mean score in the transcript
+6. translator tied to the training run: base model and prompt format come from the adapter folder
 ALL TESTS PASSED

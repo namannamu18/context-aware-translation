@@ -6,6 +6,7 @@
   4. the typing loop: several messages per line, verbose toggle, reset, transcript
   5. the judge after the translation (fake API server): what the judge is sent, the score, a failing judge never breaks the translation,
      the judge never changes the translation, on/off toggle, mean score in the transcript
+  6. the translator is tied to the training run through the adapter folder: base model and prompt format are read from it
 
   python scripts/test_translate_chat_pipeline.py --lm <tiny lm> --adapter <adapter> --merged <merged model> --comet <tiny comet model.ckpt>
 """
@@ -204,6 +205,14 @@ def main():
         none = judge_chat.ChatJudge.create(provider="openai", base_url=api.url, judge_model="stub", api_key_env="FAKE_JUDGE_KEY")
     print("5. judge after the translation: prompt and context as in the paper's judge code, score parsed, failing / unreadable judge never breaks "
           "or changes the translation, on/off toggle, mean score in the transcript")
+    # 6. the adapter folder carries the setup of the training run ----------------------------------------------------------------
+    setup = tp.read_adapter_setup(A.adapter)
+    assert setup["base_model"] == A.lm and setup["template"] == "chatml_empty_sys" and setup["context"] == "full", setup
+    with quiet():
+        pt4 = tp.load_system(adapter=A.adapter, comet_model=A.comet, n_candidates=4, dtype="float32", device_map=None)   # nothing repeated by hand
+    from chat_mt_utils import TEMPLATES
+    assert pt4.tr.template == TEMPLATES["chatml_empty_sys"]
+    print("6. translator tied to the training run: base model and prompt format come from the adapter folder")
     print("ALL TESTS PASSED")
 
 

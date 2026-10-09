@@ -86,7 +86,7 @@ Run the cells in order:
 |---|---|
 | 1 | Shows the GPUs (should list two Tesla T4) |
 | 2 | Sparse-clones only the code and the en↔zh data |
-| 3 | Installs vLLM 0.6.4, COMET 2.2.7, … (if the next cells fail on a torch/CUDA import, **Run → Restart session** and continue from cell 4) |
+| 3 | Builds a separate **Python 3.11 environment** (uv) with vLLM 0.6.4, torch 2.5.1, COMET 2.2.7, … Kaggle's default Python (3.13) is too new for these pinned versions; all later commands use this environment. After **Restart session** or a new session, run cells 1–5 again (the environment lives in `/kaggle/temp`) |
 | 4 | Settings: float16 + tensor parallelism over the two T4s (`VLLM_ENGINE_ARGS`), same for contrastive decoding (`CD_EXTRA_ARGS`) |
 | 5 | **Small test run**: 5 BMELD-test conversations, 8 candidates |
 | 6 | Consistency checks (should end with "N/N checks passed") |
@@ -108,3 +108,12 @@ context windows 0/2/6/10/15, full test set of 2,601 segments) does not fit into 
 - T4s have no bfloat16, so the model runs in float16. This can change outputs slightly compared with the paper's bfloat16 runs.
 - These settings could not be tested on Kaggle while they were written (the development environment had no GPU and
   no HuggingFace access). If something fails, the error message of the failing step is printed in cell 5's output.
+
+
+## Why a separate Python 3.11 environment
+
+Kaggle's default image moved to Python 3.13. vLLM 0.6.4 (needs torch 2.5.1) and `numpy<2` (needed by COMET) have no Python 3.13 builds, so a plain
+`pip install` fails (`No matching distribution found for torchvision==0.20.1`). Cell 3 of the training notebook and cell 1 of the translator notebook
+therefore create `/kaggle/temp/venv311` with `uv` and install the pinned libraries there. The translator notebook runs the translator in that
+environment as a child process (`scripts/notebook_bridge.py`) and asks for the conversation in the cell as before. The judge notebook only needs
+pandas, numpy, sacrebleu and openai and runs in Kaggle's own Python.

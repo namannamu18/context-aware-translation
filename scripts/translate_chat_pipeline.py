@@ -23,6 +23,7 @@ Command line:  python scripts/translate_chat_pipeline.py --adapter finetuned/zh_
 
 import argparse
 import json
+import os
 import sys
 from pathlib import Path
 from typing import List, NamedTuple, Optional, Tuple
@@ -151,6 +152,21 @@ def print_transcript(results: List[dict]) -> None:
         print(f"judge: mean MQM {sum(scores) / len(scores):.2f} over {len(scores)} of {len(results)} messages (0 = no errors found, more negative = worse)")
 
 
+PROMPT_MARK = "\x01PROMPT"
+
+
+def read_line() -> str:
+    """input("> "), or, when the translator runs as a child process of a notebook (CAT_BRIDGE=1, see scripts/notebook_bridge.py), a marker line
+    that tells the notebook to ask the user, then the answer from stdin."""
+    if os.environ.get("CAT_BRIDGE") != "1":
+        return input("> ")
+    print(PROMPT_MARK, flush=True)
+    line = sys.stdin.readline()
+    if not line:
+        raise EOFError
+    return line.rstrip("\n")
+
+
 def interactive_pipeline(pt: PipelineTranslator, max_new_tokens: int = 128, verbose: bool = False):
     print('Type or paste the conversation: messages starting with "en:" or "zh:" (several on one line are fine).')
     print('"reset" = new conversation, "verbose" = also show the greedy / plain-MBR translations, "judge" = judge on/off, "quit" = stop and print the transcript.')
@@ -162,7 +178,7 @@ def interactive_pipeline(pt: PipelineTranslator, max_new_tokens: int = 128, verb
     results: List[dict] = []
     while True:
         try:
-            line = input("> ").strip()
+            line = read_line().strip()
         except EOFError:
             break
         if not line:

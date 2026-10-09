@@ -109,7 +109,11 @@ def main():
         for cond in (CONDS if want("pcxmi") else []):
             pdir = root / "pcxmi" / cond / "mt" / f"{ds}.{lp}" / args.model_name
             ref_lps = load_jsonl(pdir / "log_probs_ref.jsonl")
-            exp = [len(tok.encode(d["ref"], add_special_tokens=False)) + 1 for d in data]
+            # tokens the reference adds after the instruction (+ EOS). Encoded jointly like scripts/pcxmi.py does: SentencePiece adds a dummy leading
+            # space token to text encoded alone, so len(encode(ref)) would be one token too long for some segments. The newline before the answer is
+            # a byte token that never merges, so the difference of the two lengths is exactly the answer.
+            insts = read_lines(root / "instructions" / cond / "mt" / f"{ds}.{lp}" / "instructions.txt", unescape_newline=True)
+            exp = [len(tok.encode(i + d["ref"])) - len(tok.encode(i)) + 1 for i, d in zip(insts, data)]
             got = [len(x["log_probs"]) for x in ref_lps]
             check(f"{lp}: P-CXMI ref gating ({cond})", got == exp, f"{sum(a == b for a, b in zip(got, exp))}/{n} segments match")
             src_lps = load_jsonl(pdir / "log_probs_src.jsonl")

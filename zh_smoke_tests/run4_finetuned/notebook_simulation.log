@@ -1,0 +1,31 @@
+##### cell 1: skipped (install / GPU / download / clone)
+##### cell 2: skipped (install / GPU / download / clone)
+##### cell 3: skipped (install / GPU / download / clone)
+##### cell 4: import os, re, subprocess, time
+##### cell 5: skipped (install / GPU / download / clone)
+##### cell 6: # 6. PRE-FLIGHT (about 20 minutes): every step that comes later is run once at a tiny scale with the
+[0.2 min since start] 6a training works
+[1.8 min since start] 6b pipeline works
+47/47 checks passed
+[1.9 min since start] 6c checks pass
+[2.0 min since start] 6c results table works
+[2.2 min since start] 6d translator works
+PRE-FLIGHT PASSED: every step ran once with the real models. The long part starts now.
+##### cell 7: # 7. FINE-TUNING (LoRA on BMELD-train with context, in the empty-system-prompt chat format of the pa
+[2.8 min since start] fine-tuning finished
+##### cell 8: # 8. Training summary + merge the adapter into the base weights (the standalone model used by the ev
+[2.9 min since start] adapter merged
+##### cell 9: # 9. Evaluation A: the base model, greedy, without / with context (the paper's baselines)
+[3.2 min since start] base model evaluated
+##### cell 10: # 10. Evaluation B: the fine-tuned model = the paper's pipeline (greedy, sampled candidates, COMET M
+[4.7 min since start] fine-tuned model evaluated
+##### cell 11: # 11. Consistency checks (prompt alignment, P-CXMI token gating, MBR selections, line counts): shoul
+48/48 checks passed
+[4.9 min since start] checks done
+##### cell 12: # 12. One results table with every system (like the paper's paper_results/*.csv) + COMET per message
+[5.0 min since start] results table written
+##### cell 13: # 13. Pack the small result files (candidates and model copies are left out), free the temporary cop
+[5.0 min since start] done
+TOTAL 5 min. Kept as output: <kaggle>/working/zh_lora (adapter), <kaggle>/working/run_zh, results_zh.zip
+ALL STEPS OK
+NOTEBOOK SIMULATION FINISHED in 5.0 min; FAILED = []; adapter and results table present: True

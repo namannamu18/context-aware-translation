@@ -165,3 +165,34 @@ produce MQM annotations (all scores 0), so **judge quality was not evaluated**; 
 
 `runN/pipeline_report.json` (all scores of the run), `runN/pcxmi_summary.json`, `runN/checks.txt`,
 `runN/tower_eval_evaluation.json`, `runN/pipeline_stages.log`, `smoke_lm_*` (smoke-model config and training logs).
+
+
+## Run 4: the fine-tuned workflow (LoRA fine-tuning, merge, `_empty_sys` pipeline, results table, judge, one-cell translator)
+
+`scripts/run_zh_finetune_smoke_test.sh` (results in `run4_finetuned/`) tests the code behind `kaggle/train_eval_zh_kaggle.ipynb`,
+`judge_zh_kaggle.ipynb` and `translate_zh_kaggle.ipynb` with the same tiny models — again **plumbing only, the scores are meaningless**:
+
+```bash
+OUT=runs/ft_smoke LM=smoke_models/tiny-chatml-lm COMET_CKPT=smoke_models/tiny-comet/checkpoints/model.ckpt NPROC=2 \
+  bash scripts/run_zh_finetune_smoke_test.sh
+```
+
+* LoRA fine-tuning with **two processes** (gloo; the multi-GPU path of the Kaggle notebook): loss masking on the answer, time-aware learning-rate schedule,
+  synchronised stopping; the merged checkpoint gives the same logits as the adapter loaded on the fly (difference ~1e-5).
+* The pipeline with `PROMPT_SUFFIX=_empty_sys` (greedy, candidates, MBR variants, contrastive decoding with one model load for all variants, P-CXMI):
+  `run4_finetuned/checks.txt`, **48/48 checks passed**.
+* `scripts/consolidate_zh_results.py`: the table with 10 systems and per-message COMET (`results_table.md`).
+* The judge against a **fake** API server (`scripts/test_judge_stub.py`): every first request answered with a rate-limit error and retried, answers with markdown
+  headers / numbered lists / inline errors parsed, an unparsable answer gives NaN, a second run is answered completely from the cache.
+  **No real Gemini request was made.**
+* `scripts/test_translate_chat_pipeline.py`: the COMET context strings are identical to the paper code's `add_context_across` (70/70 turn/window/mode combinations),
+  concise and verbose output, chrF fallback, typing loop.
+* The judge **after the translation** inside the translator (fake API server): the judge's request is checked (system prompt + 1-shot example + context of the previous messages),
+  the score is parsed, a failing or unreadable judge neither breaks nor changes the translation, `judge` on/off toggle, mean score in the transcript.
+* **The notebook itself:** `scripts/simulate_train_notebook_cpu.py` executes the code cells of `kaggle/train_eval_zh_kaggle.ipynb` (pre-flight, training, merge, both
+  evaluations, checks, results table, packaging) on CPU with the tiny models inside a scratch copy of Kaggle's folder layout, replacing only model names, backend and sizes
+  (`run4_finetuned/notebook_simulation.log`: pre-flight 47/47 checks, evaluation 48/48 checks, `ALL STEPS OK`). Running the cells this way found a real problem (a setting the
+  results-table step ignored) that the script tests had not. The failure handling was tested too: a failing pre-flight step stops the notebook, a failing step after the
+  training is recorded and the notebook continues.
+* **What none of this can show:** vLLM, 4-bit loading (bitsandbytes), the 2-GPU launch on T4s, the real Tower/COMET models and a real Gemini request were not available,
+  and no result of the fine-tuned system on real data exists yet.

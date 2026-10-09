@@ -1,0 +1,8 @@
+0. context strings identical to add_context_across: 70/70 (turns x windows x modes)
+1. adapter-on-the-fly == merged checkpoint (max logit diff 0.0e+00); the adapter really changes the model (effect 0.048)
+2. concise mode: no greedy decoding, final output among the candidates; verbose mode: all four systems
+3. COMET unavailable -> chrF-MBR fallback works
+4. typing loop: several messages per line, verbose toggle, reset, transcript on reset/quit
+5. judge after the translation: prompt and context as in the paper's judge code, score parsed, failing / unreadable judge never breaks or changes the translation, on/off toggle, mean score in the transcript
+6. translator tied to the training run: base model and prompt format come from the adapter folder
+ALL TESTS PASSED

@@ -1,0 +1,36 @@
+{
+  "base_model": "smoke_models/tiny-chatml-lm",
+  "template": "chatml_empty_sys",
+  "context": "full",
+  "n_turns": null,
+  "dataset": "bmeld_train",
+  "n_train_examples": 64,
+  "skipped_too_long": 0,
+  "train_tokens_per_epoch": 7803,
+  "dtype": "float32",
+  "4bit": false,
+  "lora": {
+    "r": 16,
+    "alpha": 32,
+    "dropout": 0.05,
+    "targets": [
+      "q_proj",
+      "k_proj",
+      "v_proj",
+      "o_proj",
+      "gate_proj",
+      "up_proj",
+      "down_proj"
+    ]
+  },
+  "lr": 0.0002,
+  "effective_batch": 8,
+  "world_size": 2,
+  "time_budget_min": null,
+  "dev_loss_before": 6.164271354675293,
+  "train_seconds": 3.2,
+  "steps": 6,
+  "examples_seen": 48,
+  "train_loss": 1.7102,
+  "dev_loss_after": 5.359162330627441
+}

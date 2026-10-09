@@ -22,6 +22,11 @@
 #                                are translated again with that penalty, all other outputs stay identical
 #   VLLM_ENGINE_ARGS=            JSON passed to vllm.LLM, e.g. '{"dtype":"half","tensor_parallel_size":2}' on 2x T4
 #   CD_EXTRA_ARGS=               extra args for contrastive decoding, e.g. "--torch_dtype float16 --device_map auto"
+#   PROMPT_SUFFIX=               "" (base model: no_context / full_context prompts) or "_empty_sys" (the paper's fine-tuned chat
+#                                model: no_context_empty_sys / full_context_empty_sys prompts)
+#   STAGES=all                   or a subset of: data instructions greedy eval candidates mbr cd pcxmi report
+#   CD_VARIANTS="c1_nc0 c0_nc1 c1_nc1 c5_nc1 c1_nc1_t0.7_minp0.02_n4"   contrastive decoding settings (one model load for all)
+#   MBR_STYLES="source comet-best"   context-aware COMET MBR variants per context size (the paper's primary system is "source", w=2)
 set -euo pipefail
 
 REPO=$(cd "$(dirname "$0")/.." && pwd)
@@ -42,18 +47,27 @@ CONTEXT_SIZES=${CONTEXT_SIZES:-"0 2"}
 MAX_TOKENS=${MAX_TOKENS:-1024}
 REPETITION_PENALTY=${REPETITION_PENALTY:-1.0}
 LOOP_RETRY_PENALTY=${LOOP_RETRY_PENALTY:-0}
+PROMPT_SUFFIX=${PROMPT_SUFFIX:-}
+STAGES=${STAGES:-all}
+CD_VARIANTS=${CD_VARIANTS:-"c1_nc0 c0_nc1 c1_nc1 c5_nc1 c1_nc1_t0.7_minp0.02_n4"}
+MBR_STYLES=${MBR_STYLES:-"source comet-best"}
+NC=no_context${PROMPT_SUFFIX}
+FC=full_context${PROMPT_SUFFIX}
 DS=${DATA_NAME}_${SPLIT}
 LPS="en-zh zh-en"
 
+want() { [ "$STAGES" = "all" ] || [[ " $STAGES " == *" $1 "* ]]; }
+
 mkdir -p "$ROOT"
 ROOT=$(cd "$ROOT" && pwd)
-echo "### run_zh_pipeline: ROOT=$ROOT DS=$DS MODEL=$MODEL BACKEND=$BACKEND N=$N_CANDIDATES UTILITY=$UTILITY"
+echo "### run_zh_pipeline: ROOT=$ROOT DS=$DS MODEL=$MODEL BACKEND=$BACKEND N=$N_CANDIDATES UTILITY=$UTILITY PROMPTS=$FC/$NC STAGES=$STAGES"
 
 step() { echo; echo "=================== $* ==================="; }
 
 # 1. data -----------------------------------------------------------------------------------
 step "1. data"
-if [ -n "$MAX_DOCS" ]; then
+if ! want data; then echo "(skipped)"
+elif [ -n "$MAX_DOCS" ]; then
     $PY "$REPO/scripts/subset_zh_dataset.py" --src_root "$REPO" --dst_root "$ROOT" --data_name "$DATA_NAME" \
         --split "$SPLIT" --max_docs "$MAX_DOCS" --skip_docs "$SKIP_DOCS"
 elif [ "$ROOT" != "$REPO" ]; then
@@ -62,28 +76,37 @@ fi
 
 # 2. instructions ---------------------------------------------------------------------------
 step "2. instructions"
+if want instructions; then
 $PY "$REPO/scripts/make_instructions.py" --root_dir "$ROOT" --datasets "$DS" --pairs en-zh \
     --conditions no_context full_context no_context_empty_sys full_context_empty_sys full_context_6_turns
+fi
 
 # 3. greedy decoding (tower-eval gen equivalent) + 4. evaluation ------------------------------
-step "3. greedy decoding (no_context / full_context)"
+step "3. greedy decoding ($NC / $FC)"
+if want greedy; then
 $PY "$REPO/scripts/generate_translations.py" --root_dir "$ROOT" --model "$MODEL" --model_name "$MODEL_NAME" \
-    --conditions no_context full_context --datasets "$DS" --lps $LPS --backend "$BACKEND" --max_tokens "$MAX_TOKENS" \
+    --conditions $NC $FC --datasets "$DS" --lps $LPS --backend "$BACKEND" --max_tokens "$MAX_TOKENS" \
     --repetition_penalty "$REPETITION_PENALTY" --loop_retry_penalty "$LOOP_RETRY_PENALTY"
+fi
 step "4. evaluation"
+if want eval; then
 $PY "$REPO/scripts/evaluate_translations.py" --root_dir "$ROOT" --model_name "$MODEL_NAME" --backend "$BACKEND" \
-    --conditions no_context full_context --datasets "$DS" --lps $LPS --comet_model "$COMET_MODEL"
+    --conditions $NC $FC --datasets "$DS" --lps $LPS --comet_model "$COMET_MODEL"
+fi
 
 # 5. candidates (epsilon sampling: temperature 0.7, min_p 0.02) ------------------------------
 step "5. epsilon-sampling candidates"
+if want candidates; then
 $PY "$REPO/scripts/generate_candidates.py" --root_dir "$ROOT" --model "$MODEL" --model_stem "$MODEL_NAME" \
-    --datasets "$DS" --lps $LPS --prompts no_context full_context --n_candidates "$N_CANDIDATES" \
+    --datasets "$DS" --lps $LPS --prompts $NC $FC --n_candidates "$N_CANDIDATES" \
     --backend "$BACKEND" --max_tokens "$MAX_TOKENS"
+fi
 
 # 6. MBR / QAD --------------------------------------------------------------------------------
 step "6. MBR decoding"
+if want mbr; then
 cd "$ROOT"  # run_context_comet_mbr.py reads candidates/ and generations/ relative to the cwd
-for context in no_context full_context; do
+for context in $NC $FC; do
     OUT_DIR=mbr_outputs/mbr_outputs_${SPLIT}/${context}/${MODEL_NAME}/${DS}.en-zh
     mkdir -p "$OUT_DIR"
     MBR_ARGS=(--lang_pair en-zh --split "$SPLIT" --data_name "$DATA_NAME" --data_dir "$ROOT/paper_results_zh"
@@ -92,45 +115,48 @@ for context in no_context full_context; do
     # (a) standard (source-only) COMET MBR
     $PY "$REPO/scripts/run_context_comet_mbr.py" "${MBR_ARGS[@]}" --save_output "$OUT_DIR/comet_eps"
     for w in $CONTEXT_SIZES; do
-        # (b) context-aware COMET MBR, context = previous source utterances
-        $PY "$REPO/scripts/run_context_comet_mbr.py" "${MBR_ARGS[@]}" --use_context --context_size "$w" \
-            --context_source source --context_mt source --save_output "$OUT_DIR/comet_eps_context_source_w${w}"
-        # (c) context-aware COMET MBR, context = COMET-MBR-selected translations of previous utterances
-        $PY "$REPO/scripts/run_context_comet_mbr.py" "${MBR_ARGS[@]}" --use_context --context_size "$w" \
-            --context_source source --context_mt comet-best --save_output "$OUT_DIR/comet_eps_context_comet-best_w${w}"
+        for style in $MBR_STYLES; do
+            # (b) context-aware COMET MBR, context = previous source utterances (style "source", the paper's primary system)
+            # (c) context-aware COMET MBR, context = COMET-MBR-selected translations of previous utterances (style "comet-best")
+            $PY "$REPO/scripts/run_context_comet_mbr.py" "${MBR_ARGS[@]}" --use_context --context_size "$w" \
+                --context_source source --context_mt "$style" --save_output "$OUT_DIR/comet_eps_context_${style}_w${w}"
+        done
     done
 done
 cd - > /dev/null
+fi
 
 # 7. contrastive decoding (context vs. no-context prompts) ------------------------------------
 step "7. contrastive decoding"
+if want cd; then
 CD_DIR=$ROOT/contrast_decode/${DS}.en-zh
 mkdir -p "$CD_DIR"
 EVAL_FLAG=()
 [ "$UTILITY" = "comet" ] && EVAL_FLAG=(--eval --comet_model "$COMET_MODEL")
 CD_ARGS=(--lang_pair en-zh --split "$SPLIT" --data_name "$DATA_NAME" --data_dir "$ROOT/paper_results_zh/$DATA_NAME"
          --instructions_dir "$ROOT/instructions" --model_name_or_path "$MODEL"
-         --context_prompt full_context --no_context_prompt no_context --max_new_tokens "$MAX_TOKENS" ${CD_EXTRA_ARGS:-})
-$PY "$REPO/scripts/run_contrastive_decoding.py" "${CD_ARGS[@]}" "${EVAL_FLAG[@]}" --non_context_weight 0 --save_output "$CD_DIR/c1_nc0"
-$PY "$REPO/scripts/run_contrastive_decoding.py" "${CD_ARGS[@]}" "${EVAL_FLAG[@]}" --context_weight 0 --save_output "$CD_DIR/c0_nc1"
-$PY "$REPO/scripts/run_contrastive_decoding.py" "${CD_ARGS[@]}" "${EVAL_FLAG[@]}" --save_output "$CD_DIR/c1_nc1"
-$PY "$REPO/scripts/run_contrastive_decoding.py" "${CD_ARGS[@]}" "${EVAL_FLAG[@]}" --context_weight 5 --save_output "$CD_DIR/c5_nc1"
-$PY "$REPO/scripts/run_contrastive_decoding.py" "${CD_ARGS[@]}" --num_return_sequences 4 --sample --temperature 0.7 --min_p 0.02 \
-    --save_output "$CD_DIR/c1_nc1_t0.7_minp0.02_n4"
+         --context_prompt "$FC" --no_context_prompt "$NC" --max_new_tokens "$MAX_TOKENS" ${CD_EXTRA_ARGS:-})
+# all variants in one process: the model (and COMET) is loaded once
+$PY "$REPO/scripts/run_contrastive_decoding.py" "${CD_ARGS[@]}" "${EVAL_FLAG[@]}" --variants $CD_VARIANTS --save_dir "$CD_DIR"
+fi
 
 # 8. P-CXMI ------------------------------------------------------------------------------------
 step "8. P-CXMI"
+if want pcxmi; then
 $PY "$REPO/scripts/pcxmi.py" --root_dir "$ROOT" --model "$MODEL" --model_stem "$MODEL_NAME" --datasets "$DS" --lps $LPS \
-    --context_settings full_context no_context --targets ref hyp src --ref_source raw_data \
+    --context_settings $FC $NC --targets ref hyp src --ref_source raw_data \
     --sep_tokens "$SEP_TOKENS" --backend "$BACKEND" --max_tokens "$MAX_TOKENS"
 $PY "$REPO/scripts/pcxmi_hyps.py" --root_dir "$ROOT" --model "$MODEL" --model_stem "$MODEL_NAME" --gen_model_name "$MODEL_NAME" \
-    --datasets "$DS" --lps $LPS --full_context_prompt_name full_context --no_context_prompt_name no_context \
+    --datasets "$DS" --lps $LPS --full_context_prompt_name "$FC" --no_context_prompt_name "$NC" \
     --sep_tokens "$SEP_TOKENS" --backend "$BACKEND" --gen_backend "$BACKEND"
 $PY "$REPO/scripts/pcxmi_summary.py" --root_dir "$ROOT" --datasets "$DS" --lps $LPS --model_stem "$MODEL_NAME" \
     --out "$ROOT/pcxmi_summary.json" > /dev/null
+fi
 
-# 9. report ------------------------------------------------------------------------------------
+# 9. report ------------------------------------------------------------------------------------------------------
 step "9. report"
+if want report; then
 $PY "$REPO/scripts/zh_pipeline_report.py" --root_dir "$ROOT" --data_name "$DATA_NAME" --split "$SPLIT" \
     --model_name "$MODEL_NAME" --gen_backend "$BACKEND" --out "$ROOT/pipeline_report.json" > /dev/null
 echo "### done: $ROOT/pipeline_report.json"
+fi

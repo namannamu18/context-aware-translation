@@ -145,6 +145,9 @@ New helper scripts: `generate_translations.py` (tower-eval-style greedy generati
 `serve_openai_compatible.py`, `training_tower_chat/make_zh_chat_mt_data.py` (fine-tuning data, with/without
 context, optionally MBR-distilled). MuDA supports Chinese: `get_muda_accuracy.py --tgt-lang zh`.
 `translate_chat.py` translates your own chat messages (interactive) or a few BMELD conversations (`--quick_check`).
+`translate_chat_pipeline.py` does the same with the full method (greedy, epsilon sampling, COMET MBR incl. the context-aware
+variant) for typed conversations; it uses the same prompts and the same `run_mbr` as the batch pipeline. Typed messages have no
+reference, so it prints translations, not scores.
 
 **Repetition loops.** Greedy decoding occasionally gets stuck (e.g. `啊，啊，啊，…` until `max_tokens`).
 `generate_translations.py --loop_retry_penalty 1.1` (`LOOP_RETRY_PENALTY=1.1` in `run_zh_pipeline.sh`; on by default
@@ -152,6 +155,30 @@ in the Kaggle notebook and in `translate_chat.py`) re-translates *only* such out
 and far more often than in the source) with repetition penalty 1.1. All other outputs are byte-identical to plain
 greedy decoding. A global `--repetition_penalty` also exists but changes normal translations too, so it is not recommended.
 Default: off (paper setup).
+
+### Fine-tuned system, judge and one-cell translator
+
+The paper's main system is TowerInstruct-7B **fine-tuned on chat MT data with the conversation as context**
+(`Unbabel/TowerInstruct-WMT24-Chat-7B`); its sampled candidates are re-ranked with context-aware COMET MBR, and that
+"contextual MBR re-ranking" (`mbr-source` in `paper_results`) was the primary WMT24 submission
+(`submission_unbabel+it/README.md`, `notebooks/test-eval.ipynb`). The same workflow for English↔Chinese, sized for Kaggle's free GPUs:
+
+| Paper | Here |
+|---|---|
+| full fine-tuning (axolotl) on the WMT24 chat training data, with context | `scripts/finetune_lora.py`: **LoRA on a 4-bit base (QLoRA)** on BMELD-train, same data format (`full_context` instruction in the empty-system chat template, loss on the reference only), runtime bounded by `--time_budget_min`; `scripts/merge_lora.py` merges the adapter into a standalone checkpoint |
+| 100 sampled candidates per message | 6 (`N_CANDIDATES`) |
+| WMT24 chat dev/test sets | a subset of BMELD-test (`MAX_DOCS` conversations) |
+| prompts of the fine-tuned model (`*_empty_sys`) | `PROMPT_SUFFIX=_empty_sys` in `scripts/run_zh_pipeline.sh` (also `STAGES`, `CD_VARIANTS`, `MBR_STYLES`) |
+| `paper_results/{dev,test}.<lp>.csv`: one row per message, a column per system | `scripts/consolidate_zh_results.py` → `results_zh/<data>/<split>.en-zh.csv` (+ `.summary.md`): base / fine-tuned greedy with and without context, `mbr`, `mbr-source` (primary), `mbr-hyp`, contrastive decoding, COMET per message |
+| GPT-4 GEMBA-MQM judge, 1-shot examples from human annotations | `run_context_llm.py --provider gemini` (Gemini through Google AI Studio's free tier; key from `GEMINI_API_KEY`, never from the command line) with an en-zh 1-shot example **written for this repository**. Scores are **not comparable** to the paper's GPT-4 numbers. Note on the inherited code: with `--context_mode target` (default, as in the original `run_context_llm.py`) the judge's context shows the *translations* of the earlier messages labelled with the source language (e.g. `Agent (English): 你好…`), whereas the prompt's own 1-shot examples show the original messages; `--context_mode source` gives the latter. Robust to the answer formats of other LLMs (an unparsable answer is NaN, never a perfect score), retries, rate limit, resumable |
+| files only (no interactive use) | `scripts/translate_chat_pipeline.py`: type a conversation, every message is translated with the earlier ones as context by the fine-tuned model (6 candidates, context-aware COMET MBR = the paper's primary system). **Optionally the judge grades each translation right after it was produced** (`scripts/judge_chat.py`, same prompt and parser as `run_context_llm.py`; it only grades, it never changes the translation) |
+
+Kaggle notebooks (details in [`kaggle/README.md`](kaggle/README.md)): `train_eval_zh_kaggle.ipynb` (one time: fine-tune + evaluate),
+`judge_zh_kaggle.ipynb` (CPU only), `translate_zh_kaggle.ipynb` (your own conversations, one cell, no training or evaluation again).
+The whole workflow was tested on CPU with the tiny test models (`scripts/run_zh_finetune_smoke_test.sh`, results in
+`zh_smoke_tests/run4_finetuned/`); it has **not** been run on a GPU with the real Tower and COMET models yet, so the first Kaggle run may need small fixes.
+Deviations from the paper to keep in mind: LoRA instead of full fine-tuning, BMELD (TV dialogue) instead of customer-support chats, 6 instead of 100 candidates,
+a small test subset, Gemini instead of GPT-4. Numbers from this setup are a sanity check of the pipeline, not research results.
 
 ### Paid components and free alternatives
 
@@ -161,6 +188,7 @@ Paid components (GPT-4o translation baseline, GPT-4 GEMBA/ContextMQM) are not ne
 |---|---|---|
 | `gpt-4o` baseline (`configs/*_openai.yaml`) | `configs/zh/{no,full}_context_open_llm.yaml` with `Qwen/Qwen2.5-7B-Instruct` (Apache-2.0, ChatML — the Tower prompts are used unchanged) | config provided; not run here (no HF access) |
 | GPT-4 GEMBA / ContextMQM (`run_context_llm.py`) | any open instruct model behind an OpenAI-compatible server (`vllm serve Qwen/Qwen2.5-72B-Instruct`, or `scripts/serve_openai_compatible.py`) via `--base_url --judge_model` | code path tested end-to-end on en↔zh with a local server; judge quality of a real open model not measured |
+| GPT-4 GEMBA-MQM (context-aware) as a judge | **Gemini via Google AI Studio's free tier**: `run_context_llm.py --provider gemini`, `kaggle/judge_zh_kaggle.ipynb` (a ChatGPT Pro subscription does *not* include OpenAI API access) | tested against a fake API server (retries, formats, resume); not run with a real key; free-tier limits apply |
 
 COMET-22 (`Unbabel/wmt22-comet-da`), used for MBR and evaluation, is already free/open.
 `--utility chrf` is only a fallback for environments without any COMET checkpoint; the paper's method is COMET MBR.

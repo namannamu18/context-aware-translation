@@ -1,6 +1,6 @@
 """Executes the CODE CELLS of kaggle/train_eval_zh_kaggle.ipynb on CPU with the tiny stand-in models of scripts/smoke_models.py, inside a
 scratch copy of Kaggle's folder layout. Only names, backend and sizes are replaced (the real values are Tower-7B, vLLM, 60 minutes, ...);
-installs, the GPU query, the model download and the git clone are skipped. It tests the notebook's own code (settings, pre-flight, training,
+the environment install, the GPU query, the model download and the git clone are skipped. It tests the notebook's own code (settings, pre-flight, training,
 merge, evaluation, checks, results table, packaging, failure handling), which the script tests alone do not.
 
   python scripts/simulate_train_notebook_cpu.py --smoke_dir smoke_models --sandbox /tmp/nbsim
@@ -31,7 +31,7 @@ def main():
 
     nb = json.load(open(REPO / "kaggle" / "train_eval_zh_kaggle.ipynb"))
     cells = ["".join(c["source"]) for c in nb["cells"] if c["cell_type"] == "code"]
-    skip = ("!pip", "!nvidia-smi", "snapshot_download", 'git", "clone')
+    skip = ("uv pip install", "!nvidia-smi", "snapshot_download", 'git", "clone')
     comet = f"{S}/tiny-comet/checkpoints/model.ckpt"
     repl = [("/kaggle/", K + "/"),
             ('assert "chat" not in MERGED_DIR.lower() and "chat" not in BASE_MODEL.lower()', "pass"),   # the tiny model is called tiny-chatml-lm
@@ -43,7 +43,8 @@ def main():
             ("TRAIN_MINUTES = 60", "TRAIN_MINUTES = 0.3"), ("TRAIN_GPUS    = 2", "TRAIN_GPUS    = 1"), ("EVAL_DOCS     = 12", "EVAL_DOCS     = 2"),
             ("N_CANDIDATES  = 6", "N_CANDIDATES  = 3"),
             ('TRANSLATE_EXTRA = ""', f'TRANSLATE_EXTRA = "--dtype float32 --device_map none --comet_model {comet}"')]
-    ns = {"__name__": "__main__"}
+    # the notebook builds /kaggle/temp/venv311 (Python 3.11 + pinned libraries); here the running interpreter's environment plays that role
+    ns = {"__name__": "__main__", "VENV": str(Path(sys.prefix).resolve())}
     t0 = time.time()
     for i, src in enumerate(cells, 1):
         if any(m in src for m in skip):

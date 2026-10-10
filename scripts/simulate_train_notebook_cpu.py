@@ -31,7 +31,7 @@ def main():
 
     nb = json.load(open(REPO / "kaggle" / "train_eval_zh_kaggle.ipynb"))
     cells = ["".join(c["source"]) for c in nb["cells"] if c["cell_type"] == "code"]
-    skip = ("uv pip install", "!nvidia-smi", "snapshot_download", 'git", "clone')
+    skip = ("uv pip install", "!nvidia-smi", "huggingface-cli download", 'git", "clone')
     comet = f"{S}/tiny-comet/checkpoints/model.ckpt"
     repl = [("/kaggle/", K + "/"),
             ('assert "chat" not in MERGED_DIR.lower() and "chat" not in BASE_MODEL.lower()', "pass"),   # the tiny model is called tiny-chatml-lm
